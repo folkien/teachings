@@ -14,10 +14,6 @@ Chciałbym Ci dzisiaj kilka takich perspektyw zaprezentować.
 
 Ten tekst opisuje powódź - *"Spadł ulewny deszcz, wezbrały rzeki, zerwały się silne wiatry i uderzyły w ten dom".* Powódz symbolizuje trudności, walkę. Okazuje się być weryfikacją kto na czym stawiał swoje życie i czyje decyzje były mądre. 
 
-
-**Analogia powódź:** 
-^[2]. Jednocześnie w Kotlinie Kłodzkiej, gdzie planowano siedem retencyjnych zbiorników, powstały jedynie trzy – protesty i odkładane decyzje pogłębiły straty ^[3]. Ten sam deszcz obnażył więc mądrość jednych i lekkomyślność drugich.
-
 **Analogia:** Jesienią 2024 r. gwałtowne opady w dorzeczu Odry i Nysy Kłodzkiej zagroziły Opolszczyźnie i Dolnemu Śląskowi. Wielu z nas pomagało, niektórzy jechali(Karolina OSP) czy zbierało dary i pieniadze. Sam śledziłem doniesienia, mam przyjaciela w Nysie. Dzownię Marek czy coś pomóc, podjechać, przewieźć was? Wysyłał mi zdjecie że siedza z sasiadami u niego na 3 pietrze w mieszknaiu i parter i pietro u niego.
 
 Tamten czas był pełen analogii do tego tekstu. Mieliśmy burmistrza Paczkowa (Polskie Carcassone), który śledził prognozy, alarmował mieszkańców odpowiedni wcześniej a z drugiej strony władzy Nysy, które bagatelizowały ostrzeżenia i zaczęły zrzut wody za późno, w efekcie miasto zostało zalane. Był zbiornik Racibórz. Budowany przez lata, z protestami, z wysiedleniem całej wsi Nieboczowy (na początku przeciwni na końcu powstała nowa wieś) zakończony w 2020 roku suchy zbiornik Racibórz Dolny. Uratował Kędzierzyn‑Koźle, Opole i Wrocław przed kulminacją fali. 
@@ -94,7 +90,6 @@ Natomiast budowanie na skale to proces długotrwały. Maraton – jak mówimy na
 Czekanie uczy wiary, cierpliwości i wytrwałości.
 
 
-
 ## Upadek
 
 Ten tekst ma dramatyczne zakończenie "Upadek jego był wielki". Gdy życie było domkiem z kart to zawalenie jest bolesne i zaskakujące.
@@ -114,8 +109,6 @@ Ten tekst ma dramatyczne zakończenie "Upadek jego był wielki". Gdy życie był
 
     Program układa jej trener i mąż, Mateusz Mirosław; przed sezonem odbywają 2‑3‑tygodniowe obozy przygotowawcze (np. Niemcy, styczeń 2025) z pełną izolacją od mediów.(mycompanypolska.pl)
 
-
-
 - Odwrotny przykład. Prezydent który źle pisze bólu czy inny który ma problem z alkoholem. Sukces publiczny jest pozorny, albo staje się memem.
 
 Zaryzkuje stwierdzenie : Jeśli wypracujesz sukces wewnętrzny (dyscyplina, charakter, posłuszeństwo), sukces publiczny jest kwestią czasu.
@@ -123,9 +116,11 @@ Prawidziwe wartościowe rzeczy dokonują się w ciszy przez długi czas, zanim w
 
 ## Podsumowanie
 
+Dom na skale to nie architektoniczny imponujący projekt, lecz codzienna decyzja, by Słowu Jezusa dać pierwszeństwo przed emocją, tempem świata czy presją otoczenia. Powódź – prędzej czy później – sprawdzi każdą śrubę naszej konstrukcji. To, co dzisiaj bywa niewidoczne – osobista modlitwa, trud formacji, uczciwość w pracy, czas dla rodziny – jutro okaże się najpewniejszym fundamentem. Jezus nie porównuje wielkości domów, lecz ich trwałość. Każdy z nas wybiera miejsce budowy: piasek wygody czy skałę posłuszeństwa. Dobra wiadomość brzmi: fundament możesz wybrać już dziś.
 
 # Pytania do refleksji
 
-1. Które słowo Jezusa odkładam, bo „jeszcze nie czas”? 
-2. Jaka decyzja czeka na posłuszeństwo – dziś, nie jutro?
-3. Czy mój kalendarz zdradza, że buduję na skale czy na piasku?
+1. Co zmieniłem/am w swoim życiu pod wpływem Słowa Bożego?
+2. Jakie trudności przeżywam obecnie i jak je znoszę? 
+
+Modlitwa grupki nad uczestnikami, którzy doświadczają trudności.

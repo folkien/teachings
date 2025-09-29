@@ -1,4 +1,4 @@
-# Wstęp - aktualne wydarzenia
+# Wstęp - Potrzeba uzdrowienia wewnętrznego
 
 Mam mówić o uzdrowieniu fizycznym, ale czytając grupy wspólnotowe można odnieść wrażenie  bardziej potrzebujemy uzdrowienia wewnętrznego. A przynajmniej ze sobą porozmawiać, że sobie coś wyjaśnic.
 Gdy o tym myślałem dwa cytaty ze Słowa Bożego przyszły mi do głowy
@@ -176,4 +176,22 @@ W wspólnotach SNE i Odnowy Charyzmatycznej osoby posługujące modlitwą o uwol
 ---
 
 *„Prawda was wyzwoli"* (J 8,32) - to obietnica Jezusa dla każdego, kto szuka prawdziwej wolności w Chrystusie.
+
+## Pytania do refleksji
+
+1. **W jakich obszarach mojego życia potrzebuję uwolnienia?** Czy są grzechy lub wady, z którymi ciągle się zmagam?
+
+2. **Czy mam w przeszłości kontakt z okultyzmem lub praktykami New Age?** Czy potrzebuję modlitwy o uwolnienie z tych więzów?
+
+3. **Jak mogę pomóc innym w procesie uwolnienia?** Czy jestem gotowy/a na posługę modlitwy o uwolnienie?
+
+4. **Czy doświadczam duchowej walki?** Jak mogę lepiej przygotować się do tej walki przez modlitwę i Słowo Boże?
+
+5. **W jaki sposób moja wspólnota może być miejscem wzajemnego uwolnienia i uzdrowienia?**
+
+---
+
+**Modlitwa na zakończenie:**
+
+*„Panie Jezu, dziękujemy Ci za dar wolności, którą nam przyniosłeś. Prosimy o uwolnienie od wszelkich więzów grzechu i zła. Napełnij nas Duchem Świętym, abyśmy mogli żyć jako prawdziwie wolne dzieci Boże i pomagać innym w odnalezieniu tej wolności. Amen."*
 

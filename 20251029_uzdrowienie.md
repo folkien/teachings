@@ -90,17 +90,14 @@ Marcin komentuje to tak :
 ## Jakie mamy mieć nastawienie?
 
 1. Oprzyj się o zasoby Boga.
-2. Uwierz że ten sam Duch Świety jest w Tobie, we mnie, w Marcinie Zielińskim.
+2. Uwierz że ten sam Duch Świety jest w Tobie, co w Marcinie Zielińskim.
 3. Módl się za innych.
 4. Oczekuj Bożego działania
 
 # Pytania 
 
-Świadectwo uzdrowienia buduje wiarę innych osób, że Bóg za chwilę w czasie modlitwy może ich dotknąć. 
-Po drugie, jeśli są jakieś problemy lub wątpliwości to jest to okazja by się podzielić.
-
 1. Podzieli się świadectwem uzdrowienia lub dotknięcia Ducha Świętego.
-2 - Modlitwa w grupach
+2. Modlitwa w grupach
 - po kolei pytamy każdego uczestnika czy chce aby się za niego pomodlić,
 - prowadzi gospodarz lub pomocnik,
 - cała grupa się modli,

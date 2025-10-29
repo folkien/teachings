@@ -2,10 +2,7 @@
 
 ### Dygresja : 1/3 jakości dzisiejszego spotkania zależy od waszego stolika.
 
-Dzisiaj rozmawiamy o uzdrowieniu oraz modlimy się za siebie. Od tego jak poprowadzicie dzielenie + modlitwę,
-zależy z jakim doświadczeniem wyjdziecie z dzisiejszego spotkania.
-
-Zauważcie, że nasze spotkania składają się z 3 części: głoszenie, modlitwa, dzielenie. 
+Zauważcie, że nasze spotkania składają się z 3 części: głoszenie, modlitwa, dzielenie. Przypada 40min na 1 część.
 I każda jest ważna. Tylko jak z doświadczenia wiemy, że najczęściej po tyłku dostaje dzielenie, bo głoszący przeciągnął,
 modlitwa się przeciągnęła, były ogłoszenia i bach 20:50.
 

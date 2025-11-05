@@ -9,6 +9,8 @@
 
 Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."
 
+*Przykład. Daniel był młodzieńcem (generalnie się nie liczył, tylko raczej starsi Izraeala) gdy sądzona była Zuzanna. Dzięki interwencji Ducha Świętego Daniel otrzymał mądrość, aby rozpoznać prawdę i zadać odpowiednie pytania dwóm starcom, o miejsce/drzewo pod którym Zuzanna spotykała się z kochankami. (Dn 13,45-46 PAU)* - Możemy to porównać do młodzieńca na zebraniu wiejskim w remizie, gdzie cała wieś jest przeciwko komuś, a on 1 osoba ratuje sytuację.
+
 
 ## W dniu 50-tnicy w NT wypełniły się te słowa
 

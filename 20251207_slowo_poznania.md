@@ -16,6 +16,10 @@ Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą
 
 Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować."
 
+## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
+
+1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."
+
 
 ## Wszystkie słowa i znaki należy rozeznawać 
 

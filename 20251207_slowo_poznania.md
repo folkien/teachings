@@ -28,6 +28,11 @@ Ale nie kosztem miłości. św. Paweł mowi
 *Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
 
 
+# Słowo prorocze
+
+Objawia się w czasie prowadzenia modlitwy uwielbienia lub wstawienniczej. Modlitwa może byc prorocza.
+
+*Świadectwo. W czasie kursu NŻ modilłem się we Wrocławiu wstawienniczo z Aldoną za jedną osobę. Aldona prowdziłą ja się modliłem w językach. W pewnym momencie poczułem, że już nie potrafię się modlić językami tylko przychodzą mi jakieś słowa, które mam ogłaszać. Ducha Święty dawał mi takie słowa i po prostu zamieniłem moją modlitwę w wypowiadanie tych słów proroczych nad tą osobą, też tak że ona je słyszała. Nie pamiętam ich dokładnie, ale to było coś w stylu "Moje drogie dziecko, jesteś moją kochaną córką, błogosławię Cię. etc(..)"*
 
 ## Wszystkie słowa i znaki należy rozeznawać 
 

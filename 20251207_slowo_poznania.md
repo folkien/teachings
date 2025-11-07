@@ -34,6 +34,8 @@ Objawia się w czasie prowadzenia modlitwy uwielbienia lub wstawienniczej. Modl
 
 *Świadectwo. W czasie kursu NŻ modilłem się we Wrocławiu wstawienniczo z Aldoną za jedną osobę. Aldona prowdziłą ja się modliłem w językach. W pewnym momencie poczułem, że już nie potrafię się modlić językami tylko przychodzą mi jakieś słowa, które mam ogłaszać. Ducha Święty dawał mi takie słowa i po prostu zamieniłem moją modlitwę w wypowiadanie tych słów proroczych nad tą osobą, też tak że ona je słyszała. Nie pamiętam ich dokładnie, ale to było coś w stylu "Moje drogie dziecko, jesteś moją kochaną córką, błogosławię Cię. etc(..)"*
 
+Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
+
 ## Wszystkie słowa i znaki należy rozeznawać 
 
 1J 4, 1 PAU "Umiłowani, nie wierzcie każdemu duchowi, lecz rozeznawajcie duchy, czy są od Boga, gdyż wielu fałszywych proroków pojawiło się na świecie."

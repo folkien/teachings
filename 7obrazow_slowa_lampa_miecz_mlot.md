@@ -1,3 +1,91 @@
+
+## 🕊️ SŁOWO BOŻE – LAMPA
+
+
+Pismo Święte jest słowem Boga skierowanym do człowieka, zapisanym ludzkim historiami (nieraz dziejami
+konkretnych osób czy rodzin). Pomimo, że spisywali je różni autorzy, na przestrzeni wieków i czasem dodawali
+swojej interpretacji, różne formy(poemat, psalmy, opowiadanie, prawo, proroctwo), to jednak robili 
+to pod natchnieniem Ducha Świętego. Dlatego też słówo to jest (jako samo mówi) 
+> "zdatne do nauki, do przekonywania,  do poprawiania, do wychowywania w sprawiedliwości" (2 Tm 3,16).
+i co więcej objawia nam prawdę o Bogu i o Jego zamiarach względme człowieka. Względem Ciebie!
+
+> **„Bóg mówi poprzez ludzi w Pismach, posługując się językiem ludzkim.”**
+> *(św. Augustyn, *Miasto Boże*, XVII, 6, 2)*
+
+### 🌙 Lampa dla naszych kroków
+
+> *„Twoje Słowo jest lampą dla moich stóp i światłem na mojej ścieżce.”*
+> *(Ps 119, 105)*
+
+> *„Ja jestem światłością świata. Kto idzie za Mną, nie będzie chodził w ciemności, lecz będzie miał światło życia.”*
+> *(J 8, 12)*
+
+Czy masz takie doświadczenie chodzenia po omacku? Jakie to uczucie?
+(..)
+
+Słowo Boże jest jak **lampa**, która oświetla nasze kroki. Daje nam **lampę**, abyśmy mogli postawić **kolejny krok**.
+Nie jest wolą Boga, żebyś błądził/ą. Nie jest wolą Boga, żebyś nie wiedział/ła, dokąd iść.
+Ale... czasem widać cel i tylko kolejny krok.
+
+### 💡 Zabieg dydaktyczny
+Podczas konferencji można **zaproponować gest zapalenia lampy**.
+
+> Świadectwo. Bożę prowadzenie w firmie.
+
+Tylko ten, kto idzie z lampą, widzi tyle, ile potrzeba, by się nie potknąć.
+
+> *Świadectwo. Słowo jak Lampa*
+
+Dlatego Jezus mówi:
+
+> *„Czuwajcie, bo nie znacie dnia ani godziny.”* (por. Mt 25)
+
+Jak mądre panny, mamy mieć lampy zapalone — gotowe. Po co były lampy pannom potrzebne?
+Bo w ciemniej nocy, trudno rozpoznać tego kto nadchodzi. Łatwo go przeoczyć, lub pomylić z kimś innym.
+Bez światła Słowa, **nie rozpoznasz Oblubieńca, gdy przychodzi, albo możesz się pomylić i pójść za kimś innym.**
+
+### ✨ Jezus – Słowo, które jest światłością
+
+> *„Ja jestem światłością świata.”* (J 8, 12)
+
+Jezus nie tylko **niesie światło** — On **jest światłem**.
+Kiedy słuchamy Jego słowa, to **światło wchodzi w nas**.
+
+### 🔥 Ogień, który płonie i oczyszcza
+
+Prorok Jeremiasz wyznał:
+> *„W sercu moim płonie jakby ogień, zamknięty w moich kościach, staram się go stłumić, lecz nie mogę.”* (Jr 20, 9)
+
+Słowo Boże jest jak **ogień**, który płonie w sercu. Taki Boży ogień, takie Boże wezwanie naprawdę
+trudno jest zignorować. Czasem gdy od tego uciekamy, to może nam się wręcz wydawać, że to co robimy
+jest jałowe i bez smaku. (np Jak prorok Jonasz uciekający do Tarszisz).
+
+> Świadectwo. Nigdy się tym nie dzieliłem, ale mam od kilku czy wręcz nastu lat, takie wewnętrzne pragnienie Ewangelizacji.
+> Że tak najmniej 1x w roku jakąś Alphę czy NŻ muszę zrobić, bo inaczej czuję jakąś taką pustkę. Że wiecie, że tyle tracę czasu 
+> na takie przyziemne rzeczy. Oczywiście trzeba odpocząć, musi być równowaga,, czas dla rodziny, domu. Gdy Marcin robił Alpha w 
+> Koszęcinie a ja nie robiłem wcale, to wtedy właśnie czułem taką pustkę. Choć ten czas pustyni też jest ważny.
+
+Ale ten ogień ma też inną moc — **oczyszcza**.
+> *„Wy już jesteście czyści dzięki słowu, które wypowiedziałem do was.”* (J 15, 3)
+
+Jak złoto w ogniu, tak człowiek w Słowie Bożym zostaje oczyszczony.
+> Świadectwo. "Drzwi obracają się na zawiasach, a leniwy w swoim łóżku." Prz 26, 14
+
+### 🕊️ Emaus — światło w nocy serca
+
+Uczniowie z Emaus (Łk 24, 13–35) szli pogrążeni w ciemności smutku i rozczarowania.
+Nie widzieli sensu. Nie rozpoznali Jezusa. To Jezus Słowo musiał rozświetlić ich sytuację :
+> «Zaczynając od Mojżesza, poprzez wszystkich proroków, wykładał im, co we wszystkich Pismach odnosiło się do Niego»  (Łk 24, 27).
+
+### 📖 Czytanie biblijne: *Psalm 27*
+
+> *„Pan moim światłem i moim zbawieniem: kogóż miałbym się lękać?”*
+> *„Choćby mnie otoczyło wojsko, nie ulęknie się moje serce.”*
+> *„Jednego tylko pragnę od Pana, tego szukam: abym mógł przebywać w domu Pańskim przez wszystkie dni mego życia.”*
+> *„Wpatrywać się w piękno Pana i odwiedzać Jego świątynię.”*
+
+**(Psalm odczytują wszyscy razem, głośno, jako modlitwę światła i zaufania.)**
+
 ## 🕊️ Słowo jest mieczem
 
 **Ef 6, 17b; Hbr 4, 12**
@@ -86,19 +174,18 @@ I nie jest to wcale krytyka różańca, który popatrzcie, jest modlitwą kontem
 > *„Czy serce nie pałało w nas, gdy rozmawiał z nami w drodze i Pisma nam wyjaśniał?”* (Łk 24, 32)
 
 Słowo Jezusa **przenikało ich wnętrze**, dotykało serca, zanim rozpoznali Jego obecność.
-Tak działa miecz Ducha — **przebija serce**, by je rozpalić.
-
-
-
+Tak działa miecz Ducha — **przenika serce**, by je rozpalić.
 
 ### 8️⃣ Czytanie biblijne – J 6, 60–69
 
-Na zakończenie można odczytać ten fragment Ewangelii, w którym uczniowie słyszą twarde słowa Jezusa i wielu z nich odchodzi.
+Po słowach Jezusa "Jeżeli nie będziecie spożywali Ciała Syna Człowieczego i nie będziecie pili Krwi Jego, nie będziecie mieli życia w sobie." 
+wielu Jego uczniów mówi: "Trudna jest ta mowa. Któż jej może słuchać?" (J 6,60). 
+Jezus pyta wtedy apostołów : 
+> *„Czy i wy chcecie odejść?”* (J 6,67)
+
 To także miecz — **Słowo, które wymaga decyzji**.
 Czy zostaniemy, jak Piotr, który mówi:
 
 > *„Panie, do kogóż pójdziemy? Ty masz słowa życia wiecznego.”*
 > czy odejdziemy, bo to Słowo jest zbyt ostre, zbyt wymagające?
-
-Niech w nas zwycięży ta decyzja Piotra — **zostać przy Słowie, które daje życie.**
 

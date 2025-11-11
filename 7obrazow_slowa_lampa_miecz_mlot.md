@@ -189,3 +189,120 @@ Czy zostaniemy, jak Piotr, który mówi:
 > *„Panie, do kogóż pójdziemy? Ty masz słowa życia wiecznego.”*
 > czy odejdziemy, bo to Słowo jest zbyt ostre, zbyt wymagające?
 
+Świetnie — oto pełna, dopracowana wersja konferencji pt.
+
+## 🕊️ **„Słowo Boże jest młotem”**
+
+oparta na Twoich notatkach i cytatach biblijnych, napisana tak, jakbym sam ją głosił – żywo, z duchową głębią i obrazowo, w stylu rekolekcyjnego kazania.
+
+---
+
+## 🪓 3º SŁOWO BOŻE JEST MŁOTEM
+
+📖 *Jer 23, 29; Jer 1, 10; 2 Kor 10, 4–5; Łk 1, 3–4; Mt 23, 1–7*
+
+> *„Czy moje Słowo nie jest jak ogień – wyrocznia Pana – czy nie jest jak młot kruszący skałę?”*
+> *(Jer 23, 29)*
+
+---
+
+### 🔨 1️⃣ Słowo, które burzy i buduje
+
+Bracia i siostry, Pan Bóg mówi:
+
+> *„Moje Słowo jest jak młot, który kruszy skałę.”*
+
+Słowo Boże to **młot** – nie delikatne piórko, nie aksamitny szept.
+To **narzędzie mocy**, które **uderza**, **rozbija**, **kruszy** to, co twarde w człowieku.
+
+Ale uwaga — ten młot nie niszczy, by zniszczyć.
+On **burzy, aby budować**.
+Tak jak mówi prorok Jeremiasz o swoim powołaniu:
+
+> *„Oto daję ci dzisiaj władzę nad narodami i nad królestwami, byś wyrywał i burzył, niszczył i obalał, budował i sadził.”*
+> *(Jer 1, 10)*
+
+To jest dynamika Bożego działania: najpierw **rozbić to, co fałszywe**, a potem **postawić coś nowego** na mocnym fundamencie.
+
+---
+
+### 💥 2️⃣ Młot, który kruszy skałę pychy
+
+Słowo Boże uderza w **skałę naszego serca**.
+Kruszy **pychę wyniosłych**, **egoizm**, **bożki**, które sami stawiamy w centrum życia.
+Bo często to nie złe rzeczy są naszymi bożkami, ale dobre rzeczy, które postawiliśmy na złym miejscu.
+Praca, sukces, opinia innych, a nawet własne zdanie — to wszystko może stać się bożkiem, który przysłania Boga.
+
+I wtedy przychodzi Słowo — jak młot.
+Nie po to, by nas zniszczyć, ale by **rozbić twardą skorupę**, pod którą Bóg chce znów zobaczyć żywe serce.
+
+Święty Paweł pisze:
+
+> *„Oręż naszego bojowania nie jest z ciała, lecz posiada moc burzenia twierdz warownych.
+> Burzymy układy myślowe i wszelką wyniosłość przeciwną poznaniu Boga.”*
+> *(2 Kor 10, 4–5)*
+
+Słowo Boże burzy **twierdze pychy i próżności**.
+Nie dlatego, że Bóg chce nas upokorzyć, lecz dlatego, że tylko **pokorne serce** może przyjąć Jego miłość.
+
+---
+
+### 🔩 3️⃣ Młot, który łączy i umacnia
+
+Ale młot to nie tylko narzędzie burzenia.
+Młot służy również do **łączenia**.
+Przy jego pomocy wbija się gwoździe, które **spajają** konstrukcję, wzmacniają budowlę.
+
+Tak samo **Słowo Boże scala naszą wiarę**.
+Bez niego wszystko się rozpada — każda nowa opinia, moda, ideologia może nami zachwiać.
+Dlatego potrzebujemy, by Słowo **umacniało nas „w” i „przez” wiarę**, tak byśmy trwali mocno w prawdzie.
+
+To dlatego św. Łukasz na początku swojej Ewangelii napisał:
+
+> *„Postanowiłem więc i ja, zbadawszy dokładnie wszystko od początku, opisać ci po kolei, dostojny Teofilu, abyś się mógł przekonać o całkowitej pewności nauk, których ci udzielono.”*
+> *(Łk 1, 3–4)*
+
+Łukasz pisze, aby **umocnić wiarę Teofila** — by wbić w jego serce gwoździe pewności:
+Bóg jest wierny, Jego Słowo się nie myli, można na Nim budować życie.
+
+---
+
+### 🪔 4️⃣ Emaus – młot, który rozbija fałszywe obrazy Boga
+
+Zobaczmy jeszcze uczniów z Emaus (Łk 24, 13–35).
+Oni też mieli **swój obraz Mesjasza** — silnego, politycznego wybawiciela, który miał przywrócić Izraelowi chwałę.
+Ale ten obraz był **fałszywy**.
+
+I kiedy Jezus zaczął im wyjaśniać Pisma,
+**Słowo zaczęło rozbijać ich błędne wyobrażenia**.
+To był **młot, który kruszył ich skałę niezrozumienia**, aż w końcu rozpoznali w Nim Pana przy łamaniu chleba.
+
+Czasem Bóg musi rozbić nasz obraz Boga, byśmy mogli poznać **prawdziwego Boga**.
+Nie takiego, jakiego sobie wyobrażamy, ale **takiego, jaki naprawdę jest**.
+
+---
+
+### 🧱 5️⃣ Zabieg dydaktyczny
+
+Podczas konferencji można zastosować prosty, mocny znak:
+**rozbić młotkiem figurkę z gipsu** – symbolizującą **bożka**, czyli coś, co człowiek sam postawił w miejsce Boga.
+
+W chwili uderzenia można powiedzieć:
+
+> „Słowo Boże przychodzi, by rozbić to, co fałszywe w naszym życiu,
+> abyśmy mogli na nowo zbudować wiarę na prawdzie.”
+
+To bardzo sugestywne doświadczenie — szczególnie, jeśli każdy obecny ma w sercu „swojego bożka”, którego Pan chce dziś skruszyć.
+
+---
+
+### 📖 6️⃣ Czytanie biblijne: *Mt 23, 1–7*
+
+> *„Na katedrze Mojżesza zasiedli uczeni w Piśmie i faryzeusze. Czyńcie więc i zachowujcie wszystko, co wam polecą, lecz uczynków ich nie naśladujcie.
+> Bo mówią, a nie czynią.
+> Wiążą ciężary wielkie i nie do uniesienia, i kładą je ludziom na ramiona, lecz sami palcem ruszyć ich nie chcą.
+> Wszystkie swe uczynki spełniają w tym celu, żeby się ludziom pokazać.”*
+
+Ten fragment to także **młot Słowa**.
+Jezus rozbija tu **obłudę religijną**, wiarę na pokaz, duchowość zewnętrzną.
+On nie chce, żebyśmy wyglądali święcie, ale **byśmy byli prawdziwi**.

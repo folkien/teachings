@@ -52,27 +52,32 @@ Modlitwa Słowem co czyni?  **Uwalnia** - nie tylko z fizycznych więzów, ale z
 
 ### 🌹 5️⃣ Maryja – kobieta modlitwy Słowem
 
-Maryja w swoim *Magnificat* modli się **Pismem**.
-Jej hymn to mozaika cytatów ze Starego Testamentu: z Psalmów, z Księgi Samuela, z proroków.
+Maryja w swoim *Magnificat* modli się tekstami **Pism**. Jej serce było tak nasycone Słowem, że kiedy spotyka Elżbietę
+Słowo uwielbienia i modlitwy wypłynęło z niej spontanicznie. Jej hymn to mozaika cytatów ze Starego Testamentu. 
+To pokazuje jak dobrze znała Słowo i jak nimi żyła.
 
 > *„Wielbi dusza moja Pana i raduje się duch mój w Bogu, Zbawcy moim.”* (Łk 1,46–47)
+Odwołanie do psalmów
+Ps 34,4 – „Wysławiajcie ze mną Pana, imię Jego wspólnie wywyższajmy!”
+Ps 35,9 – „Dusza moja rozraduje się w Panu i będzie weselić się Jego zbawieniem.”
 
-Maryja nie wymyśla modlitwy — **ona nią żyje**.
-Jej serce jest tak nasycone Słowem, że kiedy Duch Święty dotyka Jej duszy,
-**Słowo spontanicznie wypływa z wnętrza**.
+> Bo wejrzał na uniżenie Służebnicy swojej
+Odwołanie do 
+1 Sm 1,11 – modlitwa Anny: „Wejrzyj na uniżenie swojej służebnicy.”
 
-To jest prawdziwa modlitwa Słowem: nie recytacja, ale **modlitwa serca, które zostało napełnione Biblią**.
+«Oto bowiem błogosławić mnie będą odtąd wszystkie pokolenia»
+Sigla:
+> Rdz 30,13 – „Błogosławioną zwać mnie będą wszystkie pokolenia.”
+
+> Strąca władców z tronu, a wywyższa pokornych
+Odwołanie do
+1 Sm 2,7–8 – „Pokornych podnosi.”
 
 
-### 📖 6️⃣ Czytanie biblijne: *Psalm 103*
+### 📖 6️⃣ Czytanie biblijne: *Psalm 103* (Połączyć z modlitwą)
 
 > *„Błogosław, duszo moja, Pana i wszystko, co jest we mnie, Jego święte imię!
 > Błogosław, duszo moja, Pana, i nie zapominaj o wszystkich Jego dobrodziejstwach!”*
-
-Ten psalm to **czysta modlitwa wdzięczności** — uwielbienie Boga za Jego dzieła,
-za przebaczenie, uzdrowienie, miłosierdzie.
-To modlitwa człowieka, który doświadczył, że **Słowo naprawdę działa**.
-
 
 ## 🔆 DYNAMIKA: MODLITWA Z BIBLIĄ
 
@@ -104,9 +109,6 @@ modląc się krótko:
 
 > „Niech Słowo Boże rozświetli Twój umysł, umocni Twoje serce i prowadzi Cię drogą prawdy.”
 
-To prosty, a zarazem bardzo głęboki gest —
-**błogosławieństwo Słowem**, które ma moc większą niż nasze słowa.
-
 ### ✝️ **III CZĘŚĆ – Błogosławieństwo Biblią**
 
 Na zakończenie duchowny (lub prowadzący) udziela błogosławieństwa,
@@ -116,39 +118,16 @@ Potem uczestnicy **błogosławią się nawzajem**, trzymając Biblię w dłoniac
 
 > „Niech Słowo Boże będzie lampą dla Twoich stóp, mieczem w walce i młotem, który kształtuje Twoje serce.”
 
-To piękne zakończenie — gest jedności, wdzięczności i pokoju.
-Bo modlitwa Słowem zawsze kończy się **błogosławieństwem** —
-Słowo wypowiedziane nad nami **zostaje w nas i prowadzi dalej.**
-
-
 ## 🕎 5º SŁOWO SIĘ ZAPAMIĘTUJE
 
-📖 *Prz 2,1–5; Pwt 6,4–9; Łk 2,51*
-
-
-### 📖 **„Jeśli przyjmiesz moje słowa i zachowasz przy sobie moje nakazy,
-
+„Jeśli przyjmiesz moje słowa i zachowasz przy sobie moje nakazy,
 nachylisz swe ucho ku mądrości i skłonisz serce ku roztropności,
 jeśli będziesz jej szukał jak srebra, a jej poszukiwał jak skarbów,
 wtedy zrozumiesz bojaźń Pańską i osiągniesz poznanie Boga.”*
 *(Prz 2,1–5)*
 
----
-
 ### 🕊️ 1️⃣ Słowo, które się nosi w sercu
 
-Bracia i siostry, Słowo Boże nie wystarczy **usłyszeć**.
-Nie wystarczy **zrozumieć**.
-Trzeba je **zapamiętać**.
-Bo tylko to Słowo, które **pozostaje w sercu**, może przemieniać życie.
-
-Dlatego w tradycji żydowskiej ogromną wagę przykładano do **pamięci Słowa**.
-Lud Izraela **powtarzał je bez przerwy**, **przywiązywał do rąk**, **wypisywał na drzwiach domu**.
-Nie po to, żeby wyglądało to pobożnie —
-ale żeby **Słowo było zawsze przed oczami, zawsze w dłoniach, zawsze w sercu.**
-
-
-### 📜 2️⃣ Shema Israel – słowo, które kształtuje naród
 
 > *„Słuchaj, Izraelu! Pan jest naszym Bogiem – Panem jedynym!
 > Będziesz miłował Pana, Boga swego, z całego swego serca, z całej duszy i ze wszystkich sił.
@@ -158,40 +137,44 @@ ale żeby **Słowo było zawsze przed oczami, zawsze w dłoniach, zawsze w sercu
 > Wypisz je na odrzwiach swojego domu i na bramach.”*
 > *(Pwt 6,4–9)*
 
+Żydzi ogromną wagę przywiązywali do **zapamiętywania Słowa Bożego**.
+ - Ojciec miał obowiązek uczyć dzieci Tory (*Wpoisz te słowa twoim synom… będziesz o nich mówił…” (Pwt 6,7)*)
+
+> Przykład. Codzienna Biblia opowiadana przeze Mnie lub Jadzię.
+
+ - Tefilin (hebr. תפילין) – po polsku: filakterie – to dwa małe czarne pudełka ze skóry. W środku znajdują się mikroskopijnie zapisane fragmenty Tory. Zakładane na czoło i na ramię podczas porannej modlitwy, by **Słowo było blisko serca i umysłu**. (Pwt 6,8)
+  
+> Przykład. Moja Babcia zawsze mówiła, że ja "mam pamięć do głupot." I miała rację. Uwierzcie mi, lub nie ale ze Słowem Bożym mam tak samo.
+> Pamiętam niektóre ctaty, ale najłątwiej zapamiętuje te zabawne czy kontrowersyjne. Czy mam przytoczyć?
+
+ - Mały pojemnik przy każdym żydowskim domu – dziś także przy drzwiach mieszkań, biur, uczelni, hoteli.W środku znajduje się zwinięty pergamin z Szema Izrael (Pwt 6,4–9 oraz 11,13–21). („Wypiszesz je na odrzwiach swojego domu i na bramach.” (Pwt 6,9))
+
+> Powitanie "Niech Bóg błogławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
+
 To najświętszy tekst judaizmu — **Słuchaj, Izraelu (Shema Israel)**.
-To nie tylko modlitwa, to **rytuał pamięci**.
 Słowo ma być w sercu, na ustach, na dłoniach, w drodze, w domu, w rodzinie.
-Bo jeśli Słowo nie jest obecne w codzienności, znika z życia.
+Słowo, które **pozostaje w sercu**, może przemieniać życie.
 
 
 ### 💓 3️⃣ Maryja – pamięć Słowa
 
-Maryja była kobietą pamięci.
-Ewangelia mówi:
+Ewangelia mówi o Maryi:
 
 > *„Jego Matka zachowywała wszystkie te słowa w swoim sercu.”*
 > *(Łk 2,51)*
 
-Maryja nie powtarzała wszystkiego na głos.
-Ona **nosiła Słowo w ciszy serca**, jak skarb.
-Zachowywała nie tylko to, co rozumiała, ale także to, czego jeszcze **nie pojmowała**.
-Bo pamięć Słowa to nie tylko intelekt – to **miłość, która nie zapomina tego, co Bóg powiedział.**
+Wszystkie słowa zachowywała. I te które rozumiała, i te których jeszcze **nie pojmowała**.
+I te z którymi się zgadzała, i te które były trudne w przyjęciu.
+Wszystkie.
 
+Gdy przyjdzie odpowiedni moment, Duch Święty przypomina to, co zostało w sercu zapisane.
 
-### 🌿 4️⃣ Dlaczego warto uczyć się Słowa na pamięć?
-
-Bo **to, co zapamiętujemy, wchodzi w nas**.
-Zaczynamy tym żyć, mówić, reagować.
-Gdy przyjdzie trudny moment, Duch Święty przypomina to, co zostało w sercu zapisane.
-Nie dlatego, że mamy dobrą pamięć,
-ale dlatego, że **Słowo zapuszcza korzeń w duszy.**
+> Przykład. Świadkowie Jehowy w Ustroniu, dyskusja o tym, że Jezus jest i Bogiem i człowiekiem, fragment Filipian "On istniejąc w postaci Bożej, nie skorzystał z tego, że jest równy Bogu, lecz ogołocił samego siebie, przyjąwszy postać sługi, stawszy się podobnym do ludzi. A z postaci podobnej ludziom uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci krzyżowej." (Flp 2,6-8)
 
 
 ### 📖 5️⃣ Czytanie biblijne: *Pwt 6,4–9*
 
-(wspólnota może odczytać ten fragment na głos, jako modlitwę posłuszeństwa i pamięci)
 
----
 
 ## 🌾 6º SŁOWEM SIĘ ŻYJE
 

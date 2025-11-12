@@ -1,40 +1,41 @@
 ## ✝️ 4º SŁOWEM SIĘ MODLI
 
-📖 *Kol 3,16; Dz 16,25–26; Łk 1,46–55; Ps 103*
-
-
-### 📖 1️⃣ Wprowadzenie: Słowo, które staje się modlitwą
+### 📖 1️⃣ Słowo Boże, zachęca by Nim się modlić.
 
 > *„Słowo Chrystusa niech w was mieszka w całym swym bogactwie: z całą mądrością nauczajcie i napominajcie samych siebie przez psalmy, hymny i pieśni pełne Ducha; pod wpływem łaski śpiewajcie Bogu w waszych sercach.”*
 > *(Kol 3,16)*
 
-Słowo Boże nie jest tylko do czytania. Nie jest tylko do rozważania. **Słowo Boże jest także do modlitwy.**
+św. Paweł ewidetnie wskazuje nam, że **Słowo Boże nadaje się do modlitwy**. Wręcz nakazuje abyśmy korzystali z psalmów czy pieśni 
+opartych na Biblii w modlitwie. Ile pieśni, które śpiewamy na spotkaniach jest zakorzenionych w Biblii?
 
-To ono **rozpoczyna dialog** pomiędzy Bogiem a człowiekiem.
-Bo modlitwa nie zaczyna się od naszych słów – ona zaczyna się od **Słowa Boga**.
-To **Bóg mówi pierwszy**, a człowiek odpowiada.
-Tak właśnie działa modlitwa biblijna: jest **spotkaniem Słowa z sercem**.
+> *"Widzę 7 lamp, co świętym ogniem płonie. Szklane morze zmieszane z ogniem który płonie. Na tronie Syn człowieczy, jego oczy płoną, płoną." - przecież*
+> *to jest Apokalipsa 4,6*
 
-### 🙏 2️⃣ Nie ma lepszego modlitewnika niż Biblia
+albo inna pieśń
 
-Nie ma piękniejszego modlitewnika niż **Pismo Święte**, a zwłaszcza **Księga Psalmów**.
-To w Psalmach mamy wszystkie emocje człowieka:
-radość, ból, gniew, wdzięczność, tęsknotę, zwątpienie, zachwyt.
+> *"Jesteś piękny jak jaspis, jesteś piękny jak krwawnik, Tron twój otacza tęcza jak szmaragd." - to jest znowu Apokalipsa 4,3*
 
-Nie ma uczucia, którego nie można by wypowiedzieć słowami Psalmu.
-Dlatego kiedy nie wiemy, jak się modlić,
-kiedy serce milczy albo nie wie, co powiedzieć —
-wystarczy **otworzyć Psalm**.
-I pozwolić, by **Słowo modliło się w nas**.
+Sam po sobie to zauważam, że bardzo cenię pieśni zanurzone w Słowo. Czasami jest taka pieśń tradycyjna, ale
+nazwijmy to poetycka wizja, to nie bardzo. Ale gdy jest tradycyjna i zanurzona to porusza. (Ile minut w godzinie, a godzin w wieczności)
 
+### 🙏 2️⃣ Biblia jako modlitewnik
 
-### 🍞 3️⃣ Pełnia modlitwy: Eucharystia
+**Księgę Psalmów**, która jest **najpiękniejszym modlitewnikiem** zawartym w Biblii. Dlaczego?
+Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa, prześladowany przez Saula, 
+zdrady syna, ucieczki przed własnym Synem i walki z własnym dzieckiem,
+własnego grzechu, żal, śmierci dziecka i wreszcie – Bożego miłosierdzia.
+Wszystko to zawarł w Psalmach podczas swojego życia. Znajdziesz w nich emocje jak(gniew, lęk, radość) bo
+Psalmy to modlitewnik na każdą sytuację życiową.
 
-Każda modlitwa prowadzi do **Eucharystii** — to tam **Słowo staje się Ciałem**.
-W liturgii Słowa Bóg mówi do nas.
-W liturgii Eucharystii my odpowiadamy całym sobą.
-Tam modlitwa Słowem osiąga swoją **pełnię**, bo nie tylko je słyszymy,
-ale **przyjmujemy Je w sobie**.
+> Świadectwo.
+
+### 🍞 3️⃣ Eucharystia zanurzona w Słowie
+
+Czy też **Eucharystii** — tam gdzie **Słowo staje się Ciałem**. Mamy też liturgię Słowa gdzie Bóg mówi do nas
+oraz liturgii Eucharystii my odpowiadamy całym sobą. Czy same teksty Mszału zanurzone w słowie jak
+
+> *"Panie, nie jestem godzien, abyś przyszedł do mnie, ale powiedz tylko słowo a będzie uzdrowiona dusza moja " (Mt 8,8)* - czyli parafraza słów setnika.
+> "Bierzcie i jedzcie z tego wszyscy: to jest Ciało moje, które za was będzie wydane." (Łk 22,19) - parafraza i cytat słów Jezusa podczas Ostatniej Wieczerzy.
 
 
 ### ⛓️ 4️⃣ Moc modlitwy Słowem – Paweł i Sylas
@@ -44,10 +45,9 @@ ale **przyjmujemy Je w sobie**.
 > wszystkie drzwi się otworzyły i wszystkim kajdany spadły z rąk.”*
 > *(Dz 16,25–26)*
 
-Zwróćcie uwagę: Paweł i Sylas nie modlili się lamentem, ale **Słowem**.
-Śpiewali psalmy, modlili się Bożymi obietnicami — i wtedy **mury więzienia się zatrzęsły**.
-Tak właśnie działa modlitwa Słowem: **uwalnia**.
-Nie tylko z fizycznych więzów, ale z duchowych — z lęku, z rozpaczy, z zamknięcia.
+Paweł i Sylas nie lamentowali, nie biadolili, ale wielbili Boga pieśniami.
+Może to były psalmy, może wprost śpiewali Słowo (pieśń nowa) i wtedy **mury więzienia się zatrzęsły**.
+Modlitwa Słowem co czyni?  **Uwalnia** - nie tylko z fizycznych więzów, ale z duchowych — z lęku, z rozpaczy, z zamknięcia.
 
 
 ### 🌹 5️⃣ Maryja – kobieta modlitwy Słowem

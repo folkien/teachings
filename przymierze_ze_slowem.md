@@ -174,59 +174,35 @@ Gdy przyjdzie odpowiedni moment, Duch Święty przypomina to, co zostało w serc
 
 ### 📖 5️⃣ Czytanie biblijne: *Pwt 6,4–9*
 
-
-
 ## 🌾 6º SŁOWEM SIĘ ŻYJE
-
-📖 *Jk 1,22–24; Pwt 30,14; Mt 7,24–27; Łk 1,38; J 2,4–5; 2 Tm 1,6–11*
-
-
-### 📖 **„Wprowadzajcie zaś Słowo w czyn, a nie bądźcie tylko słuchaczami oszukującymi samych siebie.”**
-
-*(Jk 1,22)*
 
 > *„Bo bardzo blisko ciebie jest Słowo: w twoich ustach i w twoim sercu, abyś je wypełniał.”*
 > *(Pwt 30,14)*
 
-
 ### 🌱 1️⃣ Słowo, które musi zakiełkować
 
-Słowo Boże jest jak **ziarno**.
-Ziarno, które samo w sobie ma moc życia,
-ale jeśli zostanie tylko rzucone na powierzchnię – nie wyda owocu.
-Musi **trafić w glebę konkretnego życia**.
+> *„Wprowadzajcie zaś Słowo w czyn, a nie bądźcie tylko słuchaczami oszukującymi samych siebie.”*
+> *(Jk 1,22)*
 
-Nie w teorię, nie w emocję, nie w niedzielne wzruszenie.
-W codzienność: w decyzje, w relacje, w cierpliwość, w przebaczenie.
-Tam, gdzie żyjemy naprawdę.
+Słowo Boże jest jak **ziarno**, wpada na glębę serca i powoli kiełkuje.
+> Świadectwo. Jak Słowo zmienia moje życie.
 
-Dlatego Jakub woła:
-
-> *„Nie bądźcie tylko słuchaczami!”*
-> Nie wystarczy znać Biblię – trzeba nią **żyć**.
+Nie wystarczy tylko znać Biblię – trzeba nią **żyć**.
 
 
 ### 🪨 2️⃣ Na piasku czy na skale?
-
-Jezus mówi:
 
 > *„Każdy, kto słucha tych słów moich i wypełnia je, podobny jest do człowieka roztropnego,
 > który zbudował swój dom na skale.”*
 > *(Mt 7,24–27)*
 
-Słowo to **skała**, ale tylko wtedy, gdy wprowadzamy je w czyn.
-Jeśli słuchamy, a nie żyjemy — stawiamy dom na piasku.
-I kiedy przychodzą burze, wszystko się sypie.
-
-Żyć Słowem znaczy:
-zawierzyć, przebaczyć, kochać, być wiernym.
-To konkret, nie teoria.
+Podobnie w przypowieści o domu na skale oraz piasku, to nie jest tak że jeden słucha a drugi nie słucha.
+Oboje słyszą Słowo, ale tylko jeden je **wprowadza w czyn**.
 
 
 ### 🌹 3️⃣ Maryja – Ta, która żyje Słowem
 
-Maryja jest **najdoskonalszym wzorem życia Słowem**.
-Na zwiastowanie odpowiada:
+Maryja w czasie zwiastowania odpowiada aniołowi:
 
 > *„Niech mi się stanie według Twego Słowa.”* (Łk 1,38)
 
@@ -239,54 +215,56 @@ Maryja nie tylko wierzy, ale **wprowadza w czyn** to, co usłyszała.
 I dlatego Słowo przez Nią staje się ciałem – dosłownie.
 
 
-### 🔥 4️⃣ Duch, który rozpala do działania
-
-Święty Paweł pisze do Tymoteusza:
-
-> *„Rozpal na nowo charyzmat Boży, który jest w tobie przez włożenie moich rąk.
-> Nie dał nam bowiem Bóg ducha bojaźni, lecz mocy, miłości i trzeźwego myślenia.”*
-> *(2 Tm 1,6–7)*
-
-Życie Słowem nie jest ciężarem.
-To **ogień Ducha Świętego**, który rozpala w nas moc, miłość i mądrość.
-To Słowo daje siłę, by czynić dobro, nawet gdy to trudne.
-
-
-### 🌾 5️⃣ Wcielone Słowo
-
-Żyć Słowem to znaczy **pozwolić, by Ono stało się ciałem we mnie**.
-Żeby ludzie, patrząc na mnie, mogli powiedzieć:
-„To człowiek Ewangelii.”
-Nie dlatego, że dużo mówi o Bogu,
-ale dlatego, że **Bóg jest widoczny w jego czynach.**
-
----
-
 ### 📖 6️⃣ Czytanie biblijne: *2 Tm 1,6–11*
-
+> Właśnie dlatego przypominam ci, abyś rozpalił na nowo Boży dar łaski, który otrzymałeś przez nałożenie moich rąk. 7Bóg bowiem nie dał nam ducha bojaźni, ale mocy, miłości i opanowania. 8Dlatego nie wstydź się świadczyć o naszym Panu ani nie wstydź się mnie, Jego więźnia, lecz razem ze mną znoś cierpienia dla Ewangelii, ufając mocy Boga.9On nas zbawił i dał nam święte powołanie nie dzięki naszym czynom, lecz zgodnie ze swoim postanowieniem i łaską. Łaska ta była nam dana przed wiekami w Chrystusie Jezusie, 10a obecnie została objawiona przez ukazanie się naszego Zbawiciela, Chrystusa Jezusa. On zniszczył śmierć, a ukazał blask życia i nieśmiertelności – przez Ewangelię.
+Dla niej zostałem ustanowiony głosicielem, apostołem i nauczycielem
+> 2 Tm 1,6–11
 Ten tekst można odczytać jako modlitwę posłania:
 Słowo ma w nas płonąć, prowadzić, oświecać i przemieniać świat.
 
-Znakomicie. Oto opracowany **7º punkt: „Słowo się głosi”** oraz pełne **zakończenie konferencji – „Przymierze ze Słowem”**, w duchu całego cyklu. Tekst napisałem w stylu rekolekcyjnego nauczania, z wyczuciem liturgii, gestu i wspólnotowego przeżycia.
-
+Żeby ludzie, patrząc na mnie, mogli powiedzieć: „To człowiek Ewangelii.”Nie dlatego, że dużo mówi o Bogu, ale dlatego, że **Bóg jest widoczny w jego czynach.**
 
 ## 🌈 7º SŁOWO SIĘ GŁOSI
 
 📖 *Mk 16,15; Mt 28,18–19; 1 Kor 9,16; Mt 10,27; Mt 2,11; 1 Kor 1,17–25*
 
-### 📖 **„Idźcie na cały świat i głoście Ewangelię wszelkiemu stworzeniu!”**
 
-*(Mk 16,15)*
+Do ślubu wiózł nas Pan Wojtala, który w samochodzie, już po ceremonii mówi do mnie:
+> "W małżeństwie czasem trzeba czegoś nie usłyszeć, a czasem czegoś nie powiedzieć."
 
-> *„Dana Mi jest wszelka władza w niebie i na ziemi. Idźcie więc i nauczajcie wszystkie narody.”*
-> *(Mt 28,18–19)*
+I rzeczywiście tak jest z naszą mową ludzką, że mamy problem ugryźć się w język. Ale czy tak też jest ze Słowem Bożym?
+Moim zdaniem, ze Słowem mamy odwrotny problem : zbyt mało się Nim dzielimy.
+Jak często dzielisz się Słowem które czytasz? (…)
+
+> Świadectwo. 
+> Ci którzy mnie znają wiedza, że od lat staram się dzielić Słowem Bożym, które mnie porusza. Odkąd odkryłem relacje na FB, to wrzucałem
+> tam fragmenty tego co mnie porusza w Słowe lub innej lekturze duchowe. Około 2 lata temu, pojawiły się kanały na WhatsApp i odkryłem, że
+> to idealne narzędzie dla mnie, żeby szybko, łatwo i po modltiwie wrzucić to co dla mnie ważne. Długo zastanawiałem się nad nazwą, aż w 
+> końcu na modlitwie odkryłem fragment 
+> *"Dobry człowiek z dobrego skarbca wydobywa dobre rzeczy, zły człowiek ze złego skarbca wydobywa złe rzeczy." Mt 12,35* 
+> Dobry Skarbiec. O tak, to było to co chciałem robić. Wrzucać tylko same perełki, same drogocenny rzeczy, bez zbędne szumu czy
+> zasypywania linkami. Obserwatorów DobrySkarbiec jest 54 osoby. Jak wrzuce FB+Whatsapp to zasięgi pewnie 100-200. Niemniej nie robię
+> tego dla zasięgów, po prostu chce dzielić się Słowem, które uważam za żywe. Czasem chodzi o tą jedną/dwie osoby, dla których to będzie 
+> ważne. Czasem wręcz mam wrażenie, że rzucam perły przed wieprze, w tym sensie, że wielu ludzi tego nawet nie docenia, nie rozumie.
+> Zauważyłem, też, że niektórzy ludzie (np po Alpha) chcą prowadzić życie duchowe, ale trudno im wytrwać ze Słowem. Wtedy taka moja relacja,
+> gdzie jest mały fragmencik, może być dla lekkostrawna porcją. *Czasem to czym się podzielisz, może być jedyną ewangelią, jaką ktoś usłyszy tego dnia.*
 
 
 ### 🔊 1️⃣ To, co się słyszy, trzeba ogłaszać
 
+> *„Idźcie na cały świat i głoście Ewangelię wszelkiemu stworzeniu!”*
+> *(Mk 16,15)*
+
+> *„Dana Mi jest wszelka władza w niebie i na ziemi. Idźcie więc i nauczajcie wszystkie narody.”*
+> *(Mt 28,18–19)*
+
+ 
+> Przecież z obfitości serca usta mówią. Dobry człowiek z dobrego skarbca wydobywa dobre rzeczy, zły człowiek ze złego skarbca wydobywa złe rzeczy. A powiadam wam: Z każdego bezużytecznego słowa, które wypowiedzą ludzie, zdadzą sprawę w dzień sądu.  Mt 12,34-36
+
  **Słowo Boże nie jest darem do zatrzymania dla siebie.**
 To, co słyszymy, czytamy, rozważamy, czym się modlimy —
 nie może pozostać zamknięte w naszym sercu.
+
 
 Jezus mówi:
 
@@ -299,7 +277,6 @@ Nie ma wiary milczącej.
 Bo **Słowo, które nie jest głoszone, obumiera.**
 Ale **Słowo, które się wypowiada — żyje, rośnie, rozlewa się na innych.**
 
----
 
 ### 💥 2️⃣ Nakaz misyjny: ostatnie słowa Jezusa
 
@@ -316,7 +293,6 @@ Każdy z nas jest powołany, by **głosić Słowo swoim życiem**:
 w domu, w pracy, w rozmowie, w sposobie, w jaki kochamy i przebaczamy.
 Ewangelia to nie tylko kazanie — to **świadectwo życia**.
 
----
 
 ### 🔥 3️⃣ Paweł: „Biada mi, gdybym nie głosił!”
 
@@ -334,7 +310,6 @@ Największą radością ucznia nie jest „mieć Słowo”,
 ale **dzielić się Nim** —
 patrzeć, jak przemienia czyjeś życie tak, jak przemieniło moje.
 
----
 
 ### 🌠 4️⃣ Magowie – spotkanie ze Słowem w ramionach Maryi
 
@@ -354,7 +329,6 @@ Tak samo my:
 kto naprawdę spotkał Słowo, nie może wrócić tą samą drogą.
 Musi je **nieść dalej**.
 
----
 
 ### 📖 5️⃣ Czytanie biblijne: *1 Kor 1,17–25*
 
@@ -366,7 +340,6 @@ Musi je **nieść dalej**.
 Głoszenie nie polega na pięknym mówieniu, ale na **mocy krzyża**.
 Nie chodzi o retorykę, ale o **prawdę życia**, która przekonuje bardziej niż jakiekolwiek słowa.
 
----
 
 ### 🎭 Zabieg dydaktyczny: Synteza siedmiu kolorów
 
@@ -388,11 +361,9 @@ którego koloru w naszym życiu **brakuje najbardziej**.
 
 ## 🌈 KONKLUZJA: PRZYMIERZE ZE SŁOWEM
 
----
 
 ### 🪞 a. Podsumowanie i kotwica
 
-Bracia i siostry,
 nasza odpowiedź na Słowo Boże jest jak **tęcza o siedmiu kolorach**.
 Każdy kolor to jeden sposób życia Słowem:
 oświeca, oczyszcza, uderza, modli się, pamięta, działa i głosi.

@@ -1,55 +1,64 @@
 
-## 🕊️ SŁOWO BOŻE – LAMPA
-
+## Wstęp
 
 Pismo Święte jest słowem Boga skierowanym do człowieka, zapisanym ludzkim historiami (nieraz dziejami
-konkretnych osób czy rodzin). Pomimo, że spisywali je różni autorzy, na przestrzeni wieków i czasem dodawali
-swojej interpretacji, różne formy(poemat, psalmy, opowiadanie, prawo, proroctwo), to jednak robili 
-to pod natchnieniem Ducha Świętego. Dlatego też słówo to jest (jako samo mówi) 
-> "zdatne do nauki, do przekonywania,  do poprawiania, do wychowywania w sprawiedliwości" (2 Tm 3,16).
-i co więcej objawia nam prawdę o Bogu i o Jego zamiarach względme człowieka. Względem Ciebie!
+konkretnych osób czy rodzin). Spisywali je różni autorzy, na przestrzeni wieków, ze swoim stylem i
+rozumieniem świata, różne formy(poemat, psalmy, opowiadanie, prawo, proroctwo), to jednak robili
+to pod natchnieniem Ducha Świętego. Dlatego też słówo to jest (jako samo mówi)
+> "zdatne do nauki, do przekonywania, do poprawiania, do wychowywania w sprawiedliwości" (2 Tm 3,16).
+i co więcej objawia nam prawdę o Bogu i o Jego zamiarach względme człowieka. Względem Ciebie!
 
-> **„Bóg mówi poprzez ludzi w Pismach, posługując się językiem ludzkim.”**
-> *(św. Augustyn, *Miasto Boże*, XVII, 6, 2)*
+> KKK81 "Pismo święte jest mową Bożą, utrwaloną pod natchnieniem Ducha Świętego na piśmie.
+
+Pytanie. Gdybyś miał porównać Słowo Boże do jakieś przedmiotu, narzędzia - to co przychodzi Ci na myśl?
+(..)    
 
 ### 🌙 Lampa dla naszych kroków
 
 > *„Twoje Słowo jest lampą dla moich stóp i światłem na mojej ścieżce.”*
 > *(Ps 119, 105)*
 
-> *„Ja jestem światłością świata. Kto idzie za Mną, nie będzie chodził w ciemności, lecz będzie miał światło życia.”*
-> *(J 8, 12)*
-
 Czy masz takie doświadczenie chodzenia po omacku? Jakie to uczucie?
 (..)
 
+### 💡 Zabieg dydaktyczny Lampa
+
 Słowo Boże jest jak **lampa**, która oświetla nasze kroki. Daje nam **lampę**, abyśmy mogli postawić **kolejny krok**.
-Nie jest wolą Boga, żebyś błądził/ą. Nie jest wolą Boga, żebyś nie wiedział/ła, dokąd iść.
-Ale... czasem widać cel i tylko kolejny krok.
+Nie jest wolą Boga, żebyś błądził/ą. Nie jest wolą Boga, żebyś nie wiedział/ła, dokąd iść.
+Bóg pokazuje kolejny krok, ale też Słowo wskazuje Cel.
 
-### 💡 Zabieg dydaktyczny
-Podczas konferencji można **zaproponować gest zapalenia lampy**.
+> Świadectwo. 11.10.2023 kilka dni po kursie NŻ poszliśmy z Jadzią rano przed najświętszym sakrament, ppomodlić się. Głównym
+> problemem tego czasu dla nas było to, że ciągle marzyliśmy o domu. Myśleliśmy o kupieniu, ale albo nie było nas stać, albo nie
+> było żadnej oferty pasującej nam. Naprawdę nie myśleliśmy wtedy za bardzo o budowie. Doświadczaliśmy wtedy trudności z małą
+> ilością miejsca dla 7 osobowej rodziny. W czasie adoracji Bóg nagle przemówił i dał takie słowo:
+- Zbudujcie mi Dom Chwały. Bedę tam błogosławił chwałą.
+- Większy projekt, ten drugi i bardziej kwadratowy.
+- Pieniądze się znajdą.
+- Bóg przypomina co kiedyś obiecał Iz 54,1 - 6
 
-> Świadectwo. Bożę prowadzenie w firmie.
+> "Ciesz się, niepłodna, która nie rodziłaś, wykrzykuj z radości i wołaj, która nie zaznałaś bólów rodzenia! Bo liczniejsze są dzieci opuszczonej niż dzieci tej, która ma męża – mówi Pan ."
+To słowo już Bóg wypełnił.
 
-Tylko ten, kto idzie z lampą, widzi tyle, ile potrzeba, by się nie potknąć.
+> "Poszerz przestrzeń swojego namiotu, powiększ swoje mieszkania! Nie oszczędzaj! Przedłuż sznury i wzmocnij paliki namiotu!"
+Buduj się, buduj się a nie oszczędzaj pieniadze jak oszczedzałeś niepotrzebnie (już od 7 lat!)
 
-> *Świadectwo. Słowo jak Lampa*
+> " Bo rozprzestrzenisz się na prawo i lewo, a twoje potomstwo zdobędzie narody i zaludni spustoszone miasta."
+To słowo już się wypełnia i jeszcze się wypełni jak nasze dzieci zdobędą narody i miasta dla Pana!
 
-Dlatego Jezus mówi:
+> "Nie bój się, bo nie będziesz się wstydzić, nie czuj się pohańbiona, bo nie doznasz upokorzenia. Zapomnisz o wstydzie swojego panieństwa i nie będziesz pamiętać niesławy swego wdowieństwa."
+Wstyd panieństwa (przed ślubny) oraz wdowieństwa(brak domu) pojdzie w niepamięć!
 
-> *„Czuwajcie, bo nie znacie dnia ani godziny.”* (por. Mt 25)
+> "Ponieważ twoim mężem jest twój Stwórca, który ma na imię Pan Zastępów. Twoim odkupicielem jest Święty Izraela, który nazywany jest Bogiem całej ziemi."
+Bóg troszczy się o nas jak mąż o żonę. On jest trzecią osobą(ami) w naszym małżeństwie!
 
-Jak mądre panny, mamy mieć lampy zapalone — gotowe. Po co były lampy pannom potrzebne?
-Bo w ciemniej nocy, trudno rozpoznać tego kto nadchodzi. Łatwo go przeoczyć, lub pomylić z kimś innym.
+> "Pan cię wezwał jak kobietę opuszczoną i przygnębioną, bo czy można porzucić żonę poślubioną w młodości? – mówi twój Bóg."
+Od młodości nas prowadzi i będzie prowadził!
+
+Te słowo było jak lampa, wskazało drogę. Dzisiaj mamy SSZ i pieniądze na dalsze etapy są zapewnione.
+
+Bo widzisz, kiedy nie masz lampy Słowa, to chodzisz po omacku. Jak panny głupie, którym
+zabrakło oliwy w decydującym momencie. A przez to że jej nie miały, nie rozpoznały Oblubieńca.
 Bez światła Słowa, **nie rozpoznasz Oblubieńca, gdy przychodzi, albo możesz się pomylić i pójść za kimś innym.**
-
-### ✨ Jezus – Słowo, które jest światłością
-
-> *„Ja jestem światłością świata.”* (J 8, 12)
-
-Jezus nie tylko **niesie światło** — On **jest światłem**.
-Kiedy słuchamy Jego słowa, to **światło wchodzi w nas**.
 
 ### 🔥 Ogień, który płonie i oczyszcza
 
@@ -65,25 +74,16 @@ jest jałowe i bez smaku. (np Jak prorok Jonasz uciekający do Tarszisz).
 > na takie przyziemne rzeczy. Oczywiście trzeba odpocząć, musi być równowaga,, czas dla rodziny, domu. Gdy Marcin robił Alpha w 
 > Koszęcinie a ja nie robiłem wcale, to wtedy właśnie czułem taką pustkę. Choć ten czas pustyni też jest ważny.
 
-Ale ten ogień ma też inną moc — **oczyszcza**.
+Ale ten ogień ma też inną moc — **oczyszcza serce, czyszcza intencje**.
 > *„Wy już jesteście czyści dzięki słowu, które wypowiedziałem do was.”* (J 15, 3)
 
-Jak złoto w ogniu, tak człowiek w Słowie Bożym zostaje oczyszczony.
-> Świadectwo. "Drzwi obracają się na zawiasach, a leniwy w swoim łóżku." Prz 26, 14
+Uczniowie z Emaus mieli swoje oczekiwania, intecje, które Bóg musiał oczyścić. Co więcej
+szli pogrążeni w ciemności smutku i rozczarowania.Nie widzieli sensu. Nawet nie rozpoznali Jezusa. 
+To Jezus słowo musiał rozświetlić ich sytuację :
 
-### 🕊️ Emaus — światło w nocy serca
-
-Uczniowie z Emaus (Łk 24, 13–35) szli pogrążeni w ciemności smutku i rozczarowania.
-Nie widzieli sensu. Nie rozpoznali Jezusa. To Jezus Słowo musiał rozświetlić ich sytuację :
 > «Zaczynając od Mojżesza, poprzez wszystkich proroków, wykładał im, co we wszystkich Pismach odnosiło się do Niego»  (Łk 24, 27).
 
 ### 📖 Czytanie biblijne: *Psalm 27*
-
-> *„Pan moim światłem i moim zbawieniem: kogóż miałbym się lękać?”*
-> *„Choćby mnie otoczyło wojsko, nie ulęknie się moje serce.”*
-> *„Jednego tylko pragnę od Pana, tego szukam: abym mógł przebywać w domu Pańskim przez wszystkie dni mego życia.”*
-> *„Wpatrywać się w piękno Pana i odwiedzać Jego świątynię.”*
-
 **(Psalm odczytują wszyscy razem, głośno, jako modlitwę światła i zaufania.)**
 
 ## 🕊️ Słowo jest mieczem

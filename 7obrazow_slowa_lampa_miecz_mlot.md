@@ -123,8 +123,11 @@ Gdy miecz jest obosieczny, oznacza to, że **jest ostry z obu stron**. Przeciwni
 Co to znaczy, że Słowo Bożę jest obosiczne?(..)
 
 To znaczy, że kiedy czytasz Słowo aby poznać Boga, okazuje się, że Słowo też objawia Ci jaki jesteś Ty!
-Że kiedy czytasz Słowo, aby przebywać i modlić się z Bogiem, Jezus Słowo przenika i zmienia Ciebie. 
+Ty czytasz Słowo by przebywać i modlić się z Bogiem, a Jezus Słowo przenika i zmienia Ciebie. 
 To działa w dwie strony!
+
+> Świadctwo. "Drzwi obracają się na zawiasach, a leniwy w swoim łóżku." Prz 26, 14
+> A jak tak lubiłem sobie pospać przez lata. Nadal lubię, ale mi się zawsze te Słowo przypomina jak za długo lężę.
 
 Przed Słowem Bożym **nic nie jest ukryte**.
 
@@ -222,14 +225,9 @@ Potrzebujemy Bożego pocieszenia. I chce Ci powiedzieć, że niezależnie od teg
 ### 🪔 4️⃣ Emaus – młot, który rozbija fałszywe obrazy Boga
 
 Uczniowie idący do Emaus też mieli **swój obraz Mesjasza** — silnego, militarnego, politycznego wybawiciela, który miał przywrócić Izraelowi chwałę. Ale ten obraz był **fałszywy**.
-Gdy Jezus zaczął im wyjaśniać Pisma, **Słowo zaczęło rozbijać ich błędne wyobrażenia**.
-To był **młot, który kruszył ich skałę niezrozumienia**, aż w końcu rozpoznali w Nim Pana przy łamaniu chleba.
 
 Nieraz Bóg musi rozbić Twój obraz Boga (który sobie nadbudowałeś), byś poznał **jaki naprawdę jest**.
 A nie jakiego Ty sobie wyobrażasz.
-
-
-
 
 
 ### 📖 6️⃣ Czytanie biblijne: *Mt 23, 1–7*
@@ -238,5 +236,3 @@ A nie jakiego Ty sobie wyobrażasz.
 > Bo mówią, a nie czynią.
 > Wiążą ciężary wielkie i nie do uniesienia, i kładą je ludziom na ramiona, lecz sami palcem ruszyć ich nie chcą.
 > Wszystkie swe uczynki spełniają w tym celu, żeby się ludziom pokazać.”*
-
-Ten fragment to także **młot Słowa**. Jezus rozbija tu **obłudę religijną**, wiarę na pokaz, duchowość zewnętrzną. On nie chce, żebyśmy wyglądali święcie, ale **byśmy byli prawdziwi**.

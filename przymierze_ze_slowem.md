@@ -226,9 +226,6 @@ Słowo ma w nas płonąć, prowadzić, oświecać i przemieniać świat.
 
 ## 🌈 7º SŁOWO SIĘ GŁOSI
 
-📖 *Mk 16,15; Mt 28,18–19; 1 Kor 9,16; Mt 10,27; Mt 2,11; 1 Kor 1,17–25*
-
-
 Do ślubu wiózł nas Pan Wojtala, który w samochodzie, już po ceremonii mówi do mnie:
 > "W małżeństwie czasem trzeba czegoś nie usłyszeć, a czasem czegoś nie powiedzieć."
 
@@ -249,170 +246,61 @@ Jak często dzielisz się Słowem które czytasz? (…)
 > Zauważyłem, też, że niektórzy ludzie (np po Alpha) chcą prowadzić życie duchowe, ale trudno im wytrwać ze Słowem. Wtedy taka moja relacja,
 > gdzie jest mały fragmencik, może być dla lekkostrawna porcją. *Czasem to czym się podzielisz, może być jedyną ewangelią, jaką ktoś usłyszy tego dnia.*
 
+**Słowo Boże nie jest darem tylko do zatrzymania dla siebie.**
+Ale czy tylko się dzielić?
 
-### 🔊 1️⃣ To, co się słyszy, trzeba ogłaszać
+> *„Co wam mówię w ciemności, powtarzajcie w świetle, a co słyszycie na ucho — głoście na dachach.” (Mt 10,27)*
 
-> *„Idźcie na cały świat i głoście Ewangelię wszelkiemu stworzeniu!”*
-> *(Mk 16,15)*
+Takim dachem 2025 właśnie może byc TikTok, Instagram (Facebook już raczej nie :) Głośmy.
+Głosić tak ale - zaskoczę was - w pierszej kolejności potrzebujemy głosić sobie. Ja sam potrzebuje usłyszeć Słowo, aby moja wiara wzrosłą.
 
-> *„Dana Mi jest wszelka władza w niebie i na ziemi. Idźcie więc i nauczajcie wszystkie narody.”*
-> *(Mt 28,18–19)*
+> Pamiętam 2021 oraz 2023 rok, kiedy AISP miało pierwszy i drugi rok działa. Kiedy zakończył się generalny pomiar ruchu, nie było
+> tyle zleceń i przychodów, a mnóstwo pracy by stworzyć system, który automatycznie zlicza ruch. Zarabiałem wtedy mniej niż na etacie,
+> były miesiące bez przychodów, kiedy tylko 500+ nas ratowało. Sprzedaż, marketing, obsługa klienta, dla inżyniera mnóstwo rzeczy, których
+> musiałem się uczyć od zera, jak laik. Naprawdę nigdy w życiu nie czułe się tyle razy debilem, co od założenia DG. I emocjonalnie
+> naprawdę było to trudne, szczególnie patrząc na swoje dzieci i marząc o większym mieszkaniu dla nich. Wtedy właśnie siegąłem po Psalm i przypominałem 
+> sobie że, *Ci, którzy we łzach sieją, będą zbierać z radością.Idą z płaczem, niosąc ziarno, lecz wracają z radością, niosąc snopy!* Ps 126,5-6
+> Amen! *Niech tak będzie. Ogłaszam dzisiaj te słowo nad Tobą i nad Twoim biznesem.* Ja dzisiaj doświadczam wypełnienia tego słowa. GPR2025 się
+> zakończył, zarobiliśmy dużo. Jest na pensje, na pensję dla pracownika. Dofinansowanie wpadło, robimy Liczboxa. Wszystko dlatego, że zżąłem to co
+> 4 lata temu zasiałem we łzach. I potrzebowałem wtedy tego Słowa, aby wytrwać i się nie poddać.
 
- 
-> Przecież z obfitości serca usta mówią. Dobry człowiek z dobrego skarbca wydobywa dobre rzeczy, zły człowiek ze złego skarbca wydobywa złe rzeczy. A powiadam wam: Z każdego bezużytecznego słowa, które wypowiedzą ludzie, zdadzą sprawę w dzień sądu.  Mt 12,34-36
+Wreszcie samo Słowo Boże zachęca nas do głoszenia. Dlatego że Ewangelia chce biec. W życiu Pawła nie zatrzymały jej kajdany więzienia, bo nawet gdy On przebywał w więzieniu Mamertyńskim w Rzymie, to Łukasz, Tymoteusz, Barnaba i inni współpracownicy głosili. A jeśli nie da się zatrzymać Ewangelii, 
+to my jej też nie zatrzymujmy.
 
- **Słowo Boże nie jest darem do zatrzymania dla siebie.**
-To, co słyszymy, czytamy, rozważamy, czym się modlimy —
-nie może pozostać zamknięte w naszym sercu.
+Jedną z największych radości ucznia Jezusa nie jest „mieć Słowo”, ale **dzielić się Nim** — wiedzieć jak zmienia czyjeś życie.
+> Jeśli byłeś np. w ekipie Alpha, to wiesz jaką radość daje obserwowanie jak ludzie zmieniają się pod wpływem Słowa Bożego.
 
-
-Jezus mówi:
-
-> *„Co wam mówię w ciemności, powtarzajcie w świetle,
-> a co słyszycie na ucho — głoście na dachach.”*
-> *(Mt 10,27)*
-
-Nie ma Ewangelii prywatnej.
-Nie ma wiary milczącej.
-Bo **Słowo, które nie jest głoszone, obumiera.**
-Ale **Słowo, które się wypowiada — żyje, rośnie, rozlewa się na innych.**
-
-
-### 💥 2️⃣ Nakaz misyjny: ostatnie słowa Jezusa
-
-To nie był jedynie pomysł uczniów, to był **ostatni nakaz Jezusa**:
-
-> *„Idźcie i nauczajcie wszystkie narody.”*
-> *(Mt 28,19)*
-
-On nie powiedział: „jeśli czujecie się na siłach”.
-Nie powiedział: „głoście tylko ci, którzy mają mikrofon”.
-Powiedział: **idźcie wszyscy.**
-
-Każdy z nas jest powołany, by **głosić Słowo swoim życiem**:
-w domu, w pracy, w rozmowie, w sposobie, w jaki kochamy i przebaczamy.
-Ewangelia to nie tylko kazanie — to **świadectwo życia**.
-
-
-### 🔥 3️⃣ Paweł: „Biada mi, gdybym nie głosił!”
-
-Święty Paweł, człowiek całkowicie ogarnięty przez Słowo, wyznaje:
-
-> *„Biada mi, gdybym nie głosił Ewangelii!”*
-> *(1 Kor 9,16)*
-
-Dlaczego biada? Bo Paweł wie, że **Ewangelia nie jest własnością**.
-Nie mogę jej zatrzymać, jak skarbu w sejfie.
-To ogień, który chce płonąć.
-Słowo, które chce być usłyszane.
-
-Największą radością ucznia nie jest „mieć Słowo”,
-ale **dzielić się Nim** —
-patrzeć, jak przemienia czyjeś życie tak, jak przemieniło moje.
-
-
-### 🌠 4️⃣ Magowie – spotkanie ze Słowem w ramionach Maryi
-
-Ewangelia mówi:
-
-> *„Weszli do domu i zobaczyli Dziecię z Matką Jego, Maryją;
-> upadli na twarz i oddali Mu pokłon.”*
-> *(Mt 2,11)*
-
-To piękny obraz: **Słowo – Jezus – w ramionach Maryi.**
-Maryja jest Tą, która **nosi Słowo i daje Je światu**.
-Magowie przychodzą z daleka, by **spotkać Słowo wcielone**,
-i po spotkaniu nie mogą pozostać tacy sami —
-**wracają inną drogą** (Mt 2,12).
-
-Tak samo my:
-kto naprawdę spotkał Słowo, nie może wrócić tą samą drogą.
-Musi je **nieść dalej**.
-
-
-### 📖 5️⃣ Czytanie biblijne: *1 Kor 1,17–25*
-
-(fragment o mocy krzyża i mądrości Bożej)
-
-> *„Chrystus posłał mnie nie po to, bym chrzcił, ale bym głosił Ewangelię – nie mądrością słowa, by nie zniweczyć krzyża Chrystusowego.”*
-> *(1 Kor 1,17)*
-
-Głoszenie nie polega na pięknym mówieniu, ale na **mocy krzyża**.
-Nie chodzi o retorykę, ale o **prawdę życia**, która przekonuje bardziej niż jakiekolwiek słowa.
-
+### Krótka modlitwa (głoszący)
+Abyśmy nie zatrzymywali Słowa, tylko dzielili się tym co czyni Bóg.
 
 ### 🎭 Zabieg dydaktyczny: Synteza siedmiu kolorów
 
-Jedna osoba przedstawia **mową ciała** siedem aspektów naszego przymierza ze Słowem —
-siedem kolorów duchowej tęczy:
+Przedstaw mową ciąła 7 kolorów tęczy/postaw : słucha się,  wierzy się, studiuje się, modli się, zapamiętuje się, żyje się, głosi się.
+**Której z tych 7 postaw najbardziej brakuje w twoim życiu?**
 
-1. **Lampa i ogień** – światło i żar.
-2. **Miecz** – moc i prawda.
-3. **Młot** – siła, która kształtuje.
-4. **Modlitwa** – relacja i słuchanie.
-5. **Pamięć** – Słowo w sercu.
-6. **Życie** – Słowo w czynach.
-7. **Głoszenie** – Słowo, które się rozlewa.
-
-To moment ciszy i kontemplacji — pozwolić, by Duch Święty pokazał każdemu z nas,
-którego koloru w naszym życiu **brakuje najbardziej**.
-
----
 
 ## 🌈 KONKLUZJA: PRZYMIERZE ZE SŁOWEM
-
-
 ### 🪞 a. Podsumowanie i kotwica
 
 nasza odpowiedź na Słowo Boże jest jak **tęcza o siedmiu kolorach**.
-Każdy kolor to jeden sposób życia Słowem:
-oświeca, oczyszcza, uderza, modli się, pamięta, działa i głosi.
-
-To **pełnia przymierza** — siedem wymiarów relacji z Bogiem,
-który mówi i zaprasza do odpowiedzi.
-
-Bo **Przymierze ze Słowem jest przymierzem z Jezusem Chrystusem.**
-A Kościół przypomina nam:
+**Przymierze ze Słowem jest przymierzem z Jezusem Chrystusem.**
 
 > *„Nieznajomość Pisma Świętego jest nieznajomością Chrystusa.”*
 > *(św. Hieronim, za: *Dei Verbum*, 25)*
 
-To nie jest po prostu znajomość tekstu.
-To **poznanie Osoby** — Boga, który mówi i czeka, aż odpowiesz.
-
----
-
 ### 💍 b. Zamknięcie – Obrączki przymierza
-
-Na zakończenie można użyć **dwóch dużych pierścieni**, symbolizujących **przymierze**.
 
 * **Pierścień pierwszy**: Bóg pokazał nam, czym jest Słowo i co czyni.
 * **Pierścień drugi**: teraz **nasza kolej**, by odpowiedzieć.
 
-Dwa pierścienie można połączyć — symbolicznie zamykając przymierze Boga i człowieka.
-To znak miłości, wierności i jedności z Jego Słowem.
-
----
-
-### 🔑 Analogia z kluczykami
-
-Można przywołać obraz kluczyków:
-Bóg daje nam **kluczyki do Słowa**, ale **nie prowadzi za nas**.
-To my mamy jechać — otworzyć, uruchomić, wyruszyć w drogę.
-Słowo nie jest do trzymania w kieszeni, ale do używania każdego dnia.
-
----
+Czy chcesz odpowiedzieć na Słowo Boże? Twoja odpowiedź jest jak wzięcie
+do ręki kluczyka Ferarri i odpalenie w końcu tego silnika. By mknąć
+przez życie z prędkością Bożego Słowa.
 
 ## ✨ DYNAMIKA: CELEBRACJA PRZYMIERZA ZE SŁOWEM BOŻYM
 
----
-
-### 🎉 Motywacja:
-
-Każde słowo wymaga odpowiedzi.
-**Słowo Boga domaga się przymierza.**
-
----
+Każde słowo wymaga odpowiedzi. **Słowo Boga domaga się przymierza.**
+(Rozdaje się karteczki.) Jeżeli chcesz teraz odpowiedzieć to zapisz?
 
 ### 🙌 Przebieg:
 
@@ -420,30 +308,15 @@ Każde słowo wymaga odpowiedzi.
 2️⃣ Głoszący mówi:
 
 > „Wobec Boga i wobec siebie nawzajem chcemy dziś odnowić nasze Przymierze ze Słowem.”
-> 3️⃣ Każdy uczestnik **wypowiada swoje zobowiązania**, głośno i wyraźnie:
 
 * „Słowo, zobowiązuję się czytać Cię codziennie przez … minut.”
 * „Słowo, chcę rozważać Cię sercem, nie tylko rozumem.”
 * „Słowo, pragnę modlić się Tobą.”
 * „Słowo, chcę żyć Tobą.”
 * „Słowo, pragnę dzielić się Tobą.”
-  *(każdy może dodać własne przyrzeczenie)*
 
-4️⃣ Na koniec wszyscy **milkną** i **patrzą w oczy** osobie najbliższej, mówiąc szeptem:
-
+Może masz obok osobę którą znasz/ufasz/ze wspólnoty, możesz ją poprosić teraz :
 > „Pomóż mi być wiernym Przymierzu, które dziś zawarłem.”
 
----
-
-### 🌅 Zakończenie
-
-To nie koniec, to **początek** drogi.
-Bo każde „Amen” na końcu liturgii jest początkiem życia.
-Każde „tak” dla Słowa jest początkiem nowego rozdziału.
-
-Niech więc Słowo, które było lampą, mieczem, młotem, ogniem, modlitwą, pamięcią, życiem i misją —
-**stanie się w nas ciałem.**
 
 > *„Niech Słowo Chrystusa zamieszka w was obficie”* (Kol 3,16)
-> i niech nigdy już nie będzie tylko słowem —
-> lecz **życiem, które przemienia świat.**

@@ -302,10 +302,7 @@ przez życie z prędkością Bożego Słowa.
 Każde słowo wymaga odpowiedzi. **Słowo Boga domaga się przymierza.**
 (Rozdaje się karteczki.) Jeżeli chcesz teraz odpowiedzieć to zapisz?
 
-### 🙌 Przebieg:
-
-1️⃣ Wszyscy **stają**, trzymając **Biblię w ręku**.
-2️⃣ Głoszący mówi:
+Wszyscy **stają**, trzymając **Biblię w ręku** i wobec innych świadków.
 
 > „Wobec Boga i wobec siebie nawzajem chcemy dziś odnowić nasze Przymierze ze Słowem.”
 
@@ -319,4 +316,20 @@ Może masz obok osobę którą znasz/ufasz/ze wspólnoty, możesz ją poprosić
 > „Pomóż mi być wiernym Przymierzu, które dziś zawarłem.”
 
 
-> *„Niech Słowo Chrystusa zamieszka w was obficie”* (Kol 3,16)
+## Modlitwa, Maryja Matka Słowa
+
+Nikt lepiej od Maryi nie żył tą tęczą Przymierza ze Słowem. Nauczyliśmy się nowego imienia Jezusa: „Jezus Słowo", podobnie też odkryliśmy nowe imię Maryi - Ona jest „Matką Słowa". Prośmy Maryje, Matkę Słowa", aby nas nauczyła i pomogła nam żyć naszym przymierzem ze Słowem.
+
+Przy każdym wezwaniu (które odnosi się do 7 kolorów) odpowiadamy: Maryjo. Matko Słowa, módi się za nami".
+
+- Maryjo, Matko Słowa, Ty która słuchałaś Słowa Bożego... / Maryjo, Matko Słowa, módi się za nami.(powtarzamy)
+- Maryjo, Matko Słowa, Ty która uwierzyłaś Słowu Bożemu.... 
+- Maryjo, Matko Słowa, Ty która byłaś pierwszą uczennicą Jezusa Słowa... 
+- Maryjo, Matko Słowa, Ty która zapamiętywałaś Słowo Boże i zachowywałaś w swym sercu...
+- Maryjo, Matko Słowa, Ty, w której Słowo Boże stało się ciałem i życiem... 
+- Maryjo, Matko Słowa, Ty która modliłaś się Słowem Bożym w hymnie Magnificat... 
+- Maryjo, Matko Słowa, ty która zaniosłaś Słowo Boże do twojej kuzynki Elżbiety... 
+
+Dziś poznaliśmy nowe imię Maryi. Ona jest Maryją - Matką Słowa.
+
+# Zdanie końcowe

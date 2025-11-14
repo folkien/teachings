@@ -86,44 +86,34 @@ To Jezus słowo musiał rozświetlić ich sytuację :
 ### 📖 Czytanie biblijne: *Psalm 27*
 **(Psalm odczytują wszyscy razem, głośno, jako modlitwę światła i zaufania.)**
 
-## 🕊️ Słowo jest mieczem
+##  Słowo jako miecz do walki
 
-**Ef 6, 17b; Hbr 4, 12**
-
-> *„Weźcie też hełm zbawienia i miecz Ducha, to jest Słowo Boże.”* (Ef 6, 17)
 > *„Żywe bowiem jest Słowo Boże, skuteczne i ostrzejsze niż wszelki miecz obosieczny: przenika aż do rozdzielenia duszy i ducha, stawów i szpiku, zdolne osądzić pragnienia i myśli serca.”* (Hbr 4, 12)
 
-### 1️⃣ Słowo jako miecz do walki
-
-**miecz był najważniejszą bronią żołnierza**. Chroni, ale też pozwala zaatakować. Miecz nie służy do ozdoby — jest narzędziem walki.
+**Miecz był najważniejszą bronią rycerza**. Chroni, ale też pozwala zaatakować. Miecz nie służy do ozdoby — jest narzędziem walki.
 I właśnie takim mieczem jest **Słowo Boże** – to **broń duchowa**, dana nam w walce z pokusami, zniechęceniem i podstępami nieprzyjaciela.
 
 Na pustyni Jezus trzykrotnie był kuszony przez diabła. I jak odpowiedział?
-Nie krzykiem. Nie emocją.
-Odpowiadał **Słowem Bożym**: *„Napisane jest...”*
-To jest Jego miecz. Za każdym razem diabeł musiał ustąpić.
+Odpowiadał **Słowem Bożym**: *„Napisane jest : Nie samym chlebem żyje człowiek, ale każdym słowem, które pochodzi z ust Bożych.”*
+Za każdym razem diabeł musiał ustąpić.
 
-Wystarczy, że nauczymy się **używać Słowa** — nie tylko słuchać go, ale trzymać w dłoni jak żołnierz swój miecz.
-Bo żołnierz, który nie zna swojej broni, nie potrafi walczyć.
+Potrzeba byśmy nauczyli się **używać Słowa** — nie tylko słuchać go, ale trzymać w dłoni jak żołnierz swój miecz.
+Bo rycerz, który nie zna swojej broni, nie potrafi walczyć.
 Czy umiesz posługiwać się mieczem słowa? (..)
 
 ### Miecz tożsamość Królewska
 Miecz to nie tylko narzędzie walki. W dawnych czasach miecz symbolizował **tożsamość królewską**. Po mieczu można było poznać, do kogo należy królestwo.
 Czy doświadczasz Królowania Jezusa w swoim życiu? Czy doświadczasz Jego Królestwa? (..)
-Czy może króluje Twoje własne „ja”? (..)
 Idziesz za słowem, czy za własnymi zachciankami? (..)
 
 ### 2️⃣ Słowo objawia prawdę 
 
 Słowo, jak ostrze, **rozcina nasze wnętrze** — pokazuje prawdę o nas samych.
-Nie po to, żeby zranić, ale żeby **uzdrowić**.
-Bo dopiero kiedy rana zostanie odkryta, można ją oczyścić. A zranienia się leczy, a nie konserwuje.
 
-### Zabieg dydaktyczny - MIECZ
-    **Owoc i przetnij go mieczem.**
-    Tak jak ostrze odsłania wnętrze owocu, tak **Słowo Boże odsłania wnętrze człowieka**.
-    To, co było zakryte, staje się widoczne.
-    Tak działa Duch Święty przez Słowo — **nie po to, by zniszczyć, lecz by objawić życie** ukryte w środku.
+### Zabieg dydaktyczny - MIECZ Owoc i przetnij go mieczem.
+
+Bo dopiero kiedy rana zostanie odkryta, można ją oczyścić. A zranienia się leczy, a nie konserwuje.
+Tak jak ostrze odsłania wnętrze owocu, tak **Słowo Boże odsłania wnętrze człowieka**.
 
 ### 3️⃣ Miecz obosieczny — przenika i sądzi
 
@@ -136,15 +126,7 @@ To znaczy, że kiedy czytasz Słowo aby poznać Boga, okazuje się, że Słowo t
 Że kiedy czytasz Słowo, aby przebywać i modlić się z Bogiem, Jezus Słowo przenika i zmienia Ciebie. 
 To działa w dwie strony!
 
-
-Słowo dociera do **najgłębszych motywacji**. Nie tylko do czynów, ale do intencji.
 Przed Słowem Bożym **nic nie jest ukryte**.
-Nie da się Go oszukać.
-Bo to nie litery na papierze — to **żywy Jezus**, który patrzy w serce.
-Jak napisał św. Jan:
-
-> *„On wiedział, co się kryje w człowieku.”* (J 2, 25)
-
 
 ### 4️⃣ Przykład: Lidia z Filipii (Dz 16, 14)
 
@@ -174,7 +156,6 @@ I nie jest to wcale krytyka różańca, który popatrzcie, jest modlitwą kontem
 > *„Czy serce nie pałało w nas, gdy rozmawiał z nami w drodze i Pisma nam wyjaśniał?”* (Łk 24, 32)
 
 Słowo Jezusa **przenikało ich wnętrze**, dotykało serca, zanim rozpoznali Jego obecność.
-Tak działa miecz Ducha — **przenika serce**, by je rozpalić.
 
 ### 8️⃣ Czytanie biblijne – J 6, 60–69
 
@@ -195,18 +176,9 @@ Czy zostaniemy, jak Piotr, który mówi:
 > *„Czy moje Słowo nie jest jak ogień – wyrocznia Pana – czy nie jest jak młot kruszący skałę?”*
 > *(Jer 23, 29)*
 
-Słowo Boże to **młot** – nie delikatne piórko, nie aksamitny szept.
-To **narzędzie mocy**, które **uderza**, **rozbija**, **kruszy** to, co twarde w człowieku.
+Słowo Boże to **młot**.To **narzędzie mocy**, które **uderza**, **rozbija**, **kruszy** to, co twarde w człowieku.
 
-Ale uwaga — ten młot nie niszczy, by zniszczyć. On **burzy, aby budować**.
-Tak jak mówi prorok Jeremiasz o swoim powołaniu:
-
-> *„Oto daję ci dzisiaj władzę nad narodami i nad królestwami, byś wyrywał i burzył, niszczył i obalał, budował i sadził.”*
-> *(Jer 1, 10)*
-
-To jest dynamika Bożego działania: najpierw **rozbić to, co fałszywe**, a potem **postawić coś nowego** na mocnym fundamencie.
-
-### 💥 2️⃣ Młot, który kruszy skałę pychy
+### 🧱 5️⃣ Zabieg dydaktyczny - Rozbić figurkę z Gipsu
 
 Słowo Boże uderza w **skałę naszego serca**. Kruszy **pychę wyniosłych**, **egoizm**, **bożki**, które sami stawiamy w centrum życia.
 Bo często to nie złe rzeczy są naszymi bożkami, ale dobre rzeczy, które postawiliśmy na złym miejscu.
@@ -224,11 +196,8 @@ Praca, pieniądze, sukces, opinia innych, ale też ukochany/ukochana, mąż czy 
 > Sławek, jesteś na 4-tym miejscu(bo jeszcze Bóg ma 3 osoby).
 
 Nie po to, by nas zniszczyć, ale by **rozbić twardą skorupę**, pod którą Bóg chce znów zobaczyć żywe serce.
-Święty Paweł pisze:
 
-> *„Oręż naszego bojowania nie jest z ciała, lecz posiada moc burzenia twierdz warownych.
-> Burzymy układy myślowe i wszelką wyniosłość przeciwną poznaniu Boga.”*
-> *(2 Kor 10, 4–5)*
+> *„Oręż naszego bojowania nie jest z ciała, lecz posiada moc burzenia twierdz warownych. Burzymy układy myślowe i wszelką wyniosłość przeciwną poznaniu Boga.” (2 Kor 10, 4–5)*
 
 Świetny cytat. Walka duchowa ciągle trwa, a przeciwnik buduje twierdze w naszych umysłach. Po prostu zdarza się, że wierzymy w kłamstwa diabła.
 Maria Vadia mówi, że **Słowo Boże jest młotem, który burzy te twierdze**. @TODO
@@ -237,15 +206,18 @@ Maria Vadia mówi, że **Słowo Boże jest młotem, który burzy te twierdze**. 
 
 Młot służy również do **łączenia**. Przy jego pomocy wbija się gwoździe, które **spajają** konstrukcję, wzmacniają budowlę.
 
-Tak samo **Słowo Boże scala naszą wiarę**. Bez niego wszystko się rozpada — każda nowa opinia, moda, ideologia może nami zachwiać.
-Dlatego potrzebujemy, by Słowo **umacniało nas „w” i „przez” wiarę**, tak byśmy trwali mocno w prawdzie.
+> Pamiętam, jak **8–9 lat temu**, kiedy nasza wspólnota była jeszcze naprawdę malutka — na spotkaniach było 5-10 osób - a ja 
+> przyszedłem z zewnątrz. Pamiętam że było dużo szans posługi, głoszenia, ale też wiele pracy. Starałem się. Pamiętam
+> jak też Jackowi wtedy odmówiłem wtedy posługi w diakonii kursowej, bo nie umiałem robić kursów w Reptach, jak tutaj
+> moi ludzie potrzebowali formacji. To było trudne i też miałem wiele wątpliwości, czy dobrze robie.
+> Właśnie wtedy na modlitwie trafiłem na Słowo :
+**„Niechaj nikt nie lekceważy twego młodego wieku, lecz wzorem bądź dla wiernych w mowie, w obejściu, w miłości, w wierze, w czystości! Do czasu, aż przyjdę, przykładaj się do czytania, zachęcania, nauki. Nie zaniedbuj w sobie charyzmatu, który został ci dany za sprawą proroctwa i przez włożenie rąk kolegium prezbiterów. W tych rzeczach się ćwicz, cały im się oddaj, aby twój postęp widoczny był dla wszystkich. Uważaj na siebie i na naukę, trwaj w nich! To bowiem czyniąc i siebie samego zbawisz, i tych, którzy cię słuchają.” (1 Tm 4,12–16)**
+> To było dla mnie **umocnienie**.  Dotknęło mnie „*Niechaj nikt nie lekceważy twego młodego wieku*” bo miałem 28-29 lat. 
+> Również "przez włożenie rąk kolegium prezbiterów" - bo gdy odchodzilismy z Jadzią z Wrocławia, to mieliśmy piękne pożegnanie od
+> wspólnoty w jedną niedzielę. I nałożyli na nas ręce ksiądz i starsi. I pamiętam że też prorokowali błogosławieństwo nad nami, 
+> czego ja wtedy jeszcze nie rozumiałem. Dzisiaj wiem że to były dobre decyzje, zreszta widać to po was, po owocach.
 
-> *„Postanowiłem więc i ja, zbadawszy dokładnie wszystko od początku, opisać ci po kolei, dostojny Teofilu, abyś się mógł przekonać o całkowitej pewności nauk, których ci udzielono.”*
-> *(Łk 1, 3–4)*
-
-Łukasz pisze, aby **umocnić wiarę Teofila** — by wbić w jego serce gwoździe pewności:
-Bóg jest wierny, Jego Słowo się nie myli, można na Nim budować życie.
-
+Potrzebujemy Bożego pocieszenia. I chce Ci powiedzieć, że niezależnie od tego co dzisiaj przeżywasz, w tym Słowie jest dla Ciebie umocnienie.Amen.
 
 ### 🪔 4️⃣ Emaus – młot, który rozbija fałszywe obrazy Boga
 
@@ -256,15 +228,8 @@ To był **młot, który kruszył ich skałę niezrozumienia**, aż w końcu rozp
 Nieraz Bóg musi rozbić Twój obraz Boga (który sobie nadbudowałeś), byś poznał **jaki naprawdę jest**.
 A nie jakiego Ty sobie wyobrażasz.
 
-### 🧱 5️⃣ Zabieg dydaktyczny
 
-Podczas konferencji można zastosować prosty, mocny znak:
-**rozbić młotkiem figurkę z gipsu** – symbolizującą **bożka**, czyli coś, co człowiek sam postawił w miejsce Boga.
 
-W chwili uderzenia można powiedzieć:
-
-> „Słowo Boże przychodzi, by rozbić to, co fałszywe w naszym życiu,
-> abyśmy mogli na nowo zbudować wiarę na prawdzie.”
 
 
 ### 📖 6️⃣ Czytanie biblijne: *Mt 23, 1–7*

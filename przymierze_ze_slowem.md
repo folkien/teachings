@@ -23,10 +23,13 @@ nazwijmy to poetycka wizja, to nie bardzo. Ale gdy jest tradycyjna i zanurzona w
 **Księgę Psalmów**, która jest **najpiękniejszym modlitewnikiem** zawartym w Biblii. Dlaczego?
 Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, 
 finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosiedzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,
-Wszystko to zawarł w Psalmach podczas swojego życia. Znajdziesz w nich emocje jak(gniew, lęk, radość) bo
+Wszystko to zawarł w Psalmach podczas swojego życia (ok 73 szt napisał, nagłówek). Znajdziesz w nich emocje jak(gniew, lęk, radość) bo
 Psalmy to modlitewnik na każdą sytuację życiową.
 
-> Świadectwo.
+> Świadectwo. Jest taka posługa w czasie kursu - wstawiennik który modli się w czasie trwania konferencji za nas. Różnie ludzie
+> tą posługę pełnią, niektórzy modlą się na różańcu, koronkę etc. Ja personalnie bardzo lubię wtedy modlić się Psalamami. Po prostu
+> przez 30-45min czytam po kolei Psalmy i modlę się. Naprawdę po takim czasie czuje się duchowo odświeżony i mam w sobie taki
+> głębszy pokój.
 
 ### 🍞 3️⃣ Eucharystia zanurzona w Słowie
 
@@ -47,6 +50,16 @@ oraz liturgii Eucharystii my odpowiadamy całym sobą. Czy same teksty Mszału z
 Paweł i Sylas nie lamentowali, nie biadolili, ale wielbili Boga pieśniami.
 Może to były psalmy, może wprost śpiewali Słowo (pieśń nowa) i wtedy **mury więzienia się zatrzęsły**.
 Modlitwa Słowem co czyni?  **Uwalnia** - nie tylko z fizycznych więzów, ale z duchowych — z lęku, z rozpaczy, z zamknięcia.
+
+> Świadectwo. 19 lat temu się nawróciłem, ale Słowem codziennie się modlę od 12 lat. Co się działo w między-czasie? Próbowałem
+> się modlić codziennie Słowe, ale różnie było. Potrafiłem czytać 1dzień po 45min, a potem 7 dni nic. Potem znów 3 dni po 30min i 
+> przerwa. Co mi pomogło w regularności?
+> - po pierwsze kierownik duchowy, zwrócił mi uwagę, że lepiej czytać 5min codziennie niż 1h/tydzień. Co prawda jest krótko, ale robi
+> się z tego nawyk.
+> - po drugie kierownik zwrócił mi uwagę, że zawsze mam czytać. Nawet jak nagrzeszę. Bo ja wcześniej się zwalniałem z modlitwy, bo przecież
+> nagrzeszyłem i jak teraz się modlić? A Bóg przecież dalej mnie kocha, pomimo stanu w jakim jestem.
+> - po trzecie pomogło mi... małżeństwo! Bo oto jak ja chce czytac Słowo i moja żona chce czytać Słowo, to dopingujemy i pilnujemy się nawzajem. 
+> To się potem robi taki małżeński rytuał.
 
 
 ### 🌹 5️⃣ Maryja – kobieta modlitwy Słowem
@@ -72,18 +85,9 @@ Sigla:
 Odwołanie do
 1 Sm 2,7–8 – „Pokornych podnosi.”
 
-
-### 📖 6️⃣ Czytanie biblijne: *Psalm 103* (Połączyć z modlitwą)
-
-> *„Błogosław, duszo moja, Pana i wszystko, co jest we mnie, Jego święte imię!
-> Błogosław, duszo moja, Pana, i nie zapominaj o wszystkich Jego dobrodziejstwach!”*
+## Modlitwa Psalm 103 (opcja)
 
 ## 🔆 DYNAMIKA: MODLITWA Z BIBLIĄ
-
-To piękne doświadczenie modlitwy, które można przeżyć wspólnotowo,
-łącząc **Słowo, ciało i gest**.
-Bo modlitwa to nie tylko słowa — to spotkanie całej osoby z Bogiem.
-
 
 ### 🩶 **I CZĘŚĆ – Modlitwa osobista z gestem**
 
@@ -98,34 +102,8 @@ symbolicznie oddając Bogu całe swoje jestestwo:
 6. **Na serce** – „Rozpal we mnie miłość do Twojego Słowa.”
 7. **W dłonie** – „Pomóż mi wcielać Słowo w życie, w czyn, w codzienność.”
 
-W tym momencie można zachować chwilę ciszy — pozwolić, by Duch Święty dotknął serca.
-
-### 💞 **II CZĘŚĆ – Modlitwa jeden za drugiego**
-
-Następnie uczestnicy modlą się za siebie nawzajem.
-Zamiast nakładać ręce, **kładą Biblię na głowę** drugiej osoby,
-modląc się krótko:
-
-> „Niech Słowo Boże rozświetli Twój umysł, umocni Twoje serce i prowadzi Cię drogą prawdy.”
-
-### ✝️ **III CZĘŚĆ – Błogosławieństwo Biblią**
-
-Na zakończenie duchowny (lub prowadzący) udziela błogosławieństwa,
-unosząc **Biblię** i czyniąc nią **znak krzyża**.
-
-Potem uczestnicy **błogosławią się nawzajem**, trzymając Biblię w dłoniach, mówiąc:
-
-> „Niech Słowo Boże będzie lampą dla Twoich stóp, mieczem w walce i młotem, który kształtuje Twoje serce.”
 
 ## 🕎 5º SŁOWO SIĘ ZAPAMIĘTUJE
-
-„Jeśli przyjmiesz moje słowa i zachowasz przy sobie moje nakazy,
-nachylisz swe ucho ku mądrości i skłonisz serce ku roztropności,
-jeśli będziesz jej szukał jak srebra, a jej poszukiwał jak skarbów,
-wtedy zrozumiesz bojaźń Pańską i osiągniesz poznanie Boga.”*
-*(Prz 2,1–5)*
-
-### 🕊️ 1️⃣ Słowo, które się nosi w sercu
 
 
 > *„Słuchaj, Izraelu! Pan jest naszym Bogiem – Panem jedynym!
@@ -151,7 +129,6 @@ wtedy zrozumiesz bojaźń Pańską i osiągniesz poznanie Boga.”*
 > Powitanie "Niech Bóg błogławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
 
 To najświętszy tekst judaizmu — **Słuchaj, Izraelu (Shema Israel)**.
-Słowo ma być w sercu, na ustach, na dłoniach, w drodze, w domu, w rodzinie.
 Słowo, które **pozostaje w sercu**, może przemieniać życie.
 
 
@@ -184,6 +161,7 @@ Gdy przyjdzie odpowiedni moment, Duch Święty przypomina to, co zostało w serc
 > *(Jk 1,22)*
 
 Słowo Boże jest jak **ziarno**, wpada na glębę serca i powoli kiełkuje.
+
 > Świadectwo. Jak Słowo zmienia moje życie.
 
 Nie wystarczy tylko znać Biblię – trzeba nią **żyć**.

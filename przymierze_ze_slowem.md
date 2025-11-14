@@ -16,14 +16,13 @@ albo inna pieśń
 > *"Jesteś piękny jak jaspis, jesteś piękny jak krwawnik, Tron twój otacza tęcza jak szmaragd." - to jest znowu Apokalipsa 4,3*
 
 Sam po sobie to zauważam, że bardzo cenię pieśni zanurzone w Słowo. Czasami jest taka pieśń tradycyjna, ale
-nazwijmy to poetycka wizja, to nie bardzo. Ale gdy jest tradycyjna i zanurzona to porusza. (Ile minut w godzinie, a godzin w wieczności)
+nazwijmy to poetycka wizja, to nie bardzo. Ale gdy jest tradycyjna i zanurzona w Słowie to TAK.
 
 ### 🙏 2️⃣ Biblia jako modlitewnik
 
 **Księgę Psalmów**, która jest **najpiękniejszym modlitewnikiem** zawartym w Biblii. Dlaczego?
-Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa, prześladowany przez Saula, 
-zdrady syna, ucieczki przed własnym Synem i walki z własnym dzieckiem,
-własnego grzechu, żal, śmierci dziecka i wreszcie – Bożego miłosierdzia.
+Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, 
+finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosiedzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,
 Wszystko to zawarł w Psalmach podczas swojego życia. Znajdziesz w nich emocje jak(gniew, lęk, radość) bo
 Psalmy to modlitewnik na każdą sytuację życiową.
 

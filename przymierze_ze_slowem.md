@@ -79,20 +79,20 @@ symbolicznie oddając Bogu całe swoje jestestwo:
 
  - Tefilin (hebr. תפילין) – po polsku: filakterie – to dwa małe czarne pudełka ze skóry. W środku znajdują się mikroskopijnie zapisane fragmenty Tory. Zakładane na czoło i na ramię podczas porannej modlitwy, by **Słowo było blisko serca i umysłu**. (Pwt 6,8)
 
-> Powitanie "Niech Bóg błogoławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
+> Powitanie "Niech Bóg błogosławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
 
 Czasem Duch Święty przypomina nam to, czego nawet nie wiedzieliśmy że pamiętamy
 
 > Przykład. Świadkowie Jehowy w Ustroniu, dyskusja o tym, że Jezus jest i Bogiem i człowiekiem, fragment Filipian "On istniejąc w postaci Bożej, nie skorzystał z tego, że jest równy Bogu, lecz ogołocił samego siebie, przyjąwszy postać sługi, stawszy się podobnym do ludzi. A z postaci podobnej ludziom uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci krzyżowej." (Flp 2,6-8)
 
+Łaska bazuje na naturze. Jeśli czytasz to Bóg może Ci przypomnieć przeczytany fragment.
+
 
 ### 💓 3️⃣ Maryja – pamięć Słowa
 
-> *„Jego Matka zachowywała wszystkie te słowa w swoim sercu.”*
-> *(Łk 2,51)*
+> *„Jego Matka zachowywała wszystkie te słowa w swoim sercu.”**(Łk 2,51)*
 
-Wszystkie słowa zachowywała. I te które rozumiała, i te których jeszcze **nie pojmowała**.
-I te z którymi się zgadzała, i te które były trudne w przyjęciu. Wszystkie.
+Wszystkie słowa zachowywała. Wszystkie. I te które rozumiała, i te których jeszcze **nie pojmowała**.
 
 ## 🌾 6º SŁOWEM SIĘ ŻYJE
 
@@ -101,34 +101,24 @@ I te z którymi się zgadzała, i te które były trudne w przyjęciu. Wszystki
 
 Słowo Boże jest jak **ziarno**, wpada na glebe serca i powoli kiełkuje.
 
-> Świadectwo. Jak Słowo zmienia moje życie.
+> Pamiętam 2021 oraz 2023 rok, kiedy AISP miało pierwszy i drugi rok działa. Kiedy zakończył się generalny pomiar ruchu, nie było tyle zleceń i przychodów, a mnóstwo pracy by stworzyć system, który automatycznie zlicza ruch. Zarabiałem wtedy mniej niż na etacie, były miesiące bez przychodów, kiedy tylko 500+ nas ratowało. Sprzedaż, marketing, obsługa klienta, dla inżyniera mnóstwo rzeczy, których musiałem się uczyć od zera, jak laik. Naprawdę nigdy w życiu nie czułe się tyle razy debilem, co od założenia DG. I emocjonalnie naprawdę było to trudne, szczególnie patrząc na swoje dzieci i marząc o większym mieszkaniu dla nich. Wtedy właśnie siegąłem po Psalm i przypominałem sobie że, 
+> *Ci, którzy we łzach sieją, będą zbierać z radością. Idą z płaczem, niosąc ziarno, lecz wracają z radością, niosąc snopy!* Ps 126,5-6
+>
+> Amen! *Niech tak będzie. Ogłaszam dzisiaj te słowo nad Tobą i nad Twoim biznesem.* Ja dzisiaj doświadczam wypełnienia tego słowa. GPR2025 się zakończył, zarobiliśmy dużo. Jest na pensje, na pensję dla pracownika. Dofinansowanie wpadło, robimy Liczboxa. Wszystko dlatego, że zżąłem to co 4 lata temu zasiałem we łzach. I potrzebowałem wtedy tego Słowa, aby wytrwać i się nie poddać.
 
 Nie wystarczy tylko znać Biblię – trzeba nią **żyć**.
 
-
-### 🪨 2️⃣ Na piasku czy na skale?
-
-> *„Każdy, kto słucha tych słów moich i wypełnia je, podobny jest do człowieka roztropnego,
-> który zbudował swój dom na skale.”*
+> *„Każdy, kto słucha tych słów moich i wypełnia je, podobny jest do człowieka roztropnego, który zbudował swój dom na skale.”*
 > *(Mt 7,24–27)*
 
-Podobnie w przypowieści o domu na skale oraz piasku, to nie jest tak że jeden słucha a drugi nie słucha.
-Oboje słyszą Słowo, ale tylko jeden je **wprowadza w czyn**.
+Jeśli chcesz mieć firmę na skale, to musisz nie tylko słuchać, ale wprowadzać w czyn.
 
 
-### 🌹 3️⃣ Maryja – Ta, która żyje Słowem
-
-Maryja w czasie zwiastowania odpowiada aniołowi:
+### 🌹 3️⃣ Maryja mówi do Anioła Gabriela
 
 > *„Niech mi się stanie według Twego Słowa.”* (Łk 1,38)
 
-To nie tylko zgoda — to **całkowite oddanie życia** w ręce Słowa.
-Dlatego potem, w Kanie Galilejskiej, może powiedzieć:
-
-> *„Zróbcie wszystko, cokolwiek wam powie.”* (J 2,5)
-
-Maryja nie tylko wierzy, ale **wprowadza w czyn** to, co usłyszała.
-I dlatego Słowo przez Nią staje się ciałem – dosłownie.
+To nie była zwykła zgoda — to było posłuszeństwo i **całkowite oddanie życia** w ręce Słowa.
 
 ## 🌈 7º SŁOWO SIĘ GŁOSI
 
@@ -140,75 +130,39 @@ Moim zdaniem, ze Słowem mamy odwrotny problem : zbyt mało się Nim dzielimy.
 Jak często dzielisz się Słowem które czytasz? (…)
 
 > Świadectwo. 
-> Ci którzy mnie znają wiedza, że od lat staram się dzielić Słowem Bożym, które mnie porusza. Odkąd odkryłem relacje na FB, to wrzucałem
-> tam fragmenty tego co mnie porusza w Słowe lub innej lekturze duchowe. Około 2 lata temu, pojawiły się kanały na WhatsApp i odkryłem, że
-> to idealne narzędzie dla mnie, żeby szybko, łatwo i po modltiwie wrzucić to co dla mnie ważne. Długo zastanawiałem się nad nazwą, aż w 
-> końcu na modlitwie odkryłem fragment 
+> Ci którzy mnie znają wiedza, że od lat staram się dzielić Słowem Bożym, które mnie porusza. Odkąd odkryłem relacje na FB, to wrzucałem tam fragmenty tego co mnie porusza w Słowe lub innej lekturze duchowe. Około 2 lata temu, pojawiły się kanały na WhatsApp i odkryłem, że to idealne narzędzie dla mnie, żeby szybko, łatwo i po modltiwie wrzucić to co dla mnie ważne. Długo zastanawiałem się nad nazwą, aż w  końcu na modlitwie odkryłem fragment 
 > *"Dobry człowiek z dobrego skarbca wydobywa dobre rzeczy, zły człowiek ze złego skarbca wydobywa złe rzeczy." Mt 12,35* 
-> Dobry Skarbiec. O tak, to było to co chciałem robić. Wrzucać tylko same perełki, same drogocenny rzeczy, bez zbędne szumu czy
-> zasypywania linkami. Obserwatorów DobrySkarbiec jest 54 osoby. Jak wrzuce FB+Whatsapp to zasięgi pewnie 100-200. Niemniej nie robię
-> tego dla zasięgów, po prostu chce dzielić się Słowem, które uważam za żywe. Czasem chodzi o tą jedną/dwie osoby, dla których to będzie 
-> ważne. Czasem wręcz mam wrażenie, że rzucam perły przed wieprze, w tym sensie, że wielu ludzi tego nawet nie docenia, nie rozumie.
-> Zauważyłem, też, że niektórzy ludzie (np po Alpha) chcą prowadzić życie duchowe, ale trudno im wytrwać ze Słowem. Wtedy taka moja relacja,
-> gdzie jest mały fragmencik, może być dla lekkostrawna porcją. *Czasem to czym się podzielisz, może być jedyną ewangelią, jaką ktoś usłyszy tego dnia.*
+> 
+> Dobry Skarbiec. O tak, to było to co chciałem robić. Wrzucać tylko same perełki, same drogocenny rzeczy, bez zbędne szumu czy zasypywania linkami. Obserwatorów DobrySkarbiec jest 54 osoby. Jak wrzuce FB+Whatsapp to zasięgi pewnie 100-200. Niemniej nie robię tego dla zasięgów, po prostu chce dzielić się Słowem, które uważam za żywe. Czasem chodzi o tą jedną/dwie osoby, dla których to będzie  ważne. Czasem wręcz mam wrażenie, że rzucam perły przed wieprze, w tym sensie, że wielu ludzi tego nawet nie docenia, nie rozumie. Zauważyłem, też, że niektórzy ludzie (np po Alpha) chcą prowadzić życie duchowe, ale trudno im wytrwać ze Słowem. Wtedy taka moja relacja, gdzie jest mały fragmencik, może być dla lekkostrawna porcją. *Czasem to czym się podzielisz, może być jedyną ewangelią, jaką ktoś usłyszy tego dnia.*
 
-**Słowo Boże nie jest darem tylko do zatrzymania dla siebie.**
+
 Ale czy tylko się dzielić?
 
 > *„Co wam mówię w ciemności, powtarzajcie w świetle, a co słyszycie na ucho — głoście na dachach.” (Mt 10,27)*
 
-Takim dachem 2025 właśnie może byc TikTok, Instagram (Facebook już raczej nie :) Głośmy.
-Głosić tak ale - zaskoczę was - w pierszej kolejności potrzebujemy głosić sobie. Ja sam potrzebuje usłyszeć Słowo, aby moja wiara wzrosłą.
-
-> Pamiętam 2021 oraz 2023 rok, kiedy AISP miało pierwszy i drugi rok działa. Kiedy zakończył się generalny pomiar ruchu, nie było
-> tyle zleceń i przychodów, a mnóstwo pracy by stworzyć system, który automatycznie zlicza ruch. Zarabiałem wtedy mniej niż na etacie,
-> były miesiące bez przychodów, kiedy tylko 500+ nas ratowało. Sprzedaż, marketing, obsługa klienta, dla inżyniera mnóstwo rzeczy, których
-> musiałem się uczyć od zera, jak laik. Naprawdę nigdy w życiu nie czułe się tyle razy debilem, co od założenia DG. I emocjonalnie
-> naprawdę było to trudne, szczególnie patrząc na swoje dzieci i marząc o większym mieszkaniu dla nich. Wtedy właśnie siegąłem po Psalm i przypominałem 
-> sobie że, *Ci, którzy we łzach sieją, będą zbierać z radością.Idą z płaczem, niosąc ziarno, lecz wracają z radością, niosąc snopy!* Ps 126,5-6
-> Amen! *Niech tak będzie. Ogłaszam dzisiaj te słowo nad Tobą i nad Twoim biznesem.* Ja dzisiaj doświadczam wypełnienia tego słowa. GPR2025 się
-> zakończył, zarobiliśmy dużo. Jest na pensje, na pensję dla pracownika. Dofinansowanie wpadło, robimy Liczboxa. Wszystko dlatego, że zżąłem to co
-> 4 lata temu zasiałem we łzach. I potrzebowałem wtedy tego Słowa, aby wytrwać i się nie poddać.
-
-Wreszcie samo Słowo Boże zachęca nas do głoszenia. Dlatego że Ewangelia chce biec. W życiu Pawła nie zatrzymały jej kajdany więzienia, bo nawet gdy On przebywał w więzieniu Mamertyńskim w Rzymie, to Łukasz, Tymoteusz, Barnaba i inni współpracownicy głosili. A jeśli nie da się zatrzymać Ewangelii, 
-to my jej też nie zatrzymujmy.
-
+Takim dachem 2025 właśnie może być TikTok, Instagram (Facebook już raczej nie :) Głośmy.
 Jedną z największych radości ucznia Jezusa nie jest „mieć Słowo”, ale **dzielić się Nim** — wiedzieć jak zmienia czyjeś życie.
-> Jeśli byłeś np. w ekipie Alpha, to wiesz jaką radość daje obserwowanie jak ludzie zmieniają się pod wpływem Słowa Bożego.
 
-### Krótka modlitwa (głoszący)
-Abyśmy nie zatrzymywali Słowa, tylko dzielili się tym co czyni Bóg.
+> Jeśli byłeś np. w ekipie Alpha, to wiesz jaką radość daje obserwowanie jak ludzie zmieniają się pod wpływem Słowa Bożego. Za tydzień będzie dzień Alpha Olszyna, można przyjść posługiwać (zgłoszenia Marcin).
 
-### 🎭 Zabieg dydaktyczny: Synteza siedmiu kolorów
+### 🎭 Zabieg dydaktyczny: Synteza 
 
 Przedstaw mową ciąła 7 kolorów tęczy/postaw : słucha się,  wierzy się, studiuje się, modli się, zapamiętuje się, żyje się, głosi się.
-**Której z tych 7 postaw najbardziej brakuje w twoim życiu?**
+Pytanie **Której z tych 7 postaw najbardziej brakuje w twoim życiu?**
 
+### 💍Obrączki 
 
-## 🌈 KONKLUZJA: PRZYMIERZE ZE SŁOWEM
-### 🪞 a. Podsumowanie i kotwica
-
-nasza odpowiedź na Słowo Boże jest jak **tęcza o siedmiu kolorach**.
-**Przymierze ze Słowem jest przymierzem z Jezusem Chrystusem.**
-
-> *„Nieznajomość Pisma Świętego jest nieznajomością Chrystusa.”*
-> *(św. Hieronim, za: *Dei Verbum*, 25)*
-
-### 💍 b. Zamknięcie – Obrączki przymierza
+Moja obrączka reprezentuje przymierze które zawarłem z Jadwigą. Zawsze są dwie - jedna moja, jedna Jadzi. Podobnie możemy zobrazować przymierze, które oferuje Ci Bóg.
 
 * **Pierścień pierwszy**: Bóg pokazał nam, czym jest Słowo i co czyni.
-* **Pierścień drugi**: teraz **nasza kolej**, by odpowiedzieć.
+* **Pierścień drugi**: twoja odpowiedź
 
-Czy chcesz odpowiedzieć na Słowo Boże? Twoja odpowiedź jest jak wzięcie
-do ręki kluczyka Ferarri i odpalenie w końcu tego silnika. By mknąć
-przez życie z prędkością Bożego Słowa.
+Czy chcesz odpowiedzieć na Słowo Boże? (..) Czy chcesz żeby te Ferrari jeździło, a nie tylko stało się kurzyło.
+Jeśli tak to rozdajmy karteczki.
 
-## ✨ DYNAMIKA: CELEBRACJA PRZYMIERZA ZE SŁOWEM BOŻYM
+## ✨ DYNAMIKA: Przymierze
 
-Każde słowo wymaga odpowiedzi. **Słowo Boga domaga się przymierza.**
-(Rozdaje się karteczki.) Jeżeli chcesz teraz odpowiedzieć to zapisz?
-
-Wszyscy **stają**, trzymając **Biblię w ręku** i wobec innych świadków.
+Wszyscy **stają**, trzymając **Biblię w ręku** i wobec innych świadków, godnie.
 
 > „Wobec Boga i wobec siebie nawzajem chcemy dziś odnowić nasze Przymierze ze Słowem.”
 
@@ -236,6 +190,10 @@ Przy każdym wezwaniu (które odnosi się do 7 kolorów) odpowiadamy: Maryjo. Ma
 - Maryjo, Matko Słowa, Ty która modliłaś się Słowem Bożym w hymnie Magnificat... 
 - Maryjo, Matko Słowa, ty która zaniosłaś Słowo Boże do twojej kuzynki Elżbiety... 
 
-Dziś poznaliśmy nowe imię Maryi. Ona jest Maryją - Matką Słowa.
+
+
+# Perły : Dynamika
+
+
 
 # Zdanie końcowe

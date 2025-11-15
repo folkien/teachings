@@ -1,40 +1,31 @@
-## ✝️ 4º SŁOWEM SIĘ MODLI
+(Dygresja : Kawał)
 
-### 📖 1️⃣ Słowo Boże, zachęca by Nim się modlić.
+## ✝️ 4º SŁOWEM SIĘ MODLI
 
 > *„Słowo Chrystusa niech w was mieszka w całym swym bogactwie: z całą mądrością nauczajcie i napominajcie samych siebie przez psalmy, hymny i pieśni pełne Ducha; pod wpływem łaski śpiewajcie Bogu w waszych sercach.”*
 > *(Kol 3,16)*
 
-św. Paweł ewidetnie wskazuje nam, że **Słowo Boże nadaje się do modlitwy**. Wręcz nakazuje abyśmy korzystali z psalmów czy pieśni 
-opartych na Biblii w modlitwie. Ile pieśni, które śpiewamy na spotkaniach jest zakorzenionych w Biblii?
+św. Paweł ewidetnie wskazuje nam, że **Słowo Boże nadaje się do modlitwy**. Wręcz nakazuje abyśmy korzystali z psalmów czy pieśni opartych na Biblii w modlitwie. Ile pieśni, które śpiewamy na spotkaniach jest zakorzenionych w Biblii?
 
-> *"Widzę 7 lamp, co świętym ogniem płonie. Szklane morze zmieszane z ogniem który płonie. Na tronie Syn człowieczy, jego oczy płoną, płoną." - przecież*
-> *to jest Apokalipsa 4,6*
+> *"Widzę 7 lamp, co świętym ogniem płonie. Szklane morze zmieszane z ogniem który płonie. Na tronie Syn człowieczy, jego oczy płoną, płoną." - przecież* *to jest Apokalipsa 4,6*
 
 albo inna pieśń
 
 > *"Jesteś piękny jak jaspis, jesteś piękny jak krwawnik, Tron twój otacza tęcza jak szmaragd." - to jest znowu Apokalipsa 4,3*
 
-Sam po sobie to zauważam, że bardzo cenię pieśni zanurzone w Słowo. Czasami jest taka pieśń tradycyjna, ale
-nazwijmy to poetycka wizja, to nie bardzo. Ale gdy jest tradycyjna i zanurzona w Słowie to TAK.
+Sam po sobie to zauważam, że bardzo cenię pieśni zanurzone w Słowo. 
 
 ### 🙏 2️⃣ Biblia jako modlitewnik
 
 **Księgę Psalmów**, która jest **najpiękniejszym modlitewnikiem** zawartym w Biblii. Dlaczego?
-Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, 
-finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosiedzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,
-Wszystko to zawarł w Psalmach podczas swojego życia (ok 73 szt napisał, nagłówek). Znajdziesz w nich emocje jak(gniew, lęk, radość) bo
-Psalmy to modlitewnik na każdą sytuację życiową.
+Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosiedzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,Wszystko to zawarł w Psalmach podczas swojego życia (ok 73 szt napisał, nagłówek). Znajdziesz w nich emocje jak(gniew, lęk, radość) bo Psalmy to modlitewnik na każdą sytuację życiową.
 
 > Świadectwo. Jest taka posługa w czasie kursu - wstawiennik który modli się w czasie trwania konferencji za nas. Różnie ludzie
-> tą posługę pełnią, niektórzy modlą się na różańcu, koronkę etc. Ja personalnie bardzo lubię wtedy modlić się Psalamami. Po prostu
-> przez 30-45min czytam po kolei Psalmy i modlę się. Naprawdę po takim czasie czuje się duchowo odświeżony i mam w sobie taki
-> głębszy pokój.
+> tą posługę pełnią, niektórzy modlą się na różańcu, koronkę etc. Ja personalnie bardzo lubię wtedy modlić się Psalamami. Po prostu przez 30-45min czytam po kolei Psalmy i modlę się. Naprawdę po takim czasie czuje się duchowo odświeżony i mam w sobie taki głębszy pokój.
 
 ### 🍞 3️⃣ Eucharystia zanurzona w Słowie
 
-Czy też **Eucharystii** — tam gdzie **Słowo staje się Ciałem**. Mamy też liturgię Słowa gdzie Bóg mówi do nas
-oraz liturgii Eucharystii my odpowiadamy całym sobą. Czy same teksty Mszału zanurzone w słowie jak
+Czy też **Eucharystii** — tam gdzie **Słowo staje się Ciałem**. Mamy też liturgię Słowa gdzie Bóg mówi do nas oraz liturgii Eucharystii my odpowiadamy całym sobą. Czy same teksty Mszału zanurzone w słowie jak
 
 > *"Panie, nie jestem godzien, abyś przyszedł do mnie, ale powiedz tylko słowo a będzie uzdrowiona dusza moja " (Mt 8,8)* - czyli parafraza słów setnika.
 > "Bierzcie i jedzcie z tego wszyscy: to jest Ciało moje, które za was będzie wydane." (Łk 22,19) - parafraza i cytat słów Jezusa podczas Ostatniej Wieczerzy.
@@ -120,7 +111,7 @@ symbolicznie oddając Bogu całe swoje jestestwo:
 > Przykład. Codzienna Biblia opowiadana przeze Mnie lub Jadzię.
 
  - Tefilin (hebr. תפילין) – po polsku: filakterie – to dwa małe czarne pudełka ze skóry. W środku znajdują się mikroskopijnie zapisane fragmenty Tory. Zakładane na czoło i na ramię podczas porannej modlitwy, by **Słowo było blisko serca i umysłu**. (Pwt 6,8)
-  
+
 > Przykład. Moja Babcia zawsze mówiła, że ja "mam pamięć do głupot." I miała rację. Uwierzcie mi, lub nie ale ze Słowem Bożym mam tak samo.
 > Pamiętam niektóre ctaty, ale najłątwiej zapamiętuje te zabawne czy kontrowersyjne. Czy mam przytoczyć?
 

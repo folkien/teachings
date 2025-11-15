@@ -9,19 +9,15 @@
 
 > *"Widzę 7 lamp, co świętym ogniem płonie. Szklane morze zmieszane z ogniem który płonie. Na tronie Syn człowieczy, jego oczy płoną, płoną." - przecież* *to jest Apokalipsa 4,6*
 
-albo inna pieśń
-
-> *"Jesteś piękny jak jaspis, jesteś piękny jak krwawnik, Tron twój otacza tęcza jak szmaragd." - to jest znowu Apokalipsa 4,3*
-
-Sam po sobie to zauważam, że bardzo cenię pieśni zanurzone w Słowo. 
+Przykład 2. Gdy słucham pieśni Maji Sowińskiej, są one dla mnie tak głęboko osadzone w Słowie bożym, że jestem przekonany że one urodziły się na modlitwie, na adoracji. (Mądrość przychodzi przez bojaźn - *"Bojaźń Pańska początkiem mądrości" Ps 111, 10)*
 
 ### 🙏 2️⃣ Biblia jako modlitewnik
 
 **Księgę Psalmów**, która jest **najpiękniejszym modlitewnikiem** zawartym w Biblii. Dlaczego?
-Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosiedzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,Wszystko to zawarł w Psalmach podczas swojego życia (ok 73 szt napisał, nagłówek). Znajdziesz w nich emocje jak(gniew, lęk, radość) bo Psalmy to modlitewnik na każdą sytuację życiową.
+Król Dawid doświadczał w życiu naprawdę wiele: w domu pogardzany, radości zwycięstwa nad Goliatem, prześladowany przez Saula, finalnie sam Króluje, własny grzech z Batszebą, żal, utrata dziecka, Boże miłosierdzie, zdradza Absaloma i ucieczki przed Nim i walki z własnym dzieckiem,Wszystko to zawarł w Psalmach podczas swojego życia (ok 73 szt napisał, nagłówek). Znajdziesz w nich emocje jak(gniew, lęk, radość) bo Psalmy to modlitewnik na każdą sytuację życiową.
 
 > Świadectwo. Jest taka posługa w czasie kursu - wstawiennik który modli się w czasie trwania konferencji za nas. Różnie ludzie
-> tą posługę pełnią, niektórzy modlą się na różańcu, koronkę etc. Ja personalnie bardzo lubię wtedy modlić się Psalamami. Po prostu przez 30-45min czytam po kolei Psalmy i modlę się. Naprawdę po takim czasie czuje się duchowo odświeżony i mam w sobie taki głębszy pokój.
+> tą posługę pełnią, niektórzy modlą się na różańcu, koronkę etc. Ja personalnie bardzo lubię wtedy modlić się Psalamami. Po prostu przez 30-45 min czytam po kolei Psalmy i modlę się. Naprawdę po takim czasie czuje się duchowo odświeżony i mam w sobie taki głębszy pokój.
 
 ### 🍞 3️⃣ Eucharystia zanurzona w Słowie
 
@@ -31,20 +27,9 @@ Czy też **Eucharystii** — tam gdzie **Słowo staje się Ciałem**. Mamy też�
 > "Bierzcie i jedzcie z tego wszyscy: to jest Ciało moje, które za was będzie wydane." (Łk 22,19) - parafraza i cytat słów Jezusa podczas Ostatniej Wieczerzy.
 
 
-### ⛓️ 4️⃣ Moc modlitwy Słowem – Paweł i Sylas
+### ⛓️ 4️⃣ Jak się modlić?
 
-> *„O północy Paweł i Sylas modlili się i śpiewali hymny Bogu, a więźniowie ich słuchali.
-> Nagle powstało silne trzęsienie ziemi, tak że zachwiały się fundamenty więzienia;
-> wszystkie drzwi się otworzyły i wszystkim kajdany spadły z rąk.”*
-> *(Dz 16,25–26)*
-
-Paweł i Sylas nie lamentowali, nie biadolili, ale wielbili Boga pieśniami.
-Może to były psalmy, może wprost śpiewali Słowo (pieśń nowa) i wtedy **mury więzienia się zatrzęsły**.
-Modlitwa Słowem co czyni?  **Uwalnia** - nie tylko z fizycznych więzów, ale z duchowych — z lęku, z rozpaczy, z zamknięcia.
-
-> Świadectwo. 19 lat temu się nawróciłem, ale Słowem codziennie się modlę od 12 lat. Co się działo w między-czasie? Próbowałem
-> się modlić codziennie Słowe, ale różnie było. Potrafiłem czytać 1dzień po 45min, a potem 7 dni nic. Potem znów 3 dni po 30min i 
-> przerwa. Co mi pomogło w regularności?
+> Świadectwo. 19 lat temu się nawróciłem, ale Słowem codziennie się modlę od 12 lat. Co się działo w między-czasie? Próbowałem się modlić codziennie Słowe, ale różnie było. Potrafiłem czytać 1dzień po 45min, a potem 7 dni nic. Potem znów 3 dni po 30min i  przerwa. Co mi pomogło w regularności?
 > - po pierwsze kierownik duchowy, zwrócił mi uwagę, że lepiej czytać 5min codziennie niż 1h/tydzień. Co prawda jest krótko, ale robi
 > się z tego nawyk.
 > - po drugie kierownik zwrócił mi uwagę, że zawsze mam czytać. Nawet jak nagrzeszę. Bo ja wcześniej się zwalniałem z modlitwy, bo przecież
@@ -55,28 +40,15 @@ Modlitwa Słowem co czyni?  **Uwalnia** - nie tylko z fizycznych więzów, ale z
 
 ### 🌹 5️⃣ Maryja – kobieta modlitwy Słowem
 
-Maryja w swoim *Magnificat* modli się tekstami **Pism**. Jej serce było tak nasycone Słowem, że kiedy spotyka Elżbietę
-Słowo uwielbienia i modlitwy wypłynęło z niej spontanicznie. Jej hymn to mozaika cytatów ze Starego Testamentu. 
-To pokazuje jak dobrze znała Słowo i jak nimi żyła.
+Serce Maryji było tak nasycone Słowem, że kiedy spotyka Elżbietę, słowo uwielbienia i modlitwy wypływa z niej spontanicznie. Jej słowa, hymn nazywamy Magnificat i jest to  to mozaika cytatów ze ST.
 
 > *„Wielbi dusza moja Pana i raduje się duch mój w Bogu, Zbawcy moim.”* (Łk 1,46–47)
-Odwołanie do psalmów
-Ps 34,4 – „Wysławiajcie ze mną Pana, imię Jego wspólnie wywyższajmy!”
+Odwołanie do 
 Ps 35,9 – „Dusza moja rozraduje się w Panu i będzie weselić się Jego zbawieniem.”
 
 > Bo wejrzał na uniżenie Służebnicy swojej
 Odwołanie do 
 1 Sm 1,11 – modlitwa Anny: „Wejrzyj na uniżenie swojej służebnicy.”
-
-«Oto bowiem błogosławić mnie będą odtąd wszystkie pokolenia»
-Sigla:
-> Rdz 30,13 – „Błogosławioną zwać mnie będą wszystkie pokolenia.”
-
-> Strąca władców z tronu, a wywyższa pokornych
-Odwołanie do
-1 Sm 2,7–8 – „Pokornych podnosi.”
-
-## Modlitwa Psalm 103 (opcja)
 
 ## 🔆 DYNAMIKA: MODLITWA Z BIBLIĄ
 
@@ -97,61 +69,37 @@ symbolicznie oddając Bogu całe swoje jestestwo:
 ## 🕎 5º SŁOWO SIĘ ZAPAMIĘTUJE
 
 
-> *„Słuchaj, Izraelu! Pan jest naszym Bogiem – Panem jedynym!
-> Będziesz miłował Pana, Boga swego, z całego swego serca, z całej duszy i ze wszystkich sił.
-> Niech pozostaną w twym sercu te słowa, które ja ci dziś nakazuję.
-> Wpoisz je twoim synom, będziesz o nich mówił, przebywając w domu i w podróży, kładąc się spać i wstając.
-> Przywiążesz je sobie do ręki jako znak i będą jako przepaska między twoimi oczami.
-> Wypisz je na odrzwiach swojego domu i na bramach.”*
+> *„Słuchaj, Izraelu! Pan jest naszym Bogiem – Panem jedynym! Będziesz miłował Pana, Boga swego, z całego swego serca, z całej duszy i ze wszystkich sił. Niech pozostaną w twym sercu te słowa, które ja ci dziś nakazuję. Wpoisz je twoim synom, będziesz o nich mówił, przebywając w domu i w podróży, kładąc się spać i wstając. Przywiążesz je sobie do ręki jako znak i będą jako przepaska między twoimi oczami. Wypisz je na odrzwiach swojego domu i na bramach.”*
 > *(Pwt 6,4–9)*
 
 Żydzi ogromną wagę przywiązywali do **zapamiętywania Słowa Bożego**.
  - Ojciec miał obowiązek uczyć dzieci Tory (*Wpoisz te słowa twoim synom… będziesz o nich mówił…” (Pwt 6,7)*)
 
-> Przykład. Codzienna Biblia opowiadana przeze Mnie lub Jadzię.
+> Przykład. Codzienna Biblia opowiadana przeze Mnie lub Jadzię. Odkąd mam dzieci, dużo lepiej pamiętam i znam historie biblijne, bo je ciągle opowiadam.
 
  - Tefilin (hebr. תפילין) – po polsku: filakterie – to dwa małe czarne pudełka ze skóry. W środku znajdują się mikroskopijnie zapisane fragmenty Tory. Zakładane na czoło i na ramię podczas porannej modlitwy, by **Słowo było blisko serca i umysłu**. (Pwt 6,8)
 
-> Przykład. Moja Babcia zawsze mówiła, że ja "mam pamięć do głupot." I miała rację. Uwierzcie mi, lub nie ale ze Słowem Bożym mam tak samo.
-> Pamiętam niektóre ctaty, ale najłątwiej zapamiętuje te zabawne czy kontrowersyjne. Czy mam przytoczyć?
+> Powitanie "Niech Bóg błogoławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
 
- - Mały pojemnik przy każdym żydowskim domu – dziś także przy drzwiach mieszkań, biur, uczelni, hoteli.W środku znajduje się zwinięty pergamin z Szema Izrael (Pwt 6,4–9 oraz 11,13–21). („Wypiszesz je na odrzwiach swojego domu i na bramach.” (Pwt 6,9))
+Czasem Duch Święty przypomina nam to, czego nawet nie wiedzieliśmy że pamiętamy
 
-> Powitanie "Niech Bóg błogławi każdego kto odwiedza Ten dom". Albo we Wrocławiu mieliśmy ramki z cytatami ulubionymi.
-
-To najświętszy tekst judaizmu — **Słuchaj, Izraelu (Shema Israel)**.
-Słowo, które **pozostaje w sercu**, może przemieniać życie.
+> Przykład. Świadkowie Jehowy w Ustroniu, dyskusja o tym, że Jezus jest i Bogiem i człowiekiem, fragment Filipian "On istniejąc w postaci Bożej, nie skorzystał z tego, że jest równy Bogu, lecz ogołocił samego siebie, przyjąwszy postać sługi, stawszy się podobnym do ludzi. A z postaci podobnej ludziom uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci krzyżowej." (Flp 2,6-8)
 
 
 ### 💓 3️⃣ Maryja – pamięć Słowa
-
-Ewangelia mówi o Maryi:
 
 > *„Jego Matka zachowywała wszystkie te słowa w swoim sercu.”*
 > *(Łk 2,51)*
 
 Wszystkie słowa zachowywała. I te które rozumiała, i te których jeszcze **nie pojmowała**.
-I te z którymi się zgadzała, i te które były trudne w przyjęciu.
-Wszystkie.
-
-Gdy przyjdzie odpowiedni moment, Duch Święty przypomina to, co zostało w sercu zapisane.
-
-> Przykład. Świadkowie Jehowy w Ustroniu, dyskusja o tym, że Jezus jest i Bogiem i człowiekiem, fragment Filipian "On istniejąc w postaci Bożej, nie skorzystał z tego, że jest równy Bogu, lecz ogołocił samego siebie, przyjąwszy postać sługi, stawszy się podobnym do ludzi. A z postaci podobnej ludziom uniżył samego siebie, stawszy się posłusznym aż do śmierci, i to śmierci krzyżowej." (Flp 2,6-8)
-
-
-### 📖 5️⃣ Czytanie biblijne: *Pwt 6,4–9*
+I te z którymi się zgadzała, i te które były trudne w przyjęciu. Wszystkie.
 
 ## 🌾 6º SŁOWEM SIĘ ŻYJE
-
-> *„Bo bardzo blisko ciebie jest Słowo: w twoich ustach i w twoim sercu, abyś je wypełniał.”*
-> *(Pwt 30,14)*
-
-### 🌱 1️⃣ Słowo, które musi zakiełkować
 
 > *„Wprowadzajcie zaś Słowo w czyn, a nie bądźcie tylko słuchaczami oszukującymi samych siebie.”*
 > *(Jk 1,22)*
 
-Słowo Boże jest jak **ziarno**, wpada na glębę serca i powoli kiełkuje.
+Słowo Boże jest jak **ziarno**, wpada na glebe serca i powoli kiełkuje.
 
 > Świadectwo. Jak Słowo zmienia moje życie.
 
@@ -181,16 +129,6 @@ Dlatego potem, w Kanie Galilejskiej, może powiedzieć:
 
 Maryja nie tylko wierzy, ale **wprowadza w czyn** to, co usłyszała.
 I dlatego Słowo przez Nią staje się ciałem – dosłownie.
-
-
-### 📖 6️⃣ Czytanie biblijne: *2 Tm 1,6–11*
-> Właśnie dlatego przypominam ci, abyś rozpalił na nowo Boży dar łaski, który otrzymałeś przez nałożenie moich rąk. 7Bóg bowiem nie dał nam ducha bojaźni, ale mocy, miłości i opanowania. 8Dlatego nie wstydź się świadczyć o naszym Panu ani nie wstydź się mnie, Jego więźnia, lecz razem ze mną znoś cierpienia dla Ewangelii, ufając mocy Boga.9On nas zbawił i dał nam święte powołanie nie dzięki naszym czynom, lecz zgodnie ze swoim postanowieniem i łaską. Łaska ta była nam dana przed wiekami w Chrystusie Jezusie, 10a obecnie została objawiona przez ukazanie się naszego Zbawiciela, Chrystusa Jezusa. On zniszczył śmierć, a ukazał blask życia i nieśmiertelności – przez Ewangelię.
-Dla niej zostałem ustanowiony głosicielem, apostołem i nauczycielem
-> 2 Tm 1,6–11
-Ten tekst można odczytać jako modlitwę posłania:
-Słowo ma w nas płonąć, prowadzić, oświecać i przemieniać świat.
-
-Żeby ludzie, patrząc na mnie, mogli powiedzieć: „To człowiek Ewangelii.”Nie dlatego, że dużo mówi o Bogu, ale dlatego, że **Bóg jest widoczny w jego czynach.**
 
 ## 🌈 7º SŁOWO SIĘ GŁOSI
 

@@ -1,4 +1,8 @@
-
+Pytanie : Na kursie prawo jazdy, ile godzin teorii potrzeba, aby zastąpić praktykę, czyli jazdy próbne?
+(..) 
+Dokładnie. I tak samo jest z tym o czym bedę dzisiaj mówił, czyli z charyzmatami. Więc jeśli nie wejdziesz
+naprawdę w służbę, prowadzenie modlitwy, prowadzenie śpiewu, modlitwę wstawienniczą, głoszenie czy bycie animatorem, to niestety, ale ten wykład może być tylko piękną teorią. Z ciekawymi przykładami, pięknym
+świadectwami, ale.. tylko teorią.
 
 ## Już w ST Bóg mówił przez obrazy, znaki i słowa
 
@@ -36,9 +40,46 @@ Objawia się w czasie prowadzenia modlitwy uwielbienia lub wstawienniczej. Modl
 
 Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
 
+## Warunki posługi - co pomaga?
+
+1. Trwanie w łasce uświęcającej. Wiadomo, da się w stanie grzechu lekkiego, zresztą na codzień
+jesteśmy często w takim stanie. Niemniej dużo łatwiej jest gdy mamy czyste i wyciszone serce. Więc
+jeśli możesz, to wyprostu to co trzeba. 
+2. Trwanie w obecności Bożej, poprzez codzienną modlitwę, życie sakramentami. 
+3. Wyciszenie emocji, a nie że serce jest jak łajba na wzburzonym morzu. Jak niektórzy wiedzą, ja 
+gdy mam posługę czy zbliża się dzień Alpha, to szukam takiego wyciszenia i unikam dodatkowych emocji. Jak
+mam coś trudneg w pracy czy życiu, to czasem przekładam to na po weekendzie Alpha.
+
+(fragment z dobry skarbiec o walce o serce)
+
 ## Wszystkie słowa i znaki należy rozeznawać 
 
 1J 4, 1 PAU "Umiłowani, nie wierzcie każdemu duchowi, lecz rozeznawajcie duchy, czy są od Boga, gdyż wielu fałszywych proroków pojawiło się na świecie."
+
+W charyzmatach chodzi zawsze o podjęcie tzw. "ryzyka wiary". Wiara oznacza, że nie jest to pewność, ale 
+zawsze jest miejsce na zaufanie. Dlatego tak często w ekipie Alpha podkreślam : 
+- że mówimy "wierzę, że.." zamiast "Na pewno masz..",
+- lub pytamy "Mam takie coś, czy coś Ci mówi?",
+- że jeśli nie masz nic (żadnych przekonań) to nie mów na siłę, (łatwo wtedy pobożne myśli lub własne emocje, np współczucie pomylić z charyzmatem),
+
+Niestety są też nadużycia w tej materii czy wręcz da się kogoś skrzywdzić. O ile prowadząc uwielbienie lub
+śpiew publicznie trudniej skrzywdzić, o tyle dużo łatwiej w czasie modlitwy wstaienniczej(bo masz autorytet nad penitentem, on się otwiera i przez to jest podatny) lub na grupce
+dzielenia. Niestety takie nadużycia się zdarzają, a wręcz mogą być powodem do interwencji lidera, pasterza lub nawet Bisukupa. 
+
+>> Przykład. We Wrocławiu wspólnota Agaliasis - znana z pięknego uwielbienia - była pod kuratorium 
+>> biskupa oraz dostała list ostrzegawczy ze wskazaniami. List jest publiczny, czytałem go. Jednym z 
+>> powodów było właśnie, że pod wpływem natchnień animator wchodził zbyt mocno w przestrzeń małżenśtwa
+>> i próbował wpływać czy kierować nimi.
+
+Więc jeśli ktoś chciałby pod "natchnieniem" wchodzić w przestrzeń zarezwowną dla małżonków, czy dla
+spowiednika, to myślę że niech się szykuje na rozmowę z liderem, księdzem czy całym naszym gronem odpowiedzialnych. Pamiętajmy, że Ðuch Święty jest Duchem wolności i szanuje wolność człowieka (sam ją nam dał). A nowe przymierze, jest przymierzem z przekonania, z serca, a nie z lęku przed karą czy nakazu wypełniania prawa.
+Przymus, wymuszanie posłuszeństwa, brak miejsca na twoją wolność i wybór, jest raczej cechą fałszywej
+pobożności, czy wręcz byśmy powiedzieli sekciarstwa. Więc róbmy, to w wolności "wierzę, że Bóg daje 
+Słowo XYZ". itd
+
+>> "Świat potrzebuję dzisiaj bardziej świadków, niż nauczycieli, a jeśli nauczycieli, to takich którzy są świadkami" - Evangelii Nuntiandi - Paweł VI
+
+>> Alpha - gospodarz a nie animator, wejść w równorzędna rolę z uczestnikiem, nie nad nim.
 
 Antyprzykład. Słowem poznania może skrzywdzić kogoś, szczególnie jeśli jest wypowiadane :
 - z przekonaniem - "to jest od Boga", "jestem pewny", "Bóg tak mówi",

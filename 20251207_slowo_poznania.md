@@ -1,8 +1,18 @@
-Pytanie : Na kursie prawo jazdy, ile godzin teorii potrzeba, aby zastąpić praktykę, czyli jazdy próbne?
+# Wstęp
+
+*Pytanie : Na kursie prawo jazdy, ile godzin teorii potrzeba, aby zastąpić praktykę, czyli jazdy próbne?*
 (..) 
+
 Dokładnie. I tak samo jest z tym o czym bedę dzisiaj mówił, czyli z charyzmatami. Więc jeśli nie wejdziesz
-naprawdę w służbę, prowadzenie modlitwy, prowadzenie śpiewu, modlitwę wstawienniczą, głoszenie czy bycie animatorem, to niestety, ale ten wykład może być tylko piękną teorią. Z ciekawymi przykładami, pięknym
-świadectwami, ale.. tylko teorią.
+naprawdę w służbę, prowadzenie modlitwy, prowadzenie śpiewu, modlitwę wstawienniczą, głoszenie czy bycie animatorem, 
+to niestety, ale ten wykład może być tylko piękną teorią. Z ciekawymi przykładami, pięknym świadectwami, ale.. tylko teorią.
+
+W naszej książce M.Zieliński mówi :
+
+> Dary aktywują się również w miejscu posługi. (..) Ludzie często mówią, że nie mają żadnego charyzmaty albo że nie wiedzą, jaki mają - 
+> a ja im wtedy odpowiadam "W piątek po południu idziemy na ulicę ewangelizować, chodź sprawdzisz jaki masz."
+
+Wniosek : Dzisiaj będzie taki czas na praktykę, zachęcam w czasie Uwielbienia (moment ciszy), ale również po grupce dzielenia (pyt 2. pomódl się za kogoś)
 
 ## Już w ST Bóg mówił przez obrazy, znaki i słowa
 
@@ -87,3 +97,12 @@ Antyprzykład. Słowem poznania może skrzywdzić kogoś, szczególnie jeśli je
 
 Dlatego zawsze mówimy "wierzę, że",  lub pytamy "Czy coś Ci mówi ten obraz? Wydaje mi się że może być dla Ciebie?".
 
+# Modlitwa o słowo poznania
+
+*Duchu Święty, proszę Cię, byś teraz przyszedł i by moc uzdrawiania, czynienia wspaniałych rzeczy, która jest w Tobie, została potężnie udzielona tym, którzy o to proszą. Przyjdź do głodnych serc i udziel im swojego namaszczenia. Niech dar słowa poznania będzie uwolniony, byśmy lepiej słyszeli, czuli, widzieli i stali się jeszcze doskonalszymi narzędziami w Twoich rękach. Duchu Święty, przyjdź teraz. Prosimy!*
+
+
+## Pytania do dzielenia
+
+1. Czy w twoim życiu objawiają się charyzmaty? Jakie?
+2. Czy ktoś z grupki potrzebuje dzisiaj modlitwy? (modlitwa wstawiennicza)

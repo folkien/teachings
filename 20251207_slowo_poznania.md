@@ -41,13 +41,17 @@ Czujecie to? Słowo poznania może uratować rozprawę sądową. Duch Święty m
 tego testować (bo nie chciałbym mieć rozprawy), ale jeżeli czegoś takie doświadczas, to zobacz co może zrobić Duch Święty!
 My się chyba musimy modlić za naszych sędziów, żeby Duch Święty w nich działał!
 
-Stary Testament zawierał też obietnice działania Ducha Świętego nie tylko w szczególnych osobach, ale w każdym z Nas. TODO o Joelu
+W ST Duch Święty działał punktowo – w prorokach, sędziach, królach, w wybranych osobach i na określony czas.
+Jednak w ST prorok Joel zapowiedział coś zupełnie nowego!
+
 *Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."*
+
+Ducha Świętego który działa w życiu zwykłych ludzi, w zwykłych sytuacjach. Bóg będzie się komunikować ze swoim ludem bezpośrednio, a nie tylko
+przez pośredników (jak w ST).
 
 ## W NT słowa tej obietnicy wypełniły się w Dniu 50-tnicy
 
-Ten sam cytat z proroka Joela, przytacza św. Piotr w Dniu Pięćdziesiątnicy, gdy języki ognia zstąpiły na apostołów i wszyscy zaczęli mówić różnymi językami. 
-Zapisano w Dziejach Apostolskich:
+To, o czym mówię, wypełniło się w dniu 50-tnicy. Ten sam cytat z proroka Joela, przytacza wtedy św. Piotr , gdy języki ognia zstąpiły na apostołów i wszyscy zaczęli mówić różnymi językami. 
 
 *Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować."*
 

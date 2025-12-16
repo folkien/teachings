@@ -11,22 +11,47 @@ W naszej książce M.Zieliński mówi :
 
 > Dary aktywują się również w miejscu posługi. (..) Ludzie często mówią, że nie mają żadnego charyzmaty albo że nie wiedzą, jaki mają - 
 > a ja im wtedy odpowiadam "W piątek po południu idziemy na ulicę ewangelizować, chodź sprawdzisz jaki masz."
+Marcin Zieliński, s. 65 "Rozpal Wiarę"
 
 Wniosek : Dzisiaj będzie taki czas na praktykę, zachęcam w czasie Uwielbienia (moment ciszy), ale również po grupce dzielenia (pyt 2. pomódl się za kogoś)
 
-## Już w ST Bóg mówił przez obrazy, znaki i słowa
+# Zachęta
 
+> Ludzie mówią mi często, że nie słyszą Bożego głosu. Prawda jest jednak taka, że Bóg mówi do nas regularnie, każdego dnia, ale my
+> często jesteśmy rozregulowani i nie umiemy wyłapać tych momentów, ani rozpoznać poruszenia w duchu. Czasem, spodziewając się 
+> wielkiego grzmotu z nieba, bagatelizujemy ten cichy głos wewnątrz nas.
+Marcin Zieliński, s. 57 "Rozpal Wiarę"
 
-## Bóg już w ST zapowiedział że tak będzie
+W tym nauczaniu chciałbym pomóc Ci odkryć, że Duch Święty mówi do Ciebie częściej niż o tym myślisz. I, że czasem myśli, odczucia,
+jakieś wyobrażenia, które On daje mogą być dotyczyć drugiego człowieka. Właściwie tak moglibyśmy zdefiniować charyzmat `słowa poznania`.
 
-Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."
+## Skąd się to w ogóle bierze?
 
-*Przykład. Daniel był młodzieńcem (generalnie się nie liczył, tylko raczej starsi Izraeala) gdy sądzona była Zuzanna. Dzięki interwencji Ducha Świętego Daniel otrzymał mądrość, aby rozpoznać prawdę i zadać odpowiednie pytania dwóm starcom, o miejsce/drzewo pod którym Zuzanna spotykała się z kochankami. (Dn 13,45-46 PAU)* - Możemy to porównać do młodzieńca na zebraniu wiejskim w remizie, gdzie cała wieś jest przeciwko komuś, a on 1 osoba ratuje sytuację.
+## Duch Święty już w ST działa
 
+Zuzanna była oskarżona przez dwóch starców o cudzołóstwo. Była niewinna, ale nie miała świadków i została skazana na śmierć. Gdy szła na śmierć i 
+modliła się o wybawienie, wtedy nagle
 
-## W dniu 50-tnicy w NT wypełniły się te słowa
+*Pan wysłuchał jej głosu. I gdy prowadzono ją na śmierć, Bóg wzbudził świętego ducha w młodym mężczyźnie o imieniu Daniel. Zawołał on donośnym głosem: „Ja nie jestem winny jej krwi!”. Wszyscy zwrócili się w jego stronę, mówiąc: „Co znaczą słowa, które wypowiedziałeś?”. On stanął przed nimi i powiedział: „Czy aż tak niemądrzy jesteście, Izraelici! Skazaliście tę córkę Izraela bez dochodzenia i nie mając pewności? Wracajcie do sądu, bo oni fałszywie zeznali w jej sprawie”.* 
+Dn 13, 44-49 PAU
 
-Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować."
+Daniel był młodzieńcem (generalnie się nie liczył, tylko raczej starsi Izraela). Dzięki interwencji Ducha Świętego Daniel otrzymał poznanie prawdy i mądrość by zadać odpowiednie pytania dwóm starcom (pytanie o miejsce schadzek i drzewo) (charyzmat i dar).
+
+Czujecie to? Słowo poznania może uratować rozprawę sądową. Duch Święty może w czasie rozprawy zstąpić i pozwolić odkryc prawdę! Nie chciałbym 
+tego testować (bo nie chciałbym mieć rozprawy), ale jeżeli czegoś takie doświadczas, to zobacz co może zrobić Duch Święty!
+My się chyba musimy modlić za naszych sędziów, żeby Duch Święty w nich działał!
+
+Stary Testament zawierał też obietnice działania Ducha Świętego nie tylko w szczególnych osobach, ale w każdym z Nas. TODO o Joelu
+*Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."*
+
+## W NT słowa tej obietnicy wypełniły się w Dniu 50-tnicy
+
+Ten sam cytat z proroka Joela, przytacza św. Piotr w Dniu Pięćdziesiątnicy, gdy języki ognia zstąpiły na apostołów i wszyscy zaczęli mówić różnymi językami. 
+Zapisano w Dziejach Apostolskich:
+
+*Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować."*
+
+TODO : Przykład słowa poznania z Dziejów
 
 ## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
 
@@ -40,6 +65,25 @@ Ale nie kosztem miłości. św. Paweł mowi
 *Świadectwo. Szukam Boga i nie zastanawiam się nad tym jaki mam aktualnie charyzmat, ani też się nie nakręcam na żaden konkretny. Miłość jest ważniejsza. Charyzmaty objawiają się jak roślina czy drzewo, po prostu naturalnie kwitniesz w Bożej obecnośći i zaczynają się pojawiać pierwsze owoce. Jest ich więcej,stają się powtarzalne, inne osoby zaczynają je zauważać. Wtedy mówimy o tym że wspólnota widzi i rozeznaje że szczególnie objawia się w tobie dany charyzmat. Co nie znaczy że inne też się nie mogą pojawiać.*
 
 *Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
+
+# Słowo poznania = Czym jest?
+
+To konkretna informacja, którą Duch Święty daje:
+
+- stanie serca,
+- o sytuacji,
+- o potrzebie,
+- o miejscu, gdzie Bóg chce działać (np. uzdrowienie, przebaczenie, decyzja).
+
+Sama nazwa wskazuje **"poznanie"** czyli Bóg coś objawia, daje Ci coś zrozumieć. 
+Może być odbierane  :
+
+- myślą jako obraz,
+- myślą jako tekst,
+- myślą jako przekonanie (coś mi się wydaje że..),
+- odczucie fizycznym lub emocjonalnym (np. ciepło, ucisk, lekkość).
+
+
 
 
 # Słowo prorocze

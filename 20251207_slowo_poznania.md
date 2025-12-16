@@ -79,19 +79,6 @@ Gdy jesteśmy posłuszni, to wtedy dzieją się cuda.
 Ananiasz zanim wyjdzie do Szawła, to się boi, dyskutuje z Bogiem, ma swoje obawy. To pokazuje, że Duch Święty nie odbiera wolności 
 ani rozumu – zawsze możemy go nie posłuchać, zawsze możemy go zignorować. Zachęcam by tego nie robić. :)
 
-## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
-
-1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."
-
-
-Ale nie kosztem miłości. św. Paweł mowi
-
-1Kor 13, 1-3 PAU "Gdybym mówił językami ludzi i aniołów, a miłości bym nie miał, stałbym się jak miedź brzęcząca albo cymbał brzmiący. Gdybym miał dar prorokowania i znał wszystkie tajemnice i posiadał wszelką wiedzę, a także miał wiarę taką, że góry przenosić bym mógł, a miłości bym nie miał, niczym jestem. Gdybym rozdał na jałmużnę cały mój majątek, a ciało swoje wydał na spalenie, a miłości bym nie miał, nic mi to nie pomoże."
-
-*Świadectwo. Szukam Boga i nie zastanawiam się nad tym jaki mam aktualnie charyzmat, ani też się nie nakręcam na żaden konkretny. Miłość jest ważniejsza. Charyzmaty objawiają się jak roślina czy drzewo, po prostu naturalnie kwitniesz w Bożej obecnośći i zaczynają się pojawiać pierwsze owoce. Jest ich więcej,stają się powtarzalne, inne osoby zaczynają je zauważać. Wtedy mówimy o tym że wspólnota widzi i rozeznaje że szczególnie objawia się w tobie dany charyzmat. Co nie znaczy że inne też się nie mogą pojawiać.*
-
-*Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
-
 # Słowo poznania = Czym jest?
 
 To konkretna informacja, którą Duch Święty daje:
@@ -109,6 +96,22 @@ Może być odbierane  :
 - myślą jako przekonanie (coś mi się wydaje że..),
 - odczucie fizycznym lub emocjonalnym (np. ciepło, ucisk, lekkość).
 
+
+
+## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
+
+1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."
+
+
+Ale nie kosztem miłości. św. Paweł mowi
+
+1Kor 13, 1-3 PAU "Gdybym mówił językami ludzi i aniołów, a miłości bym nie miał, stałbym się jak miedź brzęcząca albo cymbał brzmiący. Gdybym miał dar prorokowania i znał wszystkie tajemnice i posiadał wszelką wiedzę, a także miał wiarę taką, że góry przenosić bym mógł, a miłości bym nie miał, niczym jestem. Gdybym rozdał na jałmużnę cały mój majątek, a ciało swoje wydał na spalenie, a miłości bym nie miał, nic mi to nie pomoże."
+
+*Świadectwo. Szukam Boga i nie zastanawiam się nad tym jaki mam aktualnie charyzmat, ani też się nie nakręcam na żaden konkretny. Miłość jest ważniejsza. Charyzmaty objawiają się jak roślina czy drzewo, po prostu naturalnie kwitniesz w Bożej obecnośći i zaczynają się pojawiać pierwsze owoce. Jest ich więcej,stają się powtarzalne, inne osoby zaczynają je zauważać. Wtedy mówimy o tym że wspólnota widzi i rozeznaje że szczególnie objawia się w tobie dany charyzmat. Co nie znaczy że inne też się nie mogą pojawiać.*
+
+Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
+
+*Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
 
 # Modlitwa o słowo poznania
 
@@ -130,7 +133,6 @@ Objawia się w czasie prowadzenia modlitwy uwielbienia lub wstawienniczej. Modl
 
 *Świadectwo. W czasie kursu NŻ modilłem się we Wrocławiu wstawienniczo z Aldoną za jedną osobę. Aldona prowdziłą ja się modliłem w językach. W pewnym momencie poczułem, że już nie potrafię się modlić językami tylko przychodzą mi jakieś słowa, które mam ogłaszać. Ducha Święty dawał mi takie słowa i po prostu zamieniłem moją modlitwę w wypowiadanie tych słów proroczych nad tą osobą, też tak że ona je słyszała. Nie pamiętam ich dokładnie, ale to było coś w stylu "Moje drogie dziecko, jesteś moją kochaną córką, błogosławię Cię. etc(..)"*
 
-Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
 
 ## Warunki posługi - co pomaga?
 

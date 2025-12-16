@@ -55,7 +55,29 @@ To, o czym mówię, wypełniło się w dniu 50-tnicy. Ten sam cytat z proroka Jo
 
 *Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować."*
 
-TODO : Przykład słowa poznania z Dziejów
+Przykładem `słowa poznania` w DZ jest historia Ananiasza i Szawła.
+
+*Dz 9,10-12 „W Damaszku był pewien uczeń imieniem Ananiasz. Pan przemówił do niego w widzeniu: «Ananiaszu!» A on odpowiedział: «Oto ja, Panie». Pan zaś powiedział do niego: «Wstań i idź na ulicę Prostą, i zapytaj w domu Judy o Szawła z Tarsu; oto bowiem modli się i widzi w widzeniu męża imieniem Ananiasz, który wchodzi i kładzie na niego ręce, aby przejrzał».”*
+
+Ananiasz dostaje bardzo konkretne informacje. Jakie? (..)
+– imię osoby,
+– miejsce,
+– aktualny stan duchowy („modli się”),
+– i to, co Bóg chce zrobić (uzdrowienie wzroku).
+
+To jest słowo poznania. 
+
+Świadectwo : Na zjeździe RCA W Łodzi, modliliśmy się wstawienniczoa za siebie. Modliłem się nad 1 dziewczyną, której nie znałem.
+W czasie modlitwy zobaczyłem obraz "ogródek z kwiatami, białe płotki, ona szczęśliwa" oraz drugi "małe przytulne pomieszczenie, ona klęczy przed
+otwartą Biblią, czyta, przed nią stoi Jezu i jej objaśnia." Okazało się, że mieszka PN-WSCH Polski i jeździ tam do takiej małej miejscowości na
+adoracje, bierze ze sobą Biblię i modli się, czyta ją z Jezusem. Tam też są takie ogródki mi potwierdza.
+Ja jej nie znałem i nie wiedziałem co te obrazy mogą znaczyć. Po prostu byłem posłuszny i jej przekazałem to, co zobaczyłem.
+
+Naszą reakcją na słowo poznania powinno być posłuszeństwo. Ananiasz wstaje i idzie, a wtedy dzieje się cuda - otwierają się oczy Szawła.
+Gdy jesteśmy posłuszni, to wtedy dzieją się cuda.
+
+Ananiasz zanim wyjdzie do Szawła, to się boi, dyskutuje z Bogiem, ma swoje obawy. To pokazuje, że Duch Święty nie odbiera wolności 
+ani rozumu – zawsze możemy go nie posłuchać, zawsze możemy go zignorować. Zachęcam by tego nie robić. :)
 
 ## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
 
@@ -88,7 +110,19 @@ Może być odbierane  :
 - odczucie fizycznym lub emocjonalnym (np. ciepło, ucisk, lekkość).
 
 
+# Modlitwa o słowo poznania
 
+*Duchu Święty, proszę Cię, byś teraz przyszedł i by moc uzdrawiania, czynienia wspaniałych rzeczy, która jest w Tobie, została potężnie udzielona tym, którzy o to proszą. Przyjdź do głodnych serc i udziel im swojego namaszczenia. Niech dar słowa poznania będzie uwolniony, byśmy lepiej słyszeli, czuli, widzieli i stali się jeszcze doskonalszymi narzędziami w Twoich rękach. Duchu Święty, przyjdź teraz. Prosimy!*
+
+
+## Pytania do dzielenia
+
+1. Czy w twoim życiu objawiają się charyzmaty? Jakie?
+2. Czy ktoś z grupki potrzebuje dzisiaj modlitwy? (modlitwa wstawiennicza)
+
+----------------------------
+
+Temat : Proroctwo
 
 # Słowo prorocze
 
@@ -144,13 +178,3 @@ Antyprzykład. Słowem poznania może skrzywdzić kogoś, szczególnie jeśli je
 - w autorytecie - co to znaczy mieć autorytet? Np. wstawiennik ma autorytet względem osobny omadlanej. Animator względm uczestnika grupy. Głoszący względem słuchaczy, czy lider względem wspólnoty. Sam boleśnie się o tym przekonałem, gdy byłem liderem. Pamiętam jak zwróciłem się do kogoś z uwagą, koretką czy żeby coś poprawić. Powiedziałem to tak zwyczajnie, ale ta osoba odbrała to bardzo mocno, bo powiedział to lider. Zrozumiałem wtedy, że sama Twoja posługa dodaje ciężaru Twoim słowom, więc trzeba tym bardziej być łagodnym i uważnym gdy się mówi. Sam autorytet sprawi, że twoja słowa będą 2x cięższe.
 
 Dlatego zawsze mówimy "wierzę, że",  lub pytamy "Czy coś Ci mówi ten obraz? Wydaje mi się że może być dla Ciebie?".
-
-# Modlitwa o słowo poznania
-
-*Duchu Święty, proszę Cię, byś teraz przyszedł i by moc uzdrawiania, czynienia wspaniałych rzeczy, która jest w Tobie, została potężnie udzielona tym, którzy o to proszą. Przyjdź do głodnych serc i udziel im swojego namaszczenia. Niech dar słowa poznania będzie uwolniony, byśmy lepiej słyszeli, czuli, widzieli i stali się jeszcze doskonalszymi narzędziami w Twoich rękach. Duchu Święty, przyjdź teraz. Prosimy!*
-
-
-## Pytania do dzielenia
-
-1. Czy w twoim życiu objawiają się charyzmaty? Jakie?
-2. Czy ktoś z grupki potrzebuje dzisiaj modlitwy? (modlitwa wstawiennicza)

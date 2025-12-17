@@ -46,7 +46,7 @@ My się chyba musimy modlić za naszych sędziów, żeby Duch Święty w nich 
 W ST Duch Święty działał punktowo – w prorokach, sędziach, królach, w wybranych osobach i na określony czas.
 Jednak w ST prorok Joel zapowiedział coś zupełnie nowego!
 
-*Jl 3,1 PAU "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."*
+*Jl 3,1 "A po tym wszystkim wyleję mojego Ducha na każde stworzenie. Będą prorokować wasi synowie i wasze córki, starcy wasi będą mieli sny, a młodzieńcy - widzenia."*
 
 Ducha Świętego który działa w życiu zwykłych ludzi, w zwykłych sytuacjach. W Twoim życiu w Twoich sytuacjach.
 Bóg będzie się komunikować ze swoim ludem bezpośrednio, a nie tylko przez pośredników (jak w ST).
@@ -55,7 +55,7 @@ Bóg będzie się komunikować ze swoim ludem bezpośrednio, a nie tylko przez p
 
 To, o czym mówię, wypełniło się w dniu 50-tnicy. Ten sam cytat z proroka Joela, przytacza wtedy św. Piotr , gdy języki ognia zstąpiły na apostołów i wszyscy zaczęli mówić różnymi językami. 
 
-*Dz 2,17-18 PAU "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować. (..) 34 Wyniesiony na prawicę Boga, otrzymał od Ojca obietnicę Ducha Świętego i zesłał Go, 34 jak to sami widzicie i słyszycie."*
+*Dz 2,17-18 "I stanie się w ostatnich dniach, mówi Bóg, wyleję z mego Ducha na wszelkie ciało, a wasi synowie i wasze córki będą prorokować, wasi młodzieńcy będą widzieć widzenia, a wasi starcy będą mieć sny. Także na moich sług i na moich służebnicach wyleję w tych dniach z mego Ducha, i będą prorokować. (..) 34 Wyniesiony na prawicę Boga, otrzymał od Ojca obietnicę Ducha Świętego i zesłał Go, 34 jak to sami widzicie i słyszycie."*
 
 Przykładem `słowa poznania` w DZ jest historia Ananiasza i Szawła.
 
@@ -69,11 +69,11 @@ Ananiasz dostaje słowo dotyczące innej osoby. Czego się dowiedział? (..)
 
 To jest słowo poznania. 
 
-Świadectwo : Na zjeździe RCA W Łodzi, modliliśmy się wstawienniczoa za siebie. Modliłem się nad 1 dziewczyną, której nie znałem.
-W czasie modlitwy zobaczyłem obraz "ogródek z kwiatami, białe płotki, ona szczęśliwa" oraz drugi "małe przytulne pomieszczenie, ona klęczy przed
-otwartą Biblią, czyta, przed nią stoi Jezu i jej objaśnia." Okazało się, że mieszka PN-WSCH Polski i jeździ tam do takiej małej miejscowości na
-adoracje, bierze ze sobą Biblię i modli się, czyta ją z Jezusem. Tam też są takie ogródki mi potwierdza.
-Ja jej nie znałem i nie wiedziałem co te obrazy mogą znaczyć. Po prostu byłem posłuszny i jej przekazałem to, co zobaczyłem.
+> Świadectwo : Na zjeździe RCA W Łodzi, modliliśmy się wstawienniczoa za siebie. Modliłem się nad 1 dziewczyną, której nie znałem.
+> W czasie modlitwy zobaczyłem obraz "ogródek z kwiatami, białe płotki, ona szczęśliwa" oraz drugi "małe przytulne pomieszczenie, ona klęczy przed
+> otwartą Biblią, czyta, przed nią stoi Jezu i jej objaśnia." Okazało się, że mieszka PN-WSCH Polski i jeździ tam do takiej małej miejscowości na
+> adoracje, bierze ze sobą Biblię i modli się, czyta ją z Jezusem. Tam też są takie ogródki mi potwierdza.
+> Ja jej nie znałem i nie wiedziałem co te obrazy mogą znaczyć. Po prostu byłem posłuszny i jej przekazałem to, co zobaczyłem.
 
 Naszą reakcją na słowo poznania powinno być posłuszeństwo. Ananiasz wstaje i idzie, a wtedy dzieje się cuda - otwierają się oczy Szawła.
 Gdy jesteśmy posłuszni, to wtedy dzieją się cuda.
@@ -103,17 +103,25 @@ Może być odbierane  :
 > Przykład. Modlitwa za Madzię w czasie kursu Abraham o uzdrowienie nóg, żylaki. Naprawdę to były jedne z pierwszych moich modlitw wstawienniczych
 > z życiu, więc młody bez doświadczenia. I nagle poczułem fizyczne ciepło w łydkach.
 
-
 - myślą jako przekonanie/wrażenie (coś mi się wydaje że..),
 > Przykład. Czasem nie mamy nic konkretnego ale tylko delikatne przekonanie np o kierunku prowadzenia modlitwy.
 
-> Przykład. Prowadzenie uwielbienia.
-Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
+> Świadectwo. Prowadzenie modlitwy
+> Modlitwę uwielbienia się odkrywa. Zazwyczaj jak staje do uwielbienia, to wiem gdzie zaczynamy, ale nigdy nie wiem gdzie skończymy. I jak tam
+> dojdziemy. Moje doświadczenie jest, że to w trakcie Bóg odsłania kolejny krok. Dzieje się. I jest od jakiegoś czasu we mnie bojaźń przed
+> stawaniem w miejscu prowadzącego. Bo nie wiem co zrobi Bóg, bo mnie wyciąganie ze strefy komfortu. Bo się wygłupie, bo czasem nie rozumiem
+> jego pomysłów. Bym chciał rozumieć, ale po prostu jestem posłuszny wtedy. (np. wszyscy chcielibyśmy widzieć uzdrowienia, ale kiedy to Ty
+> masz powiedzieć słowo poznania o uzdrowieniu, to już nie jest takie komfortowe, co nie? To jest właśnie ryzyko wiary - bo nie masz nigdy
+> pewności, że to co rozeznanje w sobie jako natchnienie jest w 100% prawdziwe. Dlatego mówimy "wierzę że..", "mam przekonanie", albo na
+> modlitwie wstaw. "Czy coś Ci mówi..")
 
+Są prowadzący, którzy przychodzą ze swoim nastawieniem na modlitwę. Tylko, że mnie doświadczenie uczy, że ważniejsze jest to co `teraz` robi
+Bóg, niż to co ja `rano sobie` zaplanowałem. Że jak mi teraz muzyczni i drugi prowadzący idą w tą stronę, to ja nie mogę kurczowo się trzymać tego
+co na kartce zapisałem.
 
 ## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
 
-*1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."*
+*1Kor 14, 1 "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."*
 
 Dlaczego św. Paweł tak mocno zachęca, żebyśmy starali się o dary duchowe? (..)
 Bo bez działania Ducha Świętego Kościół bardzo szybko staje się tylko `instytucją`, a chrześcijaństwo – zbiorem zasad (moralność). 
@@ -122,17 +130,18 @@ Dlatego jeżeli chcesz widzieć odnowione parafie, ludzi których życie się zm
 to potrzebujemy nadzwyczajnego działania Ducha Świętego. Potrzebujemy charyzmatów. *Im większa misja przed Tobą, tym bardziej potrzebujesz łaski.*
 
 Charyzmaty nie są po to, żeby inni mówili `patrz jaki on/ona jest duchowa`.
+*W każdym uwidacznia się działanie Ducha dla wspólnego dobra. 1 Kor 12, 7*
+Charyzmaty są dane dla służby. Celem charyzmatów jest drugi człowiek.
 One dzieją się dlatego, bo Bóg chce coś zrobić w życiu innej osoby. Chce to zrobić przez Ciebie.
 
 1. Więc jeśli jakieś przekonanie, myśli Ci przyjdzie w czasie modlitwy, to podziel się. Zaryzykuj.
 2. Jeśli jednak, nie - to nie wymyślaj na siłę. Bądź posłuszny - jak trzeba to mówisz, a jak nie to nie mówisz.
 
-# Modlitwa o słowo poznania
+# Dynamika : Modlitwa prośby o objawianie się słów poznania
 
 *Duchu Święty, proszę Cię, byś teraz przyszedł i by moc uzdrawiania, czynienia wspaniałych rzeczy, która jest w Tobie, została potężnie udzielona tym, którzy o to proszą. Przyjdź do głodnych serc i udziel im swojego namaszczenia. Niech dar słowa poznania będzie uwolniony, byśmy lepiej słyszeli, czuli, widzieli i stali się jeszcze doskonalszymi narzędziami w Twoich rękach. Duchu Święty, przyjdź teraz. Prosimy!*
-
 
 ## Pytania do dzielenia
 
 1. Czy w twoim życiu objawiają się charyzmaty? Jakie?
-2. Czy potrzebujesz modlitwy? (modlitwa całej grupki wstawiennicza)
+2. Czy potrzebujesz modlitwy? (modlitwa kolejno grupki nad osobami)

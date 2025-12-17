@@ -96,30 +96,33 @@ Może być odbierane  :
 - myśl (tekst)
 > Przykład. Edyta, uzdrowienie z bólu głowy, słowo poznania Marcina z Czerwca.
 
-- myślą jako obraz,
-- myślą jako przekonanie/wrażenie (coś mi się wydaje że..),
->
+- obraz,
+> Już było.
   
 - odczucie fizycznym lub emocjonalnym (np. ciepło, ucisk, lekkość).
 > Przykład. Modlitwa za Madzię w czasie kursu Abraham o uzdrowienie nóg, żylaki. Naprawdę to były jedne z pierwszych moich modlitw wstawienniczych
 > z życiu, więc młody bez doświadczenia. I nagle poczułem fizyczne ciepło w łydkach.
 
 
+- myślą jako przekonanie/wrażenie (coś mi się wydaje że..),
+> Przykład. Czasem nie mamy nic konkretnego ale tylko delikatne przekonanie np o kierunku prowadzenia modlitwy.
+
+> Przykład. Prowadzenie uwielbienia.
+Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
+
 
 ## Mamy się starać o dary duchowe (posłuszeństwo Bogu przejawia się przez szukanie Jego woli i darów duchowych)
 
-1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."
+*1Kor 14, 1 PAU "Starajcie się o miłość, ale ubiegajcie się też o dary duchowe, zwłaszcza o dar prorokowania."*
 
+Dlaczego św. Paweł tak mocno zachęca, żebyśmy starali się o dary duchowe? (..)
+Bo bez działania Ducha Świętego Kościół bardzo szybko staje się tylko `instytucją`, a chrześcijaństwo – zbiorem zasad (moralność). 
 
-Ale nie kosztem miłości. św. Paweł mowi
+Dlatego jeżeli chcesz widzieć odnowione parafie, ludzi których życie się zmienia, zmiane społeczeństwa poprzez zmiane życia jednostek
+to potrzebujemy nadzwyczajnego działania Ducha Świętego. Potrzebujemy charyzmatów. *Im większa misja przed Tobą, tym bardziej potrzebujesz łaski.*
 
-*1Kor 13, 1-3 PAU "Gdybym mówił językami ludzi i aniołów, a miłości bym nie miał, stałbym się jak miedź brzęcząca albo cymbał brzmiący. Gdybym miał dar prorokowania i znał wszystkie tajemnice i posiadał wszelką wiedzę, a także miał wiarę taką, że góry przenosić bym mógł, a miłości bym nie miał, niczym jestem. Gdybym rozdał na jałmużnę cały mój majątek, a ciało swoje wydał na spalenie, a miłości bym nie miał, nic mi to nie pomoże."*
-
-*Świadectwo. Szukam Boga i nie zastanawiam się nad tym jaki mam aktualnie charyzmat, ani też się nie nakręcam na żaden konkretny. Miłość jest ważniejsza. Charyzmaty objawiają się jak roślina czy drzewo, po prostu naturalnie kwitniesz w Bożej obecnośći i zaczynają się pojawiać pierwsze owoce. Jest ich więcej,stają się powtarzalne, inne osoby zaczynają je zauważać. Wtedy mówimy o tym że wspólnota widzi i rozeznaje że szczególnie objawia się w tobie dany charyzmat. Co nie znaczy że inne też się nie mogą pojawiać.*
-
-Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak naprawdę objawia się w trakcie, kolejny krok. Bóg odsłania kolejny motyw, kolejny krok. Czasem przychodzimy z jakimś nastawieniem, czasem z jakimś planem, czy przekonaniami z dnia. To wszystko jest ważne, ale jeszcze ważniejsze jest co Bóg mówi teraz! Mogą być pomocne te myśli, ale jeśli tu i teraz przychodzi nowe natchnienie, to powinnieneś za Nim pójść.
-
-*Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
+Charyzmaty nie są po to, żeby inni mówili `patrz jaki on/ona jest duchowa`.
+Ono jest po to, żeby ktoś realnie doświadczył Boga – tu i teraz, w swojej konkretnej historii.
 
 # Modlitwa o słowo poznania
 
@@ -135,6 +138,14 @@ Modlitwę uwielbienia się odkrywa. W czasie prowadzenia uwielbienia, tak napraw
 
 Temat : Proroctwo
 
+
+Ale nie kosztem miłości. św. Paweł mowi
+
+*1Kor 13, 1-3 PAU "Gdybym mówił językami ludzi i aniołów, a miłości bym nie miał, stałbym się jak miedź brzęcząca albo cymbał brzmiący. Gdybym miał dar prorokowania i znał wszystkie tajemnice i posiadał wszelką wiedzę, a także miał wiarę taką, że góry przenosić bym mógł, a miłości bym nie miał, niczym jestem. Gdybym rozdał na jałmużnę cały mój majątek, a ciało swoje wydał na spalenie, a miłości bym nie miał, nic mi to nie pomoże."*
+
+*Świadectwo. Szukam Boga i nie zastanawiam się nad tym jaki mam aktualnie charyzmat, ani też się nie nakręcam na żaden konkretny. Miłość jest ważniejsza. Charyzmaty objawiają się jak roślina czy drzewo, po prostu naturalnie kwitniesz w Bożej obecnośći i zaczynają się pojawiać pierwsze owoce. Jest ich więcej,stają się powtarzalne, inne osoby zaczynają je zauważać. Wtedy mówimy o tym że wspólnota widzi i rozeznaje że szczególnie objawia się w tobie dany charyzmat. Co nie znaczy że inne też się nie mogą pojawiać.*
+
+*Przykład. Objawia się umnie często słowo poznania gdy uwielbienie lub modlitwa wstawiennicza. Natomiast charyzmat "tłumaczenia języków" to może raz czy dwa razy w moim życiu się pojawił. Więc możemy rozeznać/stwierdzić/potwierdzić, że te mam, co nie przeczy innym. Nie ograniczamy Ducha Święty, które może działać jak chce.* 
 # Słowo prorocze
 
 Objawia się w czasie prowadzenia modlitwy uwielbienia lub wstawienniczej. Modlitwa może byc prorocza.

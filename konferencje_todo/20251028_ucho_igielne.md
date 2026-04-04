@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, przedsiebiorcosc]
+status: todo
+date: 2025-10-28
+topic: "Ucho igielne"
+---
+
 Jezus powiedział do uczniów: „Zapewniam was: Człowiek bogaty z trudem wejdzie do królestwa niebieskiego. 24Powtarzam wam: Łatwiej wielbłądowi przejść przez ucho igielne, niż bogatemu wejść do królestwa Bożego”. 25Gdy uczniowie to usłyszeli, bardzo się zdumieli i pytali: „Któż więc może się zbawić?”. 26Jezus przyjrzał się im uważnie i odpowiedział: „Dla ludzi to niemożliwe, ale dla Boga wszystko jest możliwe”. Mt 19, 23-26
     1. Historia o uchu igielnym.
     • Brama w Jerozolimie i wielbad,

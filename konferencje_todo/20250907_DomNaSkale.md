@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, slowo_boze]
+status: todo
+date: 2025-09-07
+topic: "Dom na Skale"
+---
+
 # Dom Na Skale - 7 września 2025
 
 **Cytat** : Mt 7, 24-39

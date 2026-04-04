@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, slowo_boze, swiadectwa]
+status: todo
+date: 2025-11-30
+topic: "Świadectwa - Słowo Boże"
+---
+
 1.  Bez fragmentu - uzdrowienie zranienia z dzieciństwa w czasie modlitwy Słowem Bożym. Zranienie dot. relacji z Mamą i Babcią - nakładanie pracy, wymagania i oczekiwania a brak możliwości realizacji i moja frustracja.
    
 2. 1 Tm 4,11 - 16 - Porusza o nałożeniu rąk, o głoszeniu słowa, umocnienie w decyzjach w tym co robię, w wierności i wierze. O tym że zacząłem głosić.   1 Tm 5, 17 - też dobre.

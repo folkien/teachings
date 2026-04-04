@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, charyzmaty]
+status: todo
+date: 2025-12-07
+topic: "Słowo poznania"
+---
+
 # Wstęp
 
 *Pytanie : Na kursie prawo jazdy, ile godzin teorii potrzeba, aby zastąpić praktykę, czyli jazdy próbne?*

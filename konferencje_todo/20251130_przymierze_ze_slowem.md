@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, slowo_boze]
+status: todo
+date: 2025-11-30
+topic: "Przymierze ze Słowem"
+---
+
 (Dygresja : Kawał)
 
 ## ✝️ 4º SŁOWEM SIĘ MODLI

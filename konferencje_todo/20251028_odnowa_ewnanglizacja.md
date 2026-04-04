@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, ewangelizacja]
+status: todo
+date: 2025-10-28
+topic: "Odnowa ewangelizacja"
+---
+
 Fragment : Łk 24, 13 - 35
     1. Przygniecione serce.😮 (Zniechęcenie)
 Lecz ich oczy były jakby przyćmione i nie mogli Go rozpoznać. (..) Przystanęli smutni. (..)A my mieliśmy nadzieję, że to On wyzwoli Izraela. (..) kobiet wprawiły nas w zdumienie (..) ale Jego nie widzieli”.

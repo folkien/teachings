@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, uzdrowienie]
+status: todo
+date: 2025-10-29
+topic: "Uzdrowienie"
+---
+
 # Wstęp - aktualne wydarzenia
 
 ### Dygresja : 1/3 jakości dzisiejszego spotkania zależy od waszego stolika.

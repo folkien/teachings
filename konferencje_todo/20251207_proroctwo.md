@@ -1,3 +1,9 @@
+---
+tags: [nauczanie, sne/lubecko, charyzmaty]
+status: todo
+date: 2025-12-07
+topic: "Proroctwo"
+---
 
 Temat : Proroctwo
 

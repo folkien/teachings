@@ -1,3 +1,9 @@
+---
+tags: [wiedza, zasady, osobiste]
+type: zasady
+topic: "Moje zasady życia"
+---
+
 Reguła. Nie krzyczymy na siebie i nie wołamy. Krzyk jest tylko oznaką wołania o pomoc.
 
 Reguła. Wzajemny szacunek, gdy prosimy innych o pomoc, szanujemy że mogą odmówić. Nie wymuszamy pomocy, nie krzyczymy, nie płaczemy, nie manipulujemy.

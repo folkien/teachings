@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, uzdrowienie]
+status: todo
+date: 2025-09-29
+topic: "Uwolnienie i uzdrowienie"
+---
+
 # Wstęp - aktualne wydarzenia
 
 Mam mówić o uzdrowieniu fizycznym, ale czytając grupy wspólnotowe można odnieść wrażenie  bardziej potrzebujemy uzdrowienia wewnętrznego. A przynajmniej ze sobą porozmawiać, że sobie coś wyjaśnic. Gdy o tym myślałem dwa cytaty ze Słowa Bożego przyszły mi do głowy

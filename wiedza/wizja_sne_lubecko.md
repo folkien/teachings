@@ -1,3 +1,9 @@
+---
+tags: [wiedza, sne/lubecko, wspolnota, wizja]
+type: wizja
+topic: "Wizja SNE Lubecko"
+---
+
       Wizja:
         ◦ Kościół zewangelizowany i ewangelizujący, który jest jak Dom, w którym każdy może się poczuć dobrze i ugoszczony.
             ▪ Pragniemy Kościoła pełnego życia i miłości, gdzie każdy człowiek czuje się akceptowany, kochany i zaproszony do wspólnoty. Widzimy Kościół nie tylko jako miejsce ewangelizacji, ale również jako dom gościnności dla wszystkich.

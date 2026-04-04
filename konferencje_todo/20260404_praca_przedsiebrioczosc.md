@@ -1,3 +1,9 @@
+---
+tags: [nauczanie, sne/lubecko, przedsiebiorcosc]
+status: todo
+date: 2026-04-04
+topic: "Praca i przedsiębiorczość"
+---
 
 # Dygresja początkow o obrazie Boga i świata.
 

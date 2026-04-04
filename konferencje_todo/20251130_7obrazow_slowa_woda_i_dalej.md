@@ -1,3 +1,10 @@
+---
+tags: [nauczanie, sne/lubecko, slowo_boze]
+status: todo
+date: 2025-11-30
+topic: "7 obrazów Słowa - Woda i dalej"
+---
+
 💧 4º SŁOWO JEST WODĄ I DESZCZEM
 📖 Iz 55,10–11; J 7,37–38; J 19,34; J 4,15; Ps 42
 

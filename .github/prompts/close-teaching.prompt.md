@@ -18,6 +18,7 @@ Znajdź w tekście i wyekstrahuj:
 - **Świadectwa** – osobiste historie i przeżycia (szczególnie łączące biznes, rodzinę i wiarę).
 - **Złote myśli** – kluczowe tezy, światopogląd, mocne kerygmatyczne zdania.
 - **Przykłady i analogie** – anegdoty, obrazy, nawiązania do technologii, AI, zarządzania.
+- **Styl pisania autora** – charakterystyczne cechy języka i przekazu (np. ton, rytm, słownictwo, sposób budowania obrazów, typowe konstrukcje, częste wezwania/dopełnienia).
 
 ## Krok 3 – Zapis Wiedzy
 
@@ -27,6 +28,12 @@ Podziel wyekstrahowane treści wg kategorii i dopisz je na koniec odpowiednich p
 - Cytaty ważne / złote myśli → `wiedza/cytaty_wazne.md`
 - Cytaty z Kościoła (KKK, dokumenty) → `wiedza/cytaty_kk.md`
 - Przykłady → `wiedza/przyklady.md`
+- Styl pisania autora → `wiedza/styl_pisania.md`
+
+W `wiedza/styl_pisania.md` nie tylko dopisuj obserwacje, ale aktualizuj istniejący szablon stylu autora:
+- dopisz nowe cechy, jeśli są powtarzalne i charakterystyczne,
+- popraw/uzupełnij sekcje, jeśli nowe nauczanie pokazuje dojrzalszy lub inny sposób komunikacji,
+- zachowuj formę krótkich, praktycznych punktów do użycia przy tworzeniu kolejnych nauczań.
 
 Do każdego fragmentu dodaj na końcu link wsteczny w formacie Obsidian:
 `(Źródło: [[Nazwa_Pliku_Bez_Rozszerzenia]])`
@@ -60,7 +67,7 @@ Po przeniesieniu zweryfikuj:
 ## Podsumowanie
 
 Zwróć krótkie podsumowanie w punktach:
-- Co wyekstrahowano (ile świadectw, myśli, przykładów)
+- Co wyekstrahowano (ile świadectw, myśli, przykładów oraz jakie zmiany w szablonie stylu)
 - Do jakich plików wiedzy dopisano treści
 - Potwierdzenie przeniesienia pliku oraz usunięcia go z `konferencje_todo/`
 

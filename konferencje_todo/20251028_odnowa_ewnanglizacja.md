@@ -1,6 +1,6 @@
 ---
-tags: [nauczanie, sne/lubecko, ewangelizacja]
-status: todo
+tags: [nauczanie, sne/lubecko, ewangelizacja, odnowa, swiadectwo]
+status: archived
 date: 2025-10-28
 topic: "Odnowa ewangelizacja"
 ---

@@ -251,6 +251,54 @@ Brak miejsca w domu był dla mnie źródłem napięcia, lęku i żalu do Boga. N
 
 ---
 
+## Kurs Błogosławieni - od pustki do nowego smaku życia
+
+Na kurs jechałem jak puste naczynie: rozczarowany decyzjami życiowymi i sytuacją firmy. W czasie kursu serce zostało napełnione i odnowione. Po powrocie nic zewnętrznie się nie zmieniło: ta sama rodzina, ta sama firma, ten sam dom, ten sam stan konta. Zmieniło się wnętrze. Gdy Bóg daje "nową sól", to codzienność nabiera nowego smaku bez zmiany dekoracji.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Przejście z dojrzałej wspólnoty do młodego zespołu i oparcie na Bogu
+
+Po 9 latach we Wrocławiu (mocna formacja, autorytet kierownika duchowego, stabilna wspólnota) przeprowadzka do nowego miejsca była zderzeniem z inną rzeczywistością: młodzież, studenci, świeżo wyświęcony ksiądz i nagle rola "najbardziej doświadczonego". To doświadczenie przesunęło środek ciężkości z oparcia na człowieku na głębsze oparcie na Bogu i Słowie. W praktyce: więcej modlitwy Słowem, więcej rozeznawania natchnień, więcej osobistego prowadzenia przez Ducha Świętego.
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+## Głoszenie dla trzech osób i umocnienie przez 1 Tm 4,11-16
+
+Po odpływie młodzieży na studia wspólnota skurczyła się do kilku osób. Zdarzały się nauczania przygotowywane 2 dni, które finalnie słuchały 3 osoby. W tym kryzysie sensu i skuteczności autor otrzymał mocne umocnienie przez 1 Tm 4,11-16: Bóg zna jego sytuację, wie o młodym wieku, o odpowiedzialności za formację i o drodze potwierdzonej nałożeniem rąk. Owocem była wytrwałość w posłudze mimo małych liczb.
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+## Spotkanie odpowiedzialnych - Bóg pierwszy pragnie ewangelizacji
+
+W maju, na spotkaniu odpowiedzialnych, przyszło wewnętrzne przekonanie: "Jeżeli wy nie będziecie wołać, to kamienie wołać będą". To doświadczenie ustawiło mi perspektywę: to nie ja "wymyślam" misję, ale Bóg pierwszy pragnie głoszenia i szuka ludzi, którzy odpowiedzą na Jego serce.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Konferencja SITK - posłuszeństwo natchnieniu mimo kosztu
+
+W dzień wyjazdu na urlop dostałem zaproszenie do wystąpienia na konferencji SITK w Poznaniu. Nie chciałem mieszać wakacji z pracą, ale przez cały wyjazd czułem wewnętrzne przynaglenie. Odpowiedziałem posłuszeństwem i pojechałem. Na miejscu zobaczyłem, jak wiele rzeczy "układa się" ponad plan: logistyka, opieka nad dziećmi, dobry czas spotkań i nowe kontakty. Dla mnie to praktyczna lekcja: modlić się, rozeznawać i być posłusznym.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## 17 lat po nawróceniu - prosty rdzeń duchowości
+
+Po 17 latach drogi widzę prostą zasadę: albo żyję w Duchu, albo w ciele. Albo się modlę i mam "sól" w sobie, albo jej nie mam. Albo światło płonie, albo gaśnie. Kiedy wybieram życie duchowe, łatwiej rozpoznaję Boże natchnienia i mogę działać w posłuszeństwie.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
 ## Zmiana intencji modlitwy za klientów
 
 Odkryłem, że modliłem się o klientów i zlecenia zbyt egoistycznie. Zmieniłem modlitwę: zacząłem prosić, aby to oni mieli błogosławieństwo, zarobek i pracę. Taka perspektywa otwiera serce na Ewangelię i uwalnia od rywalizacji.

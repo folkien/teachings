@@ -196,3 +196,75 @@ Rekord świata jest tylko widocznym finałem. Niewidzialne pozostają lata treni
 Przy dobrej pogodzie wiele domów i wiele życiorysów wygląda podobnie. Dopiero trudności pokazują, co jest fundamentem człowieka, zespołu i rodziny.
 
 (Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Sól: oczyszcza, konserwuje, wydobywa smak
+
+Potrójna analogia soli z codzienności: oczyszcza (np. niszczy chwasty), konserwuje (hamuje psucie), wydobywa smak potraw. To obraz misji ucznia w świecie: usuwać to, co niszczy, chronić to, co dobre, oraz wydobywać ukryte dobro ludzi i środowisk pracy.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## "Nowa sól" zamiast naprawiania starej
+
+Obraz spowiedzi jako wymiany, a nie "serwisowania" serca: Bóg nie dosypuje soli po trochu i nie naprawia starego naczynia, ale daje nowe serce. Mocna analogia do resetu systemu: czasem nie wystarcza patch, potrzebna jest nowa baza.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Lampa pod garnkiem - prosty eksperyment na zywo
+
+Pokaz z lampą/świecą i garnkiem pomaga wyjaśnić Mt 5,15. Ogień odcięty od przestrzeni i tlenu gaśnie. Analogicznie: izolacja od relacji i służby gasi życie duchowe, nawet po mocnym doświadczeniu Boga.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Miasto na górze - lokalna geografia jako obraz misji
+
+Pytanie o widoczność Lubecka (ok. 295 m n.p.m.) uruchamia wyobraźnię słuchaczy: miasta na wzniesieniu nie da się ukryć. To praktyczny obraz dla wspólnoty, żeby nie chować wiary do sfery prywatnej, ale zajmować przestrzeń publiczną.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Latarnia morska w Gąskach - światło, ktore chroni innych
+
+Latarnia nie świeci dla siebie. Ostrzega przed mieliznami i prowadzi do bezpiecznego wejścia. To analogia do chrześcijańskiego świadectwa w rodzinie i biznesie: światło ma pomagać innym unikać rozbicia i znaleźć właściwy kierunek.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Przyjemnosc vs radosc - diagnoza kultury nadmiaru
+
+Lista współczesnych "dozowników przyjemności" (treści online, rozrywka, podróże, kulinaria) pokazuje różnicę między chwilową stymulacją a trwałą radością. To trafna rama do rozmowy z ludźmi technologii i biznesu o duchowej pustce mimo wysokiej jakości życia.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Brak Słowa = chaos, Słowo = porządek
+
+Obraz ze spowiedzi: Bóg stworzył świat przez Słowo i wyprowadził porządek z chaosu. Gdy w życiu brakuje Słowa Bożego, wraca nieład i zagubienie. To prosta, mocna rama do tłumaczenia, czemu regularny kontakt z Pismem porządkuje decyzje i relacje.
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+## Staw i jezioro - wspólnota bez odpływu zamula się
+
+Staw bez odpływu "kisi się" i zarasta, jezioro z odpływem pozostaje żywe dzięki wymianie wody. Analogicznie wspólnota skupiona tylko na braniu (rekolekcje, formacja, konferencje) bez dawania i ewangelizacji zaczyna zamykać się w sobie i traci dynamikę życia.
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+## Prawo jazdy bez praktyki - formacja bez posługi
+
+Sama teoria (20h wykładów, targi motoryzacyjne, filmy o jeździe) nie nauczy prowadzenia auta bez wejścia za kierownicę. To trafna analogia do życia wspólnotowego: można zaliczyć wiele kursów i rekolekcji, ale bez realnej posługi nie ma wzrostu ucznia-misjonarza.
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])

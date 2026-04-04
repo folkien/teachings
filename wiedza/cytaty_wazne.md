@@ -220,3 +220,93 @@ Odpowiedź na miecz Słowa, które wymaga decyzji: zostać czy odejść.
 > **„Dobra wiadomość: nawet jeśli dom jest chwiejny, Jezus ma moc go ocalić, a fundament można wybrać na nowo już dziś."**
 
 (Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Ewangelizacja wypływa z życia duchowego. Jeśli nie masz Ducha w sobie, to jak pociągniesz kogoś do Jezusa?"**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Tylko zapalony może zapalać innych."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Bycie solą ziemi zaczyna się od wnętrza: Bóg zmienia serce, a wtedy to samo życie nabiera nowego smaku."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Kościół bez Ducha nie pociąga świata; Kościół pełen Ducha daje światu smak i radość."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Nie po to Bóg cię zapala, żebyś schował się pod garnkiem, ale żebyś świecił dla innych we wspólnocie i relacjach."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Wiele jest misji w Kościele, ale jedna jest centralna: iść i głosić Ewangelię."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Ewangelizacja to nie tylko wydarzenia. To codzienne bycie człowiekiem duchowym tam, gdzie mieszkasz i pracujesz."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **„Być światłem dla świata."**
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+> **"Nie chodzi o to, żeby żyć przeszłością."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Nie chodzi o to, żeby budować na człowieku."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Bóg Cię zna, a Słowo jest żywe i skuteczne."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Rozumienie sensu to także rozumienie swojej tożsamości i misji: kim jestem w Kościele i do kogo jestem posłany."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Ewangelizowania uczymy się ewangelizując. Proste."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Kiedy mam doświadczenie, że Pan jest blisko i mnie kocha, chcę się tym dzielić. To jest naturalne jak oddychanie."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Wspólnota, która ewangelizuje, doświadcza radości i daje się odnawiać Duchowi Świętemu."**
+
+(Źródło: [[20251028_odnowa_ewnanglizacja]])

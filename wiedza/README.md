@@ -18,6 +18,7 @@ Ten katalog to **"drugi mózg"** – zbiór atomów wiedzy wyekstrahowanych z ko
 | [[cytaty_wazne]] | Mocne cytaty, tezy, kerygmatyczne zdania, światopogląd | `baza_wiedzy` |
 | [[cytaty_kk]] | Cytaty z dokumentów Kościoła (KKK, encykliki, dokumenty soborowe) | `baza_wiedzy` |
 | [[przyklady]] | Anegdoty, analogie z biznesu, technologii i codziennego życia | `baza_wiedzy` |
+| [[styl_pisania]] | Szablon stylu autora: ton, język, rytm, konstrukcje i praktyki komunikacji | `baza_wiedzy` |
 
 ## Pliki Kontekstowe (Stałe)
 
@@ -33,8 +34,9 @@ Ten katalog to **"drugi mózg"** – zbiór atomów wiedzy wyekstrahowanych z ko
 ### Ekstrakcja z konferencji
 Gdy zamykasz nauczanie (`close-teaching.prompt.md`), AI automatycznie:
 1. Wyciąga świadectwa → dopisuje do [[swiadectwa]]
-2. Wyciąga mocne zdania → dopisuje do [[zlote_mysli]]
+2. Wyciąga mocne zdania → dopisuje do [[cytaty_wazne]]
 3. Wyciąga przykłady i analogie → dopisuje do [[przyklady]]
+4. Wyciąga cechy stylu autora i aktualizuje szablon → [[styl_pisania]]
 
 Każdy fragment ma link wsteczny do źródłowego nauczania: `(Źródło: [[Nazwa_Pliku]])`.
 

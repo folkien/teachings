@@ -20,6 +20,7 @@ Kiedy przetwarzasz teksty, tworzysz zarysy lub ekstraktujesz wiedzę, zawsze prz
   - `cytaty_wazne.md` – mocne cytaty, tezy, światopogląd, kerygmatyczne zdania
   - `cytaty_kk.md` – cytaty z dokumentów Kościoła (KKK, encykliki, dokumenty soborowe)
   - `przyklady.md` – anegdoty, analogie, przykłady z biznesu i technologii
+  - `styl_pisania.md` – szablon i obserwacje stylu pisania autora (aktualizowany iteracyjnie)
 
 ## Zasady Techniczne (Obsidian)
 

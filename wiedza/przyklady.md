@@ -156,3 +156,43 @@ Hipotetyczny obraz: młody bogaty uczeń idzie na misję z apostołami, ale co c
 Porównanie dwóch postaw: „gdy sąsiad ma lepiej, trzeba pomarudzić" kontra „gdy sąsiad ma lepiej, to i dla nas może być błogosławieństwo". To praktyczna analogia do ewangelicznej wolności od zazdrości i dojrzałości we wspólnocie biznesowej.
 
 (Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## Powódź 2024 jako test fundamentów decyzji
+
+Obraz powodzi na południu Polski (samorządy dobrze przygotowane vs bagatelizujące ostrzeżenia, rola suchych zbiorników i polderów) pokazuje ewangeliczną prawdę o fundamentach: kryzys obnaża jakość wcześniejszych decyzji i długofalowego przygotowania.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Dom z piasku na plaży vs dom na skale
+
+Budowla z piasku powstaje szybko i daje szybki efekt, ale znika po przypływie. To celna analogia do decyzji życiowych opartych na wygodzie i pośpiechu. Budowa na skale jest wolniejsza i kosztowniejsza, ale trwała.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Sztorm św. Pawła (Dz 27-28) jako wzór przywództwa w kryzysie
+
+W opowieści o katastrofie morskiej Paweł zachowuje pokój, podnosi ludzi na duchu i służy innym mimo skrajnie trudnych warunków. To przykład przywództwa opartego na wierze i odpowiedzialności, a nie na kontroli sytuacji.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Góra lodowa sukcesu: rekord sportowy i niewidoczna codzienność
+
+Rekord świata jest tylko widocznym finałem. Niewidzialne pozostają lata treningu, dyscypliny, regeneracji i pracy mentalnej. Analogicznie życie duchowe: to, co publiczne, opiera się na tym, co codziennie budowane w ukryciu.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Test odporności: „jak znosisz moment próby?"
+
+Przy dobrej pogodzie wiele domów i wiele życiorysów wygląda podobnie. Dopiero trudności pokazują, co jest fundamentem człowieka, zespołu i rodziny.
+
+(Źródło: [[20250907_DomNaSkale]])

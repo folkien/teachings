@@ -203,6 +203,38 @@ Na przełomie 2021 i 2022 były miesiące bez przychodu, mimo wdrożenia nowych 
 
 ---
 
+## Studia, wspólnota i lęk o przyszłość zawodową
+
+W czasie studiów miałem napięcie: angażowałem się we wspólnotę i kursy SNE, a rówieśnicy rozwijali kariery przez praktyki i koła naukowe. Bałem się, że będę „z tyłu" na rynku pracy. Z perspektywy czasu zobaczyłem, że Bóg prowadził mnie także zawodowo: pierwszą pracę dostałem dokładnie w obszarze, o którym marzyłem (Sonel SA).
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Modlitwa jako ratunek przy przeciążeniu zadaniami
+
+W okresie dużego przeciążenia (budowa domu, obowiązki zawodowe i wspólnotowe) doświadczałem, że bez modlitwy łatwo wpaść w chaos, rezygnację i zniechęcenie. Modlitwa dawała mi zdolność utrzymania kierunku i pokoju mimo presji.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## 2023: szkoła posłuszeństwa i konkretne decyzje
+
+Rok 2023 był dla mnie szkołą posłuszeństwa: decyzje dotyczące działki i budowy domu, zmiany zawodowe (powrót na etat, potem współtworzenie spółki), a także nowe kroki w służbie (Alpha, RCA, współpraca międzynarodowa). Widzę, że posłuszeństwo Słowu prowadziło krok po kroku, mimo niepewności.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+## Długie czekanie jako formacja charakteru
+
+W wielu obszarach doświadczałem długiego oczekiwania (małżeństwo, dom, rozwój zawodowy). To czekanie nie było stratą czasu, ale formacją wiary, cierpliwości i wytrwałości.
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
 ## Modlitwa żony i niespodziewany napływ zleceń
 
 W tygodniu zaplanowanym na pracę strategiczną (migracja usług do chmury) nagle pojawiły się trzy zlecenia od klientów z różnych miast i cały plan się rozsypał. W rozmowie z żoną usłyszałem, że intensywnie modliła się o klientów i zlecenia. To doświadczenie znów pokazało mi, że nie wszystko zależy od mojego planowania i wysiłku, ale od Boga.

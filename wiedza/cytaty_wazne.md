@@ -178,3 +178,45 @@ Odpowiedź na miecz Słowa, które wymaga decyzji: zostać czy odejść.
 > **„To, czego nie używasz, należy już do biednych."** – św. Jan Chryzostom
 
 (Źródło: [[20251028_ucho_igielne]])
+
+---
+
+> **„Słuchanie Słowa jest łatwiejsze niż nawrócenie; łatwiej przesłuchać 10 nauczań niż zmienić 1 rzecz w życiu."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„To nie jest tekst o wierzących i niewierzących, ale o tych, którzy słuchają Jezusa: jedni wprowadzają Słowo w czyn, drudzy nie."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Czasem lepiej mniej słuchać, ale więcej wprowadzić w życie."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Powódź przychodzi do wszystkich; różnica wychodzi na jaw dopiero w próbie."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Budowanie na piasku jest szybkie, ale nietrwałe; budowanie na skale jest wolniejsze, ale wytrzymuje burzę."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Sukces publiczny jest zwykle owocem wcześniejszego, niewidocznego sukcesu wewnętrznego."**
+
+(Źródło: [[20250907_DomNaSkale]])
+
+---
+
+> **„Dobra wiadomość: nawet jeśli dom jest chwiejny, Jezus ma moc go ocalić, a fundament można wybrać na nowo już dziś."**
+
+(Źródło: [[20250907_DomNaSkale]])

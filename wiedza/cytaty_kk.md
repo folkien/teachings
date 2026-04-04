@@ -14,3 +14,10 @@ Cytaty z oficjalnych dokumentów Kościoła Katolickiego – Katechizm, encyklik
 > "Treść cytatu."
 > — Dokument, nr X (Źródło: [[Nazwa_Konferencji]] lub URL)
 -->
+
+---
+
+> „Pismo święte jest mową Bożą, utrwaloną pod natchnieniem Ducha Świętego na piśmie."
+> — KKK 81
+
+(Źródło: [[7obrazow_slowa_lampa_miecz_mlot]])

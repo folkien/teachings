@@ -15,6 +15,24 @@ Anegdoty, obrazy, analogie z biznesu, technologii i codziennego życia – gotow
 
 ---
 
+## 3850 weekendów – ROI czasu (dla przedsiębiorców)
+
+Strona SNE Lubecko pyta: *„W całym swoim życiu masz ponad 3850 weekendów! Czy nie warto 1 z nich poświęcić na odkrycie wiary na nowo?"* To doskonała analogia dla przedsiębiorców myślących w kategoriach zasobów i zwrotu z inwestycji. Czas jest skończony i policzalny – decyzja o alokacji jednego weekendu może zmienić całą trajektorię życia. Jak w biznesie: jedna właściwa decyzja / projekt może zmienić firmę.
+
+**Zastosowanie w konferencji o pracy i wierze:** Zamiast mówić „znajdź czas na Boga" – pokaż, że on już jest – 3850 weekendów. Pytanie brzmi tylko: w co inwestujesz?
+
+(Źródło: [[SNE_Lubecko_www]])
+
+---
+
+## Kawiarenka jako środowisko budowania relacji
+
+Posiłki są integralną częścią spotkań Alpha i SNE Lubecko – nie jako bonus, ale jako teologiczny element gościnności (stół eucharystyczny ↔ stół wspólnotowy). Analogia do najlepszych kultur firmowych (np. Pixar, Google), gdzie filozoficznie zaplanowane przestrzenie wspólne generują innowacje i zaufanie w teamie. Bóg używa stołu, by budować Kościół; dobra firma używa kuchni, by budować wspólnotę.
+
+(Źródło: [[SNE_Lubecko_www]])
+
+---
+
 ## Lampa – Słowo Boże oświetla kolejny krok
 
 Słowo Boże działa jak **lampa nocna**: nie odsłania całej drogi naraz, ale oświetla tyle, żeby postawić kolejny krok. Biblia o tym mówi wprost: *„Lampą dla moich stóp jest Twoje Słowo"* (Ps 119,105). Podobnie panny z lampami (Mt 25) – bez oliwy (= Słowa) nie rozpoznały Oblubieńca, gdy przyszedł.

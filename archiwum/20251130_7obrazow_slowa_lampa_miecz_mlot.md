@@ -1,6 +1,6 @@
 ---
 tags: [nauczanie, sne/lubecko, slowo_boze]
-status: todo
+status: archived
 date: 2025-11-30
 topic: "7 obrazów Słowa - Lampa, Miecz, Młot"
 ---

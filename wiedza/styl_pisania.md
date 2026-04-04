@@ -19,6 +19,8 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 
 (Źródło: [[20251028_sol_ziemi]])
 
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
+
 ## 2. Rytm i struktura wypowiedzi
 - Ruch od tekstu biblijnego do pytań retorycznych, następnie do świadectwa i praktycznej puenty.
 - Częste sekwencje triad (np. "oczyszcza - konserwuje - daje smak") oraz kontrastów (przyjemność vs radość, Duch vs ciało).

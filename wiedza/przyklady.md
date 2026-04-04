@@ -76,3 +76,83 @@ Lidia to handlarka purpurą z Tiatyry – zamożna, przedsiębiorcza, wpływowa.
 *Zastosowanie:* dobry przykład dla ludzi aktywnych zawodowo – sukces nie zamyka na Boga, a Słowo trafia też do „zajętych".
 
 (Źródło: [[7obrazow_slowa_lampa_miecz_mlot]])
+
+---
+
+## Tefilin (filakterie) – Słowo dosłownie blisko serca i umysłu
+
+Tefilin (hebr. תפילין), po polsku filakterie – dwa małe czarne pudełka ze skóry. W środku mikroskopijnie zapisane fragmenty Tory. Zakładane na czoło i ramię podczas porannej modlitwy żydowskiej jako dosłowne wypełnienie nakazu: *„Przywiążesz je sobie do ręki jako znak i będą jako przepaska między twoimi oczami"* (Pwt 6,8).
+
+*Zastosowanie:* ilustracja do bloku o zapamiętywaniu Słowa i fizycznych znakach wiary. Jak Żydzi nosili Słowo przy sobie fizycznie, tak możemy szukać współczesnych form: ramki z cytatami, tapety telefonu, powitania na drzwiach.
+
+(Źródło: [[20251130_przymierze_ze_slowem]])
+
+---
+
+## Pieśń „Widzę 7 lamp" jako Apokalipsa w muzyce
+
+Pieśń wspólnotowa „Widzę 7 lamp, co świętym ogniem płonie. Szklane morze zmieszane z ogniem który płonie. Na tronie Syn człowieczy, jego oczy płoną, płoną..." – to bezpośrednie nawiązanie do Apokalipsy 4,6. Dowodem, że wiele pieśni charyzmatycznych jest głęboko zakorzenionych w Biblii – śpiewamy Pismo, nie zdając sobie z tego sprawy.
+
+*Zastosowanie:* do bloku o modlitwie Słowem – można zapytać słuchaczy, skąd pochodzi ta pieśń, zanim ujawnisz biblijne źródło.
+
+(Źródło: [[20251130_przymierze_ze_slowem]])
+
+---
+
+## Obrączki jako obraz przymierza ze Słowem Bożym
+
+Obrączka reprezentuje przymierze z Jadwigą. Zawsze są dwie – jedna moja, jedna Jadzi. Podobnie można zobrazować przymierze, które oferuje Bóg: **Pierścień pierwszy** – Bóg pokazuje nam, czym jest Słowo i co czyni. **Pierścień drugi** – twoja odpowiedź: czy chcesz żyć Słowem, czy Biblia ma tylko stać i kurzyć się jak Ferrari w garażu?
+
+*Zastosowanie:* mocny obraz do dynamiki zamykającej nauczanie o Słowie Bożym. Obrączka jako pamiątka przymierza – podobnie Biblia może być symbolem zawartego przymierza.
+
+(Źródło: [[20251130_przymierze_ze_slowem]])
+
+---
+
+## Pan Wojtala o małżeństwie – paradoks słuchania i mówienia
+
+Pan Wojtala, który wiózł parę młodą po ślubie, powiedział: *„W małżeństwie czasem trzeba czegoś nie usłyszeć, a czasem czegoś nie powiedzieć."* Z ludzką mową mamy problem ugryźć się w język. Ale ze Słowem Bożym mamy odwrotny problem: zbyt mało się Nim dzielimy.
+
+*Zastosowanie:* efektowne otwarcie bloku o głoszeniu Słowa – przez kontrast z ludzką komunikacją. Dobra puenta: „Co wam mówię w ciemności, powtarzajcie w świetle" (Mt 10,27).
+
+(Źródło: [[20251130_przymierze_ze_slowem]])
+
+---
+
+## Wielbłąd i ucho igielne jako obraz odciążenia serca
+
+Obraz „ucha igielnego" pokazuje, że wielbłąd może przejść dopiero po zdjęciu pakunków i uniżeniu się. To mocna analogia duchowa: problemem nie jest samo posiadanie, ale przywiązanie i ciężar trosk, który blokuje wejście w rzeczy Boże.
+
+(Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## Koszt posiadania: każde dobro generuje obsługę
+
+Kolejne auto to OC, serwis i przeglądy. Kolejny dom to najem, remont, podatek. Działka to utrzymanie lub organizacja uprawy. Ten przykład dobrze tłumaczy przedsiębiorcom „ukryty koszt" bogactwa: im więcej zasobów, tym więcej uwagi operacyjnej i mniej przestrzeni na misję.
+
+(Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## Test kalendarza: audyt realnych priorytetów
+
+Zamiast deklaracji „nie jestem materialistą" można zrobić prosty audyt tygodnia: ile czasu poszło na pracę i sprawy materialne, ile na rodzinę, ile na Boga i służbę. Kalendarz obnaża faktyczne przywiązania lepiej niż deklaracje.
+
+(Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## „Młodzieniec na misji" i awarie majątku
+
+Hipotetyczny obraz: młody bogaty uczeń idzie na misję z apostołami, ale co chwilę przerywają mu wiadomości o szkodach w nieruchomościach i problemach pracowniczych. To celna ilustracja konfliktu między zarządzaniem rozbudowanym majątkiem a dyspozycyjnością wobec wezwania Jezusa.
+
+(Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## Mentalność niedoboru vs mentalność błogosławieństwa
+
+Porównanie dwóch postaw: „gdy sąsiad ma lepiej, trzeba pomarudzić" kontra „gdy sąsiad ma lepiej, to i dla nas może być błogosławieństwo". To praktyczna analogia do ewangelicznej wolności od zazdrości i dojrzałości we wspólnocie biznesowej.
+
+(Źródło: [[20251028_ucho_igielne]])

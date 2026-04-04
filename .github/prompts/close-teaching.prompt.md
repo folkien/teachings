@@ -43,16 +43,24 @@ Upewnij się, że tagi są adekwatne do wyciągniętej treści.
 Upewnij się, że nazwa pliku jest zgodna z konwencją `YYYYMMDD_NAZWA.md`.
 Jeśli plik nie ma prefiksu daty – przed przeniesieniem zmień jego nazwę dodając datę z frontmatter.
 
+Archiwizacja ma być rzeczywistym **przeniesieniem**, nie kopiowaniem:
+- po wykonaniu kroku plik ma istnieć tylko w `archiwum/`
+- plik ma zostać usunięty z `konferencje_todo/`
+
 Uruchom w terminalu komendę przenoszącą plik z `konferencje_todo/` do `archiwum/`:
 
 ```bash
 mv konferencje_todo/NAZWA_PLIKU.md archiwum/NAZWA_PLIKU.md
 ```
 
+Po przeniesieniu zweryfikuj:
+- `archiwum/NAZWA_PLIKU.md` istnieje
+- `konferencje_todo/NAZWA_PLIKU.md` nie istnieje
+
 ## Podsumowanie
 
 Zwróć krótkie podsumowanie w punktach:
 - Co wyekstrahowano (ile świadectw, myśli, przykładów)
 - Do jakich plików wiedzy dopisano treści
-- Potwierdzenie przeniesienia pliku
+- Potwierdzenie przeniesienia pliku oraz usunięcia go z `konferencje_todo/`
 

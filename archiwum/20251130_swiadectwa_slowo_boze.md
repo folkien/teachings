@@ -1,6 +1,6 @@
 ---
 tags: [nauczanie, sne/lubecko, slowo_boze, swiadectwa]
-status: todo
+status: archived
 date: 2025-11-30
 topic: "Świadectwa - Słowo Boże"
 ---

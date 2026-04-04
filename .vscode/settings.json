@@ -1,0 +1,79 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "always",
+            "source.fixAll.ruff": "explicit"
+        },
+    },
+    "[toml]": {
+        "editor.formatOnSave": true
+    },
+    "files.trimTrailingWhitespace": true,
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
+    "python.testing.pytestArgs": [
+        "tests",
+    ],
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "search.followSymlinks": false,
+    "files.exclude": {
+        "**/.git/objects/**": true,
+        "**/darknet/**": true,
+        "**/yaya/**": true,
+        "**/aisp-albumentations/**": true,
+    },
+    "files.watcherExclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/darknet/**": true,
+            "**/yaya/**": true,
+            "**/aisp-albumentations/**": true,
+    },
+    "search.exclude": {
+            "**/.git/objects/**": true,
+            "**/.git/subtree-cache/**": true,
+            "**/darknet/**": true,
+            "**/yaya/**": true,
+            "**/aisp-albumentations/**": true,
+    },
+    "cmake.ignoreCMakeListsMissing": true,
+    "chat.agent.defaultModel": "claude-opus-4",
+    "chat.tools.autoApprove": true,
+    "chat.tools.terminal.autoApprove": {
+        "/^git\\s+(status|diff|log|add|commit|branch|checkout|stash|push|pull|fetch|merge|rebase|tag|remote|show|blame)/": true,
+        "/^(uv|pip)\\s+(sync|run|add|install|list|freeze|show)/": true,
+        "/^npm\\s+(test|run\\s+lint|install|ci)/": true,
+        "/^(ruff|pyright|pytest|mypy)\\b/": true,
+        "/^(echo|cat|less|tail|head|wc|ls|find|grep|pwd|cd|mkdir|cp|mv|touch|diff|file|which|whereis|env|printenv)\\b/": true,
+        "/^python3?\\s+(-c|-m)/": true,
+        "/^cat\\s+.*\\.py/": true,
+        "/^python\\s+(-c|-m)/": true,
+        "/^curl\\s+(-I|-L|--head|--request|--data|--data-raw|--data-binary|--data-urlencode)/": true,
+        "/^xargs\\s+(-I|--replace|--max-args|--max-procs)/": true,
+        "/^chmod\\s+([ugoa]+[+-=][rwxXst]+|\\d{3,4})/": true,
+        # Allow move
+        "/^mv\\s+(-i)?\\s+[^\\s]+\\s+[^\\s]+/": true,
+        # Allow rm if directory prefix 'issue_'
+        "/^rm\\s+(-rf)?\\s+issue_[^\\s]+/": true,
+        "rm": false,
+        "sudo": false
+    },
+    "github.copilot.chat.codesearch.enabled": true,
+    "chat.tools.urls.autoApprove": {
+
+        "https://pl.aisp.pl/o-nas/referencje": true,
+        "https://pl.aisp.pl/o-nas": true,
+        "https://pl.aisp.pl": true,
+        "https://*.aisp.pl": true,
+        "https://pl.aisp.pl/liczbox/korzyści-dla-miasta": true,
+        "https://pl.aisp.pl/liczbox": true,
+        "https://pl.aisp.pl/liczbox/czym-jest-liczbox": true,
+        "https:///www.*.com": true,
+        "https://*" : true
+    }
+}

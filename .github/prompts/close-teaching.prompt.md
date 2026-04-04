@@ -24,7 +24,8 @@ Znajdź w tekście i wyekstrahuj:
 Podziel wyekstrahowane treści wg kategorii i dopisz je na koniec odpowiednich plików w `wiedza/`:
 
 - Świadectwa → `wiedza/swiadectwa.md`
-- Złote myśli → `wiedza/zlote_mysli.md`
+- Cytaty ważne / złote myśli → `wiedza/cytaty_wazne.md`
+- Cytaty z Kościoła (KKK, dokumenty) → `wiedza/cytaty_kk.md`
 - Przykłady → `wiedza/przyklady.md`
 
 Do każdego fragmentu dodaj na końcu link wsteczny w formacie Obsidian:

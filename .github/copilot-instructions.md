@@ -17,7 +17,8 @@ Kiedy przetwarzasz teksty, tworzysz zarysy lub ekstraktujesz wiedzę, zawsze prz
 - `archiwum/` – Wygłoszone i zamknięte konferencje. Status w YAML: `archived`.
 - `wiedza/` – Baza wiedzy. Pliki zbiorcze:
   - `swiadectwa.md` – osobiste świadectwa, przeżycia, historie z życia
-  - `zlote_mysli.md` – mocne cytaty, tezy, światopogląd, kerygmatyczne zdania
+  - `cytaty_wazne.md` – mocne cytaty, tezy, światopogląd, kerygmatyczne zdania
+  - `cytaty_kk.md` – cytaty z dokumentów Kościoła (KKK, encykliki, dokumenty soborowe)
   - `przyklady.md` – anegdoty, analogie, przykłady z biznesu i technologii
 
 ## Zasady Techniczne (Obsidian)

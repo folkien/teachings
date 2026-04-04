@@ -1,10 +1,10 @@
 ---
 tags: [wiedza, cytaty, kerygmat]
 type: baza_wiedzy
-topic: "Złote myśli i cytaty"
+topic: "Cytaty ważne i złote myśli"
 ---
 
-# Złote Myśli
+# Cytaty ważne i Złote Myśli
 
 Mocne cytaty, kluczowe tezy, kerygmatyczne zdania i światopoglądowe twierdzenia gotowe do ponownego użycia w nauczaniach.
 

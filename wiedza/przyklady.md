@@ -299,6 +299,32 @@ Przykład osoby, która poza kościołem czuje się zdrowo, a po wejściu do św
 
 Staw bez odpływu "kisi się" i zarasta, jezioro z odpływem pozostaje żywe dzięki wymianie wody. Analogicznie wspólnota skupiona tylko na braniu (rekolekcje, formacja, konferencje) bez dawania i ewangelizacji zaczyna zamykać się w sobie i traci dynamikę życia.
 
+---
+
+## APAP vs modlitwa - granice ludzkich zasobów i wejście w Boże zasoby
+
+Kontrast z nauczania: człowiek może podać APAP i doraźnie uśmierzyć ból, ale nie ma w sobie mocy pełnego uzdrowienia. Modlitwa o uzdrowienie to przejście z perspektywy "co ja umiem" do perspektywy "co Bóg może".
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+## Ciasto na Alpha jako obraz dwóch rodzajów posługi
+
+Przygotowanie ciasta na Alpha opiera się na ludzkich umiejętnościach i zasobach. Modlitwa wstawiennicza opiera się na Bożych zasobach. Oba działania są posługą, ale pokazują dwa różne porządki działania łaski i współpracy człowieka.
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+## Trzy części spotkania i zarządzanie czasem wspólnoty
+
+Podział spotkania na trzy równe bloki (głoszenie, modlitwa, dzielenie) to praktyczny model prowadzenia wspólnoty. Dobre zarządzanie czasem staje się warunkiem jakości formacji, zwłaszcza ochrony czasu dzielenia w grupach.
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
 (Źródło: [[20251028_odnowa_ewnanglizacja]])
 
 ---

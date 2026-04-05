@@ -115,6 +115,10 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - 2026-04-05: Utworzono szablon bazowy dla iteracyjnej ekstrakcji stylu.
 - 2026-04-05: Uzupełniono wszystkie sekcje o obserwacje z nauczania "Sól ziemi" (ton, struktura, słownictwo, dynamika, wezwania).
 - 2026-04-05: Doprecyzowano styl o motyw "od zniechęcenia do misji" oraz antywzorzec "formacja bez praktyki" na podstawie nauczania o odnowie ewangelizacji.
+
+- 2026-04-06: Nauczanie "Uzdrowienie" potwierdza styl "od bezradnosci do wiary": autor najpierw nazywa ograniczenia czlowieka ("nie potrafie cie uzdrowic"), potem przenosi akcent na Boza moc i konczy praktycznym wezwaniem do dzialania (modl sie za innych). Widoczny mocny element aktywizujacy sluchaczy przez pytania, dialog i zdania do wypowiedzenia na glos.
+
+(Źródło: [[20251029_uzdrowienie]])
 - 2026-04-06: Rozszerzono szablon o cechy nauczania formacyjnego o uwolnieniu i uzdrowieniu: ton ochronny, bloki katechetyczne, język walki duchowej i mocniejsze zakorzenienie w realiach służby wspólnotowej.
 
 (Źródło: [[20251028_sol_ziemi]])

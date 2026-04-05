@@ -1,6 +1,6 @@
 ---
-tags: [nauczanie, sne/lubecko, uzdrowienie]
-status: todo
+tags: [nauczanie, sne/lubecko, temat/uzdrowienie, temat/modlitwa, temat/wiara, temat/wspolnota]
+status: archived
 date: 2025-10-29
 topic: "Uzdrowienie"
 ---

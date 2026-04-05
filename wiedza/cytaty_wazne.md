@@ -348,3 +348,31 @@ Odpowiedź na miecz Słowa, które wymaga decyzji: zostać czy odejść.
 > **"Wspólnota, która ewangelizuje, doświadcza radości i daje się odnawiać Duchowi Świętemu."**
 
 (Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> **"Kiedy się nie modlimy za nikogo, to nikt nie jest uzdrowiony. Kiedy się modlimy za wielu, to niektórzy są uzdrowieni."**
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+> **"Posługa modlitewna to zaspokajanie potrzeb innych w oparciu o Boże źródła."**
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+> **"Moc Ducha Świętego jest w Tobie."**
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+> **"Wy dajcie im jeść."**
+
+Wezwanie do Kościoła, by brać odpowiedzialność za modlitwę i posługę, zamiast przerzucać ją na "zawodowych charyzmatyków".
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---

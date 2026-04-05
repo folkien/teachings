@@ -287,11 +287,11 @@ Odpowiedź na miecz Słowa, które wymaga decyzji: zostać czy odejść.
 
 (Źródło: [[20250929_uwolnienie_uzdrowienie]])
 
-(Źródło: [[20251028_sol_ziemi]])
-
 ---
 
 > **„Wiele jest misji w Kościele, ale jedna jest centralna: iść i głosić Ewangelię."**
+
+(Źródło: [[20251028_sol_ziemi]])
 
 (Źródło: [[20251028_sol_ziemi]])
 

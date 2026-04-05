@@ -249,9 +249,9 @@ Lista współczesnych "dozowników przyjemności" (treści online, rozrywka, pod
 
 ## Brak Słowa = chaos, Słowo = porządek
 
-Porównanie porządku stworzenia z Księgi Rodzaju do uporządkowanego życia ucznia. Gdy brakuje Słowa, łatwo wejść w chaos decyzji, emocji i priorytetów. Gdy Bóg mówi, rzeczy wracają na swoje miejsce.
+Obraz ze spowiedzi: Bóg stworzył świat przez Słowo i wyprowadził porządek z chaosu. Gdy w życiu brakuje Słowa Bożego, wraca nieład i zagubienie. To prosta, mocna rama do tłumaczenia, czemu regularny kontakt z Pismem porządkuje decyzje i relacje.
 
-(Źródło: [[20251028_sol_ziemi]])
+(Źródło: [[20251028_odnowa_ewnanglizacja]])
 
 ---
 
@@ -292,10 +292,6 @@ Wyjaśnienie zniewolenia zostało osadzone w czytelnych przykładach: alkoholik 
 Przykład osoby, która poza kościołem czuje się zdrowo, a po wejściu do świątyni nagle doświadcza dolegliwości, dobrze ilustruje duchowy charakter niektórych zniewoleń. Autor od razu zaznacza, że nie chodzi tu o banalne wyjaśnienia typu brak wentylacji.
 
 (Źródło: [[20250929_uwolnienie_uzdrowienie]])
-
-Obraz ze spowiedzi: Bóg stworzył świat przez Słowo i wyprowadził porządek z chaosu. Gdy w życiu brakuje Słowa Bożego, wraca nieład i zagubienie. To prosta, mocna rama do tłumaczenia, czemu regularny kontakt z Pismem porządkuje decyzje i relacje.
-
-(Źródło: [[20251028_odnowa_ewnanglizacja]])
 
 ---
 

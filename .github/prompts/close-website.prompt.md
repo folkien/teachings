@@ -39,6 +39,23 @@ date: YYYY-MM-DD
 ---
 ```
 
+Dodaj tagi tematyczne (jeden lub kilka) adekwatnie do tresci strony:
+- `temat/finanse`
+- `temat/rodzicielstwo`
+- `temat/praca`
+- `temat/dom`
+- `temat/relacje`
+- `temat/kosciol`
+- `temat/wspolnota`
+- `temat/wiara`
+- `temat/modlitwa`
+- `temat/styl-zycia`
+- `temat/lifestyle`
+- `temat/uzdrowienie`
+
+Jeśli treść strony dotyczy konkretnego kursu SESA, rozszerz tagi notatki źródłowej o:
+- `sesa/kurs/<slug_kursu>`
+
 ## Krok 5 – Zastosowanie Duszpasterskie (Opcjonalnie)
 
 Jeśli treść zawiera elementy mogące posłużyć jako analogie dla przedsiębiorców lub ludzi technologii – zaznacz je wyraźnie jako potencjalne przykłady do konferencji o wierze i pracy.

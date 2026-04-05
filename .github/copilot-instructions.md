@@ -38,6 +38,38 @@ Kiedy przetwarzasz teksty, tworzysz zarysy lub ekstraktujesz wiedzę, zawsze prz
 - Domyślnie komunikuj się i twórz treści w języku polskim.
 - Linki wewnętrzne w formacie Obsidian: `[[Nazwa_Pliku]]`.
 
+## Tagowanie konferencji SESA
+
+Jeśli nauczanie jest związane z kursem SESA, dodaj w YAML frontmatter tag:
+
+- `sesa/kurs/<slug_kursu>`
+
+Przyklad dla kursu Emaus:
+
+```yaml
+tags: [nauczanie, sne/lubecko, sesa/kurs/emaus]
+```
+
+## Tagi tematyczne
+
+Poza tagami SESA, dodawaj tagi tematyczne adekwatne do tresci nauczania.
+Uzywaj prefiksu `temat/` i wybieraj jeden lub kilka tagow z listy:
+
+- `temat/finanse`
+- `temat/rodzicielstwo`
+- `temat/praca`
+- `temat/dom`
+- `temat/relacje`
+- `temat/kosciol`
+- `temat/wspolnota`
+- `temat/wiara`
+- `temat/modlitwa`
+- `temat/styl-zycia`
+- `temat/lifestyle`
+- `temat/uzdrowienie`
+
+Jesli w tresci pojawia sie kilka obszarow, dodaj wszystkie pasujace tagi tematyczne.
+
 ## Workflow Zarządzania
 
 ### Zamknięcie konferencji
@@ -48,5 +80,7 @@ Użyj promptu `.github/prompts/close-website.prompt.md` podając URL.
 
 ### Tworzenie nowego nauczania
 Utwórz plik w `konferencje_todo/` o nazwie `YYYYMMDD_temat.md` (np. `20260404_praca.md`) z YAML frontmatter (status: todo) i szkieletem: punkt wyjścia z życia → Słowo Boże (2 cytaty) → świadectwo z biznesu/życia → wezwanie do działania.
+
+Jeśli to konferencja kursu SESA, od razu ustaw tag `sesa/kurs/<slug_kursu>`.
 
 > **Reguła nazewnictwa:** Każdy plik nauczania MUSI mieć prefiks daty `YYYYMMDD_` w nazwie pliku. Dotyczy to plików w `konferencje_todo/` i `archiwum/`. Nigdy nie twórz ani nie przenoś pliku nauczania bez tego prefiksu.

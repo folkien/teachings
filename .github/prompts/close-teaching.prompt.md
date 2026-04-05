@@ -45,6 +45,23 @@ Jeśli plik w `wiedza/` nie istnieje – utwórz go z nagłówkiem `# Tytuł`.
 W pliku nauczania zmień pole `status: todo` na `status: archived`.
 Upewnij się, że tagi są adekwatne do wyciągniętej treści.
 
+Dodaj tagi tematyczne (jeden lub kilka) zgodnie z trescia konferencji:
+- `temat/finanse`
+- `temat/rodzicielstwo`
+- `temat/praca`
+- `temat/dom`
+- `temat/relacje`
+- `temat/kosciol`
+- `temat/wspolnota`
+- `temat/wiara`
+- `temat/modlitwa`
+- `temat/styl-zycia`
+- `temat/lifestyle`
+- `temat/uzdrowienie`
+
+Jeśli konferencja dotyczy kursu SESA, dodaj tag:
+- `sesa/kurs/<slug_kursu>`
+
 ## Krok 5 – Przeniesienie pliku
 
 Upewnij się, że nazwa pliku jest zgodna z konwencją `YYYYMMDD_NAZWA.md`.

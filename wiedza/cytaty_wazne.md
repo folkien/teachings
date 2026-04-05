@@ -253,6 +253,44 @@ Odpowiedź na miecz Słowa, które wymaga decyzji: zostać czy odejść.
 
 ---
 
+> **„Wszystkie posługi są ważne. Nie zazdrość komuś posługi ani się nie porównuj."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> **„Robiąc rzeczy proste, uwolnisz inne osoby do trudniejszej posługi."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> **„Twoja misja nie musi być taka jak moja. Możemy robić różne rzeczy i przez to realizować Boży plan na nasze życie."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> **„Nie jesteśmy chłopcami do bicia."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> **„Nie jesteśmy sierotkami."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> **„Diabeł nas okłamuje i chce, byśmy wierzyli w jego kłamstwa. Walka toczy się w umyśle."**
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
 > **„Wiele jest misji w Kościele, ale jedna jest centralna: iść i głosić Ewangelię."**
 
 (Źródło: [[20251028_sol_ziemi]])

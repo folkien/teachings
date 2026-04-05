@@ -70,3 +70,10 @@ Cytaty z oficjalnych dokumentów Kościoła Katolickiego – Katechizm, encyklik
 > — Franciszek, Evangelii Gaudium, 49
 
 (Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+> „Pogłębia się poznanie siebie, wzrasta pokora chrześcijańska, koryguje się złe nawyki, przeciwstawia się duchowym zaniedbaniom i obojętności, oczyszcza się sumienie, wzmacnia się wola, zbawienna samokontrola, a wreszcie mocą tego sakramentu pomnaża się łaska.”
+> — Pius XII, Mystici Corporis Christi, 75
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])

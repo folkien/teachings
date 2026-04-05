@@ -249,6 +249,50 @@ Lista współczesnych "dozowników przyjemności" (treści online, rozrywka, pod
 
 ## Brak Słowa = chaos, Słowo = porządek
 
+Porównanie porządku stworzenia z Księgi Rodzaju do uporządkowanego życia ucznia. Gdy brakuje Słowa, łatwo wejść w chaos decyzji, emocji i priorytetów. Gdy Bóg mówi, rzeczy wracają na swoje miejsce.
+
+(Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Wspólnota jak dobrze naoliwiony mechanizm
+
+Podział posług we wspólnocie został pokazany obrazem dobrze naoliwionego mechanizmu: jedni rozkładają sprzęt, inni pieką ciasto, inni głoszą, śpiewają albo prowadzą modlitwę. Gdy proste zadania są przejęte przez wielu, osoby od trudniejszych zadań nie są przeciążone.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Samobrona fizyczna jako obraz obrony duchowej
+
+Porównanie do prawa do samobrony dobrze osadza temat walki duchowej w codziennym doświadczeniu: skoro człowiek ma prawo bronić się fizycznie, tym bardziej ma prawo przeciwstawiać się diabłu i nie żyć jak bierna ofiara.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Fantomy oczu, dom spokojnej starości i szkoły z wartościami
+
+Zestaw trzech przykładów z konferencji Dobry Biznes pokazuje, że misja może przyjmować bardzo różne zawodowe formy: medyczne innowacje, odpowiedź na cierpienie starszych osób albo budowanie edukacji opartej na wartościach. To dobry most między powołaniem a przedsiębiorczością.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Alkoholizm i pornografia jako obraz utraty wolności
+
+Wyjaśnienie zniewolenia zostało osadzone w czytelnych przykładach: alkoholik traci wolność wobec alkoholu, a osoba uzależniona od pornografii traci wolność wobec pornografii. To pomaga odróżnić zwykłą słabość od głębszego zniewolenia.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Chory tylko przy wejściu do kościoła
+
+Przykład osoby, która poza kościołem czuje się zdrowo, a po wejściu do świątyni nagle doświadcza dolegliwości, dobrze ilustruje duchowy charakter niektórych zniewoleń. Autor od razu zaznacza, że nie chodzi tu o banalne wyjaśnienia typu brak wentylacji.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
 Obraz ze spowiedzi: Bóg stworzył świat przez Słowo i wyprowadził porządek z chaosu. Gdy w życiu brakuje Słowa Bożego, wraca nieład i zagubienie. To prosta, mocna rama do tłumaczenia, czemu regularny kontakt z Pismem porządkuje decyzje i relacje.
 
 (Źródło: [[20251028_odnowa_ewnanglizacja]])

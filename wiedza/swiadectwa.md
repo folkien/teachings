@@ -251,11 +251,75 @@ Brak miejsca w domu był dla mnie źródłem napięcia, lęku i żalu do Boga. N
 
 ---
 
+## Studia, lenistwo i nazwanie wady po imieniu
+
+Na studiach ciągle spowiadałem się z lenistwa, aż kierownik duchowy uświadomił mi: to nie tylko pojedynczy grzech, ale wada, nad którą trzeba pracować. To pomogło mi zobaczyć problem głębiej i podejść do niego uczciwiej.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Jadzia rozpoznaje, kiedy potrzebuję spowiedzi
+
+Po mnie widać, kiedy muszę iść do spowiedzi. Jadzia to rozpoznaje bardzo szybko. Zwykle robię się wtedy zmierzły. To prosty, ale mocny znak, że grzech realnie wpływa na codzienne relacje i atmosferę domu.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Nękanie przed głoszeniem o grzechu i pokój po Komunii
+
+Na spotkaniu „Źródła Wiary", kiedy miałem głosić temat grzechu, od rana przychodziły mi natrętne myśli: że jestem do niczego, że nie dam rady, że się nie nadaję. Trwało to nawet podczas Mszy Świętej. Dopiero po Komunii świętej ustało. Samo głoszenie było potem dobre i zostało dobrze przyjęte.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Stryszawa i różaniec Jadzi przed głoszeniem o uzdrowieniu wewnętrznym
+
+Na kursie Abraham w Stryszawie, wieczór przed głoszeniem o uzdrowieniu wewnętrznym, czułem się psychicznie i fizycznie bardzo źle. Nie umiałem się skupić, myśleć ani modlić. Leżałem krzyżem na podłodze. Gdy przyszła Jadzia, poprosiłem tylko, żeby modliła się różańcem. Po całym różańcu to minęło. Następnego dnia wygłosiłem jedno z lepszych nauczań w moim życiu.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Lęk przed kursem Nowe Życie i szybka duchowa obrona
+
+Przed kursem Nowe Życie w 2023 roku siedziałem przy komputerze i nagle pojawiły się słowa, które wywołały we mnie lęk i niepokój. Zareagowałem modlitwą: nie chciałem być chłopcem do bicia. Po modlitwie lęk odszedł.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+## Dobry Biznes i wdzięczność za ludzi zmieniających Polskę
+
+Na konferencji Dobry Biznes spotkałem ludzi realizujących bardzo różne misje: od fantomów oczu do nauki medycyny, po dom spokojnej starości zrodzony z osobistego bólu i szkoły budowane na wartościach. Wróciłem z wdzięcznością za osoby, których wcześniej nie znałem, a które realnie zmieniają Polskę na lepsze. To przypomniało mi, że każdy ma własną misję od Boga.
+
+(Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
 ## Kurs Błogosławieni - od pustki do nowego smaku życia
 
 Na kurs jechałem jak puste naczynie: rozczarowany decyzjami życiowymi i sytuacją firmy. W czasie kursu serce zostało napełnione i odnowione. Po powrocie nic zewnętrznie się nie zmieniło: ta sama rodzina, ta sama firma, ten sam dom, ten sam stan konta. Zmieniło się wnętrze. Gdy Bóg daje "nową sól", to codzienność nabiera nowego smaku bez zmiany dekoracji.
 
 (Źródło: [[20251028_sol_ziemi]])
+
+---
+
+## Modlitwa o oczy mimo braku natychmiastowego efektu
+
+Od czerwca pojawiła się wada wzroku (+0.75 w obu oczach). Mimo kolejnych modlitw i diagnozy nie przestaję prosić braci o modlitwę o uzdrowienie oczu. To świadoma decyzja trwania w modlitwie, nawet gdy efekt nie przychodzi od razu.
+
+(Źródło: [[20251029_uzdrowienie]])
+
+---
+
+## Telefon do Ilony i ustępujący ból głowy
+
+Podczas rozmowy telefonicznej Ilona powiedziała, że mocno boli ją głowa. Od razu padła krótka modlitwa: "W imię Jezusa Chrystusa niech ten ból głowy odejdzie teraz". Po chwili odpowiedziała, że ból przechodzi. Równolegle pojawiło się rozeznanie, że Bóg chce jej pokazać swoją troskę i obecność.
+
+(Źródło: [[20251029_uzdrowienie]])
 
 ---
 

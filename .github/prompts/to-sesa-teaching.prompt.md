@@ -62,6 +62,9 @@ W materiale mogą występować między innymi następujące elementy metodologic
 
 - Pracuj wyłącznie na podstawie dostarczonego tekstu.
 - Nie wymyślaj nowych treści, przykładów, cytatów ani świadectw, jeśli nie wynikają z materiału.
+- Zachowuj **kolejność elementów i argumentacji dokładnie według oryginalnego transkryptu**; nie przestawiaj bloków, jeśli nie ma ku temu wyraźnej potrzeby metodologicznej.
+- Nie pomijaj zdań przejściowych, zdań łączących i komentarzy prowadzącego pomiędzy punktami — one również należą do treści konferencji.
+- Jeśli między dwoma „punktami” występuje ciągły fragment wypowiedzi, włącz go do odpowiedniego bloku zamiast usuwać.
 - Jeśli jakiś element jest tylko domyślny lub częściowo obecny, oznacz go ostrożnie.
 - Jeśli czegoś nie ma w materiale, nie twórz tego na siłę.
 - Możesz poprawić język, składnię, powtórzenia i chaos transkryptu, ale bez zmiany sensu.
@@ -90,6 +93,8 @@ Jedno najważniejsze zdanie konferencji. Jeśli w materiale nie ma wyraźnego zd
 
 # Struktura konferencji według metodologii SESA
 
+Bloki metodologiczne układaj **w kolejności ich rzeczywistego pojawiania się w transkrypcie**.
+
 Dla każdego wykrytego elementu utwórz osobny blok w tym formacie:
 
 ## [NAZWA ELEMENTU]
@@ -114,7 +119,7 @@ Przykładowe nazwy bloków:
 
 ## Numeracja list w konferencji SESA
 
-Stosuj wyłącznie następującą hierarchię numeracji list w treści konferencji:
+Gdy używasz list w treści konferencji, stosuj wyłącznie następującą hierarchię numeracji:
 
 - **Poziom główny:** wielkie litery (A. B. C. …)
 - **Poziom podrzędny:** małe litery (a. b. c. …)
@@ -133,6 +138,12 @@ B.
 C.
 ```
 
+Ważne:
+- Nie rozbijaj narracji na sztuczne listy tylko po to, by „pasowała” do schematu.
+- Sekcje **Świadectwo**, **Przykład** oraz **Opowiadanie / scenka wprowadzająca** zapisuj domyślnie jako spójne akapity.
+- List A./a./1. używaj tylko wtedy, gdy materiał rzeczywiście zawiera niezależne punkty do wyliczenia.
+- Nie dziel jednego logicznego zdania na 2–4 podpunkty, jeśli lepiej brzmi jako jeden akapit.
+
 ## Dodatkowe reguły redakcyjne
 
 - Pisz po polsku.
@@ -140,6 +151,7 @@ C.
 - Nie używaj tabel.
 - Używaj nagłówków i bloków.
 - Zachowuj konkret.
+- W narracjach (świadectwo, przykłady, scenki) preferuj akapity zamiast sztucznej atomizacji treści na krótkie punkty.
 - Nie twórz sztucznie wszystkich kategorii — tylko te, które realnie są w tekście.
 - Jeśli w transkrypcie pojawia się świadectwo, koniecznie spróbuj rozpisać je jako:
   - PRZED

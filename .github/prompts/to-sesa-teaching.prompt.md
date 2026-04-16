@@ -1,5 +1,7 @@
+---
 agent: agent
 description: "Przekształcenie transkryptu konferencji, katechezy lub nauczania w uporządkowany scenariusz zgodny z metodologią Szkół Ewangelizacji św. Andrzeja (SESA)."
+---
 
 Twoim zadaniem jest przeanalizować dostarczony tekst i przekształcić go w nową, uporządkowaną wersję dokumentu zgodną z metodologią Szkół Ewangelizacji św. Andrzeja (SESA).
 

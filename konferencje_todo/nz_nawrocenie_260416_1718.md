@@ -1,8 +1,6 @@
 # Nawrócenie - cz1
 
-Pytanie : Czy masz taką osobę, która jest dla ciebie ważna i którą chciałbyś zaprosić do swojego domu? Może ktoś bliski? Może ktoś, na kogo dawno czekasz? 
-
-
+**Pytanie** : Czy masz taką osobę, która jest dla ciebie ważna i którą chciałbyś zaprosić do swojego domu? Może ktoś bliski? Może ktoś, na kogo dawno czekasz? 
 
 Słuchajcie, dzisiaj przed chwilą Ania pokazała nam wiarę, pokazała nam temat wiary i to, że przez wiarę podłączamy się do krzyża do zbawienia. Czy pamiętasz o jaką wiarę chodzi?
 
@@ -18,14 +16,12 @@ Słuchajcie, dzisiaj przed chwilą Ania pokazała nam wiarę, pokazała nam tema
 
   I gdy ludzie w dniu Pięćdziesiątnicy się zgromadzili, kilka tysięcy ludzi, i zapytali Piotra, co mają zrobić po jego przemowie, aby zostać zbawionymi, on odpowiada. 
 
-  Dzieje apostolski drugi rozwiał, 38 werset. Nawróćcie się!
+   *Nawróćcie się! Dz 2, 38*
 
   Nawrócenie to papierek lakmusowy żywej wiary. Bez nawrócenia wiara sprowadza się do zwykłej idealogii, teorii.
 
   Lampa >> 
   Trzeba jeszcze dokręcić żarówkę czyli wykonać pewien zwrot, aby żyć w nowy sposób. Żyć jak dziedzic Królestwa Bożego.
-
-  
 
   
 
@@ -53,7 +49,7 @@ Dlatego zmiana myślenia jest potrzebna, aby doświadczenie tego kursu, doświad
 
 Psychologia religii wyróżnia tzw. „fałszywe obrazy Boga”. W Polsce dominujące
 
-- **Bóg Sędzia / Policjant:** Bogu surowego stróża prawa, który czeka, aż powiniemy nogę. Tworzy to wiarę opartą na lęku. *Tzw. religijność neurotyczna*.
+- **Bóg Sędzia / Policjant:** surowy stróża prawa, który czeka, aż powiniemy nogę. Tworzy to wiarę opartą na lęku. *Tzw. religijność neurotyczna*.
 
 Tylko wiesz, ja na krzyżu nie widzę Jezusa z rózgą czy młotkiem sędziowskim. Widzę Pasterza, który przyszedł szukać zagubionych owiec.
 
@@ -63,9 +59,13 @@ Tylko, że w liście do efezjan czytamy.
 
 *Łaską bowiem jesteście zbawieni przez wiarę. A to pochodzi nie od was, lecz jest darem Boga:  nie z uczynków, aby się nikt nie chlubił.* Ef 2,8-9
 
+Bóg jest inny. I nawet jeśli Ci się wydaje, ze go znasz to i tak Go nie znasz. Bo nie da się poznać nieskończoności. Potrzeba na to nieskończonego czasu, aby poznać nieskończoność. Bóg zawsze zaskakuje.
+
 Świadectwo >> 
 
-1. Czwartek przed dniem Alpha, wiosna 2024. Wiadomość wydziedziczyłem Cię. Troski Boga Alfa
+1. Czwartek przed dniem Alpha, wiosna 2024. Wiadomość wydziedziczyłem Cię. To był też dla mnie trudny rok, przygotowanie do Generalnego Pomiaru ruchu 2025, zmiany firmowe. Rozpoczęcie budowy, dużo napięcia.
+1. Po wyjechaniu do Londynu na Alpha Collective, wszyscy byli mili. O. Maurice był zaskakująco miły. Nie wiedzieliśmy z Marcinem o co chodzi. Rozmawaliśmy o tym. 
+1. Modlitwa uwielbienia, drugi dzień wydarzenia - ja stoję i płaczę. Duch święty mówi do mojego serca "Ja wiem co zrobił Twój Tata. Ja chciałem Ci to wynagrodzić. Dlatego o. Maurice był taki miły. Chciałem, żebyś odpoczał. "
 
 ## Przejście z ciemności do światła
 
@@ -113,19 +113,14 @@ Przykład >> Ten cytat ma też głębsze znaczenie. W cesarstwie i prawie rzymsk
 
 Jezus gdy wchodzi to potrafi naprawdę wiele zmienić :
 
-- Gdy wszedł do domu Zacheusza (celnika i poborcy podatkowego, który czerpał korzyści z tej pozycji), tak Słowa Jezusa zmieniły Zacheusza, że zamiast pobierać pieniędze, zaczał je rozdawać biednym. Zupełnie na odwrót, jakby był kimś innym!
-- Gdy Jezus wszedł do domu Marty i Marii, pogrążonych w Żałobie, po pogrzebie, po stypie to wskrzesił nieboszczyka ich brata. I wszyscy byli w szoku, bo poszła kasa na stypę, a teraz za ileś lat znowu trzeba będzie zrobić!
+- **Gdy wszedł do domu Zacheusza** (celnika i poborcy podatkowego, który czerpał korzyści z tej pozycji), tak Słowa Jezusa zmieniły Zacheusza, że zamiast pobierać pieniędze, zaczał je rozdawać biednym. Zupełnie na odwrót, jakby był kimś innym!
+- **Gdy Jezus wszedł do domu Marty i Marii,** pogrążonych w Żałobie, po pogrzebie, po stypie to wskrzesił nieboszczyka ich brata. I wszyscy byli w szoku, bo poszła kasa na stypę, a teraz za ileś lat znowu trzeba będzie zrobić!
 
 Orzeł musiał porzucić to co przeszkadzało mu latać, aby żyć w nowym sposób. Zachęcam Cię, porzuć dzisiaj to co Cię zniewala i przejdź z ciemności do światła. Nie o własnych siłach, ale dzięki Jego łasce!
 
-Modlitwa : Możesz zaczać od krótkiej modlitwy teraz ze mną. Możesz powtarzać, bedę wypowiadał Słowa.
+Modlitwa : Możesz zaczać od krótkiej modlitwy teraz ze mną. Możesz powtarzać : 
+
+*Panie jeśli Ty mnie nie zmienisz, to ja sam nie dam rady się zmienić. Ty mnie przemień Panie, abym mógł żyć jak Twoje dziecko. Uczyń to, czego ja nie mogę uczynić Panie. Jeśli wejdzie do mojego serca, wszystko się zmieni. Tylko Ty możesz uczynić to, czego ja nie jestem w stanie sam zrobić.*
 
 Dynamika : Pudełka
-
-
-
-
-
-35:00 - 40:00
-I powiem wam, są czasami sytuacje, które powodują, że grzeszymy. Okoliczności, które nas skłaniają do grzechu. Czemu o tym mówię? W XVI wieku w flotach hiszpańskich statków pod dowództwem Hernana Corteza przypłynęła do wybrzeża Ameryki, aby podbić Meksyk. Gdy dowiedzieli się o wielkiej, potężnej armii Azteków, to niektórzy generałowie i żołnierze chcieli uciekać. Wystraszyli się i chcieli uciekać na Kubę. Cortez, widząc co się dzieje, a już rozbili się na plaży, w nocy postanowił podpalić stacjonujące statki, aby nikt nie odpłynął i nie uciekł. W efekcie czego marynarze nie mieli wyjścia i żołnierze i rzeczywiście ten plan się udał i podbili, zdobyli Meksyk, całe imperium Azteków. Abstrahując już od moralnej strony tej historii, czy podbicie Azteków i to co się tam działo, jaki jest aspekt tego moralny. Mówię tą historię, bo ona pokazuje, że czasami musimy odciąć sobie drogę ucieczki, drogę okoliczności pokusy. Musimy po prostu podjąć decyzję, że czegoś w domu nie ma. Na przykład telewizora. Moje świadectwo o telewizorze tu mogłoby być. To jest bardzo dobre miejsce. Żeby dać świadectwo, to jest uwaga do kopalni. Pomyśl przez chwilę, jakie masz statki, jakie masz takie właśnie okoliczności, które powodują, że wracasz do grzechu. I teraz rozdamię Ci takie stateczki i pomyśl przez chwilę, co jest taką okolicznością. Możesz na tym statku zapisać, to jest anonimowe, nikt. I jedna okoliczność, wiele okoliczności, sytuacji, które Cię powodują do grzechu. Pomyśl przez chwilę i zapisz. I teraz zachęcam Ciebie i też wszystkich nas tutaj uczestników, ekipę, żebyśmy tu podchodzili do ognia paschału. Gdy będziemy podchodzić, możesz zapalać od paschału ten statek i wypowiedzieć słowa takiego aktu strzelistego. Jezu, spal mój... i odkładamy na tą tackę, czyli zapalam, odkładamy metalową tackę. Jezu, spal mój statek, abym nie mógł wrócić do ciemności. No i tutaj jest modlitwa uwolnienia od grzechu. I tyle. I potem już ksiądz.
 

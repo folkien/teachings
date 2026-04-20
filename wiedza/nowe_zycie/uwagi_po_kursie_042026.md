@@ -7,6 +7,14 @@
 - Może dobrym pomysłem jest wydłużyć niedzielę, po to aby tempo kurs było wolniejsze? 
 - Nawrócenie - w kościele czas ciszy, (bez modlitwy wstawienniczej oraz spowiedzi). Spowiedź świeta w osobnym
 punkcie planu kursu,
+- dać księdzu nauczanie oddalone w czasie od punktów typu spowiedź/sakramenty; Zawsze to duża wartość, żeby ksiądz mówił 1 temat lub więcej.
+
+
+# Kordynator 
+
+- pytać kuchnię o to, czy posiłek już jest gotowy, zanim się to ogłosi uczestnikom (obiad, kolacja) i ewentaulnie wydłużyć śpiew
+- zapewnić odpowiednią liczbę krzeseł w jadalni dla uczestników i ekipy przed każdym posiłkiem.
+- wprowadzenie uczestników w zasady korzystania z jadalni (np. odnoszenie naczyń, talerzy, plastikowe kubki)
 
 # Lektor 
 
@@ -43,12 +51,6 @@ punkcie planu kursu,
 # Dydaktyczni
 
 - wszystkie rekwizyty zawsze otrzymują uczestnicy oraz ekipa,
-
-# Kordynator 
-
-- pytać kuchnię o to, czy posiłek już jest gotowy, zanim się to ogłosi uczestnikom (obiad, kolacja) i ewentaulnie przeciągnąć śpiewem
-- zapewnić odpowiednią liczbę krzeseł w jadalni dla uczestników i ekipy przed każdym posiłkiem.
-- wprowadzenie uczestników w zasady korzystania z jadalni (np. odnoszenie naczyń, talerzy, plastikowe kubki)
 
 # Kuchnia
 

@@ -8,6 +8,7 @@
 - Nawrócenie - w kościele czas ciszy, (bez modlitwy wstawienniczej oraz spowiedzi). Spowiedź świeta w osobnym
 punkcie planu kursu,
 - dać księdzu nauczanie oddalone w czasie od punktów typu spowiedź/sakramenty; Zawsze to duża wartość, żeby ksiądz mówił 1 temat lub więcej.
+- wartościowe jest budowanie ekipy z osób spoza własnej wspólnoty i to zawsze wymiana doświadczeń,
 
 
 # Kordynator 
@@ -54,13 +55,13 @@ punkcie planu kursu,
 
 # Kuchnia
 
-1. Jeśli zachoruje jedna osoba musi być jedna wyznaczona osoba na zastępstwo. 
-3. Podczas wydawania posiłków tylko wyznaczone osoby. 
-5. Osoby z kuchni nie powinny być odpowiedzialne za utrzymanie czystości w toaletach (względy  higieniczne). 
-6. Ustalić stałe zasady i częstotliwość opróżniania koszy na śmieci podczas kursu.
-7. Poza słodkościami zapewnić również wytrawne przekąski.
-8. Przypomnieć gospodarzom przed kursem odpowiedzialność za stoliki oraz donoszenie rzeczy do stolików z kuchni.
-9. Ustalić przed kursem jasne zasady korzystania z ekspresu do kawy i zabezpieczyć odpowiedni rodzaj kawy.
+- Jeśli zachoruje jedna osoba, poszukać zastępstwa,
+- Podczas wydawania posiłków wystarczą wyznaczone osoby,
+- Osoby z kuchni nie powinny być odpowiedzialne za utrzymanie czystości w toaletach (względy  higieniczne). 
+- Ustalić stałe zasady i częstotliwość opróżniania koszy na śmieci podczas kursu.
+- może poza słodkościami zapewnić również wytrawne przekąski.
+- Przypomnieć gospodarzom przed kursem odpowiedzialność za stoliki oraz poprosić o współprace z kuchnią
+- Ustalić przed kursem jasne zasady korzystania z ekspresu do kawy i zabezpieczyć odpowiedni rodzaj kawy.
 
 
 

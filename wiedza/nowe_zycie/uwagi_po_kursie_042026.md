@@ -1,37 +1,64 @@
 
-# Plan kursu
-
-- więcej czasu na modlitwę o charyzmaty niż gadanie o nich,
 
 # Dyrektor
 
 - wolniejsze tempo kursu, czas na przerwy, rozmowy,
-- krótsze nauczania (ograniczona percepcja uczestników) a więcej na dynamikę i wolne tempo dynamiki,
+- krótsze nauczania (ograniczona percepcja uczestników), więcej czasu na dynamiki oraz przerwy na przetrawienie treści (np. uczestnicy mogą zostać w ciszy w sali lub muzyka w sali(np z komputera)),
+- Może dobrym pomysłem jest wydłużyć niedzielę, po to aby tempo kurs było wolniejsze? 
+- Nawrócenie - w kościele czas ciszy, (bez modlitwy wstawienniczej oraz spowiedzi). Spowiedź świeta w osobnym
+punkcie planu kursu,
+
+# Lektor 
+
+- min 2 osoby do posługi (na zmianę),
+
+# Projektant
+
+- potrzebna mała drabina dla wieszania plakatów; plakaty Duch Święty + Wspólnota mogą wiesieć już w niedzielę rano,
+- gdy 1 osoba to potrzeba jej pomóc w przenoszeniu sprzętu kośció <-> salka,
+
+# Kapłan
+
+- zwrócić uwagę żeby spowiedź święta/sakramentu nie kolidowały z nauczaniem które ma ksiądz,
+
+# Głoszenia
+
+- Miłość Boża - świeca zawsze jest osobną świeczką; nie mieszamy z ołtarzem słowa
+- Grzech - stół który zostaje po konferencji warto już po obiedzie sprzątnąć; mało miejsca
+- Zbawienie - przećwiczyć całą dynamikę, nie tylko związywanie,
+- Nawrócenie - głoszenie w sali może być krótsze, dynamika pudeła trwa długo; muzyczni potrzebni w kościele i w salce
+- Duch Święty - da się też w salce na górze; trzeba wynieść stoł z tyłu; 3 grupy na korytarzu
+- Wspólnota - przedłużacz 50m, porządny; 
+
+# Muzyczni
+
+- czasem wystarczy mniej pieśni, ale za to wracanie do tych, które ludzie chetnie śpiewają
 
 
+# Recepcja
+
+- serduszka dla uczestników + ekipa,
+- zapytać kordynatora o listę uczestników,
+
+# Dydaktyczni
+
+- wszystkie rekwizyty zawsze otrzymują uczestnicy oraz ekipa,
 
 # Kordynator 
 
 - pytać kuchnię o to, czy posiłek już jest gotowy, zanim się to ogłosi uczestnikom (obiad, kolacja) i ewentaulnie przeciągnąć śpiewem
-
-@ TODO zamień na ogólny wniosek ,bez historii oraz oskarzęń
-7. Krzesełka w jadalni  - tu też była do mnie uwaga podczas obiadu, że nie ma krzeseł dla EKIPY. Kilka razy przypominałam żeby zabrać ze sobą krzesła z góry.  Przy kolacji podobnie.  Lub weiecej krzeseł
-
+- zapewnić odpowiednią liczbę krzeseł w jadalni dla uczestników i ekipy przed każdym posiłkiem.
+- wprowadzenie uczestników w zasady korzystania z jadalni (np. odnoszenie naczyń, talerzy, plastikowe kubki)
 
 # Kuchnia
 
 1. Jeśli zachoruje jedna osoba musi być jedna wyznaczona osoba na zastępstwo. 
 3. Podczas wydawania posiłków tylko wyznaczone osoby. 
 5. Osoby z kuchni nie powinny być odpowiedzialne za utrzymanie czystości w toaletach (względy  higieniczne). 
-@ TODO zamień na ogólny wniosek ,bez historii oraz oskarzęń
-6. Podobnie kosze na śmieci ( też padały uwagi w naszą stronę, że kosze są przepełnione)
-@ TODO zamień na ogólny wniosek ,bez historii oraz oskarzęń
-- poza słodkościami również jakieś wytrawne przekąski (nie tylko paluszki)
+6. Ustalić stałe zasady i częstotliwość opróżniania koszy na śmieci podczas kursu.
+7. Poza słodkościami zapewnić również wytrawne przekąski.
+8. Przypomnieć gospodarzom przed kursem odpowiedzialność za stoliki oraz donoszenie rzeczy do stolików z kuchni.
+9. Ustalić przed kursem jasne zasady korzystania z ekspresu do kawy i zabezpieczyć odpowiedni rodzaj kawy.
 
-@ TODO zamień na ogólny wniosek ,bez historii oraz oskarzęń
-8. Uważam, że gospodarze powinni dać o swoje stoliki i podchodzić do kuchni, kiedy czegoś brakuje- przy obiedzie był z tym problem, przy kolacji myślę, że było lepiej. Może trzeba przypomnieć o tym na spotkaniu przed kursem 
 
-@ TODO zamień na ogólny wniosek ,bez historii oraz oskarzęń
-9.  Była też drama z ekspresem do kawy- kiedy jedna osoba z ekipy zażyczyła sobie kawy w ekspresu ustawia się cała kolejka. Dobrze ustalić takie kwestie - czy korzystamy, czy nie. Ewentualne kupujemy kawę ziarnistą. 
-- KAWA! Z ekspresu (może być przelewowego), nie tylko rozpuszczalna czy sypana
 

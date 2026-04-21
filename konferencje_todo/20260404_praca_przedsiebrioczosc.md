@@ -33,3 +33,52 @@ np. _Tak jak budujesz dom, staje się zamieszkały, CO, CWU działa, to nie musi
 
 
 # 1. Wstęp
+
+Rdz 2,15 - Bóg stworzył człowieka, aby uprawiał ogród i strzegł go.
+
+Pierwsze powołanie do pracy, jeszcze przed grzechem.
+Czy niektórzy teologowie uważają że praca będzie w niebie? @TODO
+
+Rdz 3, 17-19 Przeklęta niech będzie ziemia z powodu ciebie : w trudzie będziesz  zdobywał pożywienie
+dla siebie po wszystkie dni twego życia. Cierń i oset będzie ci ona rodziła, a przecież pokarmem
+twym są płody roli.
+
+Grzech spowodował, że praca stała się trudem.
+
+Wj 34, 21 - Sześć dni będziesz pracował, a siódmego dnia będziesz odpoczywał.
+
+Praca zapisana w nakazie Bożym, 6 dni pracy.
+
+2 Tes 3,10 Kto nie chce pracować, niech też nie je.
+
+Nie nie może, tylko ten który nie chce.
+
+Podstawowy cel pracy to kształtowanie charakteru.
+
+
+Bóg posługiwał się w historii zbawienia ludźmi o różnych zawodach. Dawid to pasterz i król. św Łukasz Ewangelista to lekarz. św Paweł wyrabiał namioty. Prorok Daniel był urzędnikiem rządowym.
+A prorok Amos był zbieraczem fig. W Bożym patrzeniu tą samą wartość może mieć praca mechnika
+samochodowego, sprzątaczki jak i prezesa Tauronu.
+
+Wj 36, 1-2 (..) i wszyscy zręczni mężowie którym Pan dał mądrość i umiejetnośc, aby umieli wykonywać wszelką pracę przy budowie przybytku
+
+Bóg wyposaża w umiejętności do pracy.
+
+Rdz 39, 2-3 Pan był z Józefem i sprawił, że odnosił sukcesy we wszystkim, czego się podejmował. 
+
+Bóg daje powodzenie w pracy. Czy spodziewasz się powodzenia w pracy, że Bóg Ci będzie błogosławił
+to co robisz?
+
+Kol 3,23 Cokolwiek czynicie, z serca czyńcie jak dla Pana, a nie dla ludzi.
+
+Pracuj sumiennie. Gdyby twoim szefem był Jezus, to pracowałbyś tak samo czy może inaczej?
+
+Łatwo jednak z przepracowania lub długich godzin na szychcie zrobić wymówkę, że "narobiłem się".
+Ludzie myślą, że przeciwieństwem lenistwa jest pracowitość. 
+Tymczasem przeciwieństwem lenistwa jest dyscyplina.
+Ludzie najczęściej skłaniają się w jedną z dwóch skrajności.
+- Albo pracują najmniej jak się da, gdyż ich praca jest mało przyjemna,
+- albo mogliby ciągle pracować, gdyż praca jest dla nich tak niesamowicie ważna,
+
+
+

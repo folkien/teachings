@@ -22,55 +22,43 @@ np. Budowa twojego domu to dodajesz coś do świata stworzonego przez Boga.
 
 _Osoba pracująca, niezależnie od tego, jakie byłoby jej zajęcie, współpracuje z samym Bogiem, staje się poniekąd twórcą otaczającego nas świata_  8 grudnia liście apostolskim „Patris Corde”, Franciszek
 
-To oznacza, że praca to nie jest zło konieczne, by przetrwać do pierwszego. 
-
-Skoro praca jest dobra to możnaby zadać pytanie - czy będziemy pracować w niebie? (..)
-Nie znalazłem jednoznacznej odpowiedzi.
-
-KKK 1060: "Na końcu czasów Królestwo Boże osiągnie swoją pełnię. Wtedy sprawiedliwi będą królować z Chrystusem w chwale, a sam wszechświat materialny zostanie przemieniony."
-
-Skoro człowiek jest powołany do pracy, to dlaczego praca jest taka trudna? 
-Dlaczego jesteśmy rozczarowanie pracą? Nie spełniamy się w niej czy pracujemy, bo potrzebuje na utrzymanie, a nie z przekonania.
+Skoro praca jest Bożym zamysłem, to dlaczego jest taka trudna? 
+Dlaczego jesteśmy rozczarowani, nie spełniamy się w pracy. Pracujemy tylko dla utrzymania, czemu istnieją
+korporacje? Nawet słowo `zawód` = oznacza rozczarowanie.
 
 _Rdz 3, 17-19 (..)W trudzie będziesz zdobywał na niej pożywienie przez wszystkie dni życia. Będzie ci ona rodziła ciernie i osty, a przecież twoim pokarmem mają być płody roli._
 
-Grzech powoduje żę praca jest trudem. Grzech powoduje, że mamy tzw gównoprace. Spotkania które mogłyby 
-być emaile. Chciwość sprawia że spółki nie wychodzą. Że firmy uciekają do rajów podatkowych itd. (tyle ludzi się zawiodło i mówi spółki to diabeł stworzył)
+Grzech powoduje żę praca jest trudem. Chciwość sprawia że spółki nie wychodzą. Że firmy uciekają do rajów podatkowych itd. (tyle ludzi się zawiodło i mówi spółki to diabeł stworzył).  Czy mamy spotkania które mogłyby być emailem.
 
 Dygresja : _To jest trudne. Bóg ma jakiś plan i że Biblia pokazuje pewne zasady, założenia to nie znaczy, że świat wdraża te zasady. Często jest wręcz przeciwnie, świat tworzy antyzasady. Antysystemy np komunizm_ 
 _Dlatego nie wszystko co się dzieje "to Boża wola i Bóg tego chciał". Czemu? Bo ludzie mają wolną wolę. Czyli w skrócie, mogą zrobić inaczej niż Bóg chce. Mogą grzeszyć._
 
-Trzeba być aktywnym. Obiecałem Krystianowi te nauczenie. Po kursie mi się nie chciało, ale siedziałem i je napisałem. A nie zdezereterowałem i mówię "Boże Ty się tym zajmij. Natchnij kogoś."
+Módlmy się i pracujmy. Obiecałem te nauczenie. Po kursie mi się nie chciało, ale siedziałem i je napisałem. A nie zdezereterowałem i mówię "Boże Ty się tym zajmij. Natchnij kogoś."
 To byłoby niedojrzałe, niedodpowiedzialne.
 
 _św. Ignacy z Loyoli mówił "Módl się tak, jakby wszystko zależało od Boga, ale działaj tak, jakby wszystko zależało od Ciebie."_
 
-Czyli chodzi o współprace z łaską. Bóg nie chce Cię wyręczać, ale kształować. Jezus też jak mieszkał w Kafarnaum, to nie chodził po bułki po wodzie po jeziorze bo miał na skróty, tylko 1x raz Ewangelii tak zrobił bo miał w tym swój cel.
-
-Więc nie każda porażka to wina Boga, oraz nie każdy sukces to Boży plan. Może być nawet tak, że nowa praca, awans, pieniądze może Cię oddalić od wiary. 
-> Przykład. Podczas kursu Uwielbienie głosiła u nas Dorota z SNE Wrocław, która właśnie miała taka sytuacje, ze odrzuciła ofertę pracy (lepsze stanowisko i finanse) bo rozeznała, że praca ta byłaby tak pochłaniająca, ze nie miałaby czasu na modlitwę, wspolnotę i ewangelizcję (a Dorota od lat robi kursy).
+Współpraca z łaską.
 
 # Jaki jest cel pracy?
 
-*Laborem Excerens Wymiar subiektywny: To sam człowiek jako podmiot pracy. Przez pracę człowiek nie tylko coś tworzy na zewnątrz, ale przede wszystkim kształtuje samego siebie wewnątrz (swój charakter, cnoty, dyscyplinę).*
+*Laborem Excerens JP2: To sam człowiek jako podmiot pracy. Przez pracę człowiek nie tylko coś tworzy na zewnątrz, ale przede wszystkim kształtuje samego siebie wewnątrz (swój charakter, cnoty, dyscyplinę).*
 
 kard. Grzegorz Ryś, Biznes na Skale 2024, konferencja
-Pierwszą osobą której ma służyć przedsiębiorstwo jest osoba przedsiębiorcy. To nie chodzi o to, że generuje
-zysk(choć oczywiśćie też). Chodzi o to, że On jest celem pracy którą wykonuje. 
+**Pierwszą osobą której ma służyć przedsiębiorstwo jest osoba przedsiębiorcy. To nie chodzi o to, że generuje zysk(choć oczywiście też). Chodzi o to, że On jest celem pracy którą wykonuje.* 
 
 Ty jesteś pierwszym celem pracy. Ponieważ praca Cię rozwija.
 
 Świadectwo : `Założenie AISP, nauka marketingu, sprzedaży, rozmowy z klientami, zarządzanie budżetem, zespołem, rozliczanie dofinansowań.`
 Świadectwo : `Jadzia, założenie JDG`
 
-Cytujac abp. Rysia
-`W nauce społecznej kościoła jest jak refren powtarzane : Tragedią jest, jeśli przez pracę w z warsztatu ludzkiego wychodzi udosokonalona materia, a człowiek wychodz gorszy. Nie temu służy praca, praca służy temu, by się człowiek rozwijał.`
 
-Chwila na zastanowienie : Jak jest u Ciebie?
+`Nauka społeczna kościoła jest jak refren powtarzana : Tragedią jest, jeśli przez pracę w z warsztatu ludzkiego wychodzi udosokonalona materia, a człowiek wychodzi gorszy. Nie temu służy praca, praca służy temu, by się człowiek rozwijał.`
 
+**Chwila na zastanowienie : Jak jest u Ciebie?**
 
-Jezus teź pracował. Laborem Excerens :
-_,,[Jezus], który będąc Bogiem, stał się podobny do nas we wszystkim( .. ,), większą część lat swego życia na ziemi poświęcił pracy przy warsztacie ciesielskim, pracy fizycznej. Okoliczność ta sama z siebie stanowi najwymowniejszą «ewangelię pracy»”._
+Jezus pracował. Laborem Excerens :
+_,,[Jezus], który będąc Bogiem, stał się podobny do nas we wszystkim( .. ,), większą część lat swego życia na ziemi poświęcił pracy przy warsztacie ciesielskim, pracy fizycznej.”._
 
 Każdy z nas jest powołany do pracy. św. Paweł napomina
 
@@ -82,51 +70,45 @@ Nie chce. Nie że nie może czy jest chory. tylko ten który nie chce.
 ## Ora et labora
 Święty Benedykt z Nursji, żyjący na przełomie V i VI wieku, funkcjonował w świecie w którym pustelnicy skupiali się niemal głównie ascezie i modlitwie, zaniedbując świat materialny. Z drugiej – w świecie antycznym, rzymskim – praca fizyczna była  pogardzana i zrzucana na barki niewolników.
 
-św. Benedykt, było prawdziwą rewolucją. Zrozumiał, że potrzebna jest harmonia między życiem duchowym a codziennymi obowiązkami. Ora et labora – módl się i pracuj – zakładała, że każda uczciwa praca, zarówno fizyczna, jak i umysłowa, może być formą modlitwy i chwalenia Boga. Mnisi mieli w planie dnia i czas na chór, i na rzemiosło, uprawę czy przepisywanie ksiąg, a ich klasztory stawały się samowystarczalne.
+św. Benedykt, było prawdziwą rewolucją. Zrozumiał, że potrzebna jest harmonia między życiem duchowym a codziennymi obowiązkami. **Ora et labora** – módl się i pracuj – zakładała, że każda uczciwa praca, zarówno fizyczna, jak i umysłowa, może być formą modlitwy i chwalenia Boga. Mnisi mieli w planie dnia i czas na chór, i na rzemiosło, uprawę czy przepisywanie ksiąg, a ich klasztory stawały się samowystarczalne.
 
-*Dlaczego o tym mówię?* Podobna idea przyświeca propozycji naszych »grupek pracy«. Chodziło o to by 1x raz na kilka miesięcy grupka wyglądała inaczej. By w ramach tych 2h poświęcić na przykład pół godziny na modlitwę i resztę na wspólną pracę. Bo to też buduje więzi (np. rąbanie drzewa Panów). 
-Przy okazji wspiera to budynek, z którego  korzystamy - gdzie nie ma etatowych pracowników tylko wolnotariat.
-Wspólna praca – na wzór benedyktyński – też naszej modlitwy
+*Dlaczego o tym mówię?*  *Każdy kto był w ekipie kursu wie, że ekipa się zżywa gdy razem pracuje.* Podobna idea przyświecała pomysłowy »grupek pracy«. Chodziło o to by 1x raz na kilka miesięcy grupka wspólnie pracowała. By w ramach tych 2h poświęcić na przykład pół godziny na modlitwę i resztę na wspólną pracę. Bo to też buduje więzi (np. rąbanie drzewa Panów). 
+Przy okazji wspiera to budynek, z którego korzystamy - gdzie nie ma etatowych pracowników tylko wolnotariat. Wspólna praca – na wzór benedyktyński – też naszej modlitwy
 
 ## Pracoholizm i lenistwo
 
 Ludzie najczęściej skłaniają się w jedną z dwóch skrajności.
-- Albo pracują najmniej jak się da, gdyż ich praca jest mało przyjemna,
-- albo mogliby ciągle pracować, gdyż praca jest dla nich tak niesamowicie ważna,
+- Albo pracują **najmniej** jak się da, gdyż ich praca jest mało przyjemna,
+- albo mogliby **ciągle** **pracować**, gdyż praca jest dla nich tak niesamowicie ważna,
 
-Niestety z przepracowania lub długich godzin na szychcie zrobić wymówkę, że "narobiłem się". Albo ucieczkę
-przez innymi obwiązkami.
+Z przepracowania lub długich godzin na szychcie da się zrobić wymówkę, że "narobiłem się". Albo ucieczkę
+przez innymi obowiązkami. *np. sam wiem coś o tym*
 
 Ludzie myślą, że przeciwieństwem lenistwa jest pracowitość. Tymczasem przeciwieństwem lenistwa jest (...) dyscyplina.
 
 Dyscyplina to czasem nie pracować. To czasem zatrzymać się i zadbać o ciało. Zadbać o sen.
-Dyscyplina może oznaczać, ojca który z dziecmi odorobi lekcje.
+Dyscyplina może oznaczać, ojca który z dziećmi odrobić lekcje. A dla matki może oznaczać pojechać na basen, etc zadbać o siebie żeby miała energię.
 
 Pracoholizm to często `brak dyscypliny` w stawianiu granic pracy. Jeżeli praca przeszkadza Ci w relacji z Bogiem, to znaczy że pracujesz zbyt dużo lub zbyt ciężko.
 
-## Błogosławieństwo pracy
+Może być nawet tak, że nowa praca, awans, pieniądze może Cię oddalić od wiary. 
+> Przykład. Podczas kursu Uwielbienie głosiła u nas Dorota z SNE Wrocław, która właśnie miała taka sytuacje, ze odrzuciła ofertę pracy (lepsze stanowisko i finanse) bo rozeznała, że praca ta byłaby tak pochłaniająca, ze nie miałaby czasu na modlitwę, wspolnotę i ewangelizcję (a Dorota od lat robi kursy).
 
-Wj 36, 1-2 (..) i wszyscy zręczni mężowie którym Pan dał mądrość i umiejetnośc, aby umieli wykonywać wszelką pracę przy budowie przybytku
-
-Bóg wyposaża w umiejętności do pracy.
-
-_Rdz 39, 2-3 Pan był z Józefem i sprawił, że odnosił sukcesy we wszystkim, czego się podejmował._
-
-Bóg daje powodzenie w pracy. Czy spodziewasz się powodzenia w pracy, że Bóg Ci będzie błogosławił
-to co robisz?
+Nie chodzi o ilość, ale jakość pracy.
 
 _Kol 3,23 Cokolwiek czynicie, z serca czyńcie jak dla Pana, a nie dla ludzi._
 
-Pracuj sumiennie. **Pytanie:** Gdyby twoim szefem był Jezus, to pracowałbyś tak samo czy może inaczej?
+**Pytanie:** Gdyby twoim szefem był Jezus, to pracowałbyś tak samo czy może inaczej?
 
-_Prz 18, 9 Kto jest niedbały w swojej pracy, ten jest bratem rozbójnika._
+## Błogosławieństwo pracy
 
-Lenistwo jako grzech.
+*Wj 36, 1-2 Mojżesz wezwał Besalela, Oholiaba oraz wszystkich uzdolnionych mężczyzn, których Pan  obdarzył mądrością i którzy bardzo chcieli podjąć się wykonania robót,*
 
-św Paweł jako przykład ciężkiej pracy. 6 dni składania namiotów, a siódmego dnia nauczanie.
-Mi to kiedyś pomogło.
-ps. Za czasów Pawła nie dało się przez patronite wysyłać pieniędzy online na twórcę, jak dzisiaj
-ludzie wysyłają na np Marcina Zielinśkiego.
+Bóg wyposaża w **umiejętności** do pracy.
+
+_Rdz 39, 2-3 Ponieważ Pan był z Józefem, dlatego wszystko mu się udawało, gdy był w domu Egipcjanina, swojego pana. Egipcjanin, jego pan, widział więc, że Pan jest z Józefem i że Pan szczęści mu we wszystkim, co czyni._
+
+Bóg daje powodzenie w pracy. Czy spodziewasz się powodzenia w pracy, że Bóg Ci będzie błogosławił to co robisz?
 
 
 ## Pytania 
@@ -167,3 +149,8 @@ A prorok Amos był zbieraczem fig. W Bożym patrzeniu tą samą wartość moż
 samochodowego, sprzątaczki jak i prezesa Tauronu.
 _Wj 34, 21 Przez sześć dni masz pracować, siódmego natomiast odpoczniesz. Dotyczy to nawet czasu orki oraz żniw._
 
+
+Skoro praca jest dobra to możnaby zadać pytanie - czy będziemy pracować w niebie? (..)
+Nie znalazłem jednoznacznej odpowiedzi.
+
+KKK 1060: "Na końcu czasów Królestwo Boże osiągnie swoją pełnię. Wtedy sprawiedliwi będą królować z Chrystusem w chwale, a sam wszechświat materialny zostanie przemieniony."

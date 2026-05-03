@@ -68,8 +68,8 @@ SNE_RED = ColorTheme(
     panel_bg=(30, 4, 4),
     tagline_color=(200, 150, 148),
     quote_color=(255, 220, 215),
-    gradient_blend=0.52,
-    fullbg_blend=0.55,  # słabszy — czerwień nie bije po oczach
+    gradient_blend=0.40,
+    fullbg_blend=0.40,  # słabszy — czerwień nie bije po oczach
 )
 
 SNE_DARK = ColorTheme(

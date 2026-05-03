@@ -53,6 +53,7 @@ class ColorTheme:
     quote_color: tuple[int, int, int]
     gradient_blend: float
     fullbg_blend: float
+    shadow_color: tuple[int, int, int] = (0, 0, 0)
 
 
 # Bazowy odcień SNE: #D3413F
@@ -70,6 +71,7 @@ SNE_RED = ColorTheme(
     quote_color=(255, 220, 215),
     gradient_blend=0.40,
     fullbg_blend=0.40,  # słabszy — czerwień nie bije po oczach
+    shadow_color=(0, 0, 0),
 )
 
 SNE_DARK = ColorTheme(
@@ -84,6 +86,7 @@ SNE_DARK = ColorTheme(
     quote_color=(255, 210, 205),
     gradient_blend=0.40,
     fullbg_blend=0.44,  # trochę słabsze niż poprzednie 0.76
+    shadow_color=(0, 0, 0),
 )
 
 # Schemat odwrotny: białe tło, czerwone akcenty, szare teksty pomocnicze
@@ -93,13 +96,14 @@ SNE_LIGHT = ColorTheme(
     base_bg=(255, 255, 255),
     overlay_color=(245, 240, 240),
     accent=_ACCENT,
-    text_primary=_ACCENT_LIGHT,  # jaśniejsza czerwień — czytelna na zdjęciu z cieniem
+    text_primary=(30, 20, 20),  # ciemny — czytelny na jasnym tle
     text_secondary=(51, 51, 51),  # #333333 — ciemny szary
     panel_bg=(245, 240, 240),
     tagline_color=(100, 100, 100),
-    quote_color=(220, 180, 178),  # jasny różowawy, widoczny na ciemniejszym tle zdjęcia
+    quote_color=_ACCENT_LIGHT,  # akcent czerwony na jasnym tle
     gradient_blend=0.25,
     fullbg_blend=0.40,
+    shadow_color=(255, 255, 255),  # biały cień na jasnym tle
 )
 
 THEMES = {"red": SNE_RED, "dark": SNE_DARK, "light": SNE_LIGHT}
@@ -297,10 +301,11 @@ def draw_shadow_text(
     fill: tuple,
     shadow_offset: int = 2,
     shadow_alpha: int = 180,
+    shadow_base: tuple[int, int, int] = (0, 0, 0),
 ) -> None:
     """Rysuje tekst z cieniem (offset px w dół i w prawo)."""
     sx, sy = pos[0] + shadow_offset, pos[1] + shadow_offset
-    shadow_color = (0, 0, 0, shadow_alpha) if len(fill) == 4 else (0, 0, 0)
+    shadow_color = (*shadow_base, shadow_alpha) if len(fill) == 4 else shadow_base
     draw.text((sx, sy), text, font=font, fill=shadow_color)
     draw.text(pos, text, font=font, fill=fill)
 
@@ -568,6 +573,7 @@ def render_fullbg(
             theme.text_primary,
             shadow_offset=3,
             shadow_alpha=200,
+            shadow_base=theme.shadow_color,
         )
         y_start += 46
 
@@ -583,6 +589,7 @@ def render_fullbg(
         font_author,
         theme.text_primary,
         shadow_offset=2,
+        shadow_base=theme.shadow_color,
     )
 
     # Motto kursywą + brand wyśrodkowane
@@ -805,6 +812,7 @@ def render_stat(
             theme.text_primary,
             shadow_offset=3,
             shadow_alpha=210,
+            shadow_base=theme.shadow_color,
         )
         y_text += 42
 
@@ -820,6 +828,7 @@ def render_stat(
         font_author,
         theme.text_primary,
         shadow_offset=2,
+        shadow_base=theme.shadow_color,
     )
     font_tag = load_font_italic(12)
     bbox = draw.textbbox((0, 0), TAGLINE_MOTTO, font=font_tag)

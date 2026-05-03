@@ -374,7 +374,7 @@ def render_gradient(
         (PAD_X, CARD_H - PAD_Y - 54),
         f"— {author}",
         font=load_font(18, bold=True),
-        fill=theme.quote_color,
+        fill=theme.text_primary,
     )
     # Motto + brand  (kursywa dla motto)
     draw.text(
@@ -480,7 +480,7 @@ def render_gradient_right(
         (TEXT_LEFT, CARD_H - PAD_Y - 54),
         f"— {author}",
         font=load_font(18, bold=True),
-        fill=theme.quote_color,
+        fill=theme.text_primary,
     )
     # Motto kursywą + brand
     draw.text(
@@ -581,7 +581,7 @@ def render_fullbg(
         ((CARD_W - aw) // 2, CARD_H - PAD_Y - 52),
         autor_str,
         font_author,
-        theme.quote_color,
+        theme.text_primary,
         shadow_offset=2,
     )
 
@@ -647,26 +647,18 @@ def render_minimal(
             y_off = (bg.height - CARD_H) // 2
             bg = bg.crop((x_off, y_off, x_off + CARD_W, y_off + CARD_H))
 
+            # Pełne tło z 20% opacity
+            full_alpha = Image.new("L", (CARD_W, CARD_H), int(255 * 0.20))
+            card.paste(bg, (0, 0), full_alpha)
+
+            # W kółkach — 95% opacity (prawie pełna widoczność)
             for cx, cy, r in circles:
-                # Maska kołowa
                 circle_mask = Image.new("L", (CARD_W, CARD_H), 0)
                 cm_draw = ImageDraw.Draw(circle_mask)
-                cm_draw.ellipse([cx - r, cy - r, cx + r, cy + r], fill=200)
-                # Przyciemnij wycinek zdjęcia
-                photo_region = bg.copy()
-                dark_overlay = Image.new("RGB", (CARD_W, CARD_H), theme.panel_bg)
-                photo_region = Image.composite(photo_region, dark_overlay, circle_mask)
-                card.paste(photo_region, (0, 0), circle_mask)
+                cm_draw.ellipse([cx - r, cy - r, cx + r, cy + r], fill=int(255 * 0.95))
+                card.paste(bg, (0, 0), circle_mask)
         except Exception as e:
             print(f"  [ostrzeżenie] Nie można załadować zdjęcia {photo}: {e}")
-            for cx, cy, r in circles:
-                bbox = [cx - r, cy - r, cx + r, cy + r]
-                draw.ellipse(
-                    bbox,
-                    fill=(*theme.overlay_color, 0),
-                    outline=(*theme.accent, 40),
-                    width=1,
-                )
     else:
         for cx, cy, r in circles:
             bbox = [cx - r, cy - r, cx + r, cy + r]
@@ -705,7 +697,7 @@ def render_minimal(
         (PAD_X, CARD_H - PAD_Y - 54),
         f"— {author}",
         font=load_font(18, bold=True),
-        fill=theme.quote_color,
+        fill=theme.text_primary,
     )
     draw.text(
         (PAD_X, CARD_H - PAD_Y - 32),
@@ -826,7 +818,7 @@ def render_stat(
         ((CARD_W - aw) // 2, CARD_H - PAD_Y - 52),
         autor_str,
         font_author,
-        theme.quote_color,
+        theme.text_primary,
         shadow_offset=2,
     )
     font_tag = load_font_italic(12)

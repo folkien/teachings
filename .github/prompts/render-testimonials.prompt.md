@@ -1,3 +1,7 @@
+---
+agent: agent
+description: "Renderuj karty ze świadectwami SNE – wybór 10 losowych świadectw z pliku i generowanie graficznych kart PNG"
+---
 # Prompt: Renderuj karty ze świadectwami SNE
 
 ## Cel
@@ -51,32 +55,57 @@ Dla każdego wybranego świadectwa:
 - ogranicz tekst do 220 znaków (nie ucinaj w środku słowa, dodaj `…`)
 - zachowaj oryginalny podpis autora
 
-### Krok 3 — Renderuj 10 kart
+### Krok 3 — Renderuj 10 kart × 3 motywy = 30 kart
 
-Dla każdego z 10 wybranych świadectw wywołaj skrypt:
+Dla każdego z 10 wybranych świadectw wygeneruj **po 3 karty** — po jednej dla każdego motywu kolorystycznego: `red`, `dark`, `light`.
+
+Każdą kartę wywołaj skryptem:
 
 ```bash
 python3 scripts/render_testimonial_cards.py \
   --photos <ścieżka_do_zdjęć> \
   --output <katalog_wyjściowy> \
-  --logo images/logotyp.png \
+  --logo images/logotyp/sne_kwadrat.png \
   --author "<autor>" \
   --text "<tekst>" \
-  --theme red
+  --theme <red|dark|light>
 ```
 
-Karty są generowane z **losowym layoutem** (gradient / fullbg / minimal / stat) — nie podawaj `--layout`, żeby był losowany automatycznie.
+Karty są generowane z **losowym layoutem** (gradient / gradient_rtl / fullbg / minimal / stat) — nie podawaj `--layout`, żeby był losowany automatycznie.
 
-Nazwy plików wyjściowych: `01_<slug_autora>.png`, `02_<slug_autora>.png`, …
+Nazwy plików wyjściowych: `01_<slug_autora>_red.png`, `01_<slug_autora>_dark.png`, `01_<slug_autora>_light.png`, `02_…` itd.
+
+Alternatywnie możesz użyć jednego wywołania zbiorczego na motyw (wszystkie 10 świadectw naraz):
+
+```bash
+# red
+python3 scripts/render_testimonial_cards.py \
+  --testimonials <plik_md> --photos <zdjęcia> \
+  --output <katalog>/red --count 10 --theme red --seed <N>
+
+# dark
+python3 scripts/render_testimonial_cards.py \
+  --testimonials <plik_md> --photos <zdjęcia> \
+  --output <katalog>/dark --count 10 --theme dark --seed <N>
+
+# light
+python3 scripts/render_testimonial_cards.py \
+  --testimonials <plik_md> --photos <zdjęcia> \
+  --output <katalog>/light --count 10 --theme light --seed <N>
+```
+
+Użyj **tego samego seed** dla wszystkich trzech wywołań, by każdy motyw dotyczył tych samych 10 świadectw.
 
 ### Krok 4 — Podsumowanie
 
-Po wygenerowaniu wszystkich kart wypisz tabelę:
+Po wygenerowaniu wszystkich kart wypisz tabelę (30 wierszy = 10 świadectw × 3 motywy):
 
-| Nr | Autor | Fragment tekstu (pierwsze 60 znaków) | Layout | Plik |
-|----|-------|--------------------------------------|--------|------|
-| 1  | Iza   | Kurs pozwolił mi zbliżyć się do…     | fullbg | 01_iza.png |
-| …  | …     | …                                    | …      | …    |
+| Nr | Autor | Fragment tekstu (pierwsze 60 znaków) | Layout | Motyw | Plik |
+|----|-------|--------------------------------------|--------|-------|------|
+| 1  | Iza   | Kurs pozwolił mi zbliżyć się do…     | fullbg | red   | 01_iza_red.png |
+| 1  | Iza   | Kurs pozwolił mi zbliżyć się do…     | fullbg | dark  | 01_iza_dark.png |
+| 1  | Iza   | Kurs pozwolił mi zbliżyć się do…     | fullbg | light | 01_iza_light.png |
+| …  | …     | …                                    | …      | …     | … |
 
 ---
 
@@ -91,13 +120,17 @@ Po wygenerowaniu wszystkich kart wypisz tabelę:
 
 ## Schemat wywołania z terminala (skrót)
 
-```bash
-python3 scripts/render_testimonial_cards.py \
-  --testimonials nowe_zycie_26/swiadectwa_nz_260502_1634.md \
-  --photos /ścieżka/do/zdjęć \
-  --output output/sne_cards \
-  --count 10 \
-  --theme red
-```
+Trzy wywołania z tym samym seed generują 30 kart (10 świadectw × 3 motywy):
 
-To polecenie wykona całość automatycznie (parsowanie + losowanie 10 + renderowanie z losowym layoutem).
+```bash
+SEED=42
+for THEME in red dark light; do
+  python3 scripts/render_testimonial_cards.py \
+    --testimonials nowe_zycie_26/swiadectwa_nz_260502_1634.md \
+    --photos /ścieżka/do/zdjęć \
+    --output output/sne_cards/$THEME \
+    --count 10 \
+    --theme $THEME \
+    --seed $SEED
+done
+```

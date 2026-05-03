@@ -55,35 +55,53 @@ class ColorTheme:
     fullbg_blend: float
 
 
+# Bazowy odcień SNE: #D3413F
+_ACCENT = (211, 65, 63)  # #D3413F
+
 SNE_RED = ColorTheme(
     name="sne_red",
-    base_bg=(90, 10, 10),  # głęboka burgundowa czerń
-    overlay_color=(120, 15, 15),
-    accent=(220, 40, 40),  # jaskrawa czerwień
-    text_primary=(255, 245, 240),
-    text_secondary=(200, 160, 160),
-    panel_bg=(70, 8, 8),
-    tagline_color=(180, 100, 100),
-    quote_color=(255, 200, 180),
-    gradient_blend=0.55,
-    fullbg_blend=0.70,
+    base_bg=(45, 6, 6),  # bardzo ciemna czerwień
+    overlay_color=(60, 8, 8),
+    accent=_ACCENT,
+    text_primary=(255, 250, 248),  # niemal biały
+    text_secondary=(240, 210, 208),  # jasny różowawy
+    panel_bg=(30, 4, 4),
+    tagline_color=(200, 150, 148),
+    quote_color=(255, 220, 215),
+    gradient_blend=0.52,
+    fullbg_blend=0.68,
 )
 
 SNE_DARK = ColorTheme(
     name="sne_dark",
-    base_bg=(25, 5, 5),
-    overlay_color=(25, 5, 5),
-    accent=(200, 30, 30),
-    text_primary=(255, 248, 245),
-    text_secondary=(180, 130, 130),
-    panel_bg=(18, 3, 3),
-    tagline_color=(150, 80, 80),
-    quote_color=(255, 180, 160),
-    gradient_blend=0.45,
-    fullbg_blend=0.75,
+    base_bg=(18, 3, 3),
+    overlay_color=(18, 3, 3),
+    accent=_ACCENT,
+    text_primary=(255, 252, 250),
+    text_secondary=(220, 180, 178),
+    panel_bg=(12, 2, 2),
+    tagline_color=(170, 110, 108),
+    quote_color=(255, 210, 205),
+    gradient_blend=0.44,
+    fullbg_blend=0.76,
 )
 
-THEMES = {"red": SNE_RED, "dark": SNE_DARK}
+# Schemat odwrotny: białe tło, czerwone akcenty, szare teksty pomocnicze
+SNE_LIGHT = ColorTheme(
+    name="sne_light",
+    base_bg=(255, 255, 255),
+    overlay_color=(245, 240, 240),
+    accent=_ACCENT,
+    text_primary=_ACCENT,  # główny tekst w czerwieni
+    text_secondary=(51, 51, 51),  # #333333 — ciemny szary
+    panel_bg=(245, 240, 240),
+    tagline_color=(100, 100, 100),
+    quote_color=(51, 51, 51),  # #333333
+    gradient_blend=0.25,
+    fullbg_blend=0.40,
+)
+
+THEMES = {"red": SNE_RED, "dark": SNE_DARK, "light": SNE_LIGHT}
 
 # Typy layoutów (identyczne jak w render_post_cards.py)
 LAYOUT_GRADIENT = "gradient"  # panel po lewej + zdjęcie po prawej
@@ -92,7 +110,8 @@ LAYOUT_MINIMAL = "minimal"  # czyste tło, pionowy akcent, typografia
 LAYOUT_STAT = "stat"  # duży cytat centralnie, czyste tło
 ALL_LAYOUTS = [LAYOUT_GRADIENT, LAYOUT_FULLBG, LAYOUT_MINIMAL, LAYOUT_STAT]
 
-TAGLINE = "Szkoła Ewangelizacji św. Andrzeja · Lubecko"
+TAGLINE_MOTTO = "Nie bądź sam ze swoją wiarą"
+TAGLINE_BRAND = "SNE Lubecko  ·  sne.lubecko.pl"
 
 
 # ---------------------------------------------------------------------------
@@ -212,24 +231,24 @@ def vertical_gradient_overlay(
     return overlay
 
 
-def draw_logo(card: Image.Image, logo_path: Path, pad_x: int, pad_y: int) -> int:
-    """Nakłada logo i zwraca y po logo."""
+def draw_logo(
+    card: Image.Image, logo_path: Path, pad_x: int, pad_y: int, size: int = 60
+) -> int:
+    """Nakłada kwadratowy logotyp i zwraca y po logo."""
     try:
         logo = Image.open(logo_path).convert("RGBA")
-        target_h = 52
-        ratio = target_h / logo.height
-        logo = logo.resize((int(logo.width * ratio), target_h), Image.LANCZOS)
+        logo = logo.resize((size, size), Image.LANCZOS)
         card.paste(logo, (pad_x, pad_y), logo)
-        return pad_y + target_h + 18
+        return pad_y + size + 14
     except Exception:
         draw = ImageDraw.Draw(card)
         draw.text(
             (pad_x, pad_y),
             "SNE Lubecko",
             font=load_font(22, bold=True),
-            fill=(220, 40, 40),
+            fill=_ACCENT,
         )
-        return pad_y + 40 + 18
+        return pad_y + 36 + 14
 
 
 def draw_quote_mark(
@@ -305,17 +324,22 @@ def render_gradient(
 
     # Autor
     draw.text(
-        (PAD_X, CARD_H - PAD_Y - 38),
+        (PAD_X, CARD_H - PAD_Y - 54),
         f"— {author}",
         font=load_font(18, bold=True),
         fill=theme.quote_color,
     )
-
-    # Tagline
+    # Motto + brand
     draw.text(
-        (PAD_X, CARD_H - PAD_Y - 16),
-        TAGLINE,
+        (PAD_X, CARD_H - PAD_Y - 32),
+        TAGLINE_MOTTO,
         font=load_font(12),
+        fill=theme.tagline_color,
+    )
+    draw.text(
+        (PAD_X, CARD_H - PAD_Y - 14),
+        TAGLINE_BRAND,
+        font=load_font(11),
         fill=theme.tagline_color,
     )
 
@@ -391,20 +415,29 @@ def render_fullbg(
     bbox = draw.textbbox((0, 0), autor_str, font=font_author)
     aw = bbox[2] - bbox[0]
     draw.text(
-        ((CARD_W - aw) // 2, CARD_H - PAD_Y - 38),
+        ((CARD_W - aw) // 2, CARD_H - PAD_Y - 52),
         autor_str,
         font=font_author,
         fill=theme.quote_color,
     )
 
-    # Tagline
+    # Motto + brand wyśrodkowane
     font_tag = load_font(12)
-    bbox = draw.textbbox((0, 0), TAGLINE, font=font_tag)
+    bbox = draw.textbbox((0, 0), TAGLINE_MOTTO, font=font_tag)
     tw = bbox[2] - bbox[0]
     draw.text(
-        ((CARD_W - tw) // 2, CARD_H - PAD_Y - 16),
-        TAGLINE,
+        ((CARD_W - tw) // 2, CARD_H - PAD_Y - 30),
+        TAGLINE_MOTTO,
         font=font_tag,
+        fill=theme.tagline_color,
+    )
+    font_brand = load_font(11)
+    bbox = draw.textbbox((0, 0), TAGLINE_BRAND, font=font_brand)
+    bw = bbox[2] - bbox[0]
+    draw.text(
+        ((CARD_W - bw) // 2, CARD_H - PAD_Y - 12),
+        TAGLINE_BRAND,
+        font=font_brand,
         fill=theme.tagline_color,
     )
 
@@ -460,15 +493,21 @@ def render_minimal(
     draw.line([(PAD_X, sep_y), (PAD_X + 80, sep_y)], fill=theme.accent, width=4)
 
     draw.text(
-        (PAD_X, CARD_H - PAD_Y - 38),
+        (PAD_X, CARD_H - PAD_Y - 54),
         f"— {author}",
         font=load_font(18, bold=True),
         fill=theme.quote_color,
     )
     draw.text(
-        (PAD_X, CARD_H - PAD_Y - 16),
-        TAGLINE,
+        (PAD_X, CARD_H - PAD_Y - 32),
+        TAGLINE_MOTTO,
         font=load_font(12),
+        fill=theme.tagline_color,
+    )
+    draw.text(
+        (PAD_X, CARD_H - PAD_Y - 14),
+        TAGLINE_BRAND,
+        font=load_font(11),
         fill=theme.tagline_color,
     )
 
@@ -527,18 +566,27 @@ def render_stat(
     bbox = draw.textbbox((0, 0), autor_str, font=font_author)
     aw = bbox[2] - bbox[0]
     draw.text(
-        ((CARD_W - aw) // 2, CARD_H - PAD_Y - 38),
+        ((CARD_W - aw) // 2, CARD_H - PAD_Y - 52),
         autor_str,
         font=font_author,
         fill=theme.quote_color,
     )
     font_tag = load_font(12)
-    bbox = draw.textbbox((0, 0), TAGLINE, font=font_tag)
+    bbox = draw.textbbox((0, 0), TAGLINE_MOTTO, font=font_tag)
     tw = bbox[2] - bbox[0]
     draw.text(
-        ((CARD_W - tw) // 2, CARD_H - PAD_Y - 16),
-        TAGLINE,
+        ((CARD_W - tw) // 2, CARD_H - PAD_Y - 30),
+        TAGLINE_MOTTO,
         font=font_tag,
+        fill=theme.tagline_color,
+    )
+    font_brand = load_font(11)
+    bbox = draw.textbbox((0, 0), TAGLINE_BRAND, font=font_brand)
+    bw = bbox[2] - bbox[0]
+    draw.text(
+        ((CARD_W - bw) // 2, CARD_H - PAD_Y - 12),
+        TAGLINE_BRAND,
+        font=font_brand,
         fill=theme.tagline_color,
     )
 
@@ -590,7 +638,7 @@ def main() -> None:
     parser.add_argument(
         "--logo",
         type=Path,
-        default=Path("images/logotyp.png"),
+        default=Path("images/logotyp/sne_kwadrat.png"),
         help="Ścieżka do logotypu SNE",
     )
     parser.add_argument(
@@ -610,7 +658,7 @@ def main() -> None:
         "--theme",
         choices=list(THEMES.keys()),
         default="red",
-        help="Motyw kolorystyczny",
+        help="Motyw kolorystyczny: red / dark / light",
     )
     parser.add_argument("--author", default=None, help="Autor świadectwa (tryb ręczny)")
     parser.add_argument("--text", default=None, help="Tekst świadectwa (tryb ręczny)")
@@ -652,7 +700,7 @@ def main() -> None:
     print(f"Znaleziono {len(testimonials)} świadectw. Generuję {args.count} kart…")
 
     sample = random.choices(testimonials, k=args.count)
-    layouts = [random.choice(ALL_LAYOUTS) for _ in range(args.count)]
+    layouts = [args.layout or random.choice(ALL_LAYOUTS) for _ in range(args.count)]
 
     for i, (entry, layout) in enumerate(zip(sample, layouts), start=1):
         slug = re.sub(r"[^\w]", "_", entry["author"].lower())[:20]

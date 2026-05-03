@@ -80,10 +80,10 @@ SNE_DARK = ColorTheme(
     text_primary=(255, 252, 250),
     text_secondary=(220, 180, 178),
     panel_bg=(12, 2, 2),
-    tagline_color=(170, 110, 108),
+    tagline_color=(255, 160, 160),
     quote_color=(255, 210, 205),
-    gradient_blend=0.33,
-    fullbg_blend=0.68,  # trochę słabsze niż poprzednie 0.76
+    gradient_blend=0.40,
+    fullbg_blend=0.44,  # trochę słabsze niż poprzednie 0.76
 )
 
 # Schemat odwrotny: białe tło, czerwone akcenty, szare teksty pomocnicze

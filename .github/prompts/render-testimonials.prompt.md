@@ -54,6 +54,20 @@ Wybierz losowo **15** świadectw z listy (bez powtórzeń). Jeśli w pliku jest 
 Dla każdego wybranego świadectwa:
 - ogranicz tekst do 220 znaków (nie ucinaj w środku słowa, dodaj `…`)
 - zachowaj oryginalny podpis autora
+- zadbaj o naturalne zakończenie: **albo pełne zdanie**, albo **wielokropek `...` / `…`**, który wyraźnie sygnalizuje, że dalsza część istnieje
+- nie zostawiaj urwanego końca bez kropki lub wielokropka (np. „... bo wtedy” bez domknięcia)
+
+**Praktyczna zasada skracania (kolejność):**
+1. Najpierw skróć tekst do maks. 220 znaków, nie przecinając słowa.
+2. Jeśli w skróconym fragmencie występuje naturalna kropka kończąca zdanie blisko końca, utnij do tej kropki (pełne zdanie).
+3. Jeśli nie ma dobrej granicy pełnego zdania, zakończ fragment wielokropkiem `...` lub `…`.
+4. Po skróceniu końcówka **musi** kończyć się jednym z: `.`, `!`, `?`, `...`, `…`.
+
+**Przykłady (źle → dobrze):**
+- „Na kursie pierwszy raz zrozumiałam, że Bóg działa w moim życiu i” → „Na kursie pierwszy raz zrozumiałam, że Bóg działa w moim życiu...”
+- „Modliłam się i poczułam pokój który” → „Modliłam się i poczułam pokój.”
+- „To doświadczenie zmieniło moje relacje z mężem i dziećmi bo” → „To doświadczenie zmieniło moje relacje z mężem i dziećmi...”
+- „Po spowiedzi wróciła mi radość” → „Po spowiedzi wróciła mi radość.”
 
 ### Krok 3 — Renderuj 15 kart × 3 motywy = 45 kart
 
@@ -119,6 +133,8 @@ Po wygenerowaniu wszystkich kart wypisz tabelę (45 wierszy = 15 świadectw × 3
 - Katalog ze zdjęciami musi zawierać pliki `.jpg`, `.jpeg`, `.png` lub `.webp`
 - Każda karta to `1200×628 px` (LinkedIn Open Graph)
 - Motyw domyślny: `red` (czerwona kolorystyka SNE)
+- Jakość tekstu na karcie: unikaj niezrozumiałych urwanych końcówek; skrót ma brzmieć jak pełna myśl albo celowo niedomknięty teaser z wielokropkiem
+- Walidacja przed renderem: jeśli końcówka nie kończy się `.`, `!`, `?`, `...` lub `…`, popraw ją (preferuj domknięcie zdania albo dodanie wielokropka)
 
 ## Schemat wywołania z terminala (skrót)
 

@@ -32,8 +32,7 @@ Elżbieta witająca Maryję w Łk 1, 39-45
 
 2. Józef Egipski miał prorocze sny
 
- Rdz 37, 5. 9-10
-„Józef miał sen i gdy opowiedział go swym braciom, ci tym bardziej go znienawidzili. (...) Miał on jeszcze inny sen i tak opowiedział go swoim braciom: «Śniło mi się znowu, że słońce, księżyc i jedenaście gwiazd oddają mi pokłon». Gdy opowiedział to ojcu i braciom, ojciec skarcił go, mówiąc: «Co to za sen, który ci się śnił? Czyż ja, matka twoja i twoi bracia mielibyśmy przyjść i kłaniać ci się do ziemi?»”
+*Pewnego razu Józef miał sen. Gdy opowiedział go swoim braciom, znienawidzili go jeszcze bardziej. Mówił im tak: „Posłuchajcie, jaki miałem sen. Wiązaliśmy snopy na polu i w pewnej chwili mój snop podniósł się i stanął. Wasze snopy otoczyły go i oddały głęboki pokłon mojemu snopowi”. Wtedy odrzekli mu jego bracia: „Czyżbyś rzeczywiście chciał być królem nad nami lub nami rządzić?”. I jeszcze bardziej go znienawidzili z powodu jego snów i opowiadań. Potem miał jeszcze inny sen i znów opowiedział go swoim braciom. Mówił: „Tym razem śniło mi się, że słońce i księżyc oraz jedenaście gwiazd oddają mi pokłon”. 10A gdy opowiedział to ojcu i braciom, ojciec zganił go, mówiąc: „Cóż to masz za sny? Czyż ja, twoja matka i bracia mielibyśmy przyjść i oddać ci pokłon aż do ziemi?”. I zazdrościli mu jego bracia. Ojciec jednak zapamiętał ten sen. -  Rdz 37, 5-11*
 
 Józef jako nastolatek otrzymuje od Boga potężne proroctwo o swoim przyszłym wywyższeniu. Niedługo potem zostaje zdradzony, wrzucony do wyschniętej studni, sprzedany w niewolę, fałszywie oskarżony o gwałt i wtrącony do lochu w obcym państwie. Po ludzku – totalna katastrofa, wszystko przeczy temu, co Bóg mu obiecał.
 
@@ -51,10 +50,6 @@ Czasem Bóg daje Ci słowo poznania lub proroctwo wyłącznie dla Ciebie – że
 
 3. Proroctwo jako potwierdzenie powołania i wyposażenie (Tymoteusz)
 
-Fragment: 1 Tym 4, 14 (oraz 1 Tym 1, 18)
-„Nie zaniedbuj w sobie charyzmatu, który został ci dany na podstawie proroctwa i przez nałożenie rąk kolegium prezbiterów.” oraz „To zadanie nakazuję ci, dziecko Tymoteuszu, na podstawie dawnych, o tobie wygłoszonych proroctw, abyś wsparty nimi toczył dobrą walkę”
-
-Tymoteusz był młodym liderem, który prawdopodobnie zmagał się z lękiem i niepewnością. Proroctwo jest jak kotwica. Kiedy przychodzi zniechęcenie w posłudze, słowa, które ktoś wypowiedział nad nami z Ducha Świętego, przypominają nam, kto nas powołał i dlaczego to robimy.
 
 Świadectwo kurs Jan
     1. W 2012 roku pojechałem na kurs Jan do Wisły. Miałem wtedy 24 lata i byłem już 3,5 roku we wspólnocie SNE Wrocław. Jednak się tam nie odnajdywałem. Z jednej strony czułem, że duchowo się rozwijam. Z drugiej strony, nie miałem tam dobrych relacji. Nie potrafiłem znaleźć miejsca dla siebie. Jedyna moja posługa to było przez 3 lata układanie krzeseł przed/po spotkaniu i sprzątanie sprzętu. Nie wiedziałem czy to miejsce dla mnie. 
@@ -68,25 +63,47 @@ Tymoteusz był młodym liderem, który prawdopodobnie zmagał się z lękiem i n
 
     4. Po Janie właczyłęm się w posługi na kursach SESA. Posługiwałem od tego czaus na kursach NZ, Emaus, Jan, Jw4E, Abraham. Byłem liderem wspólnoty. Teraz mamy RCA. Przez lata widzę jak to proroctwo  się rozwija i Bóg czyni rzeczy nowe i coraz bardziej mnie zaskakuje. Teraz mija 14 lat od tego wydarzenia. Dobrze wrócić do tego tekstu i zobaczyć że wszystko dzieje się w swoim tempie.
 
+Jakie słowa prorocze obiecał Tobie Bóg? Czy już takie otrzymałeś/aś?
 
-# Jak słyszeć Boży głos?
+*„Nie zaniedbuj w sobie charyzmatu, który został ci dany na podstawie proroctwa i przez nałożenie rąk kolegium prezbiterów.” oraz „To zadanie nakazuję ci, dziecko Tymoteuszu, na podstawie dawnych, o tobie wygłoszonych proroctw, abyś wsparty nimi toczył dobrą walkę” 1 Tm 4, 14 (oraz 1 Tm 1, 18)*
 
-Przykład. Dawid i Saul.
+Tymoteusz był młodym liderem, który prawdopodobnie zmagał się z lękiem i niepewnością. Kiedy przychodzi zniechęcenie w posłudze, trudny moment - wróć do słów. Wróć do objawienia.
 
-1. Złota zasada weryfikacji proroctwa (Fundament z Koryntu)
+Czy wracasz do słów które objawił Ci Duch Święty?
+
+
+# Jak słyszeć Boży głos? - różnica między Dawidem a Saulem
+
+
+„Filistyni oblegają Keilę i rabują zapasy zboża”. Dawid więc radził się Pana : „Czy mam wyruszyć i uderzyć na tych Filistynów?”. Pan mu odpowiedział: „Ruszaj! Pobijesz Filistynów i ocalisz Keilę!”. Ale towarzysze Dawida mówili do niego: „Już tutaj, w Judzie, żyjemy pełni strachu! O ile bardziej będziemy musieli się bać, jeśli udamy się do Keili, aby bić się z oddziałami Filistynów!”. Dawid po raz drugi radził się Pana, a Pan odpowiedział podobnie: „Wypraw się niezwłocznie do Keili, gdyż Ja wydam Filistynów w twoje ręce”. Wyruszył więc Dawid i jego ludzie do Keili i pobili Filistynów. Dawid zadał im wielką klęskę i zabrał ich trzody. W ten sposób Dawid ocalił mieszkańców Keili. (..)
+
+(..)Wtedy Saul powiedział: „Wydał go Bóg w moje ręce, gdyż po tym jak wszedł do miasta, które ma bramy i zasuwy, znalazł się w pułapce”. Saul zebrał całą armię i wyruszył do Keili, aby otoczyć Dawida i jego ludzi. Dawid zdał sobie sprawę, że Saul knuje coś złego przeciw niemu. Rozkazał więc kapłanowi Abiatarowi: „Przynieś tu efod!”. Wtedy Dawid tak się modlił: „Panie , Boże Izraela, twój sługa dowiedział się, że Saul zamierza przyjść do Keili, aby zniszczyć miasto z mego powodu. Czy panowie Keili wydadzą mnie Saulowi, kiedy on przyjdzie oblegać miasto, tak jak słyszałem? Panie, Boże Izraela, proszę Cię, odpowiedz swojemu słudze!”. Pan odpowiedział: „Saul przyjdzie”. Dawid jeszcze spytał: „Czy panowie Keili wydadzą mnie i moich ludzi w ręce Saula?”. Pan odpowiedział: „Tak, wydadzą”.Dawid więc i jego ludzie w liczbie około sześciuset osób natychmiast opuścili Keilę (..). Saul dowiedział się, że Dawid uciekł z Keili i zaniechał wyprawy.
+1 Sm 23, 1-13
+
+Dlaczego Bóg wysłuchał modlitwy Dawida? 
+A dlaczego nie pomagał Saulowi? - pomimo że Saul tak w swojej pobożności sobie to tłumaczył.
+
+W tym etapie historii Saula, Bóg przestał wysłuchiwać jego modlitw. Dlaczego? Bo Saul nie był
+posłuszny Bogu. Jego serce odwróciło się od słuchania Boga i realizacji jego woli. I saul był 
+tym przerażony. Poważnie. Robił mnóstwo pobożnych rzeczy wtedy, ale nie był posłuszny. Był pobożny
+i nie posłuszny. Trochę szokujące, bo pokazuje że my też tak potrafimy.
+
+Tymczasem Dawid miał serce oddane Bogu. Wielibił go, był posłuszny Jego natchnieniom. 
+Więc o co chodzi aby słyszeć Boży głos, Boże proroctwo? Chodzi o Twoje i Moje serce.   
+
 
 „Ten zaś, kto prorokuje, mówi do ludzi ku ich zbudowaniu, zachęcie i pociesze.”
 1 Kor 14, 3
 
 Jeśli komuś wydaje się, że ma proroctwo dla drugiej osoby, a to słowo ją potępia, miażdży lub wywołuje paniczny lęk – to znaczy, że nie pochodzi od Ducha Świętego.
 
-Wniosek do struktury: Autentyczne proroctwo nowotestamentalne zawsze ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję i podnosi człowieka, a nie go depcze.
+Autentyczne proroctwo nowotestamentalne zawsze ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję i podnosi człowieka, a nie go depcze.
 
 
 
 ## Podsumowanie 
 
-1. To Bóg decyduje kiedy i co komue chce objawić.
+1. To Bóg decyduje kiedy i co komu chce objawić.
 2. Potrzebujemy Bożego prowadzenia. Potrzebujemy relacji z Duchem Świętym. 
 3. Dlatego - módlmy się o Boże odpowiedzi. (Zadanie dla grupek po dzieleniu)
 

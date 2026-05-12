@@ -124,3 +124,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 (Źródło: [[20251028_sol_ziemi]])
 
 (Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+- 2026-05-12: Nauczanie o pracy i przedsiębiorczości pokazuje dojrzałe osadzenie teologii w realiach biznesu: autor sprawnie przechodzi między Rdz/KKK a przykładami z własnej firmy i codzienności zawodowej. Charakterystyczne jest zadawanie pytań kontrastowych („Gdyby twoim szefem był Jezus..."), obalanie pozornych opozycji („Przeciwieństwem lenistwa nie jest pracowitość, ale dyscyplina") oraz dygresje teologiczne w nawiasach (wolna wola, komunizm jako antysystem). Styl wzmacnia autentyczność przez wymienienie konkretnych spółek i osób (AISP, Jadzia, Dorota z SNE Wrocław). Częste są wezwania do osobistej refleksji w formie pytań wprost do słuchacza.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])

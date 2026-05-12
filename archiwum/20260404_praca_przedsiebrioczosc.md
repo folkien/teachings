@@ -1,6 +1,6 @@
 ---
-tags: [nauczanie, sne/lubecko, przedsiebiorcosc]
-status: todo
+tags: [nauczanie, sne/lubecko, przedsiebiorcosc, temat/praca, temat/finanse, temat/wiara, temat/styl-zycia]
+status: archived
 date: 2026-04-04
 topic: "Praca i przedsiębiorczość"
 ---

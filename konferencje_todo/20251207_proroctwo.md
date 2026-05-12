@@ -5,7 +5,15 @@ date: 2025-12-07
 topic: "Proroctwo"
 ---
 
-Temat : Proroctwo
+# Temat : Proroctwo
+
+Zabieg.Dydaktyczny
+- *Słowo poznania* - odkrywanie materiałem rzeczy zakrytej.
+- *Proroctwo* - latarka, która świeci jasno i wskazuje coś co nadchodzi (może nadejść).
+
+Kontr-przykład. *Nie jest to wróżenie z fusów. Nie jest to czytanie linii papilarnych ani też stawianie kart. Innymi słowy nie jest to żaden RYTUAŁ, który ma moc nam coś objawić. Proroctwo w chrześcijaństwie jest autonomicznym, bezwarunkowym działaniem Boga, który chce coś objawić. To Bóg decyduje - co objawi i komu objawi.*
+
+
 
 # Przykłady
 

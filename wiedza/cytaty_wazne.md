@@ -376,3 +376,48 @@ Wezwanie do Kościoła, by brać odpowiedzialność za modlitwę i posługę, za
 (Źródło: [[20251029_uzdrowienie]])
 
 ---
+
+> **„Ty jesteś pierwszym celem pracy. Ponieważ praca Cię rozwija."**
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Módl się tak, jakby wszystko zależało od Boga, ale działaj tak, jakby wszystko zależało od Ciebie."**
+> — św. Ignacy z Loyoli
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Tragedią jest, jeśli przez pracę z warsztatu ludzkiego wychodzi udoskonalona materia, a człowiek wychodzi gorszy. Nie temu służy praca – praca służy temu, by się człowiek rozwijał."**
+
+Nauka społeczna Kościoła, parafrazowana wielokrotnie jako refren.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Gdyby twoim szefem był Jezus, to pracowałbyś tak samo czy może inaczej?"**
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Pracoholizm to często brak dyscypliny w stawianiu granic pracy. Jeżeli praca przeszkadza Ci w relacji z Bogiem, to znaczy, że pracujesz zbyt dużo lub zbyt ciężko."**
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Zysk jest jak tlen – potrzebny do życia, ale nie żyje się po to, by oddychać. Prawdziwym celem biznesu jest służba."**
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> **„Przeciwieństwem lenistwa nie jest pracowitość, ale dyscyplina."**
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---

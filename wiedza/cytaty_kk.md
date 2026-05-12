@@ -77,3 +77,38 @@ Cytaty z oficjalnych dokumentów Kościoła Katolickiego – Katechizm, encyklik
 > — Pius XII, Mystici Corporis Christi, 75
 
 (Źródło: [[20250929_uwolnienie_uzdrowienie]])
+
+---
+
+> „Praca ludzka jest bezpośrednim działaniem osób stworzonych na obraz Boży i powołanych do przedłużania – wraz z innymi – dzieła stworzenia, czyniąc sobie ziemię poddaną."
+> — KKK 2427
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> „To sam człowiek jako podmiot pracy. Przez pracę człowiek nie tylko coś tworzy na zewnątrz, ale przede wszystkim kształtuje samego siebie wewnątrz – swój charakter, cnoty, dyscyplinę."
+> — Jan Paweł II, Laborem Exercens
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> „[Jezus], który będąc Bogiem, stał się podobny do nas we wszystkim, większą część lat swego życia na ziemi poświęcił pracy przy warsztacie ciesielskim, pracy fizycznej. Okoliczność ta sama z siebie stanowi najwymowniejszą «ewangelię pracy»."
+> — Jan Paweł II, Laborem Exercens
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> „Osoba pracująca, niezależnie od tego, jakie byłoby jej zajęcie, współpracuje z samym Bogiem, staje się poniekąd twórcą otaczającego nas świata."
+> — Franciszek, List apostolski Patris Corde, 8 grudnia 2020
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> „Pierwszą osobą, której ma służyć przedsiębiorstwo, jest osoba przedsiębiorcy. To nie chodzi o to, że generuje zysk – chodzi o to, że on jest celem pracy, którą wykonuje."
+> — kard. Grzegorz Ryś, Biznes na Skale 2024
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])

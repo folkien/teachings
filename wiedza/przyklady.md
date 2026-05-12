@@ -334,3 +334,35 @@ Podział spotkania na trzy równe bloki (głoszenie, modlitwa, dzielenie) to pra
 Sama teoria (20h wykładów, targi motoryzacyjne, filmy o jeździe) nie nauczy prowadzenia auta bez wejścia za kierownicę. To trafna analogia do życia wspólnotowego: można zaliczyć wiele kursów i rekolekcji, ale bez realnej posługi nie ma wzrostu ucznia-misjonarza.
 
 (Źródło: [[20251028_odnowa_ewnanglizacja]])
+
+---
+
+## Ora et labora – rewolucja św. Benedykta
+
+W świecie pustelników skupionych na ascezie i pogardzie dla pracy fizycznej (typowej dla Rzymu) – św. Benedykt z Nursji (V/VI w.) przewrócił porządek do góry nogami: mnisi mieli w planie dnia zarówno modlitwę (chór), jak i pracę (rzemiosło, uprawa, przepisywanie ksiąg). Klasztory stały się samowystarczalne. **Zastosowanie:** każda uczciwa praca może być formą modlitwy – tak samo wspólne rąbanie drewna na spotkaniu grupki buduje więzi jak wspólna modlitwa.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Wieża Eiffla jako przedłużenie dzieła stworzenia
+
+Bóg stworzył świat jak płótno malarza – dał ramy. Na tym świecie nie było wieży Eiffla, samochodów, samolotów. Człowiek przez pracę dopełnia dzieło stworzenia. Budowa domu, aplikacja, projekt – to realny wkład w świat stworzony przez Boga. Praca to nie kara, to współtworzenie.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Słowo `zawód` = rozczarowanie
+
+Nawet słowo „zawód" w języku polskim niesie znaczenie rozczarowania. To lingwistyczny dowód, że praca po grzechu stała się trudna i frustrująca. Silny zabieg retoryczny w konferencji o pracy: słowo, które znamy od dziecka, mówi nam o upadku.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Komunizm jako antysystem – dygresja teologiczna
+
+Biblia pokazuje pewne zasady i założenia, ale świat nie wdraża ich automatycznie. Ludzie mają wolną wolę i mogą budować „antyzasady" i „antysystemy" – jak komunizm. Nie wszystko co się dzieje „to Boża wola". Autor świadomie koryguje fideizm pasywny przez wskazanie odpowiedzialności człowieka za porządek społeczny.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])

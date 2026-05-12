@@ -368,3 +368,27 @@ Po 17 latach drogi widzę prostą zasadę: albo żyję w Duchu, albo w ciele. Al
 Odkryłem, że modliłem się o klientów i zlecenia zbyt egoistycznie. Zmieniłem modlitwę: zacząłem prosić, aby to oni mieli błogosławieństwo, zarobek i pracę. Taka perspektywa otwiera serce na Ewangelię i uwalnia od rywalizacji.
 
 (Źródło: [[20251028_ucho_igielne]])
+
+---
+
+## Założenie AISP – szkoła przez pracę
+
+Zakładając spółkę AISP, zupełnie nie planowałem, że to będzie szkoła życia. A jednak: nauka marketingu od zera, budowanie sprzedaży, rozmowy z klientami, zarządzanie budżetem i zespołem, rozliczanie dofinansowań. Każdy z tych elementów ukształtował mnie – nie tylko jako przedsiębiorcę, ale jako człowieka. Praca była moją pierwszą beneficjentką.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Jadzia – założenie JDG i odwaga przed nieznanym
+
+Jadzia zdecydowała się na założenie własnej działalności gospodarczej. To był krok w nieznane – z całą towarzyszącą temu niepewnością, obawami i odpowiedzialnością. Praca jako narzędzie rozwoju i wejścia w nowe, nieoswojone obszary.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Dorota z SNE Wrocław – odmowa awansu dla Boga
+
+Dorota, od lat zaangażowana w prowadzenie kursów ewangelizacyjnych, otrzymała propozycję awansu i wyższej pensji. Rozeznała jednak, że nowa praca byłaby tak pochłaniająca, iż nie pozostałoby jej czasu na modlitwę, wspólnotę i ewangelizację. Odrzuciła ofertę świadomie. Przykład, że wiara ma konkretny wpływ na decyzje zawodowe.
+
+(Źródło: [[20260404_praca_przedsiebrioczosc]])

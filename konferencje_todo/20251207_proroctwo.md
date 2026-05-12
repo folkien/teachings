@@ -14,7 +14,6 @@ Zabieg.Dydaktyczny
 Kontr-przykład. *Nie jest to wróżenie z fusów. Nie jest to czytanie linii papilarnych ani też stawianie kart. Innymi słowy nie jest to żaden RYTUAŁ, który ma moc nam coś objawić. Proroctwo w chrześcijaństwie jest autonomicznym, bezwarunkowym działaniem Boga, który chce coś objawić. To Bóg decyduje - co objawi i komu objawi.*
 
 
-
 # Przykłady
 
 1. Prorocze przywitanie
@@ -23,12 +22,7 @@ Elżbieta witająca Maryję w Łk 1, 39-45
 
 *Gdy Elżbieta usłyszała pozdrowienie Maryi, poruszyło się dzieciątko w jej łonie, a Duch Święty napełnił Elżbietę. Wydała ona okrzyk i powiedziała: «Błogosławiona jesteś między niewiastami i błogosławiony jest owoc Twojego łona. A skądże mi to, że Matka mojego Pana przychodzi do mnie? Oto bowiem, skoro głos Twego pozdrowienia zabrzmiał w moich uszach, poruszyło się z radości dzieciątko w moim łonie. Błogosławiona jesteś, któraś uwierzyła, że spełnią się słowa powiedziane Jej od Pana».*
 
-Świadectwo : Kurs Sekret Pawła w Oświęcium, 5-6 lat temu, przyjeżdżam spóżniony 30min, wchodzę z plecakiem na salę głoszeń, a tam głoszący
-x. Przemysław Sawa mówi, "Witamy Sławka, oto człowiek zasłużony dla ewangelizacji w Polsce." Stoję jak wryty, zatkało mnie, skąd takie zasczyty,
-skąd takie przedstawienie przed ludźmi tu siedzącymi? To jest kurs II etapu, więc tam jeżdża ludzie, którzy już wiele przeszli. Nie czułem
-się wtedy osobą zasłużoną. Byłem w SNE wiele lat, ale wiecie nasza wspólnota była mała w Lc. Raczej musieliśmy się uczyć. Zapamiętałem ten moment.
-Dzisiaj po latach, gdy widzę jak staliśmy się RCA, jak uczymy inne wspólnoty, jak mogliśmy w Tarnowie z księdzem mówić o przemianie parafii, 
-to widzę, że Bóg rzeczywiście coś zrobił i robi przez nas. Dzisiaj wydaje mi się że to było prorocze przywitanie. Coś jak Elżbieta w
+Świadectwo : *Kurs Sekret Pawła w Oświęcium, 5-6 lat temu, przyjeżdżam spóżniony 30min, wchodzę z plecakiem na salę głoszeń, a tam głoszący x. Przemysław Sawa mówi, "Witamy Sławka, oto człowiek zasłużony dla ewangelizacji w Polsce." Stoję jak wryty, zatkało mnie, skąd takie zasczyty, skąd takie przedstawienie przed ludźmi tu siedzącymi? To jest kurs II etapu, więc tam jeżdża ludzie, którzy już wiele przeszli. Nie czułem się wtedy osobą zasłużoną. Byłem w SNE wiele lat, ale wiecie nasza wspólnota była mała w Lc. Raczej musieliśmy się uczyć. Zapamiętałem ten moment. Dzisiaj po latach, gdy widzę jak staliśmy się RCA, jak uczymy inne wspólnoty, jak mogliśmy w Tarnowie z księdzem mówić o przemianie parafii, to widzę, że Bóg rzeczywiście coś zrobił i robi przez nas. Dzisiaj wydaje mi się że to było prorocze przywitanie. Coś jak Elżbieta*
 
 
 # Charyzmaty prorocze

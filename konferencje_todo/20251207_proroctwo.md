@@ -89,7 +89,15 @@ tym przerażony. Poważnie. Robił mnóstwo pobożnych rzeczy wtedy, ale nie by�
 i nie posłuszny. Trochę szokujące, bo pokazuje że my też tak potrafimy.
 
 Tymczasem Dawid miał serce oddane Bogu. Wielibił go, był posłuszny Jego natchnieniom. 
-Więc o co chodzi aby słyszeć Boży głos, Boże proroctwo? Chodzi o Twoje i Moje serce.   
+Więc o co chodzi aby słyszeć Boży głos, Boże proroctwo? (..)
+Chodzi o Twoje i Moje serce.   
+Żyć w łasce uświęcającej, w sakramentach.
+
+**ks. Jan Kaczkowski "Obowiązki stanu mają prymat nad obowiązkami religijnymi."**
+- przykład. *Ksiądz ma sprawwować sakramenty, a jeśli słucha sobie nauczań, czy robi inne rzeczy a cierpią na tym sakramenty to grzeszy,*
+- przykład. *Jeśli rodzic biega na wspólnotę, posługę, a zaniedbuje wtedy dzieci, czy małżonka, to też grzeszy.*
+Świętość jest zazwyczaj w równowadze. Można w domu dziecko przewijać i otrzymać proroctwo od Boga. 
+A można przyjść na spotkanie i grzeszyć.
 
 
 „Ten zaś, kto prorokuje, mówi do ludzi ku ich zbudowaniu, zachęcie i pociesze.”

@@ -14,9 +14,14 @@ Zabieg.Dydaktyczny
 Kontr-przykład. *Nie jest to wróżenie z fusów. Nie jest to czytanie linii papilarnych ani też stawianie kart. Innymi słowy nie jest to żaden RYTUAŁ, który ma moc nam coś objawić. Proroctwo w chrześcijaństwie jest autonomicznym, bezwarunkowym działaniem Boga, który chce coś objawić. To Bóg decyduje - co objawi i komu objawi.*
 
 
-# Przykłady
+# Biblijne przykład proroctwa
 
-1. Prorocze przywitanie
+
+1. Proroctwo warunkowe - fragment z Księgi Powtórzonego Prawa 
+
+Pwt 28, 1-14 (Błogosławieństwa) oraz Pwt 28, 15-68 (Przekleństwa)
+
+2. Prorocze przywitanie Maryji
 
 Elżbieta witająca Maryję w Łk 1, 39-45 
 
@@ -24,6 +29,75 @@ Elżbieta witająca Maryję w Łk 1, 39-45
 
 Świadectwo : *Kurs Sekret Pawła w Oświęcium, 5-6 lat temu, przyjeżdżam spóżniony 30min, wchodzę z plecakiem na salę głoszeń, a tam głoszący x. Przemysław Sawa mówi, "Witamy Sławka, oto człowiek zasłużony dla ewangelizacji w Polsce." Stoję jak wryty, zatkało mnie, skąd takie zasczyty, skąd takie przedstawienie przed ludźmi tu siedzącymi? To jest kurs II etapu, więc tam jeżdża ludzie, którzy już wiele przeszli. Nie czułem się wtedy osobą zasłużoną. Byłem w SNE wiele lat, ale wiecie nasza wspólnota była mała w Lc. Raczej musieliśmy się uczyć. Zapamiętałem ten moment. Dzisiaj po latach, gdy widzę jak staliśmy się RCA, jak uczymy inne wspólnoty, jak mogliśmy w Tarnowie z księdzem mówić o przemianie parafii, to widzę, że Bóg rzeczywiście coś zrobił i robi przez nas. Dzisiaj wydaje mi się że to było prorocze przywitanie. Coś jak Elżbieta*
 
+
+2. Józef Egipski miał prorocze sny
+
+ Rdz 37, 5. 9-10
+„Józef miał sen i gdy opowiedział go swym braciom, ci tym bardziej go znienawidzili. (...) Miał on jeszcze inny sen i tak opowiedział go swoim braciom: «Śniło mi się znowu, że słońce, księżyc i jedenaście gwiazd oddają mi pokłon». Gdy opowiedział to ojcu i braciom, ojciec skarcił go, mówiąc: «Co to za sen, który ci się śnił? Czyż ja, matka twoja i twoi bracia mielibyśmy przyjść i kłaniać ci się do ziemi?»”
+
+Józef jako nastolatek otrzymuje od Boga potężne proroctwo o swoim przyszłym wywyższeniu. Niedługo potem zostaje zdradzony, wrzucony do wyschniętej studni, sprzedany w niewolę, fałszywie oskarżony o gwałt i wtrącony do lochu w obcym państwie. Po ludzku – totalna katastrofa, wszystko przeczy temu, co Bóg mu obiecał.
+
+Dlaczego Józef się nie załamał w Egipcie? Bo nosił w sercu to proroctwo. Ono było dla niego jak duchowe koło ratunkowe. Kiedy jesteś w ciemnej dolinie, a okoliczności krzyczą "Bóg cię zostawił", proroctwo daje Ci siłę do przetrwania. Trzymasz się obietnicy, wiedząc, że Bóg jest wierny i ostatecznie On ma ostatnie słowo.
+
+Jakub karci młodego Józefa za to, że rozpowiada ten sen. 
+Józef, będąc jeszcze niedojrzałym chłopakiem, "wygadał" słowo, które wzbudziło ogromną zazdrość i nienawiść braci. To uczy nas dwóch kluczowych zasad:
+
+    Nie każde proroctwo można i trzeba powiedzieć każdemu.
+
+    Nie każde proroctwo jest na teraz.
+
+Czasem Bóg daje Ci słowo poznania lub proroctwo wyłącznie dla Ciebie – żeby budować Twoją wiarę na czas próby. Nie po to, żebyś się nim od razu chwalił. Trzeba prosić Ducha Świętego o mądrość: czy to jest słowo, którym mam się podzielić, czy słowo, które – jak Maryja – mam po prostu zachowywać i rozważać w sercu, czekając na właściwy czas.
+
+
+3. Proroctwo jako potwierdzenie powołania i wyposażenie (Tymoteusz)
+
+Fragment: 1 Tym 4, 14 (oraz 1 Tym 1, 18)
+„Nie zaniedbuj w sobie charyzmatu, który został ci dany na podstawie proroctwa i przez nałożenie rąk kolegium prezbiterów.” oraz „To zadanie nakazuję ci, dziecko Tymoteuszu, na podstawie dawnych, o tobie wygłoszonych proroctw, abyś wsparty nimi toczył dobrą walkę”
+
+Tymoteusz był młodym liderem, który prawdopodobnie zmagał się z lękiem i niepewnością. Proroctwo jest jak kotwica. Kiedy przychodzi zniechęcenie w posłudze, słowa, które ktoś wypowiedział nad nami z Ducha Świętego, przypominają nam, kto nas powołał i dlaczego to robimy.
+
+Świadectwo kurs Jan
+    1. W 2012 roku pojechałem na kurs Jan do Wisły. Miałem wtedy 24 lata i byłem już 3,5 roku we wspólnocie SNE Wrocław. Jednak się tam nie odnajdywałem. Z jednej strony czułem, że duchowo się rozwijam. Z drugiej strony, nie miałem tam dobrych relacji. Nie potrafiłem znaleźć miejsca dla siebie. Jedyna moja posługa to było przez 3 lata układanie krzeseł przed/po spotkaniu i sprzątanie sprzętu. Nie wiedziałem czy to miejsce dla mnie. 
+
+    3. Kurs był dla mnie trudny. Stawiał mocne pytania, na które nie umiałem odpowiedzieć. Na przerwie pooprosiłem dwie osoby z ekipy o modlitwę wstawienniczą. W czasie tej modlitwy osoby zaczęło prorokować. Te słowa zapisałem zaraz na kursie, więc mogę je przeczytać. 
+
+        Proroctwo Kurs Jan Lipiec 2012
+        Sławku nie spiesz się tak bardzo, nie gnaj tak przed siebie, na wszystko przyjdzie czas i pora. Nie próbuj wydawać za wcześnie owoców, ciesz się tym co jest teraz i przeżywaj to jak najlepiej. Widzę, obraz małego kwiatu który rośnie i w przyszłości to będzie wielkie drzewo, które wyda owoce i będzie mocne. Bóg przygotował wielkie rzeczy dla Ciebie i na wszystko przyjdzie czas, być może już na tym kursie, ale nie spiesz się Sławku. Jeżeli za szybko będziesz rosnąć w górę, to twoja łodyga będzie cieńka i się złamie. Musisz dać czas na wzrost a kiedyś to będzie silny pień. Widzę piękny kwiat, który jest jeszcze zamknięty, ale przyjdzie czas, że rozkwitnie. Bóg przygotował wielkie rzeczy, ale musisz być  cierpliwym.
+        Bóg pokazał mi, że powinienem być jak dziecko, wrócić do tej pierwotnej miłości, którą Go kochałem, bym trwał jak Jan u Jego boku, czuwając i patrząc w oczy mistrza.  
+        Amen.	
+
+    4. Po Janie właczyłęm się w posługi na kursach SESA. Posługiwałem od tego czaus na kursach NZ, Emaus, Jan, Jw4E, Abraham. Byłem liderem wspólnoty. Teraz mamy RCA. Przez lata widzę jak to proroctwo  się rozwija i Bóg czyni rzeczy nowe i coraz bardziej mnie zaskakuje. Teraz mija 14 lat od tego wydarzenia. Dobrze wrócić do tego tekstu i zobaczyć że wszystko dzieje się w swoim tempie.
+
+
+# Jak słyszeć Boży głos?
+
+Przykład. Dawid i Saul.
+
+1. Złota zasada weryfikacji proroctwa (Fundament z Koryntu)
+
+„Ten zaś, kto prorokuje, mówi do ludzi ku ich zbudowaniu, zachęcie i pociesze.”
+1 Kor 14, 3
+
+Jeśli komuś wydaje się, że ma proroctwo dla drugiej osoby, a to słowo ją potępia, miażdży lub wywołuje paniczny lęk – to znaczy, że nie pochodzi od Ducha Świętego.
+
+Wniosek do struktury: Autentyczne proroctwo nowotestamentalne zawsze ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję i podnosi człowieka, a nie go depcze.
+
+
+
+## Podsumowanie 
+
+1. To Bóg decyduje kiedy i co komue chce objawić.
+2. Potrzebujemy Bożego prowadzenia. Potrzebujemy relacji z Duchem Świętym. 
+3. Dlatego - módlmy się o Boże odpowiedzi. (Zadanie dla grupek po dzieleniu)
+
+## Pytania do dzielenia (zadanie)
+
+1.
+2.
+
+
+-----------------------------
+Niewykorzystane
 
 # Charyzmaty prorocze
 

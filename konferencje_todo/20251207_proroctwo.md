@@ -138,6 +138,7 @@ Proroctwo ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguj
 
 1. Czy Bóg kiedykolwiek dał ci takie "ostrzeżenie", które pomogło ci w porę zawrócić ze złej drogi lub zmieniło coś?
 2. Gdzie jesteś (w skali 1-10) - między Saulem a Dawidem? Pobożność czy posłuszeństwo?
+3. Modlitwa za osoby, które potrzebują Bożego światła.
 
 
 

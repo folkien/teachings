@@ -111,7 +111,7 @@ A dlaczego nie pomagał Saulowi? - pomimo że Saul tak w swojej pobożności sob
 
 W tym etapie historii Saula, Bóg przestał wysłuchiwać jego modlitw. Dlaczego? Bo Saul nie był posłuszny Bogu. Jego serce odwróciło się od słuchania Boga i realizacji jego woli. I saul był  tym przerażony. Poważnie. Robił mnóstwo pobożnych rzeczy wtedy, ale nie był posłuszny. Był pobożny i nie posłuszny. Trochę szokujące, bo pokazuje że my też tak potrafimy.
 
-Tymczasem Dawid miał serce oddane Bogu. Wielibił go, był posłuszny Jego natchnieniom. 
+Tymczasem Dawid miał serce oddane Bogu. Wielbił go, był posłuszny Jego natchnieniom. 
 Więc o co chodzi aby słyszeć Boży głos, Boże proroctwo? (..)
 Chodzi o Twoje i Moje serce.   
 Żyć w łasce uświęcającej, w sakramentach.
@@ -126,7 +126,7 @@ A można przyjść na spotkanie i grzeszyć.
 
 *„Ten zaś, kto prorokuje, mówi po to, aby ludzi zbudować, zachęcić i pocieszyć. ”* 1 Kor 14, 3
 
-Proroctwo ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję. Jeśli komuś wydaje się, że ma proroctwo dla drugiej osoby, a to słowo ją potępia, miażdży lub wywołuje paniczny lęk – to znaczy, że nie pochodzi od Ducha Świętego. 
+Proroctwo ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję. Jeśli komuś wydaje się, że ma proroctwo a to słowo ją potępia, miażdży lub wywołuje lęk – to niech nie mówi.
 
 ## Podsumowanie 
 
@@ -136,12 +136,8 @@ Proroctwo ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguj
 
 ## Pytania do dzielenia (zadanie)
 
-1. Gdzie uciekasz w pobożność, zamiast być posłusznym?
-2. 
-
-
-
-
+1. Czy Bóg kiedykolwiek dał ci takie "ostrzeżenie", które pomogło ci w porę zawrócić ze złej drogi lub zmieniło coś?
+2. Gdzie jesteś (w skali 1-10) - między Saulem a Dawidem? Pobożność czy posłuszeństwo?
 
 
 

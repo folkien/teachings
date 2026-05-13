@@ -50,11 +50,11 @@ Bycie prorokiem nie jest łatwe. Wymagające. Możesz stracić w oczach ludzi.
 
 *Pewnego razu Józef miał sen. (..) „Posłuchajcie, jaki miałem sen. Wiązaliśmy snopy na polu i w pewnej chwili mój snop podniósł się i stanął. Wasze snopy otoczyły go i oddały głęboki pokłon mojemu snopowi”. Wtedy odrzekli mu jego bracia: „Czyżbyś rzeczywiście chciał być królem nad nami lub nami rządzić?”. I jeszcze bardziej go znienawidzili z powodu jego snów i opowiadań. Potem miał jeszcze inny sen i znów opowiedział go swoim braciom. Mówił: „Tym razem śniło mi się, że słońce i księżyc oraz jedenaście gwiazd oddają mi pokłon”. A gdy opowiedział to ojcu i braciom, ojciec zganił go, mówiąc: „Cóż to masz za sny? Czyż ja, twoja matka i bracia mielibyśmy przyjść i oddać ci pokłon aż do ziemi?”. I zazdrościli mu jego bracia. -  Rdz 37, 5-11*
 
-Józef jako nastolatek otrzymuje od Boga potężne proroctwo o swoim przyszłym wywyższeniu. Niedługo potem zostaje zdradzony, wrzucony do wyschniętej studni, sprzedany w niewolę, fałszywie oskarżony o gwałt i wtrącony do lochu w obcym państwie. Po ludzku – totalna katastrofa.
+Niedługo potem zostaje zdradzony, pobity, wrzucony do wyschniętej studni, sprzedany. Ogolona głowa, niewolnik w domu Potifara. Z bogatego domu ojca ląduje w niewoli w innym kraju. Na domiar tego fałszywie oskarżony o gwałt i trafia do lochu faraona. 
 
 **Dlaczego Józef się nie załamał w Egipcie?** 
-Moim zdaniem dlatego, że wierzył Bogu. I ta obietnica którą otrzymał w młodości było dla niego jak koło ratunkowe. 
-Proroctwo dało mu wiarę i siłę do przetrwania. Czekał na wypełnienie obietnicy. Może wiedział jak długo czekał jego pradziadek - Abraham.
+Moim zdaniem dlatego, że wierzył w obietnicę Boga. I ta obietnica którą otrzymał w młodości było dla niego jak koło ratunkowe. 
+Proroctwo dało mu wiarę i siłę do przetrwania. Może słyszał historię swojego pradziadek - Abraham i wiedział jak długo to trwało. 
 
 Jakub karci młodego Józefa za to, że rozpowiada ten sen. **Dlaczego?**
 
@@ -65,8 +65,6 @@ Proroctwo/Świadectwo, może być odebrane przez innych jak przechwalanie się. 
 
 
 3. **Proroctwo jako potwierdzenie powołania i wyposażenie (Tymoteusz)**
-
-Jakie słowa prorocze obiecał Tobie Bóg? Czy już takie otrzymałeś/aś?
 
 *„Nie zaniedbuj w sobie charyzmatu, który został ci dany na podstawie proroctwa i przez nałożenie rąk kolegium prezbiterów.” oraz „To zadanie nakazuję ci, dziecko Tymoteuszu, na podstawie dawnych, o tobie wygłoszonych proroctw, abyś wsparty nimi toczył dobrą walkę” 1 Tm 4, 14 (oraz 1 Tm 1, 18)*
 

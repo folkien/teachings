@@ -1,6 +1,6 @@
 ---
-tags: [nauczanie, sne/lubecko, charyzmaty]
-status: todo
+tags: [nauczanie, sne/lubecko, charyzmaty, temat/wiara, temat/modlitwa, temat/wspolnota, temat/kosciol]
+status: archived
 date: 2025-12-07
 topic: "Proroctwo"
 ---

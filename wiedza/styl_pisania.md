@@ -18,6 +18,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - Czułość pasterska wobec zniechęconych: najpierw nazwanie bólu i straty, dopiero potem korekta i posłanie.
 - W nauczaniach o walce duchowej pojawia się ton ojcowski i ochronny: autor nie tylko diagnozuje zagrożenie, ale wzmacnia słuchacza w godności dziecka Bożego.
 - Autor nie boi się potocznych, mocnych sformułowań, jeśli mają zbudować w odbiorcy postawę odwagi i trzeźwości.
+- Wyraźny ton tożsamościowo-misyjny: autor świadomie odróżnia „nasz charyzmat" od innych dobrych dróg w Kościele, bez wartościowania ich.
 
 (Źródło: [[20251028_sol_ziemi]])
 
@@ -32,6 +33,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - Powtarzalny 3-etapowy łuk: diagnoza (np. zniechęcenie) -> wyjaśnienie przez Słowo -> natychmiastowe wyjście do misji.
 - Autor chętnie przechodzi od swobodnej narracji do krótkich bloków katechetycznych: definicje, rozróżnienia, lista punktów, praktyczny schemat działania.
 - Częste są pytania do sali i krótkie zatrzymania typu "kto pamięta?", "jak się nazywa...?", które utrzymują formę żywego dialogu.
+- Częsty układ: osobiste świadectwo przełomu -> definicja trzech filarów (np. KErygma, KArisma, KOinonía) -> mocna metafora zamykająca temat.
 
 (Źródło: [[20251028_sol_ziemi]])
 
@@ -56,6 +58,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - Autor chętnie używa par "martwe-żywe" (staw/jezioro, teoria/praktyka), żeby pokazać różnicę między formacją i misją.
 - Autor sprawnie tłumaczy trudne pojęcia duchowe przez obrazy z codzienności: samobrona, mechanizm pracy, uzależnienie, przeciążenie posługą.
 - Często zestawia świat wspólnoty z konkretem pracy, organizacji i odpowiedzialności za zadania.
+- Rozbudowane metafory narracyjne (np. podróż pociągiem) służą jako główny nośnik tożsamości i kierunku całej konferencji.
 
 (Źródło: [[20251028_sol_ziemi]])
 
@@ -92,6 +95,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - Wezwanie często ma formę prostego sloganu zapamiętywalnego przez wspólnotę: "Ewangelizowania uczymy się ewangelizując".
 - W nauczaniach formacyjnych autor chętnie kończy dwoma-trzema pytaniami, które od razu nadają się do modlitwy osobistej albo dzielenia w grupie.
 - Gdy temat jest trudny, wezwanie końcowe prowadzi do konkretu duchowego: spowiedź, modlitwa wstawiennicza, wyrzeczenie się zła, uwielbienie.
+- Wezwania często pojawiają się w formie zaproszenia: „daj Bogu szansę" i „czy żyjesz tym charyzmatem?" - łagodnie, ale konkretnie domagają się odpowiedzi.
 
 (Źródło: [[20251028_sol_ziemi]])
 
@@ -125,6 +129,14 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 
 (Źródło: [[20250929_uwolnienie_uzdrowienie]])
 
+- 2026-05-31: Nauczanie "Proroctwo" potwierdza kilka charakterystycznych elementów stylu autora: (1) **Zabieg dydaktyczny nazwany wprost** – autor świadomie tytułuje technikę ilustracyjną (np. "Zabieg Dydaktyczny: latarka"). (2) **Kontr-przykład jako punkt wyjścia** – autor zaczyna od tego, czym coś NIE jest, zanim wyjaśni, czym jest. (3) **Definicja etymologiczna** – autor sięga do hebrajskiego/greckiego źródłosłowu by ożywić pojęcie teologiczne. (4) **Świadectwa numerowane i konkretnie datowane** – szczegółowość (data, miejsce, osoby) buduje wiarygodność. (5) **Ostrzeżenia przed nadużyciami** – autor nie boi się opisać zagrożeń i błędów w praktyce charyzmatycznej, co świadczy o dojrzałości pasterskiej.
+
+(Źródło: [[20251207_proroctwo]])
+
 - 2026-05-12: Nauczanie o pracy i przedsiębiorczości pokazuje dojrzałe osadzenie teologii w realiach biznesu: autor sprawnie przechodzi między Rdz/KKK a przykładami z własnej firmy i codzienności zawodowej. Charakterystyczne jest zadawanie pytań kontrastowych („Gdyby twoim szefem był Jezus..."), obalanie pozornych opozycji („Przeciwieństwem lenistwa nie jest pracowitość, ale dyscyplina") oraz dygresje teologiczne w nawiasach (wolna wola, komunizm jako antysystem). Styl wzmacnia autentyczność przez wymienienie konkretnych spółek i osób (AISP, Jadzia, Dorota z SNE Wrocław). Częste są wezwania do osobistej refleksji w formie pytań wprost do słuchacza.
 
 (Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+- 2026-05-31: Nauczanie SESA wzmacnia rys tożsamościowy i eklezjalny stylu: autor łączy osobiste świadectwo przełomu z klarownym określeniem charyzmatu wspólnoty. Charakterystyczna staje się duża metafora narracyjna („pociąg do Florencji") użyta jako narzędzie strategicznego rozeznania i wierności misji. Wyraźnie wraca też język zapraszający do decyzji („czy żyjesz tym charyzmatem?”, „daj Bogu szansę”).
+
+(Źródło: [[20251028_sesa]])

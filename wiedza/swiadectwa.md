@@ -392,3 +392,35 @@ Jadzia zdecydowała się na założenie własnej działalności gospodarczej. To
 Dorota, od lat zaangażowana w prowadzenie kursów ewangelizacyjnych, otrzymała propozycję awansu i wyższej pensji. Rozeznała jednak, że nowa praca byłaby tak pochłaniająca, iż nie pozostałoby jej czasu na modlitwę, wspólnotę i ewangelizację. Odrzuciła ofertę świadomie. Przykład, że wiara ma konkretny wpływ na decyzje zawodowe.
 
 (Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Modlitwa na Dniu Alpha – 4 obrazy i staw z przelewem (25.04.2026)
+
+Na Dniu Alpha modliłem się ze Zbyszkiem w parze. Na końcu podeszła osoba z ekipy – ktoś, komu leży na sercu Kościół, chce służyć, ale miała pytania: jak służyć, na czym się skupić. Modlimy się. W czasie modlitwy przyszły cztery obrazy – jeden po drugim. Każdy trafiony: osoba potwierdzała, że to właśnie widziała i o to pytała Boga. Czwarty obraz, który najbardziej zapamiętałem: staw i przelew zatkany. Czasem chodzi tylko o to, żeby pomóc komuś odetkać przelew – i żeby łaska płynęła w jego życiu.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Kurs Jan 2012 – proroctwo o kwiecie i drzewie
+
+W lipcu 2012 roku pojechałem na kurs Jan do Wisły. Miałem 24 lata i byłem już 3,5 roku w SNE Wrocław. Nie odnajdywałem się tam: duchowo rosłem, ale relacje były trudne, jedyna posługa to układanie krzeseł i sprzątanie sprzętu. Nie wiedziałem, czy to miejsce dla mnie. Na kursie dostałem proroctwo: *„Sławku, nie spiesz się tak bardzo... Widzę obraz małego kwiatu, który rośnie – w przyszłości to będzie wielkie drzewo, które wyda owoce i będzie mocne... Jeżeli za szybko będziesz rosnąć w górę, to twoja łodyga będzie cieńka i się złamie."* Wróciłem do pierwotnej miłości. Dziś widzę, jak to proroctwo się wypełniło.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Kurs Sekret Pawła w Oświęcimiu – prorocze przywitanie (ok. 2020)
+
+Przyjechałem spóźniony 30 minut na kurs drugiego etapu w Oświęcimiu. Wchodzę z plecakiem na salę, a głoszący ks. Przemysław Sawa mówi: *„Witamy Sławka – oto człowiek zasłużony dla ewangelizacji w Polsce."* Stanąłem jak wryty. Zatkało mnie. Nasza wspólnota w Lubecku była wtedy mała, musieliśmy się dopiero uczyć. Nie czułem się osobą zasłużoną. Dziś, gdy widzę jak staliśmy się RCA, jak uczymy inne wspólnoty, jak mogliśmy z księdzem mówić w Tarnowie o przemianie parafii – rozumiem, że to było prorocze przywitanie. Coś jak Elżbieta witająca Maryję.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Kurs Jan 2012 - od frustracji do pokoju i odkrycia drogi
+
+Przed kursem Jan przeżywałem trudny czas we wspólnocie: wzrost duchowy szedł równolegle z frustracją, poczuciem niedopasowania i wątpliwością, czy SNE to moje miejsce. W czasie kursu poprosiłem o modlitwę wstawienniczą. W modlitwie Bóg zabrał frustrację, dał pokój i bardzo osobiste słowo prorocze o cierpliwym wzroście - „nie spiesz się”, „najpierw korzeń i pień, potem owoce”. Po tej modlitwie odkryłem na nowo miłość do Boga oraz pewność powołania: SNE to moja droga życia i służby.
+
+(Źródło: [[20251028_sesa]])

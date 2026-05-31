@@ -112,3 +112,17 @@ Cytaty z oficjalnych dokumentów Kościoła Katolickiego – Katechizm, encyklik
 > — kard. Grzegorz Ryś, Biznes na Skale 2024
 
 (Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+> „Świat potrzebuje dziś bardziej świadków niż nauczycieli, a jeśli nauczycieli, to takich, którzy są świadkami."
+> — Paweł VI, Evangelii Nuntiandi
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> „Ten zaś, kto prorokuje, mówi po to, aby ludzi zbudować, zachęcić i pocieszyć."
+> — 1 Kor 14, 3
+
+(Źródło: [[20251207_proroctwo]])

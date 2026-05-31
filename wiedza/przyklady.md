@@ -366,3 +366,45 @@ Nawet słowo „zawód" w języku polskim niesie znaczenie rozczarowania. To lin
 Biblia pokazuje pewne zasady i założenia, ale świat nie wdraża ich automatycznie. Ludzie mają wolną wolę i mogą budować „antyzasady" i „antysystemy" – jak komunizm. Nie wszystko co się dzieje „to Boża wola". Autor świadomie koryguje fideizm pasywny przez wskazanie odpowiedzialności człowieka za porządek społeczny.
 
 (Źródło: [[20260404_praca_przedsiebrioczosc]])
+
+---
+
+## Prorok jak listonosz
+
+Prorok (*nabi*) to trochę jak listonosz. Listonosz nie jest autorem listu, nie zmienia jego treści ani nie zmienia adresata. Zadaniem listonosza jest odebrać przesyłkę od Nadawcy i dostarczyć ją Adresatowi. Prosta, codzienna analogia wyjaśniająca rolę proroka bez mistycyzowania.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Latarka – proroctwo oświetla drogę
+
+Proroctwo jest jak latarka, która świeci jasno i wskazuje coś, co nadchodzi (może nadejść). Nie odsłania całej przyszłości, ale kieruje uwagę na konkretny punkt. Kontr-analogia: wróżenie z fusów – rytuał, który ma moc objawić. Proroctwo – autonomiczne działanie Boga.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Saul pobożny, lecz nieposłuszny – Dawid posłuszny
+
+Saul modlił się, robił „mnóstwo pobożnych rzeczy", ale Bóg przestał odpowiadać na jego modlitwy – bo Saul był nieposłuszny. Dawid natomiast wielbił Boga i był posłuszny jego natchnieniom. Kontrast: można być pobożnym i nieposłusznym jednocześnie. Silny przykład dla tych, którzy dużo robią w Kościele, ale omijają kwestię posłuszeństwa w życiu osobistym.
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+## Pociąg do Florencji - analogia wierności misji
+
+Rozbudowana historia dworca w Mediolanie pokazuje presję „dobrych alternatyw". Każda propozycja (Wenecja, Rzym, Neapol, Dolomity) może być wartościowa, ale nie jest kierunkiem wyznaczonym dla tej konkretnej misji. Powtarzane zdanie „Ten pociąg jedzie do Florencji" staje się nośnym obrazem strategicznej konsekwencji: nie robić wszystkiego, tylko wiernie realizować własny charyzmat.
+
+Zastosowanie w przywództwie wspólnoty i biznesie: jasna tożsamość organizacji chroni przed dryfem, rozproszeniem i „misją na wszystko".
+
+(Źródło: [[20251028_sesa]])
+
+---
+
+## Kwiat i pień - obraz cierpliwego wzrostu ucznia
+
+W słowie proroczym pojawia się obraz małego kwiatu, który ma stać się mocnym drzewem. Klucz: nie przyspieszać owocowania ponad tempo dojrzewania, bo „łodyga będzie cienka i się złamie". To obraz formacji długodystansowej - najpierw korzeń i pień, potem owoce.
+
+(Źródło: [[20251028_sesa]])

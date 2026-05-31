@@ -398,6 +398,67 @@ Nauka społeczna Kościoła, parafrazowana wielokrotnie jako refren.
 
 ---
 
+> **„SNE to nie są fakultatywne wykłady. Chodzi o stawanie się uczniem i misjonarzem Jezusa."**
+
+(Źródło: [[20251028_sesa]])
+
+---
+
+> **„Koinonia to «nie rób samemu» - ewangelizujemy we wspólnocie, a nie jako gwiazdy."**
+
+(Źródło: [[20251028_sesa]])
+
+---
+
+> **„Można mieć program, film i dobrą organizację, ale bez Ducha Świętego zabraknie soli."**
+
+(Źródło: [[20251028_sesa]])
+
+---
+
+> **„Ten pociąg jedzie do Florencji" - misja SESA jest jasna: formować nowych ewangelizatorów do Nowej Ewangelizacji.**
+
+(Źródło: [[20251028_sesa]])
+
+---
+
+> **„Prawdziwe proroctwo rzadko jest wyrokiem losu. Często ma ukryty warunek. Bóg zapala latarkę i mówi »Idziesz ku przepaści« – nie po to, żebyś do niej wpadł, ale właśnie po to, żebyś zdążył skręcić."**
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> **„Nie każde proroctwo można i trzeba powiedzieć każdemu. Nie każde proroctwo jest na teraz."**
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> **„Proroctwo ma na celu zbudowanie, zachętę lub pocieszenie. Nawet jeśli koryguje, robi to w sposób, który daje nadzieję."**
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> **„Bycie prorokiem nie jest łatwe. Wymagające. Możesz stracić w oczach ludzi."**
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> **„Można w domu dziecko przewijać i otrzymać proroctwo od Boga. A można przyjść na spotkanie i grzeszyć."**
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
+> **„Obowiązki stanu mają prymat nad obowiązkami religijnymi."**
+> — ks. Jan Kaczkowski
+
+(Źródło: [[20251207_proroctwo]])
+
+---
+
 > **„Gdyby twoim szefem był Jezus, to pracowałbyś tak samo czy może inaczej?"**
 
 (Źródło: [[20260404_praca_przedsiebrioczosc]])

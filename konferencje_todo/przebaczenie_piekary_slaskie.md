@@ -1,23 +1,17 @@
-﻿Dzień Alpha - Przebaczenie
-Istnieją trzy powody, które nie pozwalają nam doświadczać mocy Ducha Świętego
-    • Niewiara – nie chcę/ nie wierzę,
-          Mówiliśmy tutaj o Jezusie, o tym kim On jest. W czasie 4tego spotkania była okazja do modlitwy, zaproszenia Jezusa do swojego życia. Jezus oddał za Ciebie życie, zapłacił za twoją winę. Twoje konto jest czyste – wyzerowane. 
-          Jeżeli chcesz go teraz zaprosić – to powtarzaj za mną modlitwę. 
-    • Grzech 
-          Dlatego zachęcaliśmy do spowiedź Świętej.
-    • Nieprzebaczenie,
-Trzecia rzecz która nas blokuje na działanie Ducha Świętego to nieprzebaczenie. Jest to temat głęboki, emocjonalny, poruszający, ale też temat z którym nie musisz być sam. Bóg chce Ci dzisiaj pomóc. Bóg chce uzdrawiać twoje serce.
-Przekonanie wewnętrzne : 
-Szukajcie Pana, gdy się pozwala znaleźć, 
-wzywajcie Go, dopóki jest blisko! 
-Niechaj bezbożny porzuci swą drogę 
-i człowiek nieprawy swoje knowania. 
-Niech się nawróci do Pana, a Ten się nad nim zmiłuje, 
-i do Boga naszego, gdyż hojny jest w przebaczaniu.  Iz 55, 6-9
+﻿# Przebaczenie i uzdrowienie wewnętrzne
 
-Powtórzenie (x2)
-Posłuchajcie przypowieści Jezusa, którą zapisał Mateusz w Ewangelii:
-“Dlatego podobne jest królestwo niebieskie do króla, który chciał rozliczyć się ze swymi sługami. Gdy zaczął się rozliczać, przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprzedać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzyskać. Wtedy sługa upadł przed nim i prosił go: „Panie, miej cierpliwość nade mną, a wszystko ci oddam”. Pan ulitował się nad tym sługą, uwolnił go i dług mu darował. Lecz gdy sługa ów wyszedł, spotkał jednego ze współsług, który mu był winien sto denarów. Chwycił go i zaczął dusić, mówiąc: „Oddaj, coś winien!” Jego współsługa upadł przed nim i prosił go: „Miej cierpliwość nade mną, a oddam tobie”. On jednak nie chciał, lecz poszedł i wtrącił go do więzienia, dopóki nie odda długu. Współsłudzy jego widząc, co się działo, bardzo się zasmucili. Poszli i opowiedzieli swemu panu wszystko, co zaszło. Wtedy pan jego wezwał go przed siebie i rzekł mu: „Sługo niegodziwy! Darowałem ci cały ten dług, ponieważ mnie prosiłeś. Czyż więc i ty nie powinieneś był ulitować się nad swoim współsługą, jak ja ulitowałem się nad tobą?” I uniesiony gniewem pan jego kazał wydać go katom, dopóki mu całego długu nie odda. Podobnie uczyni wam Ojciec mój niebieski, jeżeli każdy z was nie przebaczy z serca swemu bratu».” Mt 18, 23-35
+## Wstęp
+
+Gdy Waldek mnie zaprosił, abym powiedział temat uzdrowienia wewnętrznego to praktycznie od razu się zgodziłem. Dlaczego? Ponieważ jako dziecko mieszkałem do 7-roku życia w Piekarach Śląskich i mieszkając tu wtedy widziałem jak moi rodzice się ranią, kłocą, mnie ranią, jest przemoc i w końcu się rozwodzą. Przez lata musiałem dorosnąć do przebaczenia Ojcu i Bóg we mnie wiele uzdrowił. Więc gdy zrozumiałem, że po 30 lat mojej nieobecnośći w tym mieście, zostałem tu zaproszony i to jeszcze z tematem uzdrowienie wewnętrznę, to wiedziałem że to nie mógł być przypadek -
+tylko że to jest działanie Ducha Świętego.
+I to jeszcze dzisiaj jest dzień dziecka, a ja te zranienia i historie przeżyłem jako dziecko. 
+Wiem, że jesteście ciekawi co ja mam do powiedzienia, ale powiem wam szczerze, ze tak samo lub
+nawet bardziej ja dzisiaj oczekuję co Duch Święty chce mi dzisiaj powiedzieć i dlaczego tutaj 
+właśnie dzisiaj jestem.
+
+## Dlaczego mamy przebaczyć?
+
+    _“Dlatego podobne jest królestwo niebieskie do króla, który chciał rozliczyć się ze swymi sługami. Gdy zaczął się rozliczać, przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprzedać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzyskać. Wtedy sługa upadł przed nim i prosił go: „Panie, miej cierpliwość nade mną, a wszystko ci oddam”. Pan ulitował się nad tym sługą, uwolnił go i dług mu darował. Lecz gdy sługa ów wyszedł, spotkał jednego ze współsług, który mu był winien sto denarów. Chwycił go i zaczął dusić, mówiąc: „Oddaj, coś winien!” Jego współsługa upadł przed nim i prosił go: „Miej cierpliwość nade mną, a oddam tobie”. On jednak nie chciał, lecz poszedł i wtrącił go do więzienia, dopóki nie odda długu. Współsłudzy jego widząc, co się działo, bardzo się zasmucili. Poszli i opowiedzieli swemu panu wszystko, co zaszło. Wtedy pan jego wezwał go przed siebie i rzekł mu: „Sługo niegodziwy! Darowałem ci cały ten dług, ponieważ mnie prosiłeś. Czyż więc i ty nie powinieneś był ulitować się nad swoim współsługą, jak ja ulitowałem się nad tobą?” I uniesiony gniewem pan jego kazał wydać go katom, dopóki mu całego długu nie odda. Podobnie uczyni wam Ojciec mój niebieski, jeżeli każdy z was nie przebaczy z serca swemu bratu».”_ Mt 18, 23-35
 
 10 tysięcy talentów to 340 ton złota – przy dzisiejszym kursie 111 mld zł. Są to pieniądze nie do spłacenia przez żadnego człowieka. Nikt nie był stanie ich spłacić, tak jak nikt z nas nie był w stanie sam się zbawić. Analogicznie Grzech ciążył na nas jak wina nie do spłacenia (mocno!)
 Co zatem zrobił Bóg?
@@ -38,7 +32,7 @@ Nieprzebaczenia sprawia, że :
     • koncentrujesz swoje życie na wrogu, unikasz go, przewidujesz jego ruchy, szukasz zemsty i rewanżu. Zamiast żyć zgodnie z własnymi przekonaniami i w centrum życia postawić Boga, stawiasz w centrum swojego życia osobę, która zadała Ci ból.
     • obwiniasz kogoś/Boga o niepowodzenia, obgadujesz i oskarżasz tych którzy cię skrzywdzili – to oni są winni,
     • w najgorszych przypadkach może to skutkować manią prześladowczą lub wyparciem faktów z życiorysu,
-      
+
 Jeżeli widzisz, któryś z w/w symptomów to prawdopodobnie masz problem z nieprzebaczeniem, a w twoim sercu jeszcze nie dokonało się uzdrowienie wewnętrzne.
 
       Film Przebaczenie (3min)
@@ -46,7 +40,7 @@ Jeżeli widzisz, któryś z w/w symptomów to prawdopodobnie masz problem z niep
 Przebaczenia dokonujemy w 3-ech płaszczyznach :
     • Bogu
 Teoretycznie Bogu nie da się przebaczyć, ponieważ On nas nie rani. Jednakże my mamy czasem żal do Boga i potrzebujemy przebaczyć. Nie nazywamy tego przebaczeniem, ale o pojednaniem się z Bogiem.
-Bóg, nigdy nie chciał grzechu, a co za tym idzie cierpienia, choroby i śmierci. Bóg nie chce żebyś cierpiał czy by ktoś Cię zranił, oszukał czy zawiódł. Problem polega na tym, że to my często przypisujemy Bogu rzeczy, które nie są Jego wolą. Mówimy “Ktoś miał wypadek samochodowy, widocznie Bóg tak chciał.”, “Zachorował na raka, taka jest wola Boża.”. Mamy zły obraz Boga. Kochającego dobrego Ojca mylimy z sadystą. 
+Bóg, nigdy nie chciał grzechu, a co za tym idzie cierpienia, choroby i śmierci. Bóg nie chce żebyś cierpiał czy by ktoś Cię zranił, oszukał czy zawiódł. Problem polega na tym, że to my często przypisujemy Bogu rzeczy, które nie są Jego wolą. Mówimy “Ktoś miał wypadek samochodowy, widocznie Bóg tak chciał.”, “Zachorował na raka, taka jest wola Boża.”. Mamy zły obraz Boga. Kochającego dobrego Ojca mylimy z sadystą.
     • Sobie
 Bywa, że sami do siebie mamy żal. Nie spełniamy swoich wymagań czy wygórowanych ambicji, ambicji rodziców, presji pracodawcy, otoczenia. Potrzebujemy okazać sobie miłosierdzie.
 
@@ -57,21 +51,21 @@ Bywa, że sami do siebie mamy żal. Nie spełniamy swoich wymagań czy wygórowa
 
 3. Doświadczyłem wtedy wielkiego miłosierdzia Boga, w sercu, w emocjach czułem, że jestem kochany. Zrozumiałem, że On nigdy mnie nie przekreśla mimo, że sam siebie przekreślałem. Zrozumiałem, że On zawsze daje mi szanse i pragnie mojego powrotu. Przebaczyłem sobie i odczułem ulgę, miałem do siebie miłosierdzie, zaakceptowałem siebie. Zmieniło to też moje patrzenie na Boga, bo zobaczyłem miłosiernego Ojca a nie sadystę.
 4. Zachęcam Ciebie, jeśli przebaczysz, to może żyć w wolności z samym sobą i miłosierdziu do siebie.
-      
+
     • Drugiemu człowiekowi
 Osoby które nas zraniły najczęściej same są zranione. Rzadko kiedy ktoś z pełną premedytacją i na złość rani drugiego człowieka. Zazwyczaj sam jest poraniony, zagubiony, żyje w lęku. Daje to co otrzymał, ponieważ nie potrafi żyć w inny sposób.
 
 #1 Świadectwo przebaczenia tacie (świadectwa)
-    • Miłość Boża jako dziecko, piękny czas pierwsze lata życia. Gdy miałem 5, 6, 7 lat wszedł grzech do mojej rodziny, kryzys i piekło w domu. Zaczęło się od Taty, przemoc, kłótnie, krzyk, sąd, rozwód. Zraniło to bardzo mocno mnie i moją mamę. 
+    • Miłość Boża jako dziecko, piękny czas pierwsze lata życia. Gdy miałem 5, 6, 7 lat wszedł grzech do mojej rodziny, kryzys i piekło w domu. Zaczęło się od Taty, przemoc, kłótnie, krzyk, sąd, rozwód. Zraniło to bardzo mocno mnie i moją mamę.
     • W 2007 byłem na rekolekcjach u Franciszkanów na GŚA. Pierwszy raz w życiu uczestniczyłem w modlitwie przebaczenia, gdzie uwierzyłem w to, że powinienem przebaczyć jak Jezus. W sercu i na głos wypowiedziałem wtedy słowa przebaczenia osobom które mnie skrzywdziły.
     • To doświadczenie dało mi pokój serca. Dało mi nadzieję, że te relacje z tatą da się odbudować. Dzięki przebaczeniu byłem w końcu stanie przyjąć miłość Bożą.
     • Nigdy tego tacie nie mówiłem aż do 5 roku studiów. Po pewnej Eucharystii na która poszedłem , miałem mocne przekonanie, żebym zadzwonił do Niego i powiedział, że mu przebaczam. Wracając z kościoła zadzwoniłem do Ojca i powiedziałem o tym, że Mu przebaczam, że chciałbym aby naprawił to co się da oraz, że cieszę się że mam ojca i pomimo tego co się stało jestem dumny z niego. To doświadczenie dało mi pokój i radość w tej relacji. Było też potrzebne mojemu tacie. Od tamtej sytuacji zacząłem odbudowywać tą relację, zaprosiłem tatę do Wrocławia, poznał wtedy moją narzeczoną. Poznał swoje wnuczki. Wiele jeszcze przed nami, ale wierzę, że zmierza to w dobrym kierunku i Bóg to błogosławi.
 Zachęcam Ciebie, pierwszy krok który Ciebie uwalnia to przebaczenie. Drugi który może przynieść pokój komuś innemu to pojednanie.
 
 Friedrich „Nieobecny nieznajomy.”
-Czy widziałeś może 
+Czy widziałeś może
 moje mleczne zęby
-nienawidziłem zdania 
+nienawidziłem zdania
 przyszły alimenty
 W moim mózgu pełno niespodziewanych zakrętów
 Trudno zrozumieć siebie bez fundamentów
@@ -84,3 +78,14 @@ Podsumowanie
     • Przebaczenie jest decyzją, nie chodzi o emocje,
     • Przebaczając odzyskujesz utracony pokój, z Bogiem, Samym Sobą oraz innym ludźmi,
     • Pozwól Jezusowi uzdrawiać twoje serce, gdy przebaczamy on uwalnia nasze serce od nagromadzonych emocji (może pojawić się płacz, wzruszenie). To nic złego, nie blokuj tego tylko pozwól Bogu działać i Ciebie uzdrawiać.
+
+
+-------------------------------
+
+Istnieją trzy powody, które nie pozwalają nam doświadczać mocy Ducha Świętego
+    • Niewiara – nie chcę/ nie wierzę,
+          Mówiliśmy tutaj o Jezusie, o tym kim On jest. W czasie 4tego spotkania była okazja do modlitwy, zaproszenia Jezusa do swojego życia. Jezus oddał za Ciebie życie, zapłacił za twoją winę. Twoje konto jest czyste – wyzerowane.
+          Jeżeli chcesz go teraz zaprosić – to powtarzaj za mną modlitwę.
+    • Grzech
+          Dlatego zachęcaliśmy do spowiedź Świętej.
+    • Nieprzebaczenie,

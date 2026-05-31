@@ -82,7 +82,7 @@ Bóg, nigdy nie chciał grzechu, a co za tym idzie cierpienia, choroby i śmierc
 
 *1. W 1 roku po ślubie zaczęły wychodzić na jaw moje zranienia oraz kompleksy. Pewien przypadek polegał na tym że Jadzia mnie o coś prosiła(co chwilowo było dla mnie trudne do wykonania) i ja wpadałem w gniew i się kłóciłem z nią i czułem dotknięty. Nie wiedziałem dlaczego.*
 
-*2. Kiedyś tuż przed modlitwą zadzwoniła moja Mama, postawiła mnie w podobnej sytuacji i zdenerwowała. Następnie zacząłem się modlić Słowem Bożym i Bóg przypomniał mi, sytuacje z dzieciństwa gdzie proszono mnie abym coś wykonał a nie wiedziałem jak albo nie było narzędzi bo gospodarstwo nie miało faceta(a ja nie pracowałem i nie stać mnie było o dbanie o narzędzia). To powodowało wtedy we mnie frustracje i czułem że nic nie potrafię zrobić. Bóg pokazał mi przyczynę a następnie dał mi doświadczenie głębokiego pokoju serca i zrozumiałem że uzdrawia moje serce.*
+*2. Kiedyś tuż przed modlitwą zadzwoniła moja Mama, postawiła mnie w podobnej sytuacji i zdenerwowała. Następnie zacząłem się modlić Słowem Bożym i Bóg przypomniał mi, sytuacje z dzieciństwa gdzie proszono mnie abym coś wykonał a nie wiedziałem jak albo nie było narzędzi bo gospodarstwo nie miało faceta(a ja nie pracowałem i nie stać mnie było o dbanie o narzędzia). To powodowało wtedy we mnie frustracje i czułem że nic nie potrafię zrobić. Bóg pokazał mi przyczynę a następnie dał mi doświadczenie głębokiego pokoju serca i zrozumiałem że uzdrawia moje serce.* Musiałem wtedy przebaczyć sobie samemu tę bezradność małego chłopca. Zaakceptować to, że nie wszystko umiem, przestać się za to potępiać i dać sobie do tego prawo."
 
 *3. Od tamtego momentu moje gniewne reakcje zniknęły i jestem wolny od tamtego zranienia. Chwała Panu!*
 

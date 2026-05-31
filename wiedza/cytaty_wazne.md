@@ -482,3 +482,27 @@ Nauka społeczna Kościoła, parafrazowana wielokrotnie jako refren.
 (Źródło: [[20260404_praca_przedsiebrioczosc]])
 
 ---
+
+> **„Bóg mówi do nas regularnie, każdego dnia, ale my często jesteśmy rozregulowani i nie umiemy wyłapać tych momentów, ani rozpoznać poruszenia w duchu."**
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+> **„Jeśli jakieś przekonanie przyjdzie w czasie modlitwy, podziel się. Zaryzykuj."**
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+> **„Charyzmaty są dane dla służby. Celem charyzmatów jest drugi człowiek."**
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+> **„Ważniejsze jest to, co teraz robi Bóg, niż to, co ja rano sobie zaplanowałem."**
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---

@@ -403,6 +403,38 @@ Zastosowanie w przywództwie wspólnoty i biznesie: jasna tożsamość organizac
 
 ---
 
+## Prawo jazdy bez praktyki - formacja bez posługi
+
+Sama teoria nie nauczy prowadzenia auta bez wejścia za kierownicę. To trafna analogia do życia wspólnotowego: można zaliczyć wiele kursów i rekolekcji, ale bez realnej posługi nie ma wzrostu ucznia-misjonarza.
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+## Daniel i rozprawa o Zuzannie - słowo poznania w sądzie
+
+Historia Daniela, który dzięki interwencji Ducha Świętego zadaje trafne pytania dwóm starcom, pokazuje, że słowo poznania może odsłonić prawdę także w sytuacji prawnej i obronić niewinną osobę. To mocny obraz działania Boga w praktyce, a nie tylko w teorii.
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+## Ananiasz i Szaweł - konkretne dane do modlitwy
+
+Ananiasz otrzymuje od Boga imię osoby, miejsce, aktualny stan duchowy i to, co Bóg chce zrobić. To świetny przykład słowa poznania, które nie jest mglistym przeczuciem, ale konkretną pomocą w modlitwie i posłuszeństwie.
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
+## Uwielbienie prowadzone na bieżąco
+
+Podczas prowadzenia modlitwy uwielbienia nie da się wszystkiego rozpisać z góry. Trzeba reagować na to, co właśnie robi Bóg, zamiast kurczowo trzymać się porannego planu. To dobry obraz rozeznawania natchnień w czasie rzeczywistym.
+
+(Źródło: [[20251207_slowo_poznania]])
+
+---
+
 ## Kwiat i pień - obraz cierpliwego wzrostu ucznia
 
 W słowie proroczym pojawia się obraz małego kwiatu, który ma stać się mocnym drzewem. Klucz: nie przyspieszać owocowania ponad tempo dojrzewania, bo „łodyga będzie cienka i się złamie". To obraz formacji długodystansowej - najpierw korzeń i pień, potem owoce.

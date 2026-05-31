@@ -140,3 +140,7 @@ Ten plik jest żywym szablonem stylu. Po każdym zamkniętym nauczaniu:
 - 2026-05-31: Nauczanie SESA wzmacnia rys tożsamościowy i eklezjalny stylu: autor łączy osobiste świadectwo przełomu z klarownym określeniem charyzmatu wspólnoty. Charakterystyczna staje się duża metafora narracyjna („pociąg do Florencji") użyta jako narzędzie strategicznego rozeznania i wierności misji. Wyraźnie wraca też język zapraszający do decyzji („czy żyjesz tym charyzmatem?”, „daj Bogu szansę”).
 
 (Źródło: [[20251028_sesa]])
+
+- 2026-05-31: Nauczanie o słowie poznania doprecyzowuje styl rozeznawania natchnień: autor bardzo wyraźnie odróżnia teorię od praktyki (kurs prawa jazdy vs jazda), buduje definicję przez listę źródeł odbioru (myśl, obraz, odczucie, przekonanie), a następnie natychmiast przechodzi do ćwiczenia i modlitwy. Charakterystyczne jest też używanie sformułowań ostrożnościowych („wierzę, że...", „mam przekonanie", „czy coś Ci mówi?"), które pokazują szacunek do wolności i rozumu odbiorcy. Silniej wybrzmiewa zasada „ważniejsze jest to, co teraz robi Bóg, niż to, co rano zaplanowałem", a świadectwa są konkretne, nazwane i osadzone w miejscu oraz czasie.
+
+(Źródło: [[20251207_slowo_poznania]])

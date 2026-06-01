@@ -25,7 +25,7 @@ Jednak to 3 temat - nieprzebaczenie - może być tym, co trzyma Cię w miejscu, 
 
     _“Dlatego podobne jest królestwo niebieskie do króla, który chciał rozliczyć się ze swymi sługami. Gdy zaczął się rozliczać, przyprowadzono mu jednego, który mu był winien dziesięć tysięcy talentów. Ponieważ nie miał z czego ich oddać, pan kazał sprzedać go razem z żoną, dziećmi i całym jego mieniem, aby tak dług odzyskać. Wtedy sługa upadł przed nim i prosił go: „Panie, miej cierpliwość nade mną, a wszystko ci oddam”. Pan ulitował się nad tym sługą, uwolnił go i dług mu darował. Lecz gdy sługa ów wyszedł, spotkał jednego ze współsług, który mu był winien sto denarów. Chwycił go i zaczął dusić, mówiąc: „Oddaj, coś winien!” Jego współsługa upadł przed nim i prosił go: „Miej cierpliwość nade mną, a oddam tobie”. On jednak nie chciał, lecz poszedł i wtrącił go do więzienia, dopóki nie odda długu. Współsłudzy jego widząc, co się działo, bardzo się zasmucili. Poszli i opowiedzieli swemu panu wszystko, co zaszło. Wtedy pan jego wezwał go przed siebie i rzekł mu: „Sługo niegodziwy! Darowałem ci cały ten dług, ponieważ mnie prosiłeś. Czyż więc i ty nie powinieneś był ulitować się nad swoim współsługą, jak ja ulitowałem się nad tobą?” I uniesiony gniewem pan jego kazał wydać go katom, dopóki mu całego długu nie odda. Podobnie uczyni wam Ojciec mój niebieski, jeżeli każdy z was nie przebaczy z serca swemu bratu».”_ Mt 18, 23-35
 
-**10 tysięcy talentów to 340 ton złota** – przy dzisiejszym kursie 111 mld zł. Są to pieniądze nie do spłacenia przez żadnego człowieka. Nikt nie był stanie ich spłacić, tak jak nikt z nas nie był w stanie sam się zbawić. Analogicznie Grzech ciążył na nas jak wina nie do spłacenia (mocno!)
+**10 tysięcy talentów to 340 ton złota** – przy dzisiejszym kursie 165 mld zł. Są to pieniądze nie do spłacenia przez żadnego człowieka. Nikt nie był stanie ich spłacić, tak jak nikt z nas nie był w stanie sam się zbawić. Analogicznie Grzech ciążył na nas jak wina nie do spłacenia (mocno!)
 Co zatem zrobił Bóg?
 
 *“Darował nam wszystkie występki, skreślił zapis dłużny obciążający nas nakazami. To właśnie, co było naszym przeciwnikiem, usunął z drogi, przygwoździwszy do krzyża. .” Kol 2, 13 -14*
@@ -122,9 +122,7 @@ Tak też może przebiegać uzdrowienie wewnętrzne, więc zachęcam by nie zatrz
 
 Przebaczenie to chirurgiczne cięcie. Może boli lub wymaga odwagi, ale otwiera ranę na działanie Lekarza. Uzdrowienie wewnętrzne to to, co Jezus zrobi z tą otwartą raną za chwilę – jeśli Mu na to pozwolisz. 
 
-Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak abyś podskakiwał z radością, nawet tak jak tuczone cielę! :) 
-
-*Dla was zaś, którzy boicie się mojego imienia, wzejdzie słońce sprawiedliwości, a w jego promieniach będzie ocalenie. Wyjdziecie wtedy, podskakując jak cielęta opuszczające oborę. Ml 3, 20*
+Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**
 
 # Dynamika : Modlitwa o uzdrowienie przez przebaczenie
 

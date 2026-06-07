@@ -1,16 +1,31 @@
-Temat to uzdrowienie serca, uzdrowienie duszy(psyche).
 
-*Sam Bóg pokoju niech was w pełni uświęci. Niech was całych – to jest ducha, duszę i ciało– zachowa bez skazy na przyjście naszego Pana Jezusa Chrystusa. 1 Tes 5, 23*
 
-*(pneuma, psyche i soma)*
+1. Antropologia Człowieka wg. Pawłą - Pneuma, Psyche, Soma. Wyjaśnienie oraz pytania
 
-*Wtedy Maryja powiedziała:*
+- Jak leczymy dana sferę?
+- Co rani daną sferę?
 
-*„Wielbi Pana moja dusza*
 
-*i mój duch rozradował się w Bogu, moim Zbawicielu Łk 1, 46- 47*
 
-**2.A Co to jest zranienie - psychologicznie**
+2. Przebaczenie na bazie nauczania z Piekar - przypomnienie najważniejszych zasad przebacza
+
+- Wezwani do przebaczanie, gdyż Bóg pierwszy nam przebaczył (167 mld zł, dług nie do spłacenia, Jezus)
+
+- Nie chodzi o emocje, to jest decyzja.
+
+- Jezus uzdalnia do przebaczania.
+
+- Skutki nieprzebaczania :
+
+- > Kokos ; bariera i mechnizmy obronne
+
+
+
+3. Uzdrowienie wewnętrze - Czym jest Zranienie?
+
+Zabieg dydaktyczny : Włóczka i igły na bazie nauczania z Piekar oraz przykłady i świadectwo
+
+
 
 **Zranienie - mocne doświadczenie emocjonalne, trudnych emocji(gniew, strach) towrzyszących skrzywdzeniu.** 
 
@@ -38,6 +53,22 @@ Pisze "*Dopiero około Wszystkich Świętych poczułam, że nadrobiłam zaległo
 2. W styczniu/lutym tego roku Bóg obserwowałem siebie i te moje problemy i pytałem Boga o co chodzi. Chyba gdy wracałem samochodem z pracy to przypomniała mi się tamta sytuacja i przez kilka dni przychodziły mi myśli że to jest powiązane. W końcu poprosiłem Jadzię o modlitwę wstawienniczą w czasie której doświadczyłem pokoju serca i tego że coś się zmieniło. 
 3. Od tamtej modlitwy nie stresuje się tyle wyjazdami i zauważyłem, że również problem z żołądkiem zmalały. Są jeszcze inne zwiazane z tym, że czasem brzuch mnie boli jak za późno zjem posiłek, ale w tej materii zostałem uzdrowiony.
 4. Bóg uzdrowił moje serce, ale przez to również zmieniło się moje ciało. Bóg naprawdę chce abyś był wiódł życie w obfitości, wolne od zranień i choroby.
+
+
+
+Temat to uzdrowienie serca, uzdrowienie duszy(psyche).
+
+*Sam Bóg pokoju niech was w pełni uświęci. Niech was całych – to jest ducha, duszę i ciało– zachowa bez skazy na przyjście naszego Pana Jezusa Chrystusa. 1 Tes 5, 23*
+
+*(pneuma, psyche i soma)*
+
+*Wtedy Maryja powiedziała:*
+
+*„Wielbi Pana moja dusza*
+
+*i mój duch rozradował się w Bogu, moim Zbawicielu Łk 1, 46- 47*
+
+4. 
 
 **2.B Co to jest zranienie - duchowo**
 
@@ -99,4 +130,13 @@ Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak aby
 
 *Dla was zaś, którzy boicie się mojego imienia, wzejdzie słońce sprawiedliwości, a w jego promieniach będzie ocalenie. Wyjdziecie wtedy, podskakując jak cielęta opuszczające oborę. Ml 3, 20*
 
-*(Modlitwa)*
+
+
+
+
+Dynamika *(Modlitwa o uzdrowienie wewnętrzne czytana z kartki 2 osoby)*
+
+Pytania 
+
+1. Czy zdarza Ci się nosić w sobie napięcie? W jakich sytuacjach?
+2. Czy łatwiej zapominasz czy łatwiej przebaczasz? "(mocne)"

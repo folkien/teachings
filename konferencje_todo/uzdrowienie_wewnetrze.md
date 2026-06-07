@@ -7,17 +7,39 @@
 
 
 
-2. Przebaczenie na bazie nauczania z Piekar - przypomnienie najważniejszych zasad przebacza
+2. Przebaczenie na bazie nauczania z Piekar - przypomnienie najważniejszych zasad przebaczenia
 
-- Wezwani do przebaczanie, gdyż Bóg pierwszy nam przebaczył (167 mld zł, dług nie do spłacenia, Jezus)
+**Dlaczego mamy przebaczyć?**
 
-- Nie chodzi o emocje, to jest decyzja.
+- Wezwani do przebaczenia, gdyż Bóg pierwszy nam przebaczył. Przypowieść o niemłosiernym słudze (Mt 18, 23-35): 10 000 talentów = 340 ton złota = 165 mld zł — dług nie do spłacenia przez żadnego człowieka. Jezus zapłacił nasz dług swoją krwią (Kol 2, 13-14). *"Jestem wezwany do przebaczenia, ponieważ Bóg pierwszy mi przebaczył."*
 
-- Jezus uzdalnia do przebaczania.
+**Trzy płaszczyzny przebaczenia:**
 
-- Skutki nieprzebaczania :
+- **Bogu** — Teoretycznie Bóg nas nie rani, ale mamy czasem do Niego żal. To nie przebaczenie, ale pojednanie. Bóg nigdy nie chciał grzechu ani cierpienia — mamy błędny obraz Boga, mylimy kochającego Ojca z sadystą.
 
-- > Kokos ; bariera i mechnizmy obronne
+- **Sobie** — Bywa że sami mamy do siebie żal: nie spełniamy własnych wymagań, oczekiwań rodziców, presji pracodawcy. Potrzebujemy okazać sobie miłosierdzie. Jeśli sam nie chcesz sobie wybaczyć, stawiasz osąd ludzki nad osądem Boga. (Świadectwo: strata 30 tys. zł w 5 dni, kurs Alpha w Lubecku 2022 — najdroższa lekcja pokory).
+
+- **Drugiemu człowiekowi** — Osoby które nas ranią, same są zranione. Rzadko kiedy ktoś z pełną premedytacją rani drugiego. Zazwyczaj sam jest poraniony, zagubiony, żyje w lęku — daje to co otrzymał.
+
+**Zasady przebaczenia:**
+
+- Nie chodzi o emocje — przebaczenie jest **decyzją**.
+
+- Jezus **uzdalnia** do przebaczania — to On w nas to sprawia.
+
+- Przebaczenie ≠ pojednanie. Pierwszy krok (przebaczenie) uwalnia **ciebie**. Drugi krok (pojednanie) może przynieść pokój **drugiej osobie**.
+
+**Skutki nieprzebaczenia:**
+
+- Brak pokoju serca, żal, gorycz. *"Trwać w nieprzebaczeniu to jak pić truciznę w nadziei, że umrze ktoś inny."*
+
+- **Zabieg dydaktyczny [kokos]:** Nieprzebaczenie to skorupa wokół delikatnego serca. Mur chroni przed zranieniem, ale zamknięta w nim rana ropieje — blokuje uzdrowienie wewnętrzne. Dopóki nie rozbijesz skorupy aktem przebaczenia, Duch Święty nie ma jak nałożyć balsamu na rany.
+
+- Koncentrujesz życie na wrogu: unikasz go, przewidujesz ruchy, szukasz zemsty. Zamiast Boga — w centrum stawiasz osobę, która zadała ból.
+
+- Obwiniasz kogoś/Boga o niepowodzenia, obgadujesz i oskarżasz skrzywdzicieli.
+
+- W najgorszych przypadkach: mania prześladowcza lub wyparcie faktów z życiorysu.
 
 
 

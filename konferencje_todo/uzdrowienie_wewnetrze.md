@@ -1,13 +1,18 @@
+# Antropologia Człowieka wg. Pawłą - Pneuma, Psyche, Soma.  
 
+*"Sam Bóg pokoju niech was całkowicie uświęca, aby nienaruszony **duch wasz, dusza i ciało** bez zarzutu zachowały się na przyjście Pana naszego Jezusa Chrystusa." (1 Tes 5, 23)*
 
-1. Antropologia Człowieka wg. Pawłą - Pneuma, Psyche, Soma. Wyjaśnienie oraz pytania
+Dygresja : Chodzi o przedstawienie 3 sfer w człowieku, które wzajemnie się przenikają. Ujmujemy człowieka holistycznie, ale dla uproszczenia analizy możemy go podzielić na 3 sfery na diagramie okręgu/koła. Każda strefa to 120 stopni, ale w środku linie są przerywane bo one się przenikają. Każda sfera to :
 
-- Jak leczymy dana sferę?
-- Co rani daną sferę?
+- Co rani daną sferę? np ciało - uraz, choroba, starzenie się, złe nawyki, nałogi; duch - grzech, brak modlitwy, brak sakramentów, brak wiary i umarłe życie duchowe, nie karmienie się duchowo; psyche - brak przebaczenia, słowa oskarżenia, ośmieszenie publiczne, trudne emocje, zranienia wewnętrzne
 
+- Jak leczymy dana sferę? - np ciało - lekarz, leki, żywienie, sport, modlitwa o uzdr fizy; duch - spowiedź święta,  eucharystia, sakramenty, modlitwa, słowo Boże; psyche - przebaczenie, wypowiedzenie emocji, rozmowa z przyjacielem, terapia
 
+![image-20260609230858484](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609230858484.png)
 
-2. Przebaczenie na bazie nauczania z Piekar - przypomnienie najważniejszych zasad przebaczenia
+![image-20260609231213454](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231213454.png)
+
+# Przebaczenie - przypomnienie
 
 **Dlaczego mamy przebaczyć?**
 
@@ -41,9 +46,13 @@
 
 - W najgorszych przypadkach: mania prześladowcza lub wyparcie faktów z życiorysu.
 
+![image-20260609231437643](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231437643.png)
 
+![image-20260609231855037](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231855037.png)
 
-3. Uzdrowienie wewnętrze - Czym jest Zranienie?
+![image-20260609231805048](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231805048.png)![image-20260609231822295](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231822295.png)
+
+# Uzdrowienie wewnętrze - Czym jest Zranienie?
 
 Zabieg dydaktyczny : Włóczka i igły na bazie nauczania z Piekar oraz przykłady i świadectwo
 
@@ -153,7 +162,10 @@ Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak aby
 *Dla was zaś, którzy boicie się mojego imienia, wzejdzie słońce sprawiedliwości, a w jego promieniach będzie ocalenie. Wyjdziecie wtedy, podskakując jak cielęta opuszczające oborę. Ml 3, 20*
 
 
-
+## 3 Kroki do uzdrowienia wewnętrznego 
+1. Przebaczenie
+2. Wypowiedzenie zranienia/emocji/wydarzenia
+3. Oddanie wypowiedzianych rzeczy Jezusowi w modlitwie wstawienniczej
 
 
 Dynamika *(Modlitwa o uzdrowienie wewnętrzne czytana z kartki 2 osoby)*

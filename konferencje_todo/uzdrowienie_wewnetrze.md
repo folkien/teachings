@@ -54,7 +54,9 @@ Dygresja : Chodzi o przedstawienie 3 sfer w człowieku, które wzajemnie się pr
 
 # Uzdrowienie wewnętrze - Czym jest Zranienie?
 
-Zabieg dydaktyczny : Włóczka i igły na bazie nauczania z Piekar oraz przykłady i świadectwo
+Zabieg dydaktyczny : Kokos i włoczka
+
+Kokos pęka (przebaczeni) i w środku znajduje się włóczka czerwona (serce) ale z ukrytymi igłami które symbolizują ukryte zranienia. Głoszący tłumaczy co się stanie gdy ktoś nadepnie/naciśnie igłę.
 
 
 

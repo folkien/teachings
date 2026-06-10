@@ -2,7 +2,7 @@ Anegdota : Janek
 
 Pytanie : Czy robimy uzdrowienie wewnętrzne?
 
-# Antropologia Człowieka wg. Pawłą - Pneuma, Psyche, Soma.  
+# Antropologia Człowieka wg. Pawła - Pneuma, Psyche, Soma.  
 
 *"Sam Bóg pokoju niech was całkowicie uświęca, aby nienaruszony **duch wasz, dusza i ciało** bez zarzutu zachowały się na przyjście Pana naszego Jezusa Chrystusa." (1 Tes 5, 23)*
 

@@ -1,3 +1,7 @@
+Anegdota : Janek
+
+Pytanie : Czy robimy uzdrowienie wewnętrzne?
+
 # Antropologia Człowieka wg. Pawłą - Pneuma, Psyche, Soma.  
 
 *"Sam Bóg pokoju niech was całkowicie uświęca, aby nienaruszony **duch wasz, dusza i ciało** bez zarzutu zachowały się na przyjście Pana naszego Jezusa Chrystusa." (1 Tes 5, 23)*
@@ -12,18 +16,34 @@ Dygresja : Chodzi o przedstawienie 3 sfer w człowieku, które wzajemnie się pr
 
 ![image-20260609231213454](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231213454.png)
 
+**Pytanie : W jakiej z 3 sfer dzisiaj najbardziej potrzebujesz uzdrowienia?**
+
+Kluczem, który otwiera drzwi do uzdrowienia wewnętrznego, jest przebaczenie. 
+
+*"Ku wolności wyswobodził nas Chrystus. A zatem trwajcie w niej i nie poddawajcie się na nowo pod jarzmo niewoli! " Ga 5, 1*
+
 # Przebaczenie - przypomnienie
 
 **Dlaczego mamy przebaczyć?**
 
 - Wezwani do przebaczenia, gdyż Bóg pierwszy nam przebaczył. Przypowieść o niemłosiernym słudze (Mt 18, 23-35): 10 000 talentów = 340 ton złota = 165 mld zł — dług nie do spłacenia przez żadnego człowieka. Jezus zapłacił nasz dług swoją krwią (Kol 2, 13-14). *"Jestem wezwany do przebaczenia, ponieważ Bóg pierwszy mi przebaczył."*
 
+**Skutki nieprzebaczenia:**
+
+- Brak pokoju serca, żal, gorycz. *"Trwać w nieprzebaczeniu to jak pić truciznę w nadziei, że umrze ktoś inny."*
+
+- **Zabieg dydaktyczny [kokos]:** Nieprzebaczenie to skorupa wokół delikatnego serca. Mur chroni przed zranieniem, ale zamknięta w nim rana ropieje — blokuje uzdrowienie wewnętrzne. Dopóki nie rozbijesz skorupy aktem przebaczenia, Duch Święty nie ma jak nałożyć balsamu na rany.
+
+- **Koncentrujesz życie na wrogu:** unikasz go, przewidujesz ruchy, szukasz zemsty. Zamiast Boga — w centrum stawiasz osobę, która zadała ból.
+
+- Obwiniasz kogoś/Boga o niepowodzenia, obgadujesz i oskarżasz skrzywdzicieli.
+
+- W najgorszych przypadkach: mania prześladowcza lub wyparcie faktów z życiorysu.
+
 **Trzy płaszczyzny przebaczenia:**
 
 - **Bogu** — Teoretycznie Bóg nas nie rani, ale mamy czasem do Niego żal. To nie przebaczenie, ale pojednanie. Bóg nigdy nie chciał grzechu ani cierpienia — mamy błędny obraz Boga, mylimy kochającego Ojca z sadystą.
-
-- **Sobie** — Bywa że sami mamy do siebie żal: nie spełniamy własnych wymagań, oczekiwań rodziców, presji pracodawcy. Potrzebujemy okazać sobie miłosierdzie. Jeśli sam nie chcesz sobie wybaczyć, stawiasz osąd ludzki nad osądem Boga. (Świadectwo: strata 30 tys. zł w 5 dni, kurs Alpha w Lubecku 2022 — najdroższa lekcja pokory).
-
+- **Sobie** — Bywa że sami mamy do siebie żal: nie spełniamy własnych wymagań, oczekiwań rodziców, presji pracodawcy. Potrzebujemy okazać sobie miłosierdzie. Jeśli sam nie chcesz sobie wybaczyć, stawiasz osąd ludzki nad osądem Boga. *(świadectwo)*
 - **Drugiemu człowiekowi** — Osoby które nas ranią, same są zranione. Rzadko kiedy ktoś z pełną premedytacją rani drugiego. Zazwyczaj sam jest poraniony, zagubiony, żyje w lęku — daje to co otrzymał.
 
 **Zasady przebaczenia:**
@@ -32,47 +52,55 @@ Dygresja : Chodzi o przedstawienie 3 sfer w człowieku, które wzajemnie się pr
 
 - Jezus **uzdalnia** do przebaczania — to On w nas to sprawia.
 
-- Przebaczenie ≠ pojednanie. Pierwszy krok (przebaczenie) uwalnia **ciebie**. Drugi krok (pojednanie) może przynieść pokój **drugiej osobie**.
+- **Pierwszy** krok (przebaczenie) uwalnia **ciebie**. Drugi krok (pojednanie) może przynieść pokój **w relacji**. Przebaczenie jest zawsze możliwe, pojednanie nie zawsze. 
 
-**Skutki nieprzebaczenia:**
 
-- Brak pokoju serca, żal, gorycz. *"Trwać w nieprzebaczeniu to jak pić truciznę w nadziei, że umrze ktoś inny."*
-
-- **Zabieg dydaktyczny [kokos]:** Nieprzebaczenie to skorupa wokół delikatnego serca. Mur chroni przed zranieniem, ale zamknięta w nim rana ropieje — blokuje uzdrowienie wewnętrzne. Dopóki nie rozbijesz skorupy aktem przebaczenia, Duch Święty nie ma jak nałożyć balsamu na rany.
-
-- Koncentrujesz życie na wrogu: unikasz go, przewidujesz ruchy, szukasz zemsty. Zamiast Boga — w centrum stawiasz osobę, która zadała ból.
-
-- Obwiniasz kogoś/Boga o niepowodzenia, obgadujesz i oskarżasz skrzywdzicieli.
-
-- W najgorszych przypadkach: mania prześladowcza lub wyparcie faktów z życiorysu.
 
 ![image-20260609231437643](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231437643.png)
 
-![image-20260609231855037](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231855037.png)
-
 ![image-20260609231805048](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231805048.png)![image-20260609231822295](/home/spasz/snap/typora/112/.config/Typora/typora-user-images/image-20260609231822295.png)
 
-# Uzdrowienie wewnętrze - Czym jest Zranienie?
+# Uzdrowienie wewnętrzne - Czym jest Zranienie?
 
-Zabieg dydaktyczny : Kokos i włoczka
+**Zabieg dydaktyczny : Kokos i włoczka**
 
 Kokos pęka (przebaczeni) i w środku znajduje się włóczka czerwona (serce) ale z ukrytymi igłami które symbolizują ukryte zranienia. Głoszący tłumaczy co się stanie gdy ktoś nadepnie/naciśnie igłę.
 
+**Świadectwo**
+
+*1. W 1 roku po ślubie zaczęły wychodzić na jaw moje zranienia oraz kompleksy. Pewien przypadek polegał na tym że Jadzia mnie o coś prosiła(co chwilowo było dla mnie trudne do wykonania) i ja wpadałem w gniew i się kłóciłem z nią i czułem dotknięty. Nie wiedziałem dlaczego.*
+
+*2. Kiedyś tuż przed modlitwą zadzwoniła moja Mama, postawiła mnie w podobnej sytuacji i zdenerwowała. Następnie zacząłem się modlić Słowem Bożym i Bóg przypomniał mi, sytuacje z dzieciństwa gdzie proszono mnie abym coś wykonał a nie wiedziałem jak albo nie było narzędzi bo gospodarstwo nie miało faceta(a ja nie pracowałem i nie stać mnie było o dbanie o narzędzia). To powodowało wtedy we mnie frustracje i czułem że nic nie potrafię zrobić. Bóg pokazał mi przyczynę a następnie dał mi doświadczenie głębokiego pokoju serca i zrozumiałem że uzdrawia moje serce.*
+
+*3. Od tamtego momentu moje gniewne reakcje zniknęły i jestem wolny od tamtego zranienia. Chwała Panu!*
+
+*4. Bóg dziś może tak samo dotknąć Ciebie i Twojej przeszłości, ponieważ On jest Panem czasu.*
 
 
-**Zranienie - mocne doświadczenie emocjonalne, trudnych emocji(gniew, strach) towrzyszących skrzywdzeniu.** 
 
-Np poprzez
+**Skąd się biorą takie zranienia emocjonalne?**
 
-\- czyjeś słowo, krytykę, kłamstwo, poprzez niewierność, kradzież, zranienie fizyczne czy zło wyrządzone komuś, kogo kochamy.
+Najczęściej wynikają z sytuacji gdzie nas skrzywdzono i doświadczaliśmy trudnych emocji (np. gniewu, strachu, bólu). Na przykład 
 
-Zranienie pojawia się wtedy, kiedy czujemy się lub rzeczywiście zostaliśmy zlekceważeni, upokorzeni, niedocenieni, skrytykowani, ośmieszeni, zaatakowani albo niesłusznie oskarżeni. 
+- Publicznie zostaliśmy upokorzeni, wyśmiani.
 
-(Historia)
+**Przykład.** W książce katolickich terapuetów małżeństwa Gadjów, Rózwój jak współpracować z łaską, jest historia kobiety, która w opisuje zranienie z dzieciństwa ze swojej szkoły.
 
-Gdy przygotowywałem się do tej konferencji to czytałem historię pewnej kobiety, która w dzieciństwie po przyjściu do nowej szkoły, przez pierwsze tygodnie musiałam ciężko pracować nad matematyką.
+ "*Dopiero około Wszystkich Świętych poczułam, że nadrobiłam zaległości. W połowie grudnia odbył się sprawdzian, który napisałam jako jedna z najlepszych. Oddając moją pracę, nauczycielka matematyki kazała mi wstać i publicznie oskarżyła mnie o to, że odpisywałam. Kiedy zaprzeczyłam, ostrzegła, abym kłamstwem nie pogarszała swojej sytuacji... Przez wiele lat nie potrafiłam zapanować nad reedycją złości i oburzenia, które mną zatrzęsły tamtego dnia. Ilekroć ktoś sugerował mi w jakiś sposób, że to, co mówię, nie jest prawdą, ranił mnie głęboko, o wiele głębiej, niż sądziłam. "*
 
-Pisze "*Dopiero około Wszystkich Świętych poczułam, że nadrobiłam zaległości. W połowie grudnia odbył się sprawdzian, który napisałam jako jedna z najlepszych. Oddając moją pracę, nauczycielka matematyki kazała mi wstać i publicznie oskarżyła mnie o to, że odpisywałam. Kiedy zaprzeczyłam, ostrzegła, abym kłamstwem nie pogarszała swojej sytuacji... Przez wiele lat nie potrafiłam zapanować nad reedycją złości i oburzenia, które mną zatrzęsły tamtego dnia. Ilekroć ktoś sugerował mi w jakiśsposób, że to, co mówię, nie jest prawdą, ranił mnie głęboko, o wiele głębiej, niż sądziłam. "*
+- Intensywne zdarzenia emocjonalne i traumy (np. wypadek komunikacyjny, atak zwierzęcia), które pozostawiają po sobie irracjonalny lęk (np. przed podróżami czy psami).
+
+(Świadectwo)
+
+1. *W drugiej klasie podstawówki jechałem samochodem z moja mama. W okolicy Posmyku, droga tam lekko spada w dół, był wypadek i na naszym pasie stał samochód. Moja mama się odwróciła w bok i nie widziała tego, jechała wprost na te auto. Ja się wystrzaszyłem i krzyknąłem. Od tamtego wydarzenia zacząłem mieć nudności w podróży i bolał mnie brzuch przed wyjazdami, stresowałem się zmianą miejsca. Nudności mi przeszły ale problem z żołądkiem pozostały.*
+2. *W styczniu/lutym 2016 roku Bóg obserwowałem siebie i te moje problemy i pytałem Boga o co chodzi. Chyba gdy wracałem samochodem z pracy to przypomniała mi się tamta sytuacja i przez kilka dni przychodziły mi myśli że to jest powiązane. W końcu poprosiłem Jadzię o modlitwę wstawienniczą w czasie której doświadczyłem pokoju serca i tego że coś się zmieniło.* 
+3. *Od tamtej modlitwy nie stresuje się tyle wyjazdami i zauważyłem, że również problem z żołądkiem zostały uzdrowione .*
+4. *Bóg uzdrowił moje serce, ale przez to również zmieniło się moje ciało. Bóg naprawdę chce abyś był wiódł życie w obfitości, wolne od zranień i choroby.*
+
+- Ktoś nas zdradził, zawiódł. *np. brak ojca ,brak matki*
+- Toksyczna relacja, gdzie ktoś nas poniżał, traktował bez szacunku czy bez miłości. 
+
+
 
 \- Można bowiem zostać ośmieszonym, skrytykowanym i nie poczuć się zranionym. (przykład sytuacja gdy jestem w bliskiej relacji z Bogiem, dbam o modlitwę czy jestem po Spowiedzi Świętej - często wtedy trudne słowa/sytuacje mnie tak nie dotykają, spływają po mnie jak po kaczce.
 
@@ -80,12 +108,7 @@ Pisze "*Dopiero około Wszystkich Świętych poczułam, że nadrobiłam zaległo
 
 \- Bardzo intensywnie emocjonalna sytuacja. np uczestnictwo w wypadku czy atak zwierzęcia(np atak psa itd) może również odcisnąć ślad na naszej duszy i całej osobie. Np analogicznie może się to objawiać lękiem przed podróżami czy zwierzętami.
 
-(Świadectwo)
-
-1. W drugiej klasie podstawówki jechałem samochodem z moja mama. W okolicy Posmyku, droga tam lekko spada w dół, był wypadek i na naszym pasie stał samochód. Moja mama się odwróciła w bok i nie widziała tego, jechała wprost na te auto. Ja się wystrzaszyłem i krzyknąłem. Od tamtego wydarzenia zacząłem mieć nudności w podróży i bolał mnie brzuch przed wyjazdami, stresowałem się zmianą miejsca. Nudności mi przeszły ale problem z żołądkiem pozostały.
-2. W styczniu/lutym tego roku Bóg obserwowałem siebie i te moje problemy i pytałem Boga o co chodzi. Chyba gdy wracałem samochodem z pracy to przypomniała mi się tamta sytuacja i przez kilka dni przychodziły mi myśli że to jest powiązane. W końcu poprosiłem Jadzię o modlitwę wstawienniczą w czasie której doświadczyłem pokoju serca i tego że coś się zmieniło. 
-3. Od tamtej modlitwy nie stresuje się tyle wyjazdami i zauważyłem, że również problem z żołądkiem zmalały. Są jeszcze inne zwiazane z tym, że czasem brzuch mnie boli jak za późno zjem posiłek, ale w tej materii zostałem uzdrowiony.
-4. Bóg uzdrowił moje serce, ale przez to również zmieniło się moje ciało. Bóg naprawdę chce abyś był wiódł życie w obfitości, wolne od zranień i choroby.
+4. 
 
 
 
@@ -115,15 +138,7 @@ Temat to uzdrowienie serca, uzdrowienie duszy(psyche).
 
 Tak jak w przypadku urazu fizycznego, należy usunąć ciało obce a ranę opatrzyć aby mogła się zasklepić, tak samo w przypadku zranienia, Bóg chce usunąć przyczynę/kolec aby rana się zasklepiła. Blizna pozostaje, ale serce już nie boli. W posłudze wstawiennika najważniejsze to znaleźć pierwotnę przyczynę zranienia, sytuację, a następnie oddać to Jezusowi w modlitwie, a On to uzdrowi.
 
-**Świadectwo**
 
-*1. W 1 roku po ślubie zaczęły wychodzić na jaw moje zranienia oraz kompleksy. Pewien przypadek polegał na tym że Jadzia mnie o coś prosiła(co chwilowo było dla mnie trudne do wykonania) i ja wpadałem w gniew i się kłóciłem z nią i czułem dotknięty. Nie wiedziałem dlaczego.*
-
-*2. Kiedyś tuż przed modlitwą zadzwoniła moja Mama, postawiła mnie w podobnej sytuacji i zdenerwowała. Następnie zacząłem się modlić Słowem Bożym i Bóg przypomniał mi, sytuacje z dzieciństwa gdzie proszono mnie abym coś wykonał a nie wiedziałem jak albo nie było narzędzi bo gospodarstwo nie miało faceta(a ja nie pracowałem i nie stać mnie było o dbanie o narzędzia). To powodowało wtedy we mnie frustracje i czułem że nic nie potrafię zrobić. Bóg pokazał mi przyczynę a następnie dał mi doświadczenie głębokiego pokoju serca i zrozumiałem że uzdrawia moje serce.*
-
-*3. Od tamtego momentu moje gniewne reakcje zniknęły i jestem wolny od tamtego zranienia. Chwała Panu!*
-
-*4. Bóg dziś może tak samo dotknąć Ciebie i Twojej przeszłości, ponieważ On jest Panem czasu.*
 
 Bóg naprawdę chce twojego uzdrowienia, chce aby twoje serce było wolne!
 
@@ -170,9 +185,9 @@ Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak aby
 3. Oddanie wypowiedzianych rzeczy Jezusowi w modlitwie wstawienniczej
 
 
-Dynamika *(Modlitwa o uzdrowienie wewnętrzne czytana z kartki 2 osoby)*
+**Dynamika** *(Modlitwa o uzdrowienie wewnętrzne czytana z kartki 2 osoby)*
 
-Pytania 
+**Pytania** 
 
 1. Czy zdarza Ci się nosić w sobie napięcie? W jakich sytuacjach?
 2. Czy łatwiej zapominasz czy łatwiej przebaczasz? "(mocne)"

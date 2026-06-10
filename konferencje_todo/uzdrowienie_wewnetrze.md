@@ -97,82 +97,31 @@ Najczęściej wynikają z sytuacji gdzie nas skrzywdzono i doświadczaliśmy tru
 3. *Od tamtej modlitwy nie stresuje się tyle wyjazdami i zauważyłem, że również problem z żołądkiem zostały uzdrowione .*
 4. *Bóg uzdrowił moje serce, ale przez to również zmieniło się moje ciało. Bóg naprawdę chce abyś był wiódł życie w obfitości, wolne od zranień i choroby.*
 
-- Ktoś nas zdradził, zawiódł. *np. brak ojca ,brak matki*
 - Toksyczna relacja, gdzie ktoś nas poniżał, traktował bez szacunku czy bez miłości. 
+- Ktoś nas zdradził, zawiódł czy brakowało. *np. brak ojca ,brak matki*  
+
+*(ŚWIADECTWO*)
+
+1. jako dziecko mieszkałem do 7-roku życia w Piekarach Śląskich i mieszkając tu wtedy widziałem jak moi rodzice się ranią, kłocą, mnie ranią, jest przemoc i w końcu się rozwodzą. Przez lata musiałem dorosnąć do przebaczenia Ojcu i Bóg we mnie wiele uzdrowił. W tym roku Waldek (wspólnota w drodze) zaprosił mnie, po 30 lat mojej nieobecnośći w tym mieście, żebym powiedział temat uzdrowienie wewnętrznę na seminarium odnowy wiary.  Od razu wiedziałem że to nie mógł jest przypadek - tylko że to jest działanie Ducha Świętego. I to jeszcze dzisiaj jest dzień dziecka, a ja te zranienia i historie przeżyłem jako dziecko. 
+2. Pojechałem i oczekiwałem Duch Święty chce mi dzisiaj powiedzieć i dlaczego tam byłem. Po nauczaniu i modlitwie, rozmawiam z Waldkiem. Mówie swoje zrobiłem, nie wiem co dalej. Waldek mówi - ale ja wiem co dalej. Chce się za Ciebie pomodlić o doświadczenie tej miłości, której nie miałeś, żeby Bóg to uzupełnił. Ja mówię : ok, gdzie się modlimy? Tutaj w kuchni. 
+3. Pomodlił się nade mną. Prorokuje, ze cała Trójca tęskni za relacją z Tobą i w pełni jak mężem i ojcem. Mówi chce Cię przytulić po ojcowsku. W porządku. Przytulamy się jak ojciec z synem (Waldek ma ~ 60 lat). Pojechałem potem na kopiec wolności. Słyszę jak Duch Święty mówi, chciąłem Cię tu zabrać, bo Twój ojciec też Cię tu zabierał jak byłeś dzieckiem. To prawda.
 
 
-
-\- Można bowiem zostać ośmieszonym, skrytykowanym i nie poczuć się zranionym. (przykład sytuacja gdy jestem w bliskiej relacji z Bogiem, dbam o modlitwę czy jestem po Spowiedzi Świętej - często wtedy trudne słowa/sytuacje mnie tak nie dotykają, spływają po mnie jak po kaczce.
-
-\- Można też poczuć się zranionym, choć nie wydarzyło się nic takiego, co mogłoby w nas to zranienie spowodować.
-
-\- Bardzo intensywnie emocjonalna sytuacja. np uczestnictwo w wypadku czy atak zwierzęcia(np atak psa itd) może również odcisnąć ślad na naszej duszy i całej osobie. Np analogicznie może się to objawiać lękiem przed podróżami czy zwierzętami.
-
-4. 
-
-
-
-Temat to uzdrowienie serca, uzdrowienie duszy(psyche).
-
-*Sam Bóg pokoju niech was w pełni uświęci. Niech was całych – to jest ducha, duszę i ciało– zachowa bez skazy na przyjście naszego Pana Jezusa Chrystusa. 1 Tes 5, 23*
-
-*(pneuma, psyche i soma)*
-
-*Wtedy Maryja powiedziała:*
-
-*„Wielbi Pana moja dusza*
-
-*i mój duch rozradował się w Bogu, moim Zbawicielu Łk 1, 46- 47*
-
-4. 
-
-**2.B Co to jest zranienie - duchowo**
-
-**Obraz serca z igłami** - Bóg mnie uczył przez lata.
-
-\- kurs Jan 2012 r. : czas słów poznania, poznanie serce z szpilkami, igłami, Bóg wyciąga - siostra potwiedziła,
-
-\- moja posługa, modlitwa o uzdrowienie wewnętrzne, w czasie modlitw obraz Bóg wyciąga drzazgę z serca,
-
-\- posługa koleżanki Aldony, po posłudze mówi że mieli obraz serca z drzazgami/igłami i Bóg je wyciągał, 
-
-Tak jak w przypadku urazu fizycznego, należy usunąć ciało obce a ranę opatrzyć aby mogła się zasklepić, tak samo w przypadku zranienia, Bóg chce usunąć przyczynę/kolec aby rana się zasklepiła. Blizna pozostaje, ale serce już nie boli. W posłudze wstawiennika najważniejsze to znaleźć pierwotnę przyczynę zranienia, sytuację, a następnie oddać to Jezusowi w modlitwie, a On to uzdrowi.
-
-
-
-Bóg naprawdę chce twojego uzdrowienia, chce aby twoje serce było wolne!
 
 *Uzdrawia złamanych na duchu(serce) i opatruje ich rany. Ps 147, 3*
 
-Natomiast to diabeł pragnie aby twoje serce było poranione, ponieważ zranienia są jak takie sznurki, za które on może pociągąć aby tobą kierować. Wystarczy, że znowu postawi Cie w podobnej sytuacji(jak np mnie) i ma pewność, że zareagujesz emocjonalnie, a często przy tym zgrzeszysz(rozładujesz złość na kimś, oskarżysz czy przeklniesz). Ja mam takie powiedzenie, że "Diabeł gra na naszych zranieniach jak na fortepianie!". Dlatego mu zależy aby zranić twoje serce, aby mógł Tobą sterować.
+Bóg naprawdę chce twojego uzdrowienia, chce aby twoje serce było wolne!
+Niestety jeśli nosisz w swoim sercu takie rany,  diabeł może je wykorzystać. Pociąga jak za sznurki aby tobą kierować. Spowodować, że zgrzeszysz, wybuchniesz złością, oskarżysz.  *"Diabeł gra na naszych zranieniach jak na fortepianie!".* 
 
-Jeżeli tak jest, że są takie sytuacje które działają na Ciebie jak wyzwalacz, jak spust. Tak, że kiedy tylko znowu podobna sytuacja się dzieje, to reagujesz podobnie, gniewem, atakiem czy czujesz się głęboko urażony, czymś błahym, to znak, że twoje serce jest zranione. Jeżeli pomimo życia sakramentalnego, modlitwy osobistej, wspólnoty, wpadasz w te same reakcje, czy nawet te same grzechy, to znak że twoje serce może być zranione. 
+**Zranienie, jak je uleczyć?**
 
-2. Przebaczenie a uzdrowienie
+**Przykład**. Gdy przychodzisz do lekarza, to mówisz mu objawy. Jakie zadanie jest lekarza? Zanleźć przyczynę, diagnozę.
+W uzdrowieniu wewnętrznym jest identycznie.  Ludzie wystawiennikowi mówią objawy (mam lęk, boje się, źle śpię, mam wysokie ciśnienie), ale Bóg chce uzdrawiać przyczynę. Więc jakie 2 pytania powinien zadać wstawiennik : 
 
-***Zab.Dydak Miś z igłami w szkatułce.\***
+1. Od kiedy? (czy to sytuacja)
+2. Czy przebaczyłeś tej osobie? (czy modlimy się o przebaczenie)
 
-*Nieprzebaczenie - to mur który zbudowałeś, aby odciąć się od możliwości zranienia, aby się chronić. Nie dopuszczasz zranienia, ale również nie dopuszczasz uzdrowienia. Przebaczając niszczysz ten mur i wydobywasz swoje serce ze skorupy.* 
-
-*Co jednak, jeżeli twoje serce choć piękne, jest poranione i rany tkwią w nim jak te igły/ostrza? Co możesz wtedy zrobić?*
-
-*(...)*
-
-Niezależnie od tego jak dzisiaj wygląda twoje serce, jak wiele jest w nim zranień to chce Ci powiedzieć, że Bóg chce je uzdrowić i chce przywrócić radość twojemu życiu!
-
-On sam mówi o sobie : 
-
-*«Ja przyszedłem po to, aby mieli życie i mieli je w obfitości» (. J 10, 10)*
-
-Wierzysz w to? (..) Amen!
-
-(Świadectwo)
-
-1. 
-2. W Stryszawie posługiwałem na kursie Abraham, głosiłem tam właśnie temat uzdrowienia wewnętrznego i to był dla mnie taki ważny czas bo choć byłem głoszącym to Bóg chciał mnie czegoś nauczyć. Przed kursem pomógł mi zobaczyć kolejne emocjonalne zranienia i zależności, które miałem w relacji z moją mamą. Natomiast w czasie kursi po kursie uczył mnie posługi modlitwą o uzdrowienie wewnętrzne. To było bardzo ciekawe doświadczenie, bo kurs Abraham dot wielu płaszczyzn modlitwy wstawiennika, natomiast mi (ponieważ też tam posługiwałem wstawienniczo) na 4 modlitwy trafiły się 4 razy osoby do modlitwy o uzdrowienie wewnętrzne. 
-3. Wróciłem po kursie do Wrocławia, w środę posługiwałem na spotkaniu i przyszły 3 osoby do modlitwy, znowu każda z uzdrowieniem wew.
-
-W każdej tej modlitwie kluczem była rozmowa i znalezienie przyczyny, igły. Gdy ta przyczyna została znaleziona i na modlitwie oddana Jezusowi to Bóg  uzdrawiał, 100 na 100, zawsze. Zrozumiałem wtedy jak dobry jest Bóg i bardzo chce aby nasze serca był zdrowe, kochane, pełne radości.
+Gdy ta przyczyna została znaleziona i emocje wypowiedziane, to przynosi uzdrowienie. Ja bym powiedział że 90% uzdrowienia przychodzi w trakcie wypowiedzenia emocji. Dlatego terapeuci i terapia ma sens, dlatego też szczera rozmowa uzdrawia relacje, empatia., Gdy na modlitwie trafiamy w przyczyne, wypowiadamy to z mojego doświadczenia to bym powiedział 100 na 100 Bóg uzdrawia - zawsze.
 
 Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak abyś podskakiwał z radością, nawet tak jak tuczone cielę! :) 
 
@@ -190,4 +139,4 @@ Powiem więcej! **Bóg naprawdę chce Ci przywrócić radość życia**, tak aby
 **Pytania** 
 
 1. Czy zdarza Ci się nosić w sobie napięcie? W jakich sytuacjach?
-2. Czy łatwiej zapominasz czy łatwiej przebaczasz? "(mocne)"
+2. Która z twoich sfer (ciało, psychika czy duch) potrzebuje dzisiaj zatroszczenia się?

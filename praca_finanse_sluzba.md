@@ -12,9 +12,16 @@ Mam na początek pytanie:
 
 Gdy myślisz o służbie Bogu, to do jakiego rodzaju służby się szykujesz? Czy to jest coś krótkoterminowego czy może współpraca na całe życie? **Czy szykujesz się na sprint czy może maraton?** (...)
 
-Przykład. *Jadzia ostatnio mówiła, o tym że nie robimy Alpha w 2026. Że skupiamy się na domu. Tak rozeznaliśmy. Rozeznaliśmy, odwrotnie niż ten cytat "Troszczycie się  o włąsne domy a Dom Pana w ruinie", że my troszczyliśmy sie o dom Pana ale nie o swój i teraz nadrabiamy zaległości. @TODO  To że jestem kordynatorem RCA, a aktualnie w 2026 nie zrobiłem Alpha. No tak, ale gdy myślę w skali całego życia to 1 rok bez Alpha przestaje mieć znaczenie. Bo chce służyć Bogu przez lata i zamierzam do tego wrócić.*
+Przykład. *Jadzia ostatnio mówiła o tym, że w 2026 roku nie robimy Alpha, bo skupiamy się na naszym domu. Tak rozeznaliśmy. Trochę odwrotnie niż w słowach: „Troszczycie się o własne domy, podczas gdy dom Pana leży w gruzach”. My przez długi czas troszczyliśmy się o dom Pana, ale zaniedbywaliśmy swój — i teraz nadrabiamy zaległości. Jestem koordynatorem Regionalnego Centrum Alpha, a w 2026 roku nie poprowadziłem ani jednej Alphy. Czy to znaczy, że przestałem służyć? Nie. w skali całego życia, jeden rok bez prowadzenia Alphy przestaje mieć znaczenie. Co więcej jeśli chce służyć przez lata to muszę zadbać żeby moje dzieci miały warunki wzrostu a moje ciało - sport - słuzyło przez lata*
 
-Kwestia rozeznania czasu w jakim się jest. (Cytaty Kohelet " @todo jest czas siania i czas zbierania")
+Świadectwo.
+Basen od początku roku. Siłownia od jesienii 2026. Chce żeby ciało służyło mi przez lata. Mam prace siedziącą. W tym wieku nie mam już wyjścia. Zdałem sobie z tego sprawę. Jeśli chce się cieszyć życiem przez lata i bawić wnuki to teraz zaczeła się praca.
+
+Trzeba rozeznawać znaki czasu. Kohelet mówi
+
+_Koh 3,1-2: „Wszystko ma swój czas i jest wyznaczona godzina na wszystkie sprawy pod niebem: (...) czas sadzenia i czas wyrywania tego, co zasadzono”._
+
+Czy wiesz w  jakim czasie teraz jesteś? (..)
 
 **Chodzi o sztafetę.** Nigdy celem nie było to żeby Sławek zawsze robił Alpha w Lubecku. Nawet celem nie było, żeby to robił Marcin. Zawsze chodziło o to, żeby formować Uczniów, kolejnych następców.
 
@@ -37,9 +44,11 @@ Co robił Paweł w Koryncie? ( spotkał Akwilę i Pryscyllę)
 
 _Dz 18,3: Ponieważ znał to samo rzemiosło, zamieszkał u nich i pracował; byli bowiem z zawodu wytwórcami namiotów._
 
-Co robił w Efezie?  @TODO cytat o tym że tylko w niedziele szedł do synagogi
+I właśnie w Koryncie pojawia się rytm, który mnie zaskoczył:
 
-_Dz 20,34: Sami wiecie, że te ręce zarabiały na potrzeby moje i moich towarzyszy._
+_Dz 18,4: „A co szabat rozprawiał w synagodze i przekonywał tak Żydów, jak i Greków”._
+
+Pracował więc w swoim zawodzie, a w szabat szedł do synagogi i głosił. To nie był jedyny model całego jego życia — chwilę później, gdy przybyli Sylas i Tymoteusz, Paweł oddał się wyłącznie nauczaniu. Dzieje Apostolskie pokazują jednak, że przez pewien czas potrafił łączyć zwyczajną pracę zarobkową z regularnym głoszeniem Ewangelii.
 
 Nie trzeba porzucić swoją pracę, żeby służyć. Paweł nie dzielił życia na duchowe i zawodowe. Nie był apostołem tylko wtedy, kiedy przemawiał. Był uczniem Jezusa także wtedy, kiedy pracował, rozmawiał z klientem, wykonywał rzemiosło i zarabiał na utrzymanie.
 
@@ -86,17 +95,17 @@ Tragedią byłaby sytuacja, w której z warsztatu wychodzi udoskonalony produkt,
 ## Wierność w rzeczach małych
 
 Służba nie zawsze zaczyna się od mikrofonu, sceny i grania pierwszych skrzypiec.
-@TODO cytat wierność w rzecach małych
 
-@TODO Jak ktoś moze Ci powierzyć prowadzenia spotkania modlitewnego skoro Cię nie ma na modlitwie? Skoro nie modlisz się ze wspólnotą?
+_Łk 16,10: „Kto w drobnej rzeczy jest wierny, ten i w wielkiej będzie wierny; a kto w drobnej rzeczy jest nieuczciwy, ten i w wielkiej nieuczciwy będzie”._
 
-@TODO Albo jak ktoś miałby Ci dać posługę bycia animatorem jeśli nie chce Ci się robić formacji, czytać książek etc?
-@TODO
+Jak ktoś może powierzyć ci prowadzenie spotkania modlitewnego, jeżeli nie ma cię na modlitwie? Jak masz prowadzić innych w modlitwie, jeśli sam nie modlisz się ze wspólnotą?
 
+Jak ktoś ma powierzyć ci posługę animatora, jeśli nie robisz formacji ? 
+
+Z perspetkwy pracodawcy ale też lidera - jakiego chcesz mieć pracownika - takiego który robi to o co go prosisz, czy takiego który nie robi. (..) Przecież taki pracownik, który zawala to jeszcze większy kłopot niż gdyby go nie było! Bo nie dość że sam nie zrobi, to jeszcze musisz za niego pamiętać.
 
 
 ## Świadectwo przez profesjonalizm
-
 
 
 Najpierw człowiek widzi, że dobrze wykonujesz swoją pracę. Że jesteś kompetentny. Że można na tobie polegać. Że dowozisz produkt i bierzesz odpowiedzialność za rezultat. Dopiero potem może pojawić się pytanie: **„Dlaczego taki jesteś?”**

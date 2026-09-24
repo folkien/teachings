@@ -6,7 +6,7 @@ topic: ""
 
 # Praca, finanse i służba
 
-## Wprowadzenie: jaki jest najważniejszy proces w firmie?
+## Sprint czy maraton?
 
 Mam na początek pytanie:
 
@@ -59,9 +59,7 @@ Kiedyś będąc na rekolekcjach u Jezuitów w Zakopanem dostałem zakładkę do 
 
 Nie zawsze trzeba odejść z firmy aby żyć w Kościele i służyć. Często Bóg chce twojego świadectwa w świecie: do biura, warsztatu, laboratorium, firmy, szkoły albo własnego przedsiębiorstwa.
 
-
-
-
+## Praca jako służba
 
 **Jaki jest najważniejszy proces w firmie?**
 
@@ -167,7 +165,9 @@ nie chodzi tylko o to, czy mam służbę w Kościele. Chodzi o to, czy całe moj
 
 Pytania:
 
-1. Czy potrzebuję bardziej pracować, czy bardziej odpocząć i postawić granice?
+1. Jaki jest teraz mój czas: rozpoczynania, przekazywania czy odpoczynku?
+2. W jakiej małej rzeczy Bóg zaprasza mnie dziś do wierności?
+3. Czy moja praca jest miejscem służby, czy ucieczką od służby, rodziny albo odpoczynku?
 
 
 

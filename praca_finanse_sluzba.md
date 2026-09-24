@@ -152,20 +152,16 @@ Abrahama w _Rdz 12,10–20_. Abraham, bojąc się o własne życie w Egipcie, pr
 
 ## Zakończenie i pytania do modlitwy
 
-Nie chodzi tylko o to, czy pracuję dużo. Chodzi o to, komu służy moja praca.
 
-Nie chodzi tylko o to, ile zarabiam. Chodzi o to, czy moje pieniądze są zdobywane uczciwie i używane odpowiedzialnie.
 
-Nie chodzi tylko o to, czy mam służbę w Kościele. Chodzi o to, czy całe moje życie jest oddane Bogu.
+nie chodzi tylko o to, czy mam służbę w Kościele. Chodzi o to, czy całe moje życie jest oddane Bogu.
 
 Pytania:
 
-1. Czy moja praca jest dla mnie miejscem służby, czy tylko źródłem pieniędzy?
-2. Czy sprzedaję realną wartość, czy próbuję coś ludziom wcisnąć?
-3. Czy moja firma i sposób pracy są godne zaufania?
-4. Jakie moje kompetencje Bóg chce wykorzystać dla dobra innych?
-5. Czy potrzebuję bardziej pracować, czy bardziej odpocząć i postawić granice?
+1. Czy potrzebuję bardziej pracować, czy bardziej odpocząć i postawić granice?
 
-**Panie Jezu, pokaż mi, jak pracować i służyć tak, żeby moje życie nie było podzielone. Naucz mnie widzieć w pracy miejsce powołania, a w drugim człowieku osobę, której mogę uczciwie pomóc.**
+
+
+Zdanie podsumowujące do potwórzenia
 
 > **Praca może być miejscem służby, a służba nie musi oznaczać porzucenia pracy.**

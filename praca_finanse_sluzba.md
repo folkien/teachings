@@ -17,6 +17,8 @@ Przykład. *Jadzia ostatnio mówiła o tym, że w 2026 roku nie robimy Alpha, bo
 Świadectwo.
 Basen od początku roku. Siłownia od jesienii 2026. Chce żeby ciało służyło mi przez lata. Mam prace siedziącą. W tym wieku nie mam już wyjścia. Zdałem sobie z tego sprawę. Jeśli chce się cieszyć życiem przez lata i bawić wnuki to teraz zaczeła się praca.
 
+_Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._
+
 Trzeba rozeznawać znaki czasu. Kohelet mówi
 
 _Koh 3,1-2: „Wszystko ma swój czas i jest wyznaczona godzina na wszystkie sprawy pod niebem: (...) czas sadzenia i czas wyrywania tego, co zasadzono”._

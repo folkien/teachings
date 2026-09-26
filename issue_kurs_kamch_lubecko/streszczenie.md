@@ -1,4 +1,4 @@
-# Kurs Animacji Modlitwy Charyzmatycznej - Lubiec, 6-8 listopada 2026
+# Streszczenie: Kurs Animacji Modlitwy Charyzmatycznej - Lubiec, 6-8 listopada 2026
 
 ## Dla kogo i po co
 

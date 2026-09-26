@@ -20,7 +20,11 @@ W dniach 6-8 listopada 2026 r. w Lubcu odbędzie się Kurs Animacji Modlitwy Cha
 
 - [Dyrektorium KAMCH 2.5.2017.pdf](Dyrektorium%20KAMCH%202.5.2017.pdf) - nowsza, 43-stronicowa wersja: plan trzydniowego kursu, siedem tematów, dynamiki i tabela techniczna.
 - [Dyrektorium KAMCH_2015.pdf](Dyrektorium%20KAMCH_2015.pdf) - wcześniejsza, 16-stronicowa wersja robocza: cele, myśli przewodnie i wskazówki dla prowadzących.
-- [opis_kursu.md](opis_kursu.md) - zwięzły opis kursu, programu i potrzeb organizacyjnych dla ekipy.
+- [streszczenie.md](streszczenie.md) - zwięzłe streszczenie kursu, programu i potrzeb organizacyjnych dla ekipy.
+- [facebook_kamch_lubecko_2026.png](facebook_kamch_lubecko_2026.png) - gotowa grafika promująca wydarzenie na Facebooku.
+- [facebook_post_kwadrat_kamch_lubecko_2026.png](facebook_post_kwadrat_kamch_lubecko_2026.png) - kwadratowa grafika promocyjna do posta na Facebooku.
+- [facebook_tlo_kamch_lubecko_2026.png](facebook_tlo_kamch_lubecko_2026.png) - wariant bez tekstu, do użycia jako samo tło lub w innych publikacjach.
+- [opis_wydarzenia_facebook.md](opis_wydarzenia_facebook.md) - pełna i skrócona wersja opisu wydarzenia do publikacji.
 
 ## Status
 

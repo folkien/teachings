@@ -19,6 +19,60 @@ Basen od początku roku. Siłownia od jesienii 2026. Chce żeby ciało służył
 
 _Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._
 
+## Służysz całym sobą
+
+Brak troski o zdrowie może utrudnić ci służbę, a czasem nawet ją uniemożliwić.
+
+Mogę zaprosić kogoś do ekipy kursu Alpha, ale jeśli ta osoba ma posługiwać w kuchni, a nie ma siły nosić talerzy, przywieźć ciasta albo pomóc w przygotowaniach, to organizacja staje się trudniejsza. Oczywiście można znaleźć dla niej mniejsze zadanie, ale nagle okazuje się, że do osiągnięcia tego samego efektu potrzebujemy jeszcze jednej osoby.
+
+Nie chodzi o ocenianie ludzi chorych, starszych, z niepełnosprawnością albo ograniczeniami, na które nie mają wpływu. Wspólnota powinna znaleźć dla nich odpowiednie miejsce służby. Chodzi o pytanie skierowane do mnie: **czy dbam o to, na co mam wpływ, żeby moje zaniedbania nie utrudniały mi służby?**
+
+Jestem już około dwudziestu lat w SNE. Mam trzydzieści osiem lat i chcę posługiwać przez kolejne lata. Chcę też cieszyć się dziećmi, bawić z wnukami, być aktywny i nie stać się człowiekiem, którego praca przy komputerze całkiem usztywniła. Nie chcę być marudnym dziadkiem, który tylko siedzi.
+
+Dlatego nie mam wyjścia: muszę ćwiczyć ciało, dbać o zdrowie i o siebie. Nie tylko dla własnej wygody. Także po to, żeby ciało służyło mi przez lata — w rodzinie, pracy i posłudze.
+
+Kiedy służysz, służysz całym sobą. Ludzie widzą nie tylko to, co mówisz. Widzą, jak się zachowujesz, jak wyglądasz, jak jesteś ubrany, czy jesteś przygotowany i czy dbasz o podstawową higienę.
+
+Może to brzmieć szokująco, ale ciebie również dotyczy godność syna Bożego albo córki Bożej. Jesteś dzieckiem Boga, Jego dziedzicem. **Czy w sposobie, w jaki żyjesz i służysz, inni mogą zobaczyć podobieństwo do Jezusa Chrystusa?**
+
+Wyobraź sobie recepcję na Alphie. Ktoś z ekipy wita nowych ludzi przy wejściu, ale ma brudne spodnie, ufajdaną bluzę i nieprzyjemnie pachnie. Jakie pierwsze wrażenie otrzymują uczestnicy? Zamiast poczuć się bezpiecznie i gościnnie, mogą się wystraszyć albo zamknąć.
+
+Jeżeli chcesz dotrzeć do ludzi z Ewangelią, nie utrudniaj sobie tej posługi przez rzeczy, o które możesz zadbać. Nie chodzi o markowe ubrania, idealną sylwetkę ani robienie wrażenia. Chodzi o schludność, higienę, zdrowie, przygotowanie i szacunek do ludzi, których przyjmujesz.
+
+I nie mów mi, że nie stać cię na schludne ubranie. Dzisiaj lumpeksy, Vinted i OLX są pełne bardzo dobrych rzeczy. Ludzie oddają do kontenerów PCK naprawdę świetne ubrania. Nie trzeba mieć drogich ani nowych rzeczy, żeby wyglądać czysto, schludnie i reprezentacyjnie.
+
+Widzieliście moją skórzaną kurtkę? Bardzo ją lubię. Właściwie kupiła mi ją Jadzia — używaną na Vinted za trzydzieści złotych. Nie wiedzieliśmy nawet, czy skórzana kurtka będzie mi się podobać, więc zamiast wydawać dwieście, trzysta czy tysiąc złotych, kupiliśmy używaną za trzydzieści.
+
+Jestem prezesem spółki, spotykam się z biznesmenami i nie mam problemu z tym, że noszę używaną kurtkę. Samochody też zawsze kupowałem używane. Nigdy nie miałem nowego samochodu ani auta w leasingu — może błędnie — ale nie mam problemu z tym, że jeżdżę używanym.
+
+Ciekawostka. Ubiór wpływa nie tylko na to, jak widzą nas inni, ale może też wpływać na to, jak sami się czujemy i myślimy. Badania nad formalnym ubiorem pokazały związek między ubraniem się bardziej formalnie, poczuciem mocy oraz bardziej abstrakcyjnym, całościowym sposobem myślenia. Może dlatego „prezesik”, kiedy założy koszulę, czuje się pewniej, bardziej reprezentacyjnie i łatwiej wchodzi w rolę osoby, która podejmuje decyzje. Nie chodzi o to, że sama koszula robi z człowieka dobrego lidera. Strój może jednak pomóc mu wejść w określoną rolę.
+
+Źródło: Michael L. Slepian, Simon N. Ferber, Joshua M. Gold, Abraham M. Rutchick, „The Cognitive Consequences of Formal Clothing”, 2015.
+
+Druga ciekawostka dotyczy okularów. Istnieją badania pokazujące, że człowiek w okularach bywa oceniany jako bardziej inteligentny. Okulary mogą uruchamiać w odbiorcy stereotyp mądrości, wiedzy albo wyższego statusu. Nie znalazłem natomiast potwierdzenia mocniejszej tezy, że dzięki okularom ludzie rzeczywiście słuchają głoszącego dłużej i lepiej utrzymują uwagę.
+
+Źródła: Roger Boshier, „A Video-Tape Study on the Relationship between Wearing Spectacles and Judgments of Intelligence”, 1975; Koji Saito, „An Experimental Study of Personality Judgement: Effect of Wearing Glasses”, 1978.
+
+Dlatego kiedy ktoś przychodzi posługiwać w wyciągniętym, zmechaconym swetrze i wygląda tak, jakby w ogóle się nie przygotował, argument „nie stać mnie” nie zawsze mnie przekonuje. Ładne i schludne ubranie nie musi być nowe ani drogie. Trzeba czasem po prostu poszukać i pozwolić sobie zmienić rzeczy, do których się przyzwyczailiśmy.
+
+Spotkałem się z taką interpretacją psychologiczną, że trzymanie całej szafy starych ubrań może czasem oznaczać przywiązanie do przeszłości: do okresu życia, wspomnień albo dawnej wersji siebie. Człowiek nie chce tego _let it go_ — nie chce tego puścić. Nie wiem, czy tak jest w każdym przypadku, ale warto sobie zadać pytanie:
+
+**Jaka jest twoja szafa? Czy potrafisz puścić rzeczy, które już ci nie służą?**
+
+Kontrowersyjny przykład — mówię tylko o sobie i o tym, jak ja to odbieram. To nie jest żadna wykładnia. Ja personalnie mam problem przyjmować nauczanie, głoszenie czy formację od osób, które są bardzo, bardzo otyłe.
+
+Jeżeli widzę, że ktoś głosi Ewangelię, prorokuje albo przekazuje słowo poznania, a jednocześnie całe jego ciało i wygląd mówią mi: „nie dbam o siebie, nie ogarniam, nie panuję nad sobą”, to po prostu **nie kupuję tego**. Mam problem takiej osoby słuchać. Czasami mam ochotę nie słuchać i wyjść, bo mnie osobiście te dwie rzeczy się nie dodają.
+
+Nie mówię tutaj o lekkiej nadwadze. Nie mówię też o sytuacji, w której ktoś choruje, ma cukrzycę, przyjmuje leki albo zmaga się z czymś, na co nie ma wpływu. Mówię o moim osobistym odczuciu wobec posługi osób bardzo otyłych.
+
+Możesz powiedzieć, że to jest kontrowersyjne — pewnie jest. Ale pokazuje, że twój stan zdrowia, ciało i wizerunek mają wpływ na to, jak ludzie odbierają ciebie i twoją posługę. **Jak cię widzą, tak cię piszą.**
+
+I jeszcze raz korekta: każdy człowiek może posługiwać niezależnie od swojej tuszy. Otyłość nie przekreśla powołania ani darów od Boga. To nie jest zasada mówiąca, kto może, a kto nie może głosić. To jest moje personalne odczucie i przykład tego, że wizerunek głoszącego realnie wpływa na odbiorcę.
+
+To samo dotyczy konkretnych posług. Jeśli służysz śpiewem, a masz problem zdrowotny, który utrudnia ci śpiewanie, trzeba — na ile to możliwe — szukać leczenia, ćwiczeń albo pomocy. Jeśli pracujesz fizycznie w ekipie, potrzebujesz podstawowej sprawności. Jeśli witasz ludzi, twój wygląd i sposób zachowania są częścią gościnności.
+
+Potrzebujemy równowagi. Praca, służba, rodzina, zdrowie, odpoczynek i wygląd nie są osobnymi szufladami. One się przenikają. Zaniedbanie jednej sfery prędzej czy później wpływa na pozostałe.
+
 Trzeba rozeznawać znaki czasu. Kohelet mówi
 
 _Koh 3,1-2: „Wszystko ma swój czas i jest wyznaczona godzina na wszystkie sprawy pod niebem: (...) czas sadzenia i czas wyrywania tego, co zasadzono”._
@@ -36,7 +90,45 @@ Pytałem do jakiego rodzaju posługi się szykujesz - sprint czy maraton?
 
 Zabieg Dydaktyczny. *Spalanie świeczki oraz spalanie kartki papier. Zobacz różnicę, papier szybko, gwałtownie, ale krótko. Świeca powoli, ale długo, użytecznie. A jak Ty chcesz posługiwać?* 
 
+Czy chcesz być **gwiazdą jednego sezonu**? Były już takie osoby. Były takie wspólnoty. Pojawiały się, robiły dużo szumu, świeciły bardzo mocno, ale tylko przez chwilę. A potem znikały. Czy raczej szykujesz się na długi bieg, na długi dystans?
+
 Dla mnie posługa, to nie jest jednorazowe wydarzenie dla Boga. Że tylko Alpha i koniec. Dla mnie służba Bogu to styl życia. To ma być coś naturalnego, co przejawia się na codzień we wszystkim co robisz. Ja nie dzielę życia na czas kiedy służę Bogu i czas kiedy mu nie służę.
+
+## Jaka jest twoja motywacja do służby?
+
+Dlaczego służysz?
+
+Czy robisz to dla Boga? Czy dla ludzi? Czy może służysz dlatego, żeby nie być samotnym? Żeby zatkać jakąś wewnętrzną pustkę, jakiś brak w sobie? Czy służysz po to, żeby zabłysnąć, być widocznym, dostać mikrofon albo poczuć się ważnym?
+
+Można robić dobrą rzecz z niewłaściwej motywacji. Z zewnątrz wygląda to jak służba, ale wewnątrz może chodzić o mnie.
+
+Przykład. *Ktoś po raz pierwszy wchodzi do ekipy kursu Alpha, Nowe Życie albo innego wydarzenia. Chce służyć. Ale kiedy słyszy: „świadectwo trzeba powiedzieć w tym schemacie” albo „u nas robimy to w ten sposób”, nagle zaczyna się problem. Okazuje się, że chce służyć — ale po swojemu. Dopóki może realizować własny pomysł, jest zaangażowany. Kiedy ma się podporządkować temu, jak rozeznała wspólnota, już mu to nie pasuje.*
+
+Czy chcę służyć, czy chcę robić swoje pod szyldem służby?
+
+Przykład. *Nowy gospodarz grupki Alpha wie lepiej. Podręcznik mówi, że ma słuchać. Nicky Gumbel mówi, że ma słuchać uczestników i wydobywać z nich to, co noszą w środku. Dyrektor Alfy mówi mu to samo. Ale on i tak zagaduje spotkanie swoimi historiami. Zamiast pomóc uczestnikom opowiedzieć ich historie — szczególnie te, których wstydzą się powiedzieć — sam zajmuje całą przestrzeń.*
+
+Nowe osoby mają czasem tendencję do wiedzenia lepiej. Ale my, **starzy wyjadacze**, mamy odwrotny problem. Możemy robić coś dlatego, że trzeba. Bo tak byliśmy uczeni. Bo kiedyś doszliśmy do wniosku, że tak będzie dobrze. Jedziemy jednym torem, rutynowo, bo „zawsze tak się robiło”.
+
+Przykład. *Jacek Pulikowski opowiada historię swojej żony, która przed pieczeniem obcinała kawałek mięsa z lewej i z prawej strony. Kiedy po latach zapytał ją, dlaczego to robi, odpowiedziała: „Bo mama mnie tak nauczyła”. Poszedł więc do teściowej i zapytał, jaki był powód. Odpowiedź była prosta: „Miałam za małą brytfannę”. Żona miała już dużą brytfannę, ale nadal obcinała mięso, bo tak została nauczona.*
+
+Można robić coś przez lata i nigdy nie zapytać: **dlaczego właściwie tak robimy?** Można również posługiwać bezrefleksyjnie: bo zawsze tak było, bo ktoś nas nauczył, bo trzeba. Problem, dla którego wymyślono dane rozwiązanie, może już nie istnieć, ale my nadal obcinamy te same „ogonki”.
+
+A może Duch Święty chce już pokazać coś nowego? Może chce zrobić krok dalej, zmienić sposób działania, przesunąć akcent albo zaprosić cię do innej służby, a ty jedziesz dalej z rozpędu?
+
+Duch Święty wyprowadza nas na nowe wody. Rozwija nas i pokazuje nowe kierunki. **Czy widzisz jeszcze nowe kierunki w swojej służbie i swoim rozwoju duchowym?** Czy pytasz Boga, co chce zrobić teraz, czy tylko powtarzasz to, co działało kiedyś?
+
+Jest jeszcze trzecia grupa: ludzie, którzy w ogóle nie chcą służyć. Często nie dlatego, że nic nie potrafią, ale dlatego, że się boją.
+
+Boją się, że wyjdzie ich niekompetencja. Że będą musieli nauczyć się czegoś nowego. Że ktoś ich oceni. Fajnie jest służyć, kiedy robi się coś dziesiąty raz i wszystko jest znane. Ale za pierwszym razem zawsze czegoś nie umiesz.
+
+Nawet jeśli robisz podobne zadanie, mogą być inne warunki: inna kuchnia, inne pomieszczenie, inne talerze, inni ludzie. Na każdej Alphie coś może wyglądać inaczej. Trzeba się odnaleźć, zapytać, nauczyć i czasem popełnić błąd.
+
+Jeżeli z lęku w ogóle nie wchodzisz w służbę, zamykasz się również na rozwój, do którego Duch Święty chce cię przez tę służbę doprowadzić. Nie musisz być kompetentny na początku. Masz być gotowy, żeby się uczyć.
+
+**Nie czekaj ze służbą, aż przestaniesz się bać i będziesz umiał wszystko. Służba jest również miejscem, w którym Bóg dopiero będzie cię uczył.**
+
+**Czy służysz z miłości i posłuszeństwa, czy z braku, potrzeby zabłyśnięcia albo zwykłej rutyny?**
 
 ## Odkrycie stylu życia Pawła : 6x praca i 1x głoszenie
 

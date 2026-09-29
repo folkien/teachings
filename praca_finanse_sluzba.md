@@ -26,19 +26,57 @@ Duch Święty jest tym, którym inspiruje Cię do dobrych rzeczy. Do służby.
 
 Kiedy za tą Bożą inspiracją idziemy - dajemy się pociągnąć - to się dzieją rzeczy naprawdę błogosławione, naprawdę wspaniałe.  Kiedy jesteśmy posłuszni Duchowi Świętemu. Jak w Ewangelii, owoc 30krotny, 60krotny, 100krotny. Naprawdę Boża hojność przekracza nasze wyobrażenia.
 
-My za tą inspiracją idziemy. I to z różnych pobudek i motywacji.
+Ale kiedy już służysz kolejny rok i kolejny, to warto zadać sobie ważne pytanie.
+**Co Cię dzisiaj motywuje do służby?** (..) 
+*np. Jeśli jutro rozpoczynasz Alpha, to dlaczego chcesz być w ekipie?*
+Czy robisz to jeszcze tak siłą rozpędu, z przyzwyczajenia?
+Czy możesz wziąłeś na siebie jakąś funkcję, odpowiedzialność i nie chcesz kogoś zawieść? Możesz nie chcesz stracić twarzy przed innymi?
+A może unikasz samotności? A na wspólnocie, na Alpha, są ludzie i nie musisz być sam/sama?
 
+Niezależnie od tego, z jakiego powodu służysz chcę Ci powiedzieć, że jesteś tak samo kochany przez Boga. Nawet jeśli nie służysz, to jesteś tak samo kochana przez Boga. Dlatego, że miłość Boża, nie zależy od uczynków. Nie da się na nią zasłużyć. Nie da się nawet jej kupić. Miłość Boga to dar. Dlatego, że jesteś Jego Synem - Synem Bożym. Jesteś jego córką - Córką Bożą.
 
+Przed Bogiem nie ma sensu się popisywać. Być lizusem, siedzieć w pierwszej ławce. Ludzka miłość jest interesowna, ma wzgląd na osoby. Ale Boża nie. On i tak,  w s z y s t k o wie.
+Skoro Bóg kocha Cię nawet gdy nie służysz, **to dlaczego służysz?** (..)
 
-## Sprint czy maraton?
+Dygresja 1. *Matka kocha dziecko tak samo, niezależnie do tego czy mu się powodzi w życiu czy wpadło w złe towarzystwo lub w świat przestępczy. Dalej taki syn będzie kochany przez Matkę. Ale to nie znaczy, że Matka pochwala decyzje i postępowanie syna. Dobre decyzje pochwala, złe gani. Ale kocha tak samo. Podobnie Bóg, kocha każdego tą samą miłością, co nie znaczy że pochwala decyzje każdego człowieka. Jego miłość inaczej objawi się wobec osoby pogubionej (przebaczenie), a inaczej wobec osoby która posłusznie wypełnia Jego wolę (błogosławieństwo).* 
 
-Mam na początek pytanie:
+Dygresja 2. *Z mojego doświadczenia życia z Bogiem, Bóg jest hojny i potrafi wiele Ci dać, ale czasem wstrzymuje się do czasu aż będziesz gotowy/a przyjąć. To nie jest tak, że Bóg daje Ci czerwone światło, tylko że światło jest żółte. Mówi czeka, aż dojrzesz i będziesz gotowy/a przyjąć ten dar. np. Nie dasz 7 latkowi kierować samochodem.  Bóg daje nam czas aby dojrzeć i rozwinąć się.*
 
-Gdy myślisz o służbie Bogu, to do jakiego rodzaju służby się szykujesz? Czy to jest coś krótkoterminowego czy może współpraca na całe życie? **Czy szykujesz się na sprint czy może maraton?** (...)
+Ponieważ Jezus był zarówno Bogiem jak i człowiek, możemy spojrzeć w Ewangelię, żeby zobaczyć jaka motywacja nim kierowała.
 
-Przykład. *Jadzia ostatnio mówiła o tym, że w 2026 roku nie robimy Alpha, bo skupiamy się na naszym domu. Tak rozeznaliśmy. Trochę odwrotnie niż w słowach: „Troszczycie się o własne domy, podczas gdy dom Pana leży w gruzach”. My przez długi czas troszczyliśmy się o dom Pana, ale zaniedbywaliśmy swój — i teraz nadrabiamy zaległości. Jestem koordynatorem Regionalnego Centrum Alpha, a w 2026 roku nie poprowadziłem ani jednej Alphy. Czy to znaczy, że przestałem służyć? Nie. w skali całego życia, jeden rok bez prowadzenia Alphy przestaje mieć znaczenie. Co więcej jeśli chce służyć przez lata to muszę zadbać żeby moje dzieci miały warunki wzrostu a moje ciało - sport - słuzyło przez lata*
+1) *„Moim pokarmem jest wypełnienie woli Tego, który Mnie posłał, oraz wykonanie wyznaczonego Mi dzieła.*  J 4, 34
+
+2) *Trzeba jednak, aby świat zrozumiał, że miłuję Ojca i tak postępuję, jak On mi polecił.*  J 14, 31
+
+3) *Ja obdarzyłem Cię chwałą na ziemi przez wypełnienie dzieła, które Mi zleciłeś do wykonania.*  J 17, 4
+
+Możesz oddać Bogu chwałę przez to, że będziesz mu zwyczajnie posłuszny. Że zrobisz to o co On Cię prosi.
+
+Jezusa motywowała : miłość Boga, posłuszeństwo Bogu i chęć aby to Bóg był na 1-szym miejscu, aby był uwielbiony.
+**Czy też masz dzisiaj taką motywację jak Jezus?** (..) Czy motywuje Cię miłość do Boga?
+
+Nie chcę Cię martwić, ale każda inna motywacja jest zawodna.  Dlatego, że ludzie nie zawsze doceniają nasze wysiłki. Jak Jadzia tydzień temu mówiła - możesz mieć całe mieszkanie wysprzątane na błysk - a wejdzie mąż i zobaczy tą jedną zostawioną rzecz. Jeśli chcesz się przypodobać ludziom - liderowi, proboszczowi-  albo robisz to, by zaspokoić własne uczucia, problemy - to łatwo wtedy o wypalenie.
+
+# Jak się nie wypalić?
+
+Gdy odpowiedzieliśmy sobie na pytanie : Dlaczego? Teraz zastanówmy jak posługiwać, by się nie wypalić?
+
+Zabieg Dydaktyczny.
+*Świeca - pali się równomiernie, daje ciepło, trwa przez dłuższy czas. Karta papier, pali się dynamicznie, gwałtownie, z hukiem ale krótko.*
+
+Jak Ty chcesz służyć? Czy chcesz służyć przez lata czy teraz na maxa, a potem emeryturka.
+Może zadam inaczej te pytanie **Czy szykujesz się na sprint czy może maraton?** (...)
+
+Jadzia ostatnio mówiła, że służba Bogu, to nie coś osobnego co się robi poza normalnym życiem, ale coś co jest naturalną częścią życia. Gdy ja myślę o służbie to myślę o perspektywie całego życia. I... właśnie dlatego nie robię teraz Alpha i nie robiłem na wiosnę. :)
 
 Świadectwo.
+*Proste. W 2025 zrobiliśmy Alphy, kursy, ale też mnóśtwo szkoleń Alpha (Legica, Jelenia Góra, etc). Było super, ale mój wniosek był taki. Za mało nadzoruje budowę domu. Nie potrafię tego pogodzić z dbaniem o siebie. Mam pracę siedzącą, czuję to w kręgosłupie a nie ćwiczę. Wiedziałem, że muszę coś zmienić.*
+*Od początku 2025 podjąłem decyzje.  Chodzę cały ten rok 1x w tygodniu na basen. Dzieci zawieźć do szkoły i pyk do Dobrodzienia. Teraz jeszcze po wakacjach, gdy otwarli Xtreme Fitness na Karuzeli, to dołożyłem siłownie 1x w tygodniu. Czuje się dużo lepiej i moje plecy również.*
+*Czy to robię ponieważ nie chcę służyć? Wręcz przeciwnie. Chce służyć. Chce być zdrowym mężęm, chce być zdrowym i obecnym ojcem dla moich dzieci. Chce mieć siłę, aby porobić coś na budowie.*
+
+ My przez długi czas troszczyliśmy się o dom Pana, ale zaniedbywaliśmy swój — i teraz nadrabiamy zaległości. Jestem koordynatorem Regionalnego Centrum Alpha, a w 2026 roku nie poprowadziłem ani jednej Alphy. Czy to znaczy, że przestałem służyć? Nie. w skali całego życia, jeden rok bez prowadzenia Alphy przestaje mieć znaczenie. Co więcej jeśli chce służyć przez lata to muszę zadbać żeby moje dzieci miały warunki wzrostu a moje ciało - sport - słuzyło przez lata*
+
+.
 Basen od początku roku. Siłownia od jesienii 2026. Chce żeby ciało służyło mi przez lata. Mam prace siedziącą. W tym wieku nie mam już wyjścia. Zdałem sobie z tego sprawę. Jeśli chce się cieszyć życiem przez lata i bawić wnuki to teraz zaczeła się praca.
 
 _Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._

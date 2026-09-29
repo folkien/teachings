@@ -72,59 +72,23 @@ Jadzia ostatnio mówiła, że służba Bogu, to nie coś osobnego co się robi p
 Świadectwo.
 *Proste. W 2025 zrobiliśmy Alphy, kursy, ale też mnóśtwo szkoleń Alpha (Legica, Jelenia Góra, etc). Było super, ale mój wniosek był taki. Za mało nadzoruje budowę domu. Nie potrafię tego pogodzić z dbaniem o siebie. Mam pracę siedzącą, czuję to w kręgosłupie a nie ćwiczę. Wiedziałem, że muszę coś zmienić.*
 *Od początku 2025 podjąłem decyzje.  Chodzę cały ten rok 1x w tygodniu na basen. Dzieci zawieźć do szkoły i pyk do Dobrodzienia. Teraz jeszcze po wakacjach, gdy otwarli Xtreme Fitness na Karuzeli, to dołożyłem siłownie 1x w tygodniu. Czuje się dużo lepiej i moje plecy również.*
-*Czy to robię ponieważ nie chcę służyć? Wręcz przeciwnie. Chce służyć. Chce być zdrowym mężęm, chce być zdrowym i obecnym ojcem dla moich dzieci. Chce mieć siłę, aby porobić coś na budowie.*
+*Czy to robię ponieważ nie chcę służyć? Wręcz przeciwnie. Chce służyć. Chce być zdrowym mężęm, chce być zdrowym i obecnym ojcem dla moich dzieci. Chce mieć siłę, aby porobić coś na budowie.  Chcę doczekać się i bawić się ze swoimi wnukami. Dbam o siebię dlatego że chce służyć.*
 
- My przez długi czas troszczyliśmy się o dom Pana, ale zaniedbywaliśmy swój — i teraz nadrabiamy zaległości. Jestem koordynatorem Regionalnego Centrum Alpha, a w 2026 roku nie poprowadziłem ani jednej Alphy. Czy to znaczy, że przestałem służyć? Nie. w skali całego życia, jeden rok bez prowadzenia Alphy przestaje mieć znaczenie. Co więcej jeśli chce służyć przez lata to muszę zadbać żeby moje dzieci miały warunki wzrostu a moje ciało - sport - słuzyło przez lata*
+**Kiedy służysz jesteś darem dla innych.** (Powiedz osobie obok)
+Dbaj o siebie, abyś dobiegł do mety.
+Św. Paweł mówi : *W dobrych zawodach wystąpiłem, bieg ukończyłem, wiary ustrzegłem.* 2 Tm 4,7 - jemu się udało. On dobiegł.
 
-.
-Basen od początku roku. Siłownia od jesienii 2026. Chce żeby ciało służyło mi przez lata. Mam prace siedziącą. W tym wieku nie mam już wyjścia. Zdałem sobie z tego sprawę. Jeśli chce się cieszyć życiem przez lata i bawić wnuki to teraz zaczeła się praca.
+Kiedy myślisz w perspektywie lat, to naprawdę nie ma znaczenia czy jeden rok był słabszy. W perspektywie lat co ma znaczenie? (..) Wytrwałość, upór w dążeniu do celu. Powraca pytanie - Biegniesz maraton czy sprint?
 
 _Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._
 
 ## Służysz całym sobą
 
-Brak troski o zdrowie może utrudnić ci służbę, a czasem nawet ją uniemożliwić.
-
-Mogę zaprosić kogoś do ekipy kursu Alpha, ale jeśli ta osoba ma posługiwać w kuchni, a nie ma siły nosić talerzy, przywieźć ciasta albo pomóc w przygotowaniach, to organizacja jest wręcz niemożliwa. Oczywiście można znaleźć dla niej mniejsze zadanie, ale nagle okazuje się, że do osiągnięcia tego samego efektu potrzebujemy jeszcze jednej osoby.
-
-Nie chodzi o ocenianie ludzi chorych, starszych, z niepełnosprawnością albo ograniczeniami, na które nie mają wpływu. Wspólnota powinna znaleźć dla nich odpowiednie miejsce służby. Chodzi o pytanie skierowane do mnie: **czy dbam o to, na co mam wpływ, żeby moje zaniedbania nie utrudniały mi służby?**
-
-Jestem już około dwudziestu lat w SNE. Mam trzydzieści osiem lat i chcę posługiwać przez kolejne lata. Chcę też cieszyć się dziećmi, bawić z wnukami, być aktywny i nie stać się człowiekiem, którego praca przy komputerze całkiem usztywniła. Nie chcę być marudnym dziadkiem, który tylko siedzi.
-
 *Nasycę go długim życiem  i ukażę mu moje zbawienie.  Ps 91, 16*
 
 *Niech cię Pan błogosławi z Syjonu, byś oglądał pomyślność Jeruzalem po wszystkie dni twego życia. I abyś oglądał swych wnuków. Pokój Izraelowi!* Ps 128 5-6
 
-Dlatego nie mam wyjścia: muszę ćwiczyć ciało, dbać o zdrowie i o siebie. Nie tylko dla własnej wygody. Także po to, żeby ciało służyło mi przez lata — w rodzinie, pracy i posłudze.
 
-Kiedy służysz, służysz całym sobą. Ludzie widzą nie tylko to, co mówisz. Widzą, jak się zachowujesz, jak wyglądasz, jak jesteś ubrany, czy jesteś przygotowany i czy dbasz o podstawową higienę.
-
-Może to brzmieć szokująco, ale ciebie również dotyczy godność syna Bożego albo córki Bożej. Jesteś dzieckiem Boga, Jego dziedzicem. **Czy w sposobie, w jaki żyjesz i służysz, inni mogą zobaczyć podobieństwo do Jezusa Chrystusa?**
-
-*Przykład. Wyobraź sobie recepcję na Alphie. Ktoś z ekipy wita nowych ludzi przy wejściu, ale ma brudne spodnie, ufajdaną bluzę i nieprzyjemnie pachnie. Jakie pierwsze wrażenie otrzymują uczestnicy? Zamiast poczuć się bezpiecznie i gościnnie, mogą się wystraszyć albo zamknąć.*
-
-Podobnie jest z ładnym ubiorem. 
-*Przykład. Widzieliście moją nową skórzaną kurtkę? Bardzo ją lubię. Kupiła mi ją Jadzia — używaną na Vinted za trzydzieści złotych. Nie wiedzieliśmy nawet, czy mi się taka kurtka spodoba, więc zamiast wydawać trzysta PLN kupiliśmy używaną za trzydzieści. (..) Połowę koszulek polo mam używanych z OLX. XD*
-
-Jestem prezesem spółki, jeżdże na spotkania biznesowe i nie mam problemu z tym, że noszę używaną kurtkę. Samochody też mam wszystkie używane. Nigdy nie miałem nowego samochodu ani auta w leasingu. xd
-
-Przykład.
-*Badania amerykańskie "Kognitywne kosekwencje ubioru formalnego" pokazały związek między ubraniem się bardziej formalnie, poczuciem mocy oraz bardziej abstrakcyjnym, całościowym sposobem myślenia. Może dlatego „prezesik”, kiedy założy koszulę, czuje się pewniej, bardziej reprezentacyjnie i łatwiej wchodzi w rolę osoby, która podejmuje decyzje. Nie chodzi o to, że sama koszula robi z człowieka dobrego lidera.*  *Źródło: Michael L. Slepian, Simon N. Ferber, Joshua M. Gold, Abraham M. Rutchick, „The Cognitive Consequences of Formal Clothing”, 2015.*
-
-Przykład Okulary
-*Istnieją badania pokazujące, że człowiek w okularach bywa oceniany jako bardziej inteligentny. Okulary mogą uruchamiać w odbiorcy stereotyp mądrości, wiedzy albo wyższego statusu. Ludzie dłużej utrzymują uwagę, gdy słuchają osoby w okularach. Źródła: Roger Boshier, „A Video-Tape Study on the Relationship between Wearing Spectacles and Judgments of Intelligence”, 1975; Koji Saito, „An Experimental Study of Personality Judgement: Effect of Wearing Glasses”, 1978.*
-
-Przykład - szafa ubrań
-Badanie "Doświadczenia związane z przywiązaniem do odzieży u przedstawicieli pokolenia wyżu demograficznego w Stanach Zjednoczonych” (2020), *Fashion and Textiles* pokazuje że trzymanie całej szafy starych ubrań może czasem oznaczać przywiązanie do przeszłości: do okresu życia, wspomnień albo dawnej wersji siebie. Człowiek nie chce tego _let it go_ — nie chce tego puścić. **Jaka jest twoja szafa? Czy potrafisz puścić rzeczy, które już ci nie służą?**
-
-Przykład - głoszenia od osób otyłych.
-Kontrowersyjny przykład. Ja mam problem przyjmować nauczanie, głoszenie czy formację od osób, które są bardzo, bardzo otyłe. Jeżeli widzę, że ktoś głosi Ewangelię, prorokuje albo przekazuje słowo poznania, a jednocześnie całe jego ciało i wygląd mówią mi: „nie dbam o siebie, nie ogarniam, nie panuję nad sobą”, to po prostu JA **nie kupuję tego**. Mi się to nie dodaje.
-
-Nie mówię też o sytuacji, w której ktoś  ma cukrzycę, zmaga się z czymś, na co nie ma wpływu. To jest moje osobiste odczucie. Ale każdy jakieś ma. **Jak cię widzą, tak cię piszą.**
-
-Korekta : *Otyłość nie przekreśla powołania ani darów od Boga. To nie jest zasada mówiąca, kto może, a kto nie może głosić.* 
-
-Potrzebujemy równowagi. Praca, służba, rodzina, zdrowie, odpoczynek i wygląd nie są osobnymi szufladami. One się przenikają. Zaniedbanie jednej sfery prędzej czy później wpływa na pozostałe.
 
 _Wszystko ma swój czas, 
  i jest wyznaczona godzina 

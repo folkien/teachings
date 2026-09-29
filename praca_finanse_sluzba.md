@@ -108,7 +108,7 @@ Pytania:
 1. Czy i dlaczego chce służyć Bogu? Moja motywacja.
 2. Jaki jest teraz mój czas: rozpoczynania, przekazywania odpowiedzialności czy odpoczynku?
 
-Zdanie podsumowujace : 
+Zdanie podsumowujące : Być darem i się nie wypalić.
 
 ----------------------------
 

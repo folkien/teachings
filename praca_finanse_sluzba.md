@@ -74,13 +74,45 @@ Jadzia ostatnio mówiła, że służba Bogu, to nie coś osobnego co się robi p
 *Od początku 2025 podjąłem decyzje.  Chodzę cały ten rok 1x w tygodniu na basen. Dzieci zawieźć do szkoły i pyk do Dobrodzienia. Teraz jeszcze po wakacjach, gdy otwarli Xtreme Fitness na Karuzeli, to dołożyłem siłownie 1x w tygodniu. Czuje się dużo lepiej i moje plecy również.*
 *Czy to robię ponieważ nie chcę służyć? Wręcz przeciwnie. Chce służyć. Chce być zdrowym mężęm, chce być zdrowym i obecnym ojcem dla moich dzieci. Chce mieć siłę, aby porobić coś na budowie.  Chcę doczekać się i bawić się ze swoimi wnukami. Dbam o siebię dlatego że chce służyć.*
 
+_Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._
+
 **Kiedy służysz jesteś darem dla innych.** (Powiedz osobie obok)
 Dbaj o siebie, abyś dobiegł do mety.
 Św. Paweł mówi : *W dobrych zawodach wystąpiłem, bieg ukończyłem, wiary ustrzegłem.* 2 Tm 4,7 - jemu się udało. On dobiegł.
 
 Kiedy myślisz w perspektywie lat, to naprawdę nie ma znaczenia czy jeden rok był słabszy. W perspektywie lat co ma znaczenie? (..) Wytrwałość, upór w dążeniu do celu. Powraca pytanie - Biegniesz maraton czy sprint?
 
-_Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim zachorujesz”._
+## Rozeznaj swój czas
+
+W 3 rozdziale księgi Koheleta jest bardzo piękny tekst 
+
+_Wszystko ma swój czas, i jest wyznaczona godzina  na wszystkie sprawy pod niebem. Jest czas rodzenia i czas umierania, czas sadzenia i czas wyrywania tego, co zasadzono,  czas zabijania i czas leczenia,  czas burzenia i czas budowania,  czas płaczu i czas śmiechu, 
+ czas zawodzenia i czas pląsów, czas rzucania kamieni i czas ich zbierania,  czas pieszczot cielesnych i czas wstrzymywania się od nich,_
+Koh 3, 1-5
+
+**W jakim czasie dzisiaj jesteś? Jaki jest twój czas? (..)**
+Czy wiesz, czy rozeznajesz co Bóg kładzie w twoje serce. Albo co mówi twoje wnętrze. Bo wiesz, kiedy się zapchasz, obecność innych, tiktokami, muzyką, czekoladkami, to możesz nie usłyszeć tego co mówi w Tobie Bóg.
+
+Rozeznaj swój czas, abyś wiedział na ile możesz się zangażować a na ile nie. Ci którzy robią mało, być możę powinni więcej. A Ci którzy robią dużo, być może powinni zadbać o siebie.
+
+## Podsumowanie 
+
+W posłudze **chodzi o sztafetę.** Nigdy celem nie było to żeby Sławek zawsze robił Alpha. Ani celem nie jest to, żeby teraz to robił zawsze Marcin. Zawsze chodziło o to, żeby formować następców. Żeby przekazać pałeczkę - bierze Biblię - swojemu następcy.
+
+Nie chodzi również o to by być **gwiazdą jednego sezonu**. Były już takie osoby. Były takie wspólnoty. Pojawiały się, robiły dużo szumu, świeciły bardzo mocno, ale przez chwilę. Chodzi o ukończenie biegu. Chodzi o to by służba była stylem życia, a nie dodatkiem do niego.
+
+
+
+Pytania:
+
+1. Czy i dlaczego chce służyć Bogu? Moja motywacja.
+2. Jaki jest teraz mój czas: rozpoczynania, przekazywania odpowiedzialności czy odpoczynku?
+
+Zdanie podsumowujace : 
+
+----------------------------
+
+
 
 ## Służysz całym sobą
 
@@ -88,73 +120,9 @@ _Syr 18,19: „Zanim zaczniesz mówić, przygotuj się, zadbaj o zdrowie, zanim 
 
 *Niech cię Pan błogosławi z Syjonu, byś oglądał pomyślność Jeruzalem po wszystkie dni twego życia. I abyś oglądał swych wnuków. Pokój Izraelowi!* Ps 128 5-6
 
-
-
-_Wszystko ma swój czas, 
- i jest wyznaczona godzina 
- na wszystkie sprawy pod niebem[1](https://biblia.deon.pl/rozdzial.php?id=572#P1): 
- 2 Jest czas rodzenia i czas umierania, 
- czas sadzenia i czas wyrywania tego, co zasadzono, 
- 3 czas zabijania i czas leczenia, 
- czas burzenia i czas budowania, 
- 4 czas płaczu i czas śmiechu, 
- czas zawodzenia i czas pląsów, 
- 5 czas rzucania kamieni i czas ich zbierania, 
- czas pieszczot cielesnych i czas wstrzymywania się od nich,_
-Koh 3, 1-5
-
-**Czy wiesz w jakim czasie teraz jesteś? (..)**
-
-**Chodzi o sztafetę.** Nigdy celem nie było to żeby Sławek zawsze robił Alpha w Lubecku. Nawet celem nie było, żeby to robił Marcin. Zawsze chodziło o to, żeby formować Uczniów, kolejnych następców.
-
 Przykład. *Ks James Mallone w książce Boża Renowacja mówi, że średnio pozwala osobom być 3 edycję w ekipie kursu Alpha. A potem taka osoba zapraszamy do kolejnej posługi, zmiany. Do czegoś nowego w parafii albo rozpoczęcia włąsnej Alpha.*
 
-Przykład. 
-*Jadzia mówiłą o kluczu gęsi gdy lecą (obrazek), kształt V. Która gęś się najbardziej męczy? No lider. Ale następuje zmiana i lider idzie na koniec, a kolejna gęś go zastępuje.*
 
-Pytałem do jakiego rodzaju posługi się szykujesz - sprint czy maraton? 
-
-Zabieg Dydaktyczny. *Spalanie świeczki oraz spalanie kartki papier. Zobacz różnicę, papier szybko, gwałtownie, ale krótko. Świeca powoli, ale długo, użytecznie. A jak Ty chcesz posługiwać?* 
-
-Czy chcesz być **gwiazdą jednego sezonu**? Były już takie osoby. Były takie wspólnoty. Pojawiały się, robiły dużo szumu, świeciły bardzo mocno, ale tylko przez chwilę. A potem znikały. Czy raczej szykujesz się na długi bieg, na długi dystans?
-
-Dla mnie posługa, to nie jest jednorazowe wydarzenie dla Boga. Że tylko Alpha i koniec. Dla mnie służba Bogu to styl życia. To ma być coś naturalnego, co przejawia się na codzień we wszystkim co robisz. Ja nie dzielę życia na czas kiedy służę Bogu i czas kiedy mu nie służę.
-
-## Jaka jest twoja motywacja do służby?
-
-Dlaczego służysz?
-
-Czy robisz to dla Boga? Czy dla ludzi? Czy może służysz dlatego, żeby nie być samotnym? Żeby zatkać jakąś wewnętrzną pustkę, jakiś brak w sobie? Czy służysz po to, żeby zabłysnąć, być widocznym, dostać mikrofon albo poczuć się ważnym?
-
-Można robić dobrą rzecz z niewłaściwej motywacji. Z zewnątrz wygląda to jak służba, ale wewnątrz może chodzić o mnie.
-
-Przykład. *Ktoś po raz pierwszy wchodzi do ekipy kursu Alpha, Nowe Życie albo innego wydarzenia. Chce służyć. Ale kiedy słyszy: „świadectwo trzeba powiedzieć w tym schemacie” albo „u nas robimy to w ten sposób”, nagle zaczyna się problem. Okazuje się, że chce służyć — ale po swojemu. Dopóki może realizować własny pomysł, jest zaangażowany. Kiedy ma się podporządkować temu, jak rozeznała wspólnota, już mu to nie pasuje.*
-
-Czy chcę służyć, czy chcę robić swoje pod szyldem służby?
-
-Przykład. *Nowy gospodarz grupki Alpha wie lepiej. Podręcznik mówi, że ma słuchać. Nicky Gumbel mówi, że ma słuchać uczestników i wydobywać z nich to, co noszą w środku. Dyrektor Alfy mówi mu to samo. Ale on i tak zagaduje spotkanie swoimi historiami. Zamiast pomóc uczestnikom opowiedzieć ich historie — szczególnie te, których wstydzą się powiedzieć — sam zajmuje całą przestrzeń.*
-
-Nowe osoby mają czasem tendencję do wiedzenia lepiej. Ale my, **starzy wyjadacze**, mamy odwrotny problem. Możemy robić coś dlatego, że trzeba. Bo tak byliśmy uczeni. Bo kiedyś doszliśmy do wniosku, że tak będzie dobrze. Jedziemy jednym torem, rutynowo, bo „zawsze tak się robiło”.
-
-Przykład. *Jacek Pulikowski opowiada historię swojej żony, która przed pieczeniem obcinała kawałek mięsa z lewej i z prawej strony. Kiedy po latach zapytał ją, dlaczego to robi, odpowiedziała: „Bo mama mnie tak nauczyła”. Poszedł więc do teściowej i zapytał, jaki był powód. Odpowiedź była prosta: „Miałam za małą brytfannę”. Żona miała już dużą brytfannę, ale nadal obcinała mięso, bo tak została nauczona.*
-
-Można robić coś przez lata i nigdy nie zapytać: **dlaczego właściwie tak robimy?** Można również posługiwać bezrefleksyjnie: bo zawsze tak było, bo ktoś nas nauczył, bo trzeba. Problem, dla którego wymyślono dane rozwiązanie, może już nie istnieć, ale my nadal obcinamy te same „ogonki”.
-
-A może Duch Święty chce już pokazać coś nowego? Może chce zrobić krok dalej, zmienić sposób działania, przesunąć akcent albo zaprosić cię do innej służby, a ty jedziesz dalej z rozpędu?
-
-Duch Święty wyprowadza nas na nowe wody. Rozwija nas i pokazuje nowe kierunki. **Czy widzisz jeszcze nowe kierunki w swojej służbie i swoim rozwoju duchowym?** Czy pytasz Boga, co chce zrobić teraz, czy tylko powtarzasz to, co działało kiedyś?
-
-Jest jeszcze trzecia grupa: ludzie, którzy w ogóle nie chcą służyć. Często nie dlatego, że nic nie potrafią, ale dlatego, że się boją.
-
-Boją się, że wyjdzie ich niekompetencja. Że będą musieli nauczyć się czegoś nowego. Że ktoś ich oceni. Fajnie jest służyć, kiedy robi się coś dziesiąty raz i wszystko jest znane. Ale za pierwszym razem zawsze czegoś nie umiesz.
-
-Nawet jeśli robisz podobne zadanie, mogą być inne warunki: inna kuchnia, inne pomieszczenie, inne talerze, inni ludzie. Na każdej Alphie coś może wyglądać inaczej. Trzeba się odnaleźć, zapytać, nauczyć i czasem popełnić błąd.
-
-Jeżeli z lęku w ogóle nie wchodzisz w służbę, zamykasz się również na rozwój, do którego Duch Święty chce cię przez tę służbę doprowadzić. Nie musisz być kompetentny na początku. Masz być gotowy, żeby się uczyć.
-
-**Nie czekaj ze służbą, aż przestaniesz się bać i będziesz umiał wszystko. Służba jest również miejscem, w którym Bóg dopiero będzie cię uczył.**
-
-**Czy służysz z miłości i posłuszeństwa, czy z braku, potrzeby zabłyśnięcia albo zwykłej rutyny?**
 
 ## Odkrycie stylu życia Pawła : 6x praca i 1x głoszenie
 

@@ -4,7 +4,31 @@ status: draft
 topic: ""
 ---
 
-# Praca, finanse i służba
+# Jak służyć i się nie wypalić?
+
+
+
+## Wstęp
+
+Odsłuchałem nauczanie mojej żony sprzed tygodnia. Jest bardzo dobre. Naprawdę pada tam kilka pytań i zdań po których można się nawrócić. Samemu mi dały do myślenia. Szczerze polecam jeśli ktoś jeszcze nie odsłuchał.
+
+Jadzia mówiła m. in. że wzorem służby jest Jezus, oraz że pierwszym, którym służy jest Bóg. To jest Jego zamiar, to Duch Święty inspiruje do dobrych rzeczy. Słyszymy o tym
+
+*Albowiem to Bóg jest w was sprawcą i chcenia, i działania zgodnie z [Jego] wolą.*
+Flp 2,13 
+
+*Jesteśmy Jego dziełem, stworzeni w Chrystusie Jezusie dla dobrych czynów, które Bóg dla nas przygotował, abyśmy zgodnie z nimi postępowali.*
+Ef 2, 10
+
+Duch Święty jest tym, którym inspiruje Cię do dobrych rzeczy. Do służby.
+
+## Motywacja do Służby
+
+Kiedy za tą Bożą inspiracją idziemy - dajemy się pociągnąć - to się dzieją rzeczy naprawdę błogosławione, naprawdę wspaniałe.  Kiedy jesteśmy posłuszni Duchowi Świętemu. Jak w Ewangelii, owoc 30krotny, 60krotny, 100krotny. Naprawdę Boża hojność przekracza nasze wyobrażenia.
+
+My za tą inspiracją idziemy. I to z różnych pobudek i motywacji.
+
+
 
 ## Sprint czy maraton?
 

@@ -98,17 +98,18 @@ Rozeznaj swój czas, abyś wiedział na ile możesz się zangażować a na ile n
 ## Podsumowanie 
 
 W posłudze **chodzi o sztafetę.** Nigdy celem nie było to żeby Sławek zawsze robił Alpha. Ani celem nie jest to, żeby teraz to robił zawsze Marcin. Zawsze chodziło o to, żeby formować następców. Żeby przekazać pałeczkę - bierze Biblię - swojemu następcy.
+Czy wiesz kto jest twoim następcą, w twojej posłudze?
 
-Nie chodzi również o to by być **gwiazdą jednego sezonu**. Były już takie osoby. Były takie wspólnoty. Pojawiały się, robiły dużo szumu, świeciły bardzo mocno, ale przez chwilę. Chodzi o ukończenie biegu. Chodzi o to by służba była stylem życia, a nie dodatkiem do niego.
+Nie chodzi również o to by być **gwiazdą jednego sezonu**. Były już takie osoby. Były takie wspólnoty. Pojawiały się, robiły dużo szumu, świeciły bardzo mocno, ale przez chwilę. Chodzi o ukończenie biegu. **Chodzi o to by służba była stylem życia, a nie dodatkiem do niego.**
 
+**Zdanie** **podsumowujące** : Być darem i się nie wypalić.
 
-
-Pytania:
+**Pytania:**
 
 1. Czy i dlaczego chce służyć Bogu? Moja motywacja.
 2. Jaki jest teraz mój czas: rozpoczynania, przekazywania odpowiedzialności czy odpoczynku?
 
-Zdanie podsumowujące : Być darem i się nie wypalić.
+
 
 ----------------------------
 

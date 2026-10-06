@@ -22,7 +22,7 @@ W programie będą konferencje, modlitwa, uwielbienie, praktyczne ćwiczenia ora
 
 Zarezerwuj ten termin. Szczegóły dotyczące zapisów, miejsca spotkania i organizacji podamy wkrótce.
 
-Do zobaczenia w Lubcu!
+Do zobaczenia w Lubecku!
 
 ## Krótka wersja posta
 

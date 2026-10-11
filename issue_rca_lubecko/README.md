@@ -215,6 +215,8 @@ Czerwony i kremowy znak Alpha w formacie SVG znajduje się w [`Grafiki na wydarz
 
 Pełna dokumentacja identyfikacji wraz z podglądem ikon znajduje się w [[Grafiki na wydarzenie/README]]. Najważniejsze zdjęcia i diagramy wyodrębnione ze starszych prezentacji szkoleniowych znajdują się w katalogu [`assets/`](assets/). Pliki zachowują oryginalną rozdzielczość z PPTX.
 
+Kompletny zestaw elementów z prezentacji brandingowych znajduje się w [[Grafiki na wydarzenie/branding/README]]. Obejmuje oryginalne zdjęcia, wycięcie postaci, teksturę oraz 52 podglądy układów. Po usunięciu prezentacji pozostanie pełna dokumentacja wizualna, ale układy nie będą już edytowalne jako slajdy PowerPoint.
+
 Przed publicznym wykorzystaniem zdjęć na stronie należy potwierdzić zgody na publikację wizerunku oraz prawa do wykorzystania poszczególnych materiałów.
 
 ## Dane do uzupełnienia lub sprawdzenia przed budową strony

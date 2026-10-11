@@ -148,6 +148,10 @@ Sławomir Paszko pozostaje koordynatorem Regionalnego Centrum Alpha. W 2026 roku
 
 ## Materiały powiązane w repozytorium
 
+- [[README|README RCA Lubecko]] — cel bazy wiedzy, założenia przyszłej strony i profil jej odbiorców.
+- [[01_czym_jest_alpha_i_historia_lubecka]] — czym jest Alpha, historia Lubecka, zalety, trudności i materiał na stronę.
+- [[02_jak_prowadzic_alpha]] — role, prowadzenie grupy, przebieg kursu i organizacja Dnia Alpha.
+- [[03_wizja_alpha_i_boza_renowacja]] — wizja i misja Alpha, cykl Bożej renowacji oraz etapy rozwoju.
 - [[SNE_Lubecko_www]] — opis SNE Lubecko, RCA oraz dane kontaktowe i organizacyjne.
 - [[20250907_DomNaSkale]] — osobiste podsumowanie drogi: Alpha, RCA, Londyn i współpraca z Alpha Polska.
 - [[20251207_proroctwo]] — świadectwo o rozwoju wspólnoty do roli RCA i wystąpieniu w Tarnowie.

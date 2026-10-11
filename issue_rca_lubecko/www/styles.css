@@ -30,6 +30,7 @@ html {
 
 body {
   margin: 0;
+  overflow-x: hidden;
   background: var(--cream);
   color: var(--ink);
   font-family: "Plus Jakarta Sans", Arial, sans-serif;
@@ -44,6 +45,7 @@ body.nav-open {
 
 img {
   display: block;
+  height: auto;
   max-width: 100%;
 }
 

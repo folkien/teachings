@@ -4,6 +4,7 @@
 
 - Dane o działalności w 2025 roku: aktualizacja z 27.06.2026, uzupełniona informacjami przekazanymi przy zamknięciu `issue_rca`.
 - Informacje rozproszone w repozytorium: zintegrowane 11.10.2026.
+- Porozumienie z Alpha Polska i upoważnienie RODO: zintegrowane 11.10.2026.
 
 ## Profil
 
@@ -12,6 +13,71 @@ Regionalne Centrum Alpha w Lubecku (RCA Lubecko) działa w ramach SNE Lubecko. K
 Lubecko funkcjonuje nie tylko jako miejsce własnych edycji, ale także jako zaplecze dla dni Alpha, szkoleń i wydarzeń partnerskich. Na stronie SNE działalność wspólnoty została opisana wprost jako prowadzenie Kursu Alpha **jako Regionalne Centrum Alpha**. W opisie pojawia się również formuła pomocy w odnowie parafii. (Źródło: [[SNE_Lubecko_www]])
 
 Strona Kursu Alpha w Lubecku: [alpha.lubecko.pl](https://alpha.lubecko.pl/)
+
+## Podstawa formalna
+
+Porozumienie o wykonywaniu świadczeń wolontariackich zostało zawarte 20.09.2024 w Krakowie pomiędzy Stowarzyszeniem Alpha Polska a Sławomirem Paszko. Dotyczy wykonywania zadań **Koordynatora Regionalnego Centrum Alpha przy Szkole Nowej Ewangelizacji w Lubecku**.
+
+Porozumienie obowiązuje od 20.09.2024 do 20.09.2027. Posługa jest wykonywana osobiście, dobrowolnie i bez wynagrodzenia, w miejscach wskazanych przez koordynatora. Każda ze stron może rozwiązać porozumienie z zachowaniem 14-dniowego okresu wypowiedzenia, a z ważnych przyczyn również bez wypowiedzenia.
+
+Oświadczenia koordynatora nie są oświadczeniami składanymi w imieniu Alpha Polska i nie mają dla stowarzyszenia charakteru prawnie wiążącego. Zmiany porozumienia wymagają formy pisemnej. Wolontariusz może w dowolnym czasie poprosić Alpha Polska o pisemne zaświadczenie opisujące zakres wykonanych świadczeń.
+
+Dokumenty źródłowe:
+
+- [[RCA_Lubecko_porozumienie_2024.pdf|Porozumienie RCA Lubecko z Alpha Polska]]
+- [[RCA_Lubecko_upowaznienie_RODO.pdf|Upoważnienie RODO koordynatora RCA Lubecko]]
+
+## Cele RCA określone w porozumieniu
+
+- rozwój Alpha w nowych miejscach w regionie;
+- wspieranie lokalnych liderów i środowisk Alpha;
+- promowanie Alpha w regionie;
+- popularyzacja misji i wizji Alpha w oparciu o wartości Alpha.
+
+## Obowiązki i zadania koordynatora
+
+1. Prowadzenie Alpha zgodnie z „7 najlepszymi praktykami Alpha”.
+2. Zapraszanie do RCA osób zainteresowanych rozpoczęciem Alpha, aby mogły przyjrzeć się spotkaniu od strony zespołu na zasadzie „przyjdź i zobacz”.
+3. Planowanie, organizowanie i prowadzenie szkoleń „Poprowadź Alpha” — jednego lub dwóch w ciągu roku, wiosną lub jesienią.
+4. Wspieranie nowych zespołów w zakresie potrzebnym do przeprowadzenia przez nie pierwszej edycji Alpha w nowym miejscu na najwyższym możliwym poziomie.
+5. Promowanie Alpha podczas lokalnych wydarzeń chrześcijańskich, szczególnie wydarzeń poświęconych ewangelizacji.
+6. Organizowanie we współpracy z Krajowym Biurem Alpha lokalnych konferencji promujących Alpha.
+7. Włączanie się w inicjatywy Krajowego Biura Alpha.
+8. Udział — online i osobiście — w spotkaniach informacyjnych koordynatorów RCA i pracowników Krajowego Biura Alpha.
+9. Składanie Krajowemu Biuru Alpha pisemnego sprawozdania z rocznej aktywności koordynatora **do 31 stycznia następnego roku**.
+10. Prowadzenie korespondencji dotyczącej porozumienia z adresu `lubecko@alphapolska.org`.
+11. Udostępnianie Alpha Polska korespondencji dotyczącej okoliczności istotnych dla realizacji porozumienia, szczególnie prowadzącej do zebrania danych osobowych.
+12. Zachowanie w tajemnicy informacji uzyskanych w związku z posługą, zgodnie z zasadami RODO.
+
+## Wsparcie zapewniane przez Alpha Polska
+
+Alpha Polska zobowiązała się zapewnić koordynatorowi:
+
+- pokrycie całości lub części kosztów udziału w corocznym warsztatowym spotkaniu koordynatorów RCA — zależnie od aktualnych możliwości finansowych;
+- bezpłatny udział w regionalnych i ogólnopolskich Forach Alpha;
+- szkolenie instruktorskie dotyczące prowadzenia szkoleń dla zespołów Alpha;
+- możliwość rozwijania kompetencji podczas webinarów online;
+- zaproszenia na wyjazdy studyjne i konferencje Alpha International, m.in. Experience Alpha, Alpha Collective i Leadership Conference;
+- materiały informacyjne, promocyjne i szkoleniowe;
+- zwrot kosztów podróży związanych z prowadzeniem szkoleń „Poprowadź Alpha”, wspieraniem nowych zespołów oraz promowaniem Alpha podczas lokalnych wydarzeń chrześcijańskich;
+- stały mentoring i wsparcie pracowników Biura Alpha Polska.
+
+Porozumienie wskazuje, że Alpha Polska nie ma obowiązku ubezpieczenia wolontariusza od następstw nieszczęśliwych wypadków.
+
+> **Uwaga do treści dokumentu:** zwrot kosztów podróży jest opisany w § 2 ust. 1 lit. g, natomiast § 6 odwołuje się do lit. h. W dokumencie występuje więc niespójność oznaczenia punktu; powyższe podsumowanie zachowuje merytoryczną treść § 2.
+
+## Obowiązki dotyczące danych osobowych
+
+Upoważnienie RODO obejmuje przetwarzanie danych w ramach działalności wolontariackiej Koordynatora Regionalnego, w zbiorze „Koordynatorzy Regionalni”. Dostęp elektroniczny ma być ograniczony do minimum niezbędnego do wykonania powierzonych zadań i obowiązuje przez czas trwania porozumienia lub krócej, jeżeli zostanie ono wcześniej rozwiązane.
+
+Koordynator zobowiązał się:
+
+- przetwarzać dane zgodnie z prawem i wyłącznie w zakresie oraz celu koniecznym do realizacji powierzonych obowiązków;
+- stosować odpowiednie środki techniczne i organizacyjne chroniące dane;
+- zabezpieczać dane przed osobami nieupoważnionymi, utratą, uszkodzeniem i zniszczeniem;
+- informować administratora o naruszeniu ochrony danych niezwłocznie, nie później niż w ciągu **48 godzin od wystąpienia incydentu** — telefonicznie lub mailowo;
+- po zakończeniu lub zerwaniu porozumienia, bez dodatkowego wezwania, oddać wszystkie dostępy do danych i usunąć wszystkie otrzymane oraz utworzone kopie;
+- zachować poufność informacji uzyskanych podczas wykonywania zadań.
 
 ## Historia i rozwój
 
@@ -52,7 +118,6 @@ Latem 2025 roku w Alpha Collective w Londynie uczestniczyły również przedstaw
 - Lipiec 2025: współtworzenie stoiska Alpha na Festiwalu Życia w Kokotku razem z Alpha Polska oraz wspólnotami partnerskimi.
 - Lato 2025: udział przedstawicielek RCA Lubecko (Kamila, Edyta) w Alpha Collective w Londynie.
 - 22.11.2025: ks. Tomasz Hajok i Sławomir Paszko występowali na Forum Parafialnych Rad Duszpasterskich w Tarnowie.
-- 05.12.2025–07.12.2025: udział w spotkaniu Regionalnych Centrów Alpha w Olszy.
 - Jesień 2025: wsparcie dnia Alpha dla młodzieży prowadzonego przez Wspólnotę Dobrego Pasterza z Koszęcina w Sanktuarium w Lubecku.
 
 ### Spotkania Regionalnych Centrów Alpha
@@ -88,7 +153,10 @@ Sławomir Paszko pozostaje koordynatorem Regionalnego Centrum Alpha. W 2026 roku
 - [[20251207_proroctwo]] — świadectwo o rozwoju wspólnoty do roli RCA i wystąpieniu w Tarnowie.
 - [[20251207_slowo_poznania]] — świadectwo ze zjazdu RCA w Łodzi.
 - [[20260928_jak_sluzyc_przez_cale_zycie]] — informacja o koordynowaniu RCA oraz rozeznaniu przerwy w osobistym prowadzeniu Alpha w 2026 roku.
+- [[przebaczenie_piekary_slaskie]] — świadectwo z wyjazdu na Alpha Collective w Londynie w 2024 roku.
 - [[swiadectwa]] — zebrane świadectwa związane z Alpha i RCA.
 - [[nz_nawrocenie_260416_1718]] — wspomnienie Alpha Collective w Londynie.
+- [[RCA_Lubecko_porozumienie_2024.pdf|Porozumienie RCA Lubecko z Alpha Polska]] — formalny zakres posługi, cele, zadania koordynatora i wsparcie Alpha Polska.
+- [[RCA_Lubecko_upowaznienie_RODO.pdf|Upoważnienie RODO koordynatora RCA Lubecko]] — zakres dostępu do danych i obowiązki związane z ich ochroną.
 
-*Źródło podstawowe danych za 2025 rok: zamknięcie `issue_rca`, 27.06.2026. Pozostałe informacje pochodzą ze wskazanych materiałów w repozytorium.*
+*Źródło podstawowe danych za 2025 rok: zamknięcie `issue_rca`, 27.06.2026. Zakres formalny posługi i obowiązki RODO pochodzą z podpisanych dokumentów przechowywanych w `wiedza/`. Pozostałe informacje pochodzą ze wskazanych materiałów w repozytorium.*

@@ -22,8 +22,11 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 
 - [Dyrektorium KAMCH 2.5.2017.pdf](Dyrektorium%20KAMCH%202.5.2017.pdf) - nowsza, 43-stronicowa wersja: plan trzydniowego kursu, siedem tematów, dynamiki i tabela techniczna.
 - [Dyrektorium KAMCH_2015.pdf](Dyrektorium%20KAMCH_2015.pdf) - wcześniejsza, 16-stronicowa wersja robocza: cele, myśli przewodnie i wskazówki dla prowadzących.
+- [KAMCh 2017 dochodzony2 - plan.doc](KAMCh%202017%20dochodzony2%20-%20plan.doc) - archiwalny plan kursu dochodzonego wykorzystany do porównania godzin i kolejności programu.
+- [KAMCh 2020 - plan.doc](KAMCh%202020%20-%20plan.doc) - archiwalny, pełniejszy plan kursu wykorzystany jako główna baza harmonogramu roboczego.
 - [streszczenie.md](streszczenie.md) - zwięzłe streszczenie kursu, programu i potrzeb organizacyjnych dla ekipy.
 - [informacje_organizacyjne.md](informacje_organizacyjne.md) - aktualny skład ekipy, zapisy, warunki udziału, braki i sprawy do ustalenia.
+- [plan_roboczy.md](plan_roboczy.md) - roboczy harmonogram kursu na 6-8 listopada 2026 r., bez obsady ekipy i rekwizytów.
 - [facebook_kamch_lubecko_2026.png](facebook_kamch_lubecko_2026.png) - gotowa grafika promująca wydarzenie na Facebooku.
 - [facebook_post_kwadrat_kamch_lubecko_2026.png](facebook_post_kwadrat_kamch_lubecko_2026.png) - kwadratowa grafika promocyjna do posta na Facebooku.
 - [facebook_tlo_kamch_lubecko_2026.png](facebook_tlo_kamch_lubecko_2026.png) - wariant bez tekstu, do użycia jako samo tło lub w innych publikacjach.
@@ -35,7 +38,8 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 - [x] Uruchomić pierwszą wersję formularza zapisów.
 - [ ] Uzupełnić brakujące posługi w ekipie i potwierdzić zakresy odpowiedzialności.
 - [ ] Potwierdzić dokładne miejsce, godziny rozpoczęcia i zakończenia oraz warunki pobytu uczestników w Lubecku.
-- [ ] Ułożyć szczegółowy harmonogram 6-8 listopada na podstawie kalendarza z dyrektorium 2017.
+- [x] Przygotować roboczy harmonogram 6-8 listopada na podstawie planów z 2017 i 2020 r.
+- [ ] Potwierdzić z dyrektorem kursu godziny, posiłki i ostateczny układ programu.
 - [ ] Przygotować listę uczestników, komunikację przedkursową i obsadę grup/praktyk modlitewnych.
 - [ ] Zabezpieczyć materiały, muzykę, nagłośnienie, ołtarz Słowa i rekwizyty z tabeli technicznej.
 - [ ] Przeprowadzić spotkanie duchowo-organizacyjne ekipy przed kursem.

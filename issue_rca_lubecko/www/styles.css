@@ -592,6 +592,167 @@ h3 {
   object-fit: cover;
 }
 
+.region-map {
+  overflow: hidden;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.region-schematic {
+  position: relative;
+  width: 100%;
+  min-height: 430px;
+  overflow: hidden;
+  background: linear-gradient(135deg, rgba(255, 255, 238, .98), rgba(250, 203, 199, .48));
+  isolation: isolate;
+}
+
+.region-schematic::before {
+  position: absolute;
+  z-index: -1;
+  top: 47%;
+  left: 44%;
+  width: min(58%, 270px);
+  aspect-ratio: 1;
+  border: 1px solid rgba(228, 35, 18, .42);
+  border-radius: 50%;
+  background: rgba(228, 35, 18, .06);
+  content: "";
+  transform: translate(-50%, -50%);
+}
+
+.schematic-caption {
+  position: absolute;
+  z-index: 3;
+  top: 20px;
+  left: 22px;
+  color: var(--alpha-red);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.region-shape {
+  position: absolute;
+  display: grid;
+  place-items: center;
+  border: 2px solid var(--alpha-red);
+  color: var(--alpha-red);
+  font-size: clamp(13px, 1.5vw, 18px);
+  font-weight: 800;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.region-opole {
+  top: 15%;
+  left: 6%;
+  width: 47%;
+  height: 57%;
+  background: rgba(255, 255, 238, .58);
+  clip-path: polygon(11% 0, 91% 8%, 100% 61%, 74% 100%, 13% 88%, 0 39%);
+}
+
+.region-czestochowa {
+  top: 13%;
+  right: 5%;
+  width: 42%;
+  height: 52%;
+  background: rgba(250, 203, 199, .52);
+  clip-path: polygon(19% 0, 100% 14%, 89% 85%, 31% 100%, 0 56%);
+}
+
+.region-gliwice {
+  z-index: 1;
+  top: 37%;
+  left: 29%;
+  width: 46%;
+  height: 48%;
+  background: rgba(228, 35, 18, .18);
+  clip-path: polygon(0 22%, 45% 0, 100% 29%, 88% 89%, 26% 100%, 9% 68%);
+}
+
+.lubecko-marker {
+  position: absolute;
+  z-index: 2;
+  top: 51%;
+  left: 46%;
+  display: grid;
+  justify-items: start;
+  gap: 3px;
+  color: #5e130b;
+  transform: translate(-10%, -50%);
+}
+
+.marker-dot {
+  width: 16px;
+  height: 16px;
+  border: 4px solid var(--cream);
+  border-radius: 50%;
+  background: var(--alpha-red);
+  box-shadow: 0 0 0 5px rgba(228, 35, 18, .18);
+}
+
+.lubecko-marker strong {
+  font-size: 17px;
+}
+
+.lubecko-marker small {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.range-label {
+  position: absolute;
+  z-index: 2;
+  right: 20px;
+  bottom: 18px;
+  margin: 0;
+  color: var(--alpha-red);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+.region-map a {
+  display: block;
+  padding: 12px 16px;
+  background: var(--cream);
+  color: var(--alpha-red);
+  font-size: 13px;
+  font-weight: 750;
+  text-align: right;
+  text-decoration: none;
+}
+
+.region-map-layout {
+  margin-bottom: 48px;
+}
+
+.diocese-identity {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.diocese-identity img {
+  width: 55px;
+  height: 65px;
+  object-fit: contain;
+  filter: invert(18%) sepia(92%) saturate(3313%) hue-rotate(349deg) brightness(88%) contrast(95%);
+}
+
+.diocese-identity span {
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.35;
+}
+
 .photo-pair {
   position: relative;
   min-height: 540px;

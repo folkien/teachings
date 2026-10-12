@@ -33,7 +33,7 @@ Następnie strona będzie dostępna pod adresem `http://127.0.0.1:4173/`.
 
 ## Archiwum wydarzeń i świadectw
 
-Podstrona `historia.html` korzysta z uporządkowanych danych z [[../facebook_alpha_archiwum]]. Pełna baza obejmuje chronologię działań, godziny spotkań, dane liczbowe i 58 świadectw. Na stronie wykorzystano tylko krótki wybór, aby zachować czytelność; dawne numery telefonów i niepotwierdzone daty nie zostały opublikowane.
+Podstrona `historia.html` korzysta z uporządkowanych danych z [[../facebook_alpha_archiwum]]. Pełna baza obejmuje chronologię działań, godziny spotkań, dane liczbowe i 117 świadectw. Na stronie wykorzystano tylko krótki wybór, aby zachować czytelność; dawne numery telefonów i niepotwierdzone daty nie zostały opublikowane.
 
 ## Redakcja zdjęć
 

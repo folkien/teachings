@@ -487,6 +487,44 @@ h3 {
   color: var(--muted);
 }
 
+.current-alpha {
+  padding: clamp(64px, 8vw, 96px) 0;
+  background: var(--alpha-red);
+  color: var(--cream);
+}
+
+.current-alpha-grid {
+  display: grid;
+  align-items: center;
+  gap: clamp(42px, 8vw, 110px);
+  grid-template-columns: 1.15fr .85fr;
+}
+
+.current-alpha .eyebrow {
+  color: var(--cream);
+}
+
+.current-alpha h2 {
+  max-width: 720px;
+}
+
+.current-alpha-grid > div:first-child > p:last-child {
+  max-width: 680px;
+  color: rgba(255, 255, 238, .8);
+  font-size: 18px;
+}
+
+.current-alpha-details {
+  padding: 30px;
+  border: 1px solid rgba(255, 255, 238, .25);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 238, .1);
+}
+
+.current-alpha-details p {
+  margin: 0 0 18px;
+}
+
 .split {
   display: grid;
   align-items: center;
@@ -1758,7 +1796,8 @@ details p {
   .hero-grid,
   .split,
   .cycle-layout,
-  .contact-grid {
+  .contact-grid,
+  .current-alpha-grid {
     grid-template-columns: 1fr;
   }
 

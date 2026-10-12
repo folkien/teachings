@@ -146,7 +146,7 @@ Szczegółowe informacje o rolach, prowadzeniu rozmowy, harmonogramie wieczoru i
 ### Informacje organizacyjne
 
 - [[regionalne_centrum_alpha_lubecko]] — profil RCA, historia działań, obowiązki koordynatora i podstawa formalna.
-- [[facebook_alpha_archiwum]] — chronologia działań, dane liczbowe i 58 świadectw z archiwalnych postów.
+- [[facebook_alpha_archiwum]] — chronologia działań, dane liczbowe i 117 świadectw z archiwalnych postów.
 - [[facebook_alpha_zrodla]] — rejestr materiałów źródłowych i bezpośrednich linków do wpisów.
 
 ## Styl graficzny, ikony i branding Alpha

@@ -27,7 +27,7 @@ Następnie strona będzie dostępna pod adresem `http://127.0.0.1:4173/`.
 - potwierdzić zgody na publikację wszystkich zdjęć i wizerunków;
 - potwierdzić opisy ról członków zespołu;
 - zdecydować, czy formularz ma pozostać odnośnikiem do programu pocztowego, czy zostać połączony z usługą obsługującą wysyłkę;
-- podpiąć docelową domenę i uzupełnić adresy Open Graph oraz mapę witryny;
+- metadane kanoniczne i Open Graph wskazują `https://alpha.lubecko.pl/`; jeśli nowa strona trafi pod inny adres, trzeba zaktualizować je przed publikacją;
 - ustalić, czy i gdzie publikować informacje o aktualnej edycji Alpha.
 
 ## Redakcja zdjęć

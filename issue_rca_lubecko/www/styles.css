@@ -767,6 +767,44 @@ h3 {
   color: var(--muted);
 }
 
+.archive-facts-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.archive-fact {
+  min-height: 270px;
+  padding: 28px;
+  border: 1px solid rgba(228, 35, 18, .14);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 238, .9);
+}
+
+.archive-fact:nth-child(even) {
+  background: rgba(250, 203, 199, .35);
+}
+
+.archive-fact strong {
+  display: block;
+  margin-bottom: 26px;
+  color: var(--alpha-red);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 34px;
+  font-style: italic;
+  line-height: 1;
+}
+
+.archive-fact h3 {
+  font-size: 23px;
+}
+
+.archive-fact p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+}
+
 .testimony-section {
   position: relative;
   overflow: hidden;
@@ -795,6 +833,21 @@ h3 {
   grid-template-columns: .7fr 1.3fr;
 }
 
+.testimony-heading {
+  position: sticky;
+  top: 110px;
+}
+
+.testimony-heading > p:last-child {
+  max-width: 420px;
+  color: rgba(255, 255, 238, .78);
+}
+
+.testimony-list {
+  display: grid;
+  gap: 18px;
+}
+
 .testimony-section .eyebrow {
   color: var(--cream);
 }
@@ -818,7 +871,7 @@ h3 {
 .participant-quote p {
   margin: 0;
   font-family: "Instrument Serif", Georgia, serif;
-  font-size: clamp(35px, 4.2vw, 54px);
+  font-size: clamp(29px, 3vw, 42px);
   font-style: italic;
   letter-spacing: -.025em;
   line-height: 1.05;
@@ -846,6 +899,12 @@ h3 {
   color: var(--cream);
   font-size: 12px;
   font-weight: 750;
+}
+
+.participant-quote footer span {
+  color: rgba(255, 255, 238, .72);
+  font-size: 12px;
+  font-weight: 650;
 }
 
 .gallery {
@@ -1757,6 +1816,14 @@ details p {
     grid-template-columns: 1fr;
   }
 
+  .testimony-heading {
+    position: static;
+  }
+
+  .archive-facts-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .renewal-intro {
     margin-bottom: 36px;
   }
@@ -1922,6 +1989,14 @@ details p {
 
   .participant-quote footer {
     display: grid;
+  }
+
+  .archive-facts-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .archive-fact {
+    min-height: auto;
   }
 
   .gallery button,

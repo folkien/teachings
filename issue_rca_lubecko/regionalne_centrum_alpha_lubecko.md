@@ -152,6 +152,28 @@ Sławomir Paszko pozostaje koordynatorem Regionalnego Centrum Alpha. W 2026 roku
 - Lubecko funkcjonuje nie tylko jako miejsce własnych edycji, ale też jako zaplecze dla dni Alpha, szkoleń i wydarzeń partnerskich.
 - RCA Lubecko dzieli się doświadczeniem z innymi wspólnotami i parafiami. W świadectwie z 2025 roku zostało to podsumowane słowami: „staliśmy się RCA”, „uczymy inne wspólnoty” oraz „mogliśmy w Tarnowie z księdzem mówić o przemianie parafii”. (Źródło: [[20251207_proroctwo]], [[swiadectwa]])
 
+## Zatwierdzony plan wprowadzania Alpha w parafii
+
+Plan służy unikaniu niepotrzebnych napięć i robienia czegoś ponad siły, zwłaszcza w parafiach, w których wspólnotę oraz ekipę trzeba budować prawie od zera.
+
+1. **Szkolenie na temat kursu Alpha** — przełamanie lęków związanych z pochodzeniem i formą kursu, zachęta dla ludzi, najlepsze praktyki prowadzenia oraz wizja Alpha i Bożej renowacji parafii.
+2. **Udział w edycji Alpha** — gdy brakuje osób do organizacji własnej edycji, udział w dobrze przygotowanym kursie staje się doświadczeniem i punktem odniesienia.
+3. **Alpha wewnętrzna dla organizatorów** — przyszli organizatorzy przeżywają kurs spokojnie, bez dużego obciążenia posługą, aby samodzielnie odkryć Alpha i doświadczyć działania Boga.
+4. **Alpha publiczna prowadzona wspólnie** — po jednej edycji przeszkolona ekipa prowadzi kurs z marketingiem, zaproszeniami i zapisami; RCA może pomóc od strony dyrektorskiej, szkoleniowej oraz w Dniu lub weekendzie Alpha.
+5. **Alpha samodzielna** — po dwóch edycjach parafia powinna móc samodzielnie prowadzić kurs, z lokalnymi koordynatorami oraz duszpasterzem prowadzącym duchowo tematy przebaczenia, modlitwy o wylanie i modlitwy o uzdrowienie.
+
+Jeżeli parafia posiada wspólnotę charyzmatyczną z pewnym doświadczeniem, etapy można przyspieszyć: pierwsza Alpha może być publiczna, a samodzielne prowadzenie kursu może rozpocząć się już w punkcie czwartym.
+
+### Pytania kontrolne przed organizacją
+
+1. Czy jest rzutnik, ekran oraz nagłośnienie — i człowiek, który je obsłuży?
+2. Czy jest sala mieszcząca uczestników?
+3. Czy sala jest ogrzewana?
+4. Czy jest kuchnia i jakie ma możliwości?
+5. Czy edycja będzie wewnętrzna czy publiczna?
+6. Na ile osób i stolików planujemy kurs?
+7. Jak duża jest ekipa organizacyjna?
+
 ## Materiały powiązane w repozytorium
 
 - [[README|README RCA Lubecko]] — cel bazy wiedzy, założenia przyszłej strony i profil jej odbiorców.

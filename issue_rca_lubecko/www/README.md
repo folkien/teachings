@@ -7,6 +7,7 @@ Responsywna, statyczna strona przygotowana na podstawie bazy wiedzy w `issue_rca
 - `index.html` — strona główna;
 - `czym-jest-alpha.html` — format, odbiorcy i najczęstsze pytania;
 - `zacznij-alpha.html` — zakres wsparcia RCA;
+- `pytania-przed-alpha.html` — pytania parafii i wspólnot przed rozpoczęciem Alpha oraz link do rejestracji pierwszej edycji;
 - `historia.html` — historia Alpha w Lubecku i galeria;
 - `odnowa-parafii.html` — interaktywny cykl odnowy parafii;
 - `o-nas.html` — zespół RCA Lubecko;

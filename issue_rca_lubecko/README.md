@@ -219,7 +219,7 @@ Kompletny zestaw elementów z prezentacji brandingowych znajduje się w [[Grafik
 
 Przed publicznym wykorzystaniem zdjęć na stronie należy potwierdzić zgody na publikację wizerunku oraz prawa do wykorzystania poszczególnych materiałów.
 
-## Dane do uzupełnienia lub sprawdzenia przed budową strony
+## Dane do uzupełnienia lub sprawdzenia przed publikacją strony
 
 - dokładny rok i data pierwszej edycji Alpha w Lubecku;
 - liczba wszystkich uczestników jedenastu edycji;
@@ -229,3 +229,7 @@ Przed publicznym wykorzystaniem zdjęć na stronie należy potwierdzić zgody na
 - aktualne globalne dane o skali Alpha;
 - źródło i metodologia statystyk 88%, 88%, 80% i 69%;
 - potwierdzenie praw do cytatów, zdjęć, mapy i materiałów graficznych przeznaczonych do publikacji.
+
+## Pierwsza wersja strony WWW
+
+Responsywna pierwsza wersja strony znajduje się w katalogu [`www/`](www/). Obejmuje stronę główną oraz podstrony: „Czym jest Alpha?”, „Zacznij Alpha”, „Historia”, „Odnowa parafii”, „O nas” i „Kontakt”. Instrukcja uruchomienia i lista rzeczy wymagających potwierdzenia przed publikacją znajdują się w [[www/README]].

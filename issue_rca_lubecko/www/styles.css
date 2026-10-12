@@ -940,6 +940,498 @@ details p {
   font-size: 18px;
 }
 
+/* Scrollytelling: cykl Bożej renowacji */
+.renewal-story {
+  padding-bottom: 40px;
+  overflow: clip;
+}
+
+.renewal-intro {
+  margin-bottom: 70px;
+}
+
+.renewal-intro h2 {
+  max-width: 720px;
+}
+
+.renewal-italic {
+  color: var(--pink);
+}
+
+.renewal-story-grid {
+  display: grid;
+  align-items: start;
+  gap: clamp(54px, 7vw, 104px);
+  grid-template-columns: minmax(0, 1.08fr) minmax(340px, .72fr);
+}
+
+.renewal-visual-wrap {
+  position: sticky;
+  top: 104px;
+  align-self: start;
+}
+
+.renewal-visual {
+  position: relative;
+  width: min(100%, 650px);
+  margin-inline: auto;
+  aspect-ratio: 1;
+  isolation: isolate;
+}
+
+.cycle-orbit {
+  position: absolute;
+  z-index: -2;
+  inset: 13%;
+  border: 2px dashed rgba(255, 255, 238, .22);
+  border-radius: 50%;
+}
+
+.cycle-orbit::before {
+  position: absolute;
+  inset: -7px;
+  border: 5px solid transparent;
+  border-top-color: var(--pink);
+  border-radius: 50%;
+  content: "";
+  transform: rotate(-52deg);
+  transition: transform 900ms cubic-bezier(.2, .75, .25, 1);
+}
+
+.renewal-visual[data-stage="2"] .cycle-orbit::before { transform: rotate(18deg); }
+.renewal-visual[data-stage="3"] .cycle-orbit::before { transform: rotate(88deg); }
+.renewal-visual[data-stage="4"] .cycle-orbit::before { transform: rotate(158deg); }
+.renewal-visual[data-stage="5"] .cycle-orbit::before { transform: rotate(238deg); }
+
+.orbit-arrow {
+  position: absolute;
+  width: 17%;
+  height: 3px;
+  border-radius: 20px;
+  background: var(--pink);
+  opacity: 0;
+  transform-origin: center;
+  transition: opacity 450ms ease, transform 500ms ease;
+}
+
+.orbit-arrow::after {
+  position: absolute;
+  top: -5px;
+  right: -2px;
+  width: 11px;
+  height: 11px;
+  border-top: 3px solid var(--pink);
+  border-right: 3px solid var(--pink);
+  content: "";
+  transform: rotate(45deg);
+}
+
+.orbit-arrow-one { top: 48%; left: -2%; transform: rotate(-90deg) scaleX(.55); }
+.orbit-arrow-two { top: 1%; left: 42%; transform: scaleX(.55); }
+.orbit-arrow-three { top: 48%; right: -2%; transform: rotate(90deg) scaleX(.55); }
+.orbit-arrow-four { right: 17%; bottom: 8%; transform: rotate(151deg) scaleX(.55); }
+.orbit-arrow-five { bottom: 8%; left: 17%; transform: rotate(-151deg) scaleX(.55); }
+
+.orbit-arrow.is-visible {
+  opacity: 1;
+}
+
+.orbit-arrow-one.is-visible { transform: rotate(-90deg) scaleX(1); }
+.orbit-arrow-two.is-visible { transform: scaleX(1); }
+.orbit-arrow-three.is-visible { transform: rotate(89deg) scaleX(1); }
+.orbit-arrow-four.is-visible { transform: rotate(151deg) scaleX(1); }
+.orbit-arrow-five.is-visible { transform: rotate(-151deg) scaleX(1); }
+
+.renewal-node,
+.parish-node {
+  position: absolute;
+  z-index: 3;
+  border: 0;
+  color: var(--cream);
+  cursor: pointer;
+  opacity: .18;
+  transform: scale(.78);
+  transition: opacity 450ms ease, transform 600ms cubic-bezier(.2, .8, .2, 1), box-shadow 350ms ease, background 350ms ease;
+}
+
+.renewal-node {
+  display: grid;
+  width: clamp(102px, 18vw, 132px);
+  aspect-ratio: 1;
+  place-content: center;
+  padding: 13px;
+  border-radius: 50%;
+  background: rgba(228, 35, 18, .38);
+  text-align: center;
+}
+
+.renewal-node strong {
+  font-size: clamp(13px, 1.5vw, 18px);
+  line-height: 1.05;
+}
+
+.node-kicker {
+  display: block;
+  margin-bottom: 5px;
+  color: rgba(255, 255, 238, .7);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.renewal-node.is-visible,
+.parish-node.is-visible {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.renewal-node.active {
+  background: var(--alpha-red);
+  box-shadow: 0 0 0 8px rgba(250, 203, 199, .15), 0 22px 40px rgba(0, 0, 0, .22);
+}
+
+.node-seeking { top: 59%; left: 0; }
+.node-believing { top: 2%; left: 13%; }
+.node-serving { top: 2%; right: 13%; }
+.node-leading { top: 59%; right: 0; }
+
+.parish-node {
+  bottom: 0;
+  left: 50%;
+  display: grid;
+  width: 158px;
+  justify-items: center;
+  padding: 0;
+  background: transparent;
+  transform: translateX(-50%) scale(.78);
+}
+
+.parish-node.is-visible {
+  transform: translateX(-50%) scale(1);
+}
+
+.parish-node strong {
+  margin-top: 5px;
+  color: var(--cream);
+  font-size: 13px;
+  line-height: 1.15;
+  text-align: center;
+}
+
+.parish-node.active strong {
+  color: var(--pink);
+}
+
+.church-icon {
+  position: relative;
+  display: block;
+  width: 108px;
+  height: 92px;
+  filter: drop-shadow(0 14px 18px rgba(0, 0, 0, .2));
+}
+
+.church-body,
+.church-tower,
+.church-roof,
+.church-door,
+.church-cross,
+.church-heart {
+  position: absolute;
+  display: block;
+}
+
+.church-body {
+  right: 4px;
+  bottom: 0;
+  left: 4px;
+  height: 46px;
+  border-radius: 4px 4px 8px 8px;
+  background: var(--cream);
+}
+
+.church-tower {
+  z-index: 1;
+  bottom: 0;
+  left: 38px;
+  width: 34px;
+  height: 76px;
+  background: #fff8e7;
+}
+
+.church-roof {
+  z-index: 2;
+  top: 6px;
+  left: 31px;
+  width: 48px;
+  height: 25px;
+  background: var(--alpha-red);
+  clip-path: polygon(50% 0, 100% 72%, 87% 100%, 50% 52%, 13% 100%, 0 72%);
+}
+
+.church-cross {
+  z-index: 2;
+  top: 0;
+  left: 52px;
+  width: 4px;
+  height: 18px;
+  border-radius: 3px;
+  background: var(--cream);
+}
+
+.church-cross::after {
+  position: absolute;
+  top: 5px;
+  left: -5px;
+  width: 14px;
+  height: 4px;
+  border-radius: 3px;
+  background: var(--cream);
+  content: "";
+}
+
+.church-door {
+  z-index: 2;
+  bottom: 0;
+  left: 47px;
+  width: 16px;
+  height: 29px;
+  border-radius: 8px 8px 0 0;
+  background: var(--plum);
+}
+
+.church-heart {
+  z-index: 4;
+  right: 3px;
+  bottom: -12px;
+  color: var(--alpha-red);
+  font-family: Georgia, serif;
+  font-size: 51px;
+  font-style: normal;
+  line-height: 1;
+  text-shadow: 0 3px 0 var(--plum);
+}
+
+.cycle-center {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  width: min(40%, 235px);
+  padding: 24px 18px;
+  border: 1px solid rgba(255, 255, 238, .18);
+  border-radius: 50%;
+  background: rgba(255, 255, 238, .08);
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.cycle-center > span {
+  color: var(--pink);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 32px;
+  font-style: italic;
+}
+
+.cycle-center strong {
+  display: block;
+  margin: 2px 0 8px;
+  font-size: 15px;
+  line-height: 1.2;
+}
+
+.cycle-center p {
+  margin: 0;
+  color: rgba(255, 255, 238, .7);
+  font-size: 10px;
+  line-height: 1.45;
+}
+
+.alpha-marker {
+  position: absolute;
+  z-index: 4;
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  color: var(--pink);
+  font-size: 11px;
+  font-weight: 800;
+  opacity: 0;
+  transform: scale(.7) rotate(-5deg);
+  transition: opacity 400ms ease, transform 500ms cubic-bezier(.2, .8, .2, 1);
+}
+
+.alpha-marker b {
+  color: var(--alpha-red);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 40px;
+  font-style: italic;
+  line-height: .7;
+}
+
+.alpha-marker.is-visible {
+  opacity: 1;
+  transform: scale(1) rotate(-5deg);
+}
+
+.marker-one { top: 37%; left: 8%; }
+.marker-two { top: 2%; left: 46%; }
+.marker-three { top: 37%; right: 5%; }
+.marker-four { right: 24%; bottom: 15%; }
+
+.renewal-hint {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 4px 0 0;
+  color: rgba(255, 255, 238, .55);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.renewal-hint span {
+  color: var(--pink);
+}
+
+.renewal-steps {
+  display: grid;
+}
+
+.renewal-step {
+  display: grid;
+  min-height: 66vh;
+  align-content: center;
+  padding: 45px 0;
+  opacity: .35;
+  transform: translateY(20px);
+  transition: opacity 450ms ease, transform 500ms ease;
+}
+
+.renewal-step.active {
+  opacity: 1;
+  transform: none;
+}
+
+.renewal-step-number {
+  color: rgba(250, 203, 199, .45);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 78px;
+  font-style: italic;
+  line-height: .8;
+}
+
+.renewal-step .eyebrow {
+  margin: 22px 0 11px;
+  color: var(--pink);
+}
+
+.renewal-step h3 {
+  max-width: 470px;
+  color: var(--cream);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: clamp(38px, 4vw, 55px);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -.025em;
+}
+
+.renewal-step > p:last-child {
+  max-width: 490px;
+  margin: 20px 0 0;
+  color: rgba(255, 255, 238, .72);
+  font-size: 17px;
+}
+
+.mallon-section {
+  position: relative;
+  overflow: hidden;
+  padding: clamp(78px, 10vw, 132px) 0;
+  background: var(--cream-deep);
+}
+
+.mallon-section::after {
+  position: absolute;
+  z-index: 0;
+  right: -110px;
+  bottom: -150px;
+  width: 360px;
+  height: 360px;
+  border: 45px solid rgba(228, 35, 18, .08);
+  border-radius: 50%;
+  content: "";
+}
+
+.mallon-grid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  align-items: center;
+  gap: clamp(42px, 7vw, 92px);
+  grid-template-columns: 1fr 1fr;
+}
+
+.mallon-photo {
+  position: relative;
+  margin: 0;
+}
+
+.mallon-photo img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  object-fit: cover;
+}
+
+.mallon-photo figcaption {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.mallon-quote {
+  position: relative;
+  margin: 0;
+  padding-top: 58px;
+}
+
+.mallon-quote .quote-mark {
+  position: absolute;
+  top: -36px;
+  left: -12px;
+  color: var(--pink);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: 180px;
+  font-style: italic;
+  line-height: 1;
+}
+
+.mallon-quote p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  color: var(--alpha-red);
+  font-family: "Instrument Serif", Georgia, serif;
+  font-size: clamp(42px, 5vw, 68px);
+  font-style: italic;
+  letter-spacing: -.035em;
+  line-height: 1;
+}
+
+.mallon-quote cite {
+  display: block;
+  margin-top: 28px;
+  color: var(--ink);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
 .contact-grid {
   display: grid;
   gap: 60px;
@@ -1036,6 +1528,10 @@ details p {
 }
 
 @media (max-width: 820px) {
+  .site-header {
+    backdrop-filter: none;
+  }
+
   .container {
     width: min(100% - 30px, var(--max));
   }
@@ -1056,6 +1552,7 @@ details p {
     bottom: 0;
     left: 0;
     display: none;
+    min-height: calc(100dvh - 72px);
     align-content: start;
     align-items: stretch;
     padding: 28px 24px 50px;
@@ -1134,6 +1631,61 @@ details p {
   .faq-grid {
     grid-template-columns: 1fr;
   }
+
+  .renewal-intro {
+    margin-bottom: 36px;
+  }
+
+  .renewal-story-grid {
+    display: block;
+  }
+
+  .renewal-visual-wrap {
+    z-index: 1;
+    top: 78px;
+    padding: 6px 0 8px;
+    background: linear-gradient(180deg, var(--plum) 82%, rgba(64, 40, 84, 0));
+  }
+
+  .renewal-visual {
+    width: min(100%, 460px);
+  }
+
+  .renewal-steps {
+    position: relative;
+    z-index: 2;
+    margin-top: -34px;
+    pointer-events: none;
+  }
+
+  .renewal-step {
+    min-height: 100svh;
+    align-content: end;
+    padding: 430px 0 54px;
+  }
+
+  .renewal-step > * {
+    pointer-events: auto;
+  }
+
+  .renewal-step h3,
+  .renewal-step > p:last-child {
+    max-width: 560px;
+  }
+
+  .renewal-step > p:last-child {
+    padding: 14px 16px;
+    border-radius: 12px;
+    background: rgba(64, 40, 84, .9);
+  }
+
+  .mallon-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .mallon-photo {
+    width: min(100%, 640px);
+  }
 }
 
 @media (max-width: 580px) {
@@ -1172,8 +1724,12 @@ details p {
   }
 
   .hero-badge {
-    right: -4px;
+    right: 0;
     width: 116px;
+  }
+
+  .hero-media::before {
+    right: 0;
   }
 
   .section {
@@ -1246,6 +1802,120 @@ details p {
     padding: 30px 24px;
   }
 
+  .renewal-intro h2 {
+    font-size: clamp(41px, 12vw, 58px);
+  }
+
+  .renewal-visual-wrap {
+    top: 72px;
+  }
+
+  .renewal-visual {
+    width: min(100%, 365px);
+  }
+
+  .renewal-node {
+    width: 86px;
+    padding: 9px;
+  }
+
+  .renewal-node strong {
+    font-size: 11px;
+  }
+
+  .node-kicker {
+    font-size: 6px;
+  }
+
+  .parish-node {
+    width: 112px;
+  }
+
+  .parish-node strong {
+    font-size: 10px;
+  }
+
+  .church-icon {
+    width: 76px;
+    height: 65px;
+    transform: scale(.7);
+    transform-origin: center bottom;
+  }
+
+  .parish-node .church-icon {
+    margin-bottom: -18px;
+  }
+
+  .cycle-center {
+    width: 39%;
+    padding: 13px 9px;
+  }
+
+  .cycle-center > span {
+    font-size: 24px;
+  }
+
+  .cycle-center strong {
+    font-size: 10px;
+  }
+
+  .cycle-center p {
+    display: none;
+  }
+
+  .alpha-marker {
+    font-size: 8px;
+  }
+
+  .alpha-marker b {
+    font-size: 29px;
+  }
+
+  .renewal-hint {
+    display: none;
+  }
+
+  .renewal-steps {
+    margin-top: -18px;
+  }
+
+  .renewal-step {
+    min-height: 92svh;
+    padding: 335px 0 42px;
+  }
+
+  .renewal-step-number {
+    font-size: 58px;
+  }
+
+  .renewal-step .eyebrow {
+    margin-top: 14px;
+    font-size: 10px;
+  }
+
+  .renewal-step h3 {
+    font-size: 38px;
+  }
+
+  .renewal-step > p:last-child {
+    margin-top: 13px;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+
+  .mallon-quote {
+    padding-top: 38px;
+  }
+
+  .mallon-quote .quote-mark {
+    top: -38px;
+    font-size: 140px;
+  }
+
+  .mallon-quote p {
+    font-size: clamp(39px, 12vw, 52px);
+  }
+
   .footer-inner {
     display: grid;
   }
@@ -1269,4 +1939,29 @@ details p {
     opacity: 1;
     transform: none;
   }
+
+  .renewal-node,
+  .parish-node,
+  .alpha-marker,
+  .orbit-arrow {
+    opacity: 1;
+  }
+
+  .renewal-node {
+    transform: scale(1);
+  }
+
+  .parish-node {
+    transform: translateX(-50%) scale(1);
+  }
+
+  .alpha-marker {
+    transform: scale(1) rotate(-5deg);
+  }
+
+  .orbit-arrow-one { transform: rotate(-90deg) scaleX(1); }
+  .orbit-arrow-two { transform: scaleX(1); }
+  .orbit-arrow-three { transform: rotate(90deg) scaleX(1); }
+  .orbit-arrow-four { transform: rotate(151deg) scaleX(1); }
+  .orbit-arrow-five { transform: rotate(-151deg) scaleX(1); }
 }

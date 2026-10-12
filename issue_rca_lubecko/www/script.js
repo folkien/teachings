@@ -45,49 +45,93 @@ if (reducedMotion || !('IntersectionObserver' in window)) {
   revealItems.forEach((item) => observer.observe(item));
 }
 
-const cycleContent = {
-  guest: {
-    title: 'Gość znajduje bezpieczne miejsce',
-    text: 'Alpha tworzy przestrzeń, w której można pytać, słuchać i szukać bez presji. Pierwszym doświadczeniem jest gościnność i relacja, a nie wymaganie gotowych odpowiedzi.'
-  },
-  faith: {
-    title: 'Odkrywanie wiary',
-    text: 'Kolejne spotkania prowadzą przez podstawowe pytania o życie, Jezusa, modlitwę i działanie Ducha Świętego. Każdy może iść we własnym tempie.'
-  },
-  team: {
-    title: 'Wejście do ekipy',
-    text: 'Uczestnik może wrócić przy następnej edycji jako pomocnik. Zaczyna troszczyć się o innych, uczy się słuchać i współtworzy atmosferę spotkania.'
-  },
-  leader: {
-    title: 'Odpowiedzialność i liderzy',
-    text: 'Praktyka kolejnych edycji pomaga formować gospodarzy, koordynatorów i osoby zdolne uruchamiać następne działania ewangelizacyjne.'
-  },
-  parish: {
-    title: 'Zmiana kultury parafii',
-    text: 'Ewangelizacja przestaje być jednorazowym wydarzeniem. Staje się regularnym sposobem działania wspólnoty, która ponownie wychodzi do osób poszukujących.'
-  }
-};
+const renewalStory = document.querySelector('[data-renewal-story]');
 
-const cycleButtons = document.querySelectorAll('.cycle-button');
-const cycleTitle = document.querySelector('[data-cycle-title]');
-const cycleText = document.querySelector('[data-cycle-text]');
+if (renewalStory) {
+  const renewalVisual = renewalStory.querySelector('[data-renewal-visual]');
+  const renewalSteps = [...renewalStory.querySelectorAll('[data-renewal-step]')];
+  const renewalNodes = [...renewalStory.querySelectorAll('[data-stage-target]')];
+  const renewalArrows = [...renewalStory.querySelectorAll('.orbit-arrow')];
+  const renewalMarkers = [...renewalStory.querySelectorAll('.alpha-marker')];
+  const renewalCount = renewalStory.querySelector('[data-cycle-count]');
+  const renewalTitle = renewalStory.querySelector('[data-cycle-title]');
+  const renewalText = renewalStory.querySelector('[data-cycle-text]');
 
-cycleButtons.forEach((button) => {
-  button.addEventListener('click', () => {
-    const item = cycleContent[button.dataset.cycle];
-    if (!item || !cycleTitle || !cycleText) return;
+  const renewalContent = [
+    {
+      title: 'Zapraszamy na pierwszą Alpha',
+      text: 'Chcemy ewangelizować i docierać do ludzi, którzy są poza Kościołem albo szukają drogi powrotu.'
+    },
+    {
+      title: 'Uczestnik odkrywa wiarę',
+      text: 'Gościnność, rozmowa i Ewangelia otwierają drogę do osobistego spotkania z Jezusem.'
+    },
+    {
+      title: 'Wierzący wchodzi do ekipy',
+      text: 'W kolejnej edycji zaczyna służyć gościom i uczy się troski o innych.'
+    },
+    {
+      title: 'Posługujący staje się liderem',
+      text: 'Kolejne edycje oraz realna odpowiedzialność formują gospodarzy i koordynatorów.'
+    },
+    {
+      title: 'Zmienia się kultura parafii',
+      text: 'Ewangelizacja staje się stałym rytmem parafii, która ponownie zaprasza osoby poszukujące.'
+    }
+  ];
 
-    cycleButtons.forEach((entry) => {
-      entry.classList.remove('active');
-      entry.setAttribute('aria-selected', 'false');
+  const activateRenewalStage = (stage) => {
+    const activeStage = Math.min(Math.max(Number(stage) || 1, 1), 5);
+    const content = renewalContent[activeStage - 1];
+
+    renewalVisual.dataset.stage = String(activeStage);
+    renewalCount.textContent = String(activeStage).padStart(2, '0');
+    renewalTitle.textContent = content.title;
+    renewalText.textContent = content.text;
+
+    renewalSteps.forEach((step) => {
+      const isActive = Number(step.dataset.renewalStep) === activeStage;
+      step.classList.toggle('active', isActive);
+      if (isActive) step.setAttribute('aria-current', 'step');
+      else step.removeAttribute('aria-current');
     });
 
-    button.classList.add('active');
-    button.setAttribute('aria-selected', 'true');
-    cycleTitle.textContent = item.title;
-    cycleText.textContent = item.text;
+    renewalNodes.forEach((node) => {
+      const nodeStage = Number(node.dataset.stageTarget);
+      node.classList.toggle('is-visible', nodeStage <= activeStage);
+      node.classList.toggle('active', nodeStage === activeStage);
+    });
+
+    renewalArrows.forEach((arrow, index) => {
+      arrow.classList.toggle('is-visible', index < activeStage);
+    });
+
+    renewalMarkers.forEach((marker, index) => {
+      marker.classList.toggle('is-visible', index < Math.min(activeStage, 4));
+    });
+  };
+
+  renewalNodes.forEach((node) => {
+    node.addEventListener('click', () => {
+      const target = renewalStory.querySelector(`[data-renewal-step="${node.dataset.stageTarget}"]`);
+      target?.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth', block: 'center' });
+    });
   });
-});
+
+  if (!reducedMotion && 'IntersectionObserver' in window) {
+    const renewalObserver = new IntersectionObserver((entries) => {
+      const visibleEntry = entries
+        .filter((entry) => entry.isIntersecting)
+        .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+
+      if (visibleEntry) activateRenewalStage(visibleEntry.target.dataset.renewalStep);
+    }, { rootMargin: '-35% 0px -45% 0px', threshold: [0, .1, .5] });
+
+    renewalSteps.forEach((step) => renewalObserver.observe(step));
+  }
+
+  activateRenewalStage(1);
+}
 
 const galleryButtons = document.querySelectorAll('[data-lightbox]');
 const lightbox = document.querySelector('.lightbox');

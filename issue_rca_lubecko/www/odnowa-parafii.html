@@ -22,18 +22,57 @@
       <p class="lead">Prosty format spotkania może otworzyć dłuższą drogę: odkrywanie wiary, wejście do ekipy, odpowiedzialność i zapraszanie kolejnych osób.</p>
     </div></section>
 
-    <section class="section plum"><div class="container">
-      <div class="section-header"><div><p class="eyebrow" style="color:var(--pink)">Cykl Bożej renowacji</p><h2>Droga, która może się powtarzać</h2></div><p>Wybierz etap, aby zobaczyć jego znaczenie. To możliwa droga wzrostu, nie schemat narzucany każdej osobie.</p></div>
-      <div class="cycle-layout">
-        <div class="cycle-nav" role="tablist" aria-label="Etapy drogi odnowy">
-          <button class="cycle-button active" type="button" data-cycle="guest" aria-selected="true"><span>1</span>Gość przychodzi na Alpha</button>
-          <button class="cycle-button" type="button" data-cycle="faith" aria-selected="false"><span>2</span>Odkrywa wiarę</button>
-          <button class="cycle-button" type="button" data-cycle="team" aria-selected="false"><span>3</span>Wchodzi do ekipy</button>
-          <button class="cycle-button" type="button" data-cycle="leader" aria-selected="false"><span>4</span>Bierze odpowiedzialność</button>
-          <button class="cycle-button" type="button" data-cycle="parish" aria-selected="false"><span>5</span>Zmienia kulturę parafii</button>
+    <section class="section plum renewal-story" data-renewal-story><div class="container">
+      <div class="section-header renewal-intro"><div><p class="eyebrow" style="color:var(--pink)">Cykl Bożej renowacji</p><h2>Jedna Alpha uruchamia <span class="renewal-italic">następny obrót koła.</span></h2></div><p>Przewijaj stronę. Zobaczysz, jak uczestnik odkrywa wiarę, uczy się posługiwać, dojrzewa do przywództwa i pomaga parafii ponownie wychodzić do nowych osób.</p></div>
+
+      <div class="renewal-story-grid">
+        <div class="renewal-visual-wrap" aria-label="Animowany cykl Bożej renowacji: od uczestnika Alpha do zmiany kultury parafii">
+          <div class="renewal-visual" data-renewal-visual data-stage="1">
+            <div class="cycle-orbit" aria-hidden="true"><span class="orbit-arrow orbit-arrow-one"></span><span class="orbit-arrow orbit-arrow-two"></span><span class="orbit-arrow orbit-arrow-three"></span><span class="orbit-arrow orbit-arrow-four"></span><span class="orbit-arrow orbit-arrow-five"></span></div>
+
+            <button class="renewal-node node-seeking active" type="button" data-stage-target="1" aria-label="Etap 1: uczestnik przychodzi na Alpha"><span class="node-kicker">uczestnik</span><strong>Poszukujący</strong></button>
+            <button class="renewal-node node-believing" type="button" data-stage-target="2" aria-label="Etap 2: uczestnik staje się wierzącym"><span class="node-kicker">spotyka Jezusa</span><strong>Wierzący</strong></button>
+            <button class="renewal-node node-serving" type="button" data-stage-target="3" aria-label="Etap 3: wierzący staje się posługującym"><span class="node-kicker">wchodzi do ekipy</span><strong>Posługujący</strong></button>
+            <button class="renewal-node node-leading" type="button" data-stage-target="4" aria-label="Etap 4: posługujący staje się liderem"><span class="node-kicker">bierze odpowiedzialność</span><strong>Lider</strong></button>
+
+            <button class="parish-node" type="button" data-stage-target="5" aria-label="Etap 5: liderzy zmieniają kulturę parafii">
+              <span class="church-icon" aria-hidden="true"><i class="church-cross"></i><i class="church-tower"></i><i class="church-roof"></i><i class="church-body"></i><i class="church-door"></i><i class="church-heart">♥</i></span>
+              <strong>Zmiana kultury<br>parafii</strong>
+            </button>
+
+            <span class="alpha-marker marker-one" aria-hidden="true"><b>?</b> Alpha</span>
+            <span class="alpha-marker marker-two" aria-hidden="true"><b>?</b> Alpha</span>
+            <span class="alpha-marker marker-three" aria-hidden="true"><b>?</b> Alpha</span>
+            <span class="alpha-marker marker-four" aria-hidden="true"><b>?</b> Alpha</span>
+
+            <div class="cycle-center" aria-live="polite"><span data-cycle-count>01</span><strong data-cycle-title>Zapraszamy na pierwszą Alpha</strong><p data-cycle-text>Chcemy ewangelizować i docierać do ludzi, którzy są poza Kościołem albo szukają drogi powrotu.</p></div>
+          </div>
+          <p class="renewal-hint" aria-hidden="true">Przewijaj, aby wprawić koło w ruch <span>↓</span></p>
         </div>
-        <div class="cycle-panel" aria-live="polite"><h3 data-cycle-title>Gość znajduje bezpieczne miejsce</h3><p data-cycle-text>Alpha tworzy przestrzeń, w której można pytać, słuchać i szukać bez presji. Pierwszym doświadczeniem jest gościnność i relacja, a nie wymaganie gotowych odpowiedzi.</p></div>
+
+        <div class="renewal-steps" aria-label="Etapy cyklu Bożej renowacji">
+          <article class="renewal-step active" data-renewal-step="1">
+            <span class="renewal-step-number">01</span><p class="eyebrow">Pierwsza Alpha</p><h3>Zaczynamy od zaproszenia</h3><p>Parafia chce ewangelizować i coś zmienić. Zaprasza więc osoby poszukujące na prostą drogę: posiłek, film i rozmowę. Pierwszym doświadczeniem gościa jest gościnność — bezpieczne miejsce na pytania i relację.</p>
+          </article>
+          <article class="renewal-step" data-renewal-step="2">
+            <span class="renewal-step-number">02</span><p class="eyebrow">Uczestnik → wierzący</p><h3>Człowiek spotyka Jezusa</h3><p>Przez kolejne spotkania może odkryć wiarę i doświadczyć osobistego spotkania z Jezusem. Nie jest już tylko uczestnikiem wydarzenia. Zaczyna żyć jako osoba wierząca.</p>
+          </article>
+          <article class="renewal-step" data-renewal-step="3">
+            <span class="renewal-step-number">03</span><p class="eyebrow">Wierzący → posługujący</p><h3>Wraca, ale tym razem do ekipy</h3><p>Podczas następnej edycji uczy się służyć innym: przygotowuje miejsce, troszczy się o gości, słucha i pomaga prowadzić rozmowę. Wiara przechodzi w konkretną posługę.</p>
+          </article>
+          <article class="renewal-step" data-renewal-step="4">
+            <span class="renewal-step-number">04</span><p class="eyebrow">Posługujący → lider</p><h3>Odpowiedzialność formuje lidera</h3><p>Pierwsza, druga i trzecia posługa dają doświadczenie. Posługujący zaczyna prowadzić innych, zostaje gospodarzem lub koordynatorem i pomaga przygotować kolejnych liderów.</p>
+          </article>
+          <article class="renewal-step" data-renewal-step="5">
+            <span class="renewal-step-number">05</span><p class="eyebrow">Liderzy → kultura parafii</p><h3>Ewangelizacja staje się sposobem działania</h3><p>Nowi liderzy uruchamiają następne edycje i nowe dzieła. Parafia nie organizuje już tylko pojedynczego wydarzenia — regularnie wychodzi do osób poszukujących. Koło zaczyna kolejny obrót.</p>
+          </article>
+        </div>
       </div>
+    </div></section>
+
+    <section class="mallon-section"><div class="container mallon-grid">
+      <figure class="mallon-photo reveal"><img src="assets/james-mallon.webp" alt="Ksiądz James Mallon w ławce kościelnej" width="1024" height="576" loading="lazy"><figcaption>ks. James Mallon · autor książki „Boża renowacja”</figcaption></figure>
+      <blockquote class="mallon-quote reveal"><span class="quote-mark" aria-hidden="true">„</span><p>Jeśli ewangelizacja jest na pierwszym miejscu w parafii, to wszystko jest na właściwym.</p><cite>ks. James Mallon</cite></blockquote>
     </div></section>
 
     <section class="section"><div class="container split">

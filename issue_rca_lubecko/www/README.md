@@ -30,6 +30,7 @@ Następnie strona będzie dostępna pod adresem `http://127.0.0.1:4173/`.
 - metadane kanoniczne i Open Graph wskazują `https://alpha.lubecko.pl/`; jeśli nowa strona trafi pod inny adres, trzeba zaktualizować je przed publikacją;
 - ustalić, czy i gdzie publikować informacje o aktualnej edycji Alpha.
 - potwierdzić zakres zgód na ponowne wykorzystanie świadectw wraz z imieniem i wiekiem; ich źródłem są publiczne posty SNE Lubecko, ale nowa strona jest osobnym miejscem publikacji.
+- po 22 października zaktualizować albo usunąć ze strony głównej zaproszenie na pierwsze spotkania 11. edycji.
 
 ## Archiwum wydarzeń i świadectw
 

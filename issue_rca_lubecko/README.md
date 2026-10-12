@@ -75,6 +75,7 @@ Strona powinna pokazywać prawdziwą historię Lubecka:
 
 - dwa odwołane Kursy Nowe Życie i pytanie „co dalej?”;
 - sprawdzenie Alpha najpierw na sobie;
+- pierwszą publiczną edycję zakończoną 28 listopada 2019 roku po 11 spotkaniach;
 - rozwój kolejnych edycji, także online i dla młodzieży;
 - jubileuszową dziesiątą edycję w 2025 roku;
 - **trwającą jedenastą edycję**;
@@ -224,11 +225,10 @@ Przed publicznym wykorzystaniem zdjęć na stronie należy potwierdzić zgody na
 
 ## Dane do uzupełnienia lub sprawdzenia przed publikacją strony
 
-- dokładny rok i data pierwszej edycji Alpha w Lubecku;
 - liczba wszystkich uczestników jedenastu edycji;
 - liczebność wspólnoty przed Alpha i obecnie;
 - liczba osób, które po Alpha weszły do wspólnoty, ekipy lub podjęły inną posługę;
-- krótkie świadectwa uczestników i proboszczów;
+- potwierdzenie zgód na ponowne wykorzystanie wybranych świadectw uczestników i proboszczów;
 - aktualne globalne dane o skali Alpha;
 - źródło i metodologia statystyk 88%, 88%, 80% i 69%;
 - potwierdzenie praw do cytatów, zdjęć, mapy i materiałów graficznych przeznaczonych do publikacji.

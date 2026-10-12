@@ -30,7 +30,15 @@ Następnie strona będzie dostępna pod adresem `http://127.0.0.1:4173/`.
 - podpiąć docelową domenę i uzupełnić adresy Open Graph oraz mapę witryny;
 - ustalić, czy i gdzie publikować informacje o aktualnej edycji Alpha.
 
+## Redakcja zdjęć
+
+Wybrane fotografie zostały skopiowane z roboczego katalogu `/home/spasz/Obrazy/alpha/`, zmniejszone i zapisane jako WebP w `assets/photos/`. Oryginały nie zostały zmienione.
+
+- strona główna pokazuje przede wszystkim własne edycje Alpha w Lubecku;
+- pozostałe podstrony wykorzystują różne zdjęcia, bez przypadkowego powtarzania tych samych kadrów;
+- galeria na stronie historii pokazuje Lubecko oraz miejsca, którym RCA towarzyszyło: Koszęcin, Olszynę, Zawadzkie, Legnicę, Gliwice i Jelenią Górę;
+- nazwy plików w `assets/photos/` opisują miejsce albo funkcję zdjęcia, aby później można było łatwo rozbudować galerię lub przygotować mapę działań RCA.
+
 ## Technologia
 
 Strona korzysta z HTML, CSS i niewielkiej ilości JavaScriptu. Nie używa frameworka ani zewnętrznego systemu zarządzania treścią. Fonty Instrument Serif i Plus Jakarta Sans są pobierane z Google Fonts, a w razie braku połączenia używane są fonty zastępcze.
-

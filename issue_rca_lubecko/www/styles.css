@@ -437,6 +437,7 @@ h3 {
 
 .three-grid,
 .four-grid,
+.five-grid,
 .team-grid,
 .faq-grid {
   display: grid;
@@ -449,6 +450,10 @@ h3 {
 
 .four-grid {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.five-grid {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .team-grid {
@@ -485,6 +490,40 @@ h3 {
 .team-card p {
   margin: 0;
   color: var(--muted);
+}
+
+.format-card .format-duration {
+  margin: -10px 0 14px;
+  color: var(--alpha-red);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.format-timeline {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 16px;
+  max-width: 680px;
+  margin: 42px auto 0;
+  color: var(--alpha-red);
+  font-size: 15px;
+  letter-spacing: 0.04em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.format-timeline::before,
+.format-timeline::after {
+  height: 1px;
+  background: rgba(228, 35, 18, 0.45);
+  content: "";
+}
+
+.format-timeline span {
+  display: none;
 }
 
 .current-alpha {
@@ -1774,6 +1813,10 @@ details p {
   .four-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .five-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (max-width: 820px) {
@@ -1849,6 +1892,10 @@ details p {
   }
 
   .three-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .five-grid {
     grid-template-columns: 1fr;
   }
 

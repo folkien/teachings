@@ -14,6 +14,12 @@ Lubecko funkcjonuje nie tylko jako miejsce własnych edycji, ale także jako zap
 
 Strona Kursu Alpha w Lubecku: [alpha.lubecko.pl](https://alpha.lubecko.pl/)
 
+## Kontakt publiczny
+
+- e-mail: `lubecko@alphapolska.org`;
+- Sławomir Paszko, telefon: `888 651 334`;
+- WhatsApp: [napisz wiadomość](https://wa.me/48888651334).
+
 ## Podstawa formalna
 
 Porozumienie o wykonywaniu świadczeń wolontariackich zostało zawarte 20.09.2024 w Krakowie pomiędzy Stowarzyszeniem Alpha Polska a Sławomirem Paszko. Dotyczy wykonywania zadań **Koordynatora Regionalnego Centrum Alpha przy Szkole Nowej Ewangelizacji w Lubecku**.
@@ -85,7 +91,7 @@ Koordynator zobowiązał się:
 
 W osobistym podsumowaniu 2023 roku droga rozwoju została zapisana skrótowo jako: odejście od lidera → Alpha w parafiach → RCA → Londyn i współpraca z Alpha Polska. Ten etap był częścią szerszej szkoły posłuszeństwa i podejmowania kolejnych kroków mimo niepewności. (Źródło: [[20250907_DomNaSkale]], [[swiadectwa]])
 
-Repozytorium nie podaje dokładnej daty formalnego powstania RCA Lubecko.
+Formalnym początkiem RCA Lubecko było **podpisanie 20 września 2024 roku** porozumienia z Alpha Polska dotyczącego posługi Koordynatora Regionalnego Centrum Alpha przy Szkole Nowej Ewangelizacji w Lubecku. Szkolenia Alpha prowadziliśmy już wcześniej; w maju i czerwcu 2024 roku odbyły się udokumentowane szkolenia w Gliwicach i Koszęcinie. (Źródło: [[facebook_alpha_archiwum]], [[facebook_alpha_zrodla]])
 
 ### Alpha Collective w Londynie
 

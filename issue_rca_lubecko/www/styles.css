@@ -1668,6 +1668,41 @@ details p {
   margin: 8px 0 26px;
 }
 
+.contact-methods {
+  display: grid;
+  gap: 10px;
+  margin-top: 24px;
+}
+
+.contact-card .contact-method {
+  display: grid;
+  gap: 3px;
+  padding: 16px 18px;
+  border: 1px solid rgba(255, 255, 238, .2);
+  border-radius: 14px;
+  background: rgba(255, 255, 238, .09);
+  text-decoration: none;
+  transition: background .2s ease, transform .2s ease;
+}
+
+.contact-card .contact-method:hover {
+  background: rgba(255, 255, 238, .16);
+  transform: translateY(-2px);
+}
+
+.contact-method span {
+  color: rgba(255, 255, 238, .7);
+  font-size: 11px;
+  font-weight: 750;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.contact-method strong {
+  overflow-wrap: anywhere;
+  font-size: 16px;
+}
+
 .contact-form {
   display: grid;
   gap: 18px;

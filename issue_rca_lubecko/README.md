@@ -76,6 +76,8 @@ Strona powinna pokazywać prawdziwą historię Lubecka:
 - dwa odwołane Kursy Nowe Życie i pytanie „co dalej?”;
 - sprawdzenie Alpha najpierw na sobie;
 - pierwszą publiczną edycję zakończoną 28 listopada 2019 roku po 11 spotkaniach;
+- pierwsze udokumentowane szkolenia w Gliwicach i Koszęcinie w maju i czerwcu 2024 roku;
+- podpisanie 20 września 2024 roku porozumienia z Alpha Polska i formalny początek RCA Lubecko;
 - rozwój kolejnych edycji, także online i dla młodzieży;
 - jubileuszową dziesiątą edycję w 2025 roku;
 - **trwającą jedenastą edycję**;
@@ -122,7 +124,7 @@ Szczegółowe informacje o rolach, prowadzeniu rozmowy, harmonogramie wieczoru i
 4. **Jak Alpha zmienia parafię** — cykl Bożej renowacji i etapy rozwoju.
 5. **Wsparcie RCA** — „przyjdź i zobacz”, szkolenia oraz pomoc pierwszej edycji.
 6. **Materiały szkoleniowe** — wiedza dla zespołów, które podjęły decyzję.
-7. **Kontakt** — formularz i adres `lubecko@alphapolska.org`.
+7. **Kontakt** — formularz, adres `lubecko@alphapolska.org`, telefon `888 651 334` i WhatsApp.
 
 ## Materiały źródłowe i opracowania
 

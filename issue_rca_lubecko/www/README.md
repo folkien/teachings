@@ -43,6 +43,7 @@ Wybrane fotografie zostały skopiowane z roboczego katalogu `/home/spasz/Obrazy/
 - strona główna pokazuje przede wszystkim własne edycje Alpha w Lubecku;
 - pozostałe podstrony wykorzystują różne zdjęcia, bez przypadkowego powtarzania tych samych kadrów;
 - galeria na stronie historii pokazuje Lubecko oraz miejsca, którym RCA towarzyszyło: Koszęcin, Olszynę, Zawadzkie, Legnicę, Gliwice i Jelenią Górę;
+- strona główna wykorzystuje zdjęcie z Forum Parafialnych Rad Duszpasterskich w Tarnowie, gdzie ks. Tomasz Hajok i Sławomir Paszko dzielili się doświadczeniem odnowy parafii;
 - nazwy plików w `assets/photos/` opisują miejsce albo funkcję zdjęcia, aby później można było łatwo rozbudować galerię lub przygotować mapę działań RCA.
 
 ## Technologia

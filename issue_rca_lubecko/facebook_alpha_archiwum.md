@@ -75,6 +75,13 @@
 - Wspólnota Dobrego Pasterza podziękowała Sławkowi i Marcinowi za spotkanie szkoleniowe.
 - Zapowiedziano Alpha w Koszęcinie na wrzesień 2024 roku.
 
+### 20 września 2024 — formalny początek RCA Lubecko
+
+- Sławomir Paszko podpisał z Alpha Polska porozumienie dotyczące wykonywania zadań Koordynatora Regionalnego Centrum Alpha przy Szkole Nowej Ewangelizacji w Lubecku.
+- Porozumienie obowiązuje od 20 września 2024 do 20 września 2027 roku.
+- Szkolenia prowadzone w Gliwicach i Koszęcinie poprzedzały formalne powstanie RCA.
+- Źródło dokumentu: [[regionalne_centrum_alpha_lubecko]].
+
 ### 15 listopada 2024 — Alpha Collective ’24 w Londynie
 
 - Sławomir i Marcin uczestniczyli w wyjeździe Alpha Polska.

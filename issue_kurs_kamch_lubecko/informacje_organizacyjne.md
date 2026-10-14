@@ -43,15 +43,18 @@
 
 ## Głoszący i świadectwa
 
-Według rozmowy wszystkie osoby zapisane jako głoszący potwierdziły udział:
+Aktualny podział nauczających po spotkaniu 13 października:
 
-- Katarzyna Jarzębowska;
-- Sławomir Paszko;
-- Krystian;
-- Agnieszka P.;
-- Aga G.;
-- Jadzia;
-- ks. Tomek.
+- Katarzyna Jarzębowska - Wprowadzenie;
+- Agnieszka Piontek - T1 „Sekret Piotra i Jana”;
+- Sławomir Paszko - rekomendowany do T2 „Prowadzenie modlitwy osobistej”, do potwierdzenia;
+- Piotr Mostowski - T3 „Pięćdziesiątnica”;
+- ks. Tomek - T4 „Uwielbienie”, do potwierdzenia wraz z sobotnią Eucharystią;
+- Jadzia - T5 „Charyzmaty”;
+- Krystian - T6 „Prowadzenie modlitwy wspólnotowej”;
+- Sławomir Paszko - T7 „Wspólnota”.
+
+Potwierdzone świadectwa: Dorota Ballon o owocu KAMCh, Anna Golaś i Barbara Pal o modlitwie osobistej, Sławomir Paszko o doświadczeniu Ducha Świętego oraz Katarzyna Jarzębowska o darze języków. Do obsadzenia pozostają świadectwa o uwielbieniu, proroctwie lub słowie poznania, prowadzeniu modlitwy wspólnotowej oraz wspólnocie jako miejscu wzrostu i rozeznawania charyzmatów.
 
 ## Posługi
 
@@ -61,7 +64,7 @@ Termin potwierdziła ekipa muzyczna z Koszęcina:
 
 - Barbara Pal - główna odpowiedzialna;
 - Piotr Pal;
-- Agnieszka Zyśko.
+- Agnieszka Piontek.
 
 ### Recepcja
 
@@ -70,17 +73,17 @@ Termin potwierdziła ekipa muzyczna z Koszęcina:
 
 ### Materiały dydaktyczne
 
-- Ania - dostępna przez trzy dni;
-- Jadzia - dostępna w sobotę.
-
-W arkuszu ekipy jako główna odpowiedzialna widnieje Agnieszka Golaś. Trzeba potwierdzić, czy chodzi o tę samą osobę co „Ania”, oraz ustalić, czy obecna obsada wystarczy.
+- Anna Golaś - główna odpowiedzialna;
+- Jadzia - tylko sobota;
+- Ania Sobania - sobota i niedziela.
 
 ### Kawiarenka i posiłki
 
-- Brak osoby odpowiedzialnej za kuchnię/kawiarenkę.
-- Trudno znaleźć osoby po KAMCh do tej posługi.
+- Dorota Ballon - główna odpowiedzialna;
+- Marek Ballon;
+- Ania Sobania i Beata - pomoc w sobotę.
 - Grupy mogą pełnić dyżury przy przygotowaniu stołów i sprzątaniu.
-- Do ustalenia pozostają kolacje w piątek i sobotę.
+- Do potwierdzenia pozostaje forma lekkiej kolacji w piątek oraz dokładne godziny posiłków.
 
 ### Noclegi dla ekipy
 
@@ -88,9 +91,7 @@ Osobom przyjeżdżającym do ekipy można zaproponować nocleg w domu katechetyc
 
 ## Braki w ekipie i sprawy do ustalenia
 
-- **Projektant:** brak; Krystian nie widzi się w tej roli.
-- **Materiały dydaktyczne:** potwierdzić obsadę i główną osobę odpowiedzialną.
-- **Kuchnia/kawiarenka:** brak odpowiedzialnego.
+- **Projektant:** Piotr Mostowski - główny; ma odebrać i przywieźć galerię plakatów.
 - **Lektorzy:** brak wskazanej obsady i głównego odpowiedzialnego.
 - **Sprzęt:** brak wskazanej osoby.
 - **Liturgia:** brak wskazanej osoby.
@@ -100,6 +101,19 @@ Osobom przyjeżdżającym do ekipy można zaproponować nocleg w domu katechetyc
 - Uzupełnić godziny rozpoczęcia i zakończenia.
 - Ustalić sposób i termin płatności 100 zł.
 - Ustalić kontakt organizacyjny podawany uczestnikom.
+
+## Aktualizacja 2026-10-13 (z transkryptu)
+
+- Sprawy logistyczne, techniczne, posiłki, uczestnicy i rekwizyty koordynuje Sławomir Paszko.
+- Za nauczania, świadectwa, dynamiki i korektę merytoryczną odpowiada Katarzyna Jarzębowska.
+- Termin przesłania konspektów nauczania i świadectw do Katarzyny: 26 października 2026 r. Świadectwa można przesłać tekstem lub nagraniem głosowym.
+- Każda osoba z ekipy ma przygotować przynajmniej jedno świadectwo, nawet jeśli nie zostanie wykorzystane publicznie.
+- Trzeba potwierdzić z ks. Tomkiem godzinę sobotniej Eucharystii, T4 „Uwielbienie” i przebieg uwielbienia chóralnego oraz pieśniami.
+- W czwartek 5 listopada odbędzie się lokalne przygotowanie techniczne sali. Nie jest planowane kolejne pełne spotkanie całej ekipy.
+- Nocleg należy zabezpieczyć dla Kasi, Piotra Mostowskiego i Ani; Piotr może ostatecznie z niego nie skorzystać.
+- Ekipa nie płaci za udział w kursie.
+- W dniu spotkania zapisanych było około 18 z planowanych 35 uczestników.
+- Osoby niespełniające wprost warunków udziału wymagają indywidualnego kontaktu i potwierdzenia zgody animatora, odpowiedzialnego albo proboszcza.
 
 ## Arkusz ekipy
 

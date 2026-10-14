@@ -154,7 +154,7 @@ Szczegółowe informacje o rolach, prowadzeniu rozmowy, harmonogramie wieczoru i
 
 ## Styl graficzny, ikony i branding Alpha
 
-Nowa stylistyka Alpha została rozpoznana na podstawie prezentacji [[Prezentacja_vA.pptx]], [[Prezentacja_vB.pptx]] oraz gotowych grafik wydarzeniowych. Ma być punktem odniesienia podczas projektowania strony RCA Lubecko i kolejnych materiałów promocyjnych.
+Oficjalnym punktem odniesienia dla nowych materiałów jest [[brandbook_2026/README]] oraz skrót w [[../wiedza/alpha_brandbook_2026]]. Starsze prezentacje [[Prezentacja_vA.pptx]], [[Prezentacja_vB.pptx]] i gotowe grafiki wydarzeniowe dokumentują wcześniejszą, lokalnie używaną stylistykę.
 
 ### Charakter stylu
 

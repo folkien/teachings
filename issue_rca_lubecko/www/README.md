@@ -1,6 +1,12 @@
 # Strona Regionalnego Centrum Alpha w Lubecku
 
-Responsywna, statyczna strona przygotowana na podstawie bazy wiedzy w `issue_rca_lubecko`, materiałów fotograficznych i identyfikacji wizualnej Alpha.
+Responsywna, statyczna strona przygotowana na podstawie bazy wiedzy w `issue_rca_lubecko`, materiałów fotograficznych i oficjalnej identyfikacji wizualnej Alpha.
+
+## Branding Alpha
+
+- Aktualne zasady: [[../brandbook_2026/README]] oraz [[../../wiedza/alpha_brandbook_2026]].
+- Lokalne kopie wykorzystywanych znaków i ilustracji znajdują się w `assets/brand/`; są to bezpośrednio przekazane zasoby Alpha, zmniejszone jedynie do rozmiaru potrzebnego stronie.
+- Na stronie stosujemy pełny czerwony znak Alpha na jasnych tłach, kremowy symbol jako subtelny akcent na czerwonym tle oraz ilustracje tylko jako pomocnicze, nie konkurujące ze zdjęciami prawdziwych spotkań.
 
 ## Podstrony
 

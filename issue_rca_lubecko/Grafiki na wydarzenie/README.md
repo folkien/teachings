@@ -2,6 +2,8 @@
 
 Ten katalog zawiera roboczą dokumentację nowej stylistyki widocznej w materiałach wydarzeniowych oraz elementy wydobyte bezpośrednio z prezentacji [[Prezentacja_vA.pptx]] i [[Prezentacja_vB.pptx]].
 
+> **Aktualna referencja dla nowych materiałów:** [[../brandbook_2026/README]]. Niniejszy opis pozostaje dokumentacją lokalnych, wcześniejszych prezentacji i pomocniczych zasobów.
+
 ## Czcionki
 
 W obu prezentacjach zapisano następujące fonty używane jako część projektu:

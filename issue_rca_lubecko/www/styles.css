@@ -12,6 +12,7 @@
   --purple: #5f5ba5;
   --ink: #171513;
   --muted: #625d56;
+  --serif: "Instrument Serif", Georgia, serif;
   --line: rgba(23, 21, 19, 0.14);
   --white: #ffffff;
   --shadow: 0 18px 50px rgba(64, 40, 25, 0.12);
@@ -122,6 +123,7 @@ a {
 .brand img {
   width: 56px;
   height: 56px;
+  object-fit: contain;
 }
 
 .brand-copy {
@@ -359,6 +361,29 @@ h3 {
   position: relative;
 }
 
+.brand-sticker {
+  display: block;
+  pointer-events: none;
+  user-select: none;
+}
+
+.hero-sticker {
+  position: absolute;
+  z-index: 2;
+  top: -44px;
+  right: -54px;
+  width: clamp(110px, 18vw, 170px);
+  filter: drop-shadow(0 10px 14px rgba(157, 0, 0, .12));
+  transform: rotate(7deg);
+}
+
+.hero-media .hero-sticker {
+  width: clamp(78px, 11vw, 125px);
+  height: auto;
+  min-height: 0;
+  object-fit: contain;
+}
+
 .hero-media::before {
   position: absolute;
   z-index: -1;
@@ -531,12 +556,16 @@ h3 {
 }
 
 .current-alpha {
+  position: relative;
+  overflow: hidden;
   padding: clamp(64px, 8vw, 96px) 0;
   background: var(--alpha-red);
   color: var(--cream);
 }
 
 .current-alpha-grid {
+  position: relative;
+  z-index: 1;
   display: grid;
   align-items: center;
   gap: clamp(42px, 8vw, 110px);
@@ -558,6 +587,8 @@ h3 {
 }
 
 .current-alpha-details {
+  position: relative;
+  z-index: 1;
   padding: 30px;
   border: 1px solid rgba(255, 255, 238, .25);
   border-radius: var(--radius);
@@ -566,6 +597,16 @@ h3 {
 
 .current-alpha-details p {
   margin: 0 0 18px;
+}
+
+.current-alpha-symbol {
+  position: absolute;
+  z-index: 0;
+  right: -155px;
+  bottom: -250px;
+  width: 480px;
+  opacity: .13;
+  transform: rotate(-9deg);
 }
 
 .split {
@@ -773,10 +814,22 @@ h3 {
 }
 
 .steps {
+  position: relative;
   counter-reset: step;
 }
 
+.steps .steps-sticker {
+  position: absolute;
+  z-index: 0;
+  top: -132px;
+  right: -46px;
+  width: 170px;
+  transform: rotate(-7deg);
+}
+
 .step-card {
+  position: relative;
+  z-index: 1;
   padding: 26px 22px 30px;
   border-top: 1px solid var(--line);
   counter-increment: step;
@@ -2197,6 +2250,18 @@ details p {
   .hero-badge {
     right: 0;
     width: 116px;
+  }
+
+  .hero-sticker {
+    top: -36px;
+    right: -28px;
+    width: 116px;
+  }
+
+  .steps .steps-sticker {
+    top: -98px;
+    right: -26px;
+    width: 125px;
   }
 
   .hero-media::before {

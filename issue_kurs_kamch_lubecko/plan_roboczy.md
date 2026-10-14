@@ -1,5 +1,7 @@
 # Plan roboczy Kursu Animacji Modlitwy Charyzmatycznej
 
+> **Wersja archiwalna.** Plan został zastąpiony przez [kamch_2026_plan_wersja3.md](kamch_2026_plan_wersja3.md), ponieważ nie rozdzielał poprawnie tematów o modlitwie osobistej i umieszczał prowadzenie modlitwy wspólnotowej w niewłaściwym dniu.
+
 **Lubecko, 6-8 listopada 2026 r.**
 
 | Godzina | Punkt programu | min |

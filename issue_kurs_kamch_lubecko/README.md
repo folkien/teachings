@@ -27,6 +27,7 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 - [streszczenie.md](streszczenie.md) - zwięzłe streszczenie kursu, programu i potrzeb organizacyjnych dla ekipy.
 - [informacje_organizacyjne.md](informacje_organizacyjne.md) - aktualny skład ekipy, zapisy, warunki udziału, braki i sprawy do ustalenia.
 - [plan_roboczy.md](plan_roboczy.md) - roboczy harmonogram kursu na 6-8 listopada 2026 r., bez obsady ekipy i rekwizytów.
+- [kamch_2026_plan_wersja3.md](kamch_2026_plan_wersja3.md) - uporządkowany plan po spotkaniu ekipy 13 października: poprawna kolejność metodologiczna, nauczający, świadectwa, posługi i terminy.
 - [facebook_kamch_lubecko_2026.png](facebook_kamch_lubecko_2026.png) - gotowa grafika promująca wydarzenie na Facebooku.
 - [facebook_post_kwadrat_kamch_lubecko_2026.png](facebook_post_kwadrat_kamch_lubecko_2026.png) - kwadratowa grafika promocyjna do posta na Facebooku.
 - [facebook_tlo_kamch_lubecko_2026.png](facebook_tlo_kamch_lubecko_2026.png) - wariant bez tekstu, do użycia jako samo tło lub w innych publikacjach.
@@ -36,11 +37,19 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 
 - [x] Wyznaczyć dyrektora, koordynatora i kapłana kursu.
 - [x] Uruchomić pierwszą wersję formularza zapisów.
-- [ ] Uzupełnić brakujące posługi w ekipie i potwierdzić zakresy odpowiedzialności.
+- [x] Uzupełnić główne posługi: projektant, muzyczni, recepcja, materiały dydaktyczne oraz kawiarenka i posiłki.
+- [ ] Wyznaczyć lektorów, liturgię, sprzęt i osobę odpowiedzialną za apteczkę.
 - [ ] Potwierdzić dokładne miejsce, godziny rozpoczęcia i zakończenia oraz warunki pobytu uczestników w Lubecku.
 - [x] Przygotować roboczy harmonogram 6-8 listopada na podstawie planów z 2017 i 2020 r.
-- [ ] Potwierdzić z dyrektorem kursu godziny, posiłki i ostateczny układ programu.
+- [x] Przywrócić kolejność tematów zgodną z Dyrektorium KAMCh 2017 i przygotować wersję 3 planu.
+- [ ] Potwierdzić z ks. Tomkiem sobotnią Eucharystię, T4 „Uwielbienie” oraz ostateczne godziny i posiłki.
+- [ ] Potwierdzić Sławka jako nauczającego T2 oraz obsadzić cztery brakujące świadectwa.
+- [ ] Zebrać od nauczających konspekty i od ekipy świadectwa do 26 października 2026 r.
 - [ ] Przygotować listę uczestników, komunikację przedkursową i obsadę grup/praktyk modlitewnych.
 - [ ] Zabezpieczyć materiały, muzykę, nagłośnienie, ołtarz Słowa i rekwizyty z tabeli technicznej.
-- [ ] Przeprowadzić spotkanie duchowo-organizacyjne ekipy przed kursem.
+- [x] Przeprowadzić spotkanie duchowo-organizacyjne ekipy przed kursem 13 października 2026 r.
 - [ ] Zamknięcie issue (ekstrakcja wiedzy do `wiedza/`).
+
+## Aktualizacja 2026-10-13 (z transkryptu)
+
+Spotkanie ekipy ujawniło, że wersja 2 planu mieszała „Sekret Piotra i Jana” z „Prowadzeniem modlitwy osobistej” oraz umieszczała „Prowadzenie modlitwy wspólnotowej” w niewłaściwym dniu. Wersja 3 przywraca kolejność z dyrektorium, przenosi prowadzenie modlitwy wspólnotowej na sobotni wieczór i skraca niedzielę do około 14:00. Najważniejszym nierozstrzygniętym punktem pozostaje godzina sobotniej Eucharystii.

@@ -148,7 +148,11 @@ W duchu SESA spotkanie ekipy obejmuje wspólną modlitwę i podsumowanie wieczor
 
 ## Podsumowanie prezentacji
 
-> Jeśli Kurs Nowe Życie oznacza sianie i zbiory, to Alpha przypomina oranie i bronowanie pola. Przygotowuje podłoże parafii pod zasiew i rozwój wspólnoty.
+> Jeżeli Kurs Nowe Życie to sianie oraz zbiory, to kurs Alpha to oranie i bronowanie pola.
+>
+> Alpha jest jak przygotowanie podłoża parafii pod zasiew i rozwój wspólnoty.
+>
+> — doświadczenie parafii i wspólnoty SNE Lubecko
 
 ## Znaczenie dla strony internetowej RCA
 

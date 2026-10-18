@@ -33,7 +33,7 @@ Przykładowe spotkanie trwa około dwóch godzin:
 
 Według prezentacji:
 
-- współczesna Alpha rozwinęła się w Kościele anglikańskim; od 1992 roku prowadził ją Nicky Gumbel;
+- współczesna Alpha rozwinęła się w Kościele anglikańskim; od 1992 roku Nicky Gumbel był jej głównym propagatorem i pomógł wyskalować program na świecie;
 - w Polsce Alpha jest prowadzona od 1999 roku;
 - w chwili przygotowania prezentacji Alpha miało ukończyć ponad 24 miliony osób w 169 krajach;
 - Alpha jest dziełem międzynarodowym, wspieranym przez krajowe biura;
@@ -59,6 +59,14 @@ Pierwsza decyzja brzmiała: **„Sprawdźmy Alpha na sobie”**. Zespół najpie
 Kolejnym krokiem było przygotowanie miejsca i rozpoczęcie regularnych edycji.
 
 ![Sala przygotowana na Alpha](assets/alpha_lubecko_sala.jpeg)
+
+### Drugi Dzień Alpha podczas 2. edycji
+
+Podczas drugiej edycji odbył się nasz drugi Dzień Alpha. Był to czas wspólnej modlitwy, spotkania oraz posiłku przy jednym stole.
+
+![Wspólna modlitwa podczas drugiego Dnia Alpha](www/assets/photos/drugi-dzien-alpha-2-edycja-modlitwa.webp)
+
+![Uczestnicy drugiego Dnia Alpha przy wspólnym stole](www/assets/photos/drugi-dzien-alpha-2-edycja-stol.webp)
 
 ### Stan zapisany w prezentacji
 

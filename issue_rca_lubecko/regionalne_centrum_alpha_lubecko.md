@@ -120,7 +120,7 @@ Latem 2025 roku w Alpha Collective w Londynie uczestniczyły również przedstaw
 
 ### Wydarzenia i współprace
 
-- Marzec 2025: udział w Forum Alpha 2025 w Gliwicach; Sławomir Paszko i ks. Tomasz Hajok prezentowali historię Alpha w Lubecku.
+- 22.03.2025: udział w Forum Alpha „Jak uwolnić potencjał parafii?” w Gliwicach. W wydarzeniu uczestniczyli m.in. bp Sławomir Oder, księża i świeccy liderzy. Sławomir Paszko i ks. Tomasz Hajok prezentowali historię Alpha w Lubecku; forum obejmowało także wspólną modlitwę oraz panel o Alpha i kulturze współpracy w parafii. ([Fotorelacja „Gościa Gliwickiego”](https://gliwice.gosc.pl/gal/pokaz/9186298.Forum-Alpha-w-Gliwicach-1/9))
 - Lipiec 2025: współtworzenie stoiska Alpha na Festiwalu Życia w Kokotku razem z Alpha Polska oraz wspólnotami partnerskimi.
 - Lato 2025: udział przedstawicielek RCA Lubecko (Kamila, Edyta) w Alpha Collective w Londynie.
 - 22.11.2025: ks. Tomasz Hajok i Sławomir Paszko występowali na Forum Parafialnych Rad Duszpasterskich w Tarnowie.

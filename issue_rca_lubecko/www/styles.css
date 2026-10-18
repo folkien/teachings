@@ -1140,8 +1140,8 @@ h3 {
 .rys-grid {
   display: grid;
   align-items: stretch;
-  gap: clamp(34px, 7vw, 96px);
-  grid-template-columns: minmax(260px, .72fr) minmax(0, 1.28fr);
+  gap: clamp(34px, 6vw, 78px);
+  grid-template-columns: minmax(320px, .9fr) minmax(0, 1.1fr);
 }
 
 .rys-portrait {
@@ -1165,7 +1165,7 @@ h3 {
   position: relative;
   z-index: 1;
   display: block;
-  width: min(100%, 440px);
+  width: min(100%, 480px);
   border-radius: var(--radius) var(--radius) 0 0;
   box-shadow: var(--shadow);
 }
@@ -1196,7 +1196,7 @@ h3 {
   z-index: 1;
   margin: 20px 0 34px;
   font-family: "Instrument Serif", Georgia, serif;
-  font-size: clamp(34px, 4.1vw, 58px);
+  font-size: clamp(26px, 2.6vw, 38px);
   font-style: italic;
   letter-spacing: -.025em;
   line-height: 1.03;
@@ -1233,8 +1233,7 @@ h3 {
   grid-template-columns: minmax(0, 1.16fr) minmax(320px, .84fr);
 }
 
-.forum-catholic-main,
-.forum-catholic-gallery figure {
+.forum-catholic-main {
   position: relative;
   overflow: hidden;
   margin: 0;
@@ -1243,16 +1242,14 @@ h3 {
   box-shadow: var(--shadow);
 }
 
-.forum-catholic-main img,
-.forum-catholic-gallery img {
+.forum-catholic-main img {
   display: block;
   width: 100%;
   aspect-ratio: 3 / 2;
   object-fit: cover;
 }
 
-.forum-catholic-main figcaption,
-.forum-catholic-gallery figcaption {
+.forum-catholic-main figcaption {
   position: absolute;
   right: 12px;
   bottom: 12px;
@@ -1279,13 +1276,6 @@ h3 {
 
 .forum-catholic-copy .button {
   margin-top: 12px;
-}
-
-.forum-catholic-gallery {
-  display: grid;
-  gap: 22px;
-  margin-top: 22px;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .context-card {
@@ -3091,8 +3081,7 @@ details p {
     padding: 10px 0 0;
   }
 
-  .forum-catholic-feature,
-  .forum-catholic-gallery {
+  .forum-catholic-feature {
     grid-template-columns: 1fr;
   }
 
@@ -3379,7 +3368,7 @@ details p {
   }
 
   .rys-quote > p:not(.eyebrow) {
-    font-size: clamp(31px, 9.5vw, 42px);
+    font-size: clamp(26px, 7.8vw, 34px);
   }
 
   .participant-quote footer {

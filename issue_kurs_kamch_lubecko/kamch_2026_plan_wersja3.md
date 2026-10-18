@@ -25,9 +25,9 @@ W wersji 2 pomieszano dwa odrębne tematy: „Sekret Piotra i Jana” oraz „Pr
 | 17:45 | 60 | Kolacja | Dorota i Marek; forma posiłku do potwierdzenia |
 | 18:45 | 15 | Lodołamacz | Sławek |
 | 19:00 | 15 | Oczekiwania uczestników i krótkie dzielenie w grupach | Sławek |
-| 19:15 | 30 | Wprowadzenie | Kasia |
+| 19:15 | 30 | **Wprowadzenie** | Kasia |
 | 19:45 | 20 | D Modlitwa rozpoczynająca | Kasia |
-| 20:05 | 45 | T1 Sekret Piotra i Jana | Agnieszka Piontek |
+| 20:05 | 45 | **T1 Sekret Piotra i Jana** | Agnieszka Piontek |
 | 20:50 | 15 | D Modlitwa osobista schematem | Beata i Sławek |
 | 21:05 | 10 | Podsumowanie i zakończenie dnia | koordynator |
 | 21:15 | 45 | Spotkanie ekipy | Kasia i Sławek |
@@ -45,19 +45,19 @@ W wersji 2 pomieszano dwa odrębne tematy: „Sekret Piotra i Jana” oraz „Pr
 | 09:10 | 30 | Modlitwa wspólnotowa prowadzona przez ekipę | Krystian i Piotr Mostowski; muzyczni |
 | 09:40 | 10 | Podsumowanie modlitwy | prowadzący |
 | 09:50 | 10 | Przerwa techniczna |  |
-| 10:00 | 45 | T2 Prowadzenie modlitwy osobistej | **propozycja: Sławek** |
+| 10:00 | 45 | **T2 Prowadzenie modlitwy osobistej** | **propozycja: Sławek** |
 | 10:45 | 30 | D Spotkanie z Ukochanym | prowadzący T2 |
 | 11:15 | 10 | Dzielenie i podsumowanie dynamiki | prowadzący T2 |
 | 11:25 | 10 | Przerwa |  |
-| 11:35 | 30 | T3 Pięćdziesiątnica | Piotr Mostowski |
+| 11:35 | 30 | **T3 Pięćdziesiątnica** | Piotr Mostowski |
 | 12:05 | 30 | D Pływanie na płytkiej wodzie | Piotr Mostowski; materiały dydaktyczne |
 | 12:35 | 10 | Przygotowanie Eucharystii | liturgia i muzyczni |
-| 12:45 | 75 | Eucharystia kursowa z T4 Uwielbienie | ks. Tomek; **godzina i sposób włączenia T4 do liturgii do potwierdzenia** |
+| 12:45 | 75 | **Eucharystia kursowa z T4 Uwielbienie** | ks. Tomek; **godzina i sposób włączenia T4 do liturgii do potwierdzenia** |
 | 14:00 | 15 | D Uwielbienie chóralne | ks. Tomek albo osoba uzgodniona z dyrektorem |
 | 14:15 | 15 | D Uwielbienie w praktyce - pieśniami | Barbara Pal i muzyczni |
 | 14:30 | 60 | Obiad | Dorota i Marek; pomoc grup uczestników |
 | 15:30 | 15 | Przerwa i przygotowanie sali |  |
-| 15:45 | 45 | T5 Charyzmaty - Bóg w działaniu | Jadzia |
+| 15:45 | 45 | **T5 Charyzmaty - Bóg w działaniu** | Jadzia |
 | 16:30 | 75 | D Modlitwa o charyzmaty dla wspólnoty, ćwiczenia i posługa | Kasia lub najbardziej doświadczona osoba; muzyczni i ekipa pasterska |
 | 17:45 | 15 | Przerwa |  |
 | 18:00 | 30 | Kolacja | Dorota i Marek; pomoc grup uczestników |

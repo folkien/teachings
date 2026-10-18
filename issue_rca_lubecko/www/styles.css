@@ -1615,72 +1615,9 @@ h3 {
   color: var(--muted);
 }
 
-.field-metaphor {
-  position: relative;
-  display: grid;
-  min-height: clamp(560px, 68vw, 780px);
-  align-items: end;
-  overflow: hidden;
-  background: #342617;
-  isolation: isolate;
-}
-
-.field-metaphor > img {
-  position: absolute;
-  z-index: -2;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center;
-}
-
-.field-metaphor::after {
-  position: absolute;
-  z-index: -1;
-  inset: 0;
-  background: linear-gradient(90deg, rgba(24, 16, 9, .9) 0%, rgba(24, 16, 9, .7) 44%, rgba(24, 16, 9, .12) 78%), linear-gradient(0deg, rgba(24, 16, 9, .7), transparent 55%);
-  content: "";
-}
-
-.field-metaphor-inner {
-  padding-top: 84px;
-  padding-bottom: 84px;
-}
-
-.field-metaphor blockquote {
-  max-width: 850px;
-  margin: 0;
-  color: var(--cream);
-}
-
-.field-metaphor blockquote > p:nth-of-type(2) {
-  margin: 18px 0 24px;
-  font-family: var(--font-display);
-  font-size: clamp(45px, 6vw, 82px);
-  line-height: .98;
-}
-
-.field-metaphor blockquote > p:nth-of-type(3) {
-  max-width: 680px;
-  margin: 0;
-  color: rgba(255, 254, 239, .88);
-  font-size: clamp(19px, 2vw, 26px);
-}
-
-.field-metaphor footer {
-  margin-top: 28px;
-  color: var(--pink);
-  font-size: 13px;
-  font-weight: 750;
-}
-
-.field-metaphor cite {
-  font-style: normal;
-}
-
 .alpha-scale-section {
   overflow: hidden;
+  padding-bottom: 0;
   background:
     radial-gradient(circle at 8% 18%, rgba(250, 203, 199, .48), transparent 28%),
     var(--cream);
@@ -1793,29 +1730,109 @@ h3 {
 }
 
 .alpha-scale-message {
-  display: grid;
-  align-items: center;
-  gap: 18px 42px;
   margin-top: 30px;
-  padding: 30px 34px;
+  padding: 28px 34px;
   border-radius: var(--radius);
   background: var(--plum);
   color: var(--cream);
-  grid-template-columns: minmax(240px, .75fr) minmax(0, 1.25fr);
-}
-
-.alpha-scale-message strong {
-  color: var(--pink);
-  font-family: var(--serif);
-  font-size: clamp(30px, 3.4vw, 48px);
-  letter-spacing: -.045em;
-  line-height: .94;
 }
 
 .alpha-scale-message p {
   margin: 0;
-  color: rgba(255, 255, 238, .82);
-  font-size: 18px;
+  color: var(--cream);
+  font-size: clamp(19px, 2vw, 25px);
+  font-weight: 700;
+  line-height: 1.4;
+  text-align: center;
+}
+
+#etapy {
+  padding-top: clamp(52px, 6vw, 76px);
+}
+
+body[data-page="start-alpha"] .timeline-item h3 {
+  font-size: clamp(23px, 2.2vw, 31px);
+  font-weight: 800;
+  letter-spacing: -.035em;
+  line-height: 1.1;
+}
+
+.planning-card {
+  min-height: 0;
+}
+
+.planning-visual {
+  display: grid;
+  min-height: 220px;
+  align-items: center;
+  margin: -8px -8px 28px;
+  padding: 18px;
+  border-radius: 16px;
+  background: var(--cream-deep);
+}
+
+.planning-visual svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 220px;
+}
+
+.plan-room,
+.plan-divider,
+.plan-screen,
+.plan-kitchen rect,
+.plan-kitchen path,
+.team-ground,
+.team-person path {
+  fill: none;
+  stroke: var(--alpha-red);
+  stroke-width: 6;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.plan-screen,
+.plan-table rect,
+.team-alpha {
+  fill: var(--alpha-red);
+}
+
+.plan-table circle,
+.team-person circle {
+  fill: var(--pink);
+  stroke: var(--alpha-red);
+  stroke-width: 5;
+}
+
+.plan-kitchen circle {
+  fill: var(--alpha-red);
+}
+
+.planning-visual text {
+  fill: var(--alpha-red);
+  font-family: "Plus Jakarta Sans", Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: .12em;
+}
+
+.team-visual {
+  background: rgba(250, 203, 199, .42);
+}
+
+.team-person-1,
+.team-person-4 {
+  opacity: .68;
+}
+
+.team-alpha-mark {
+  fill: var(--cream) !important;
+  font-family: var(--serif) !important;
+  font-size: 45px !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+  text-anchor: middle;
 }
 
 .timeline {
@@ -3110,10 +3127,6 @@ details p {
 
   .alpha-scale-card .alpha-scale-graphic {
     min-height: 150px;
-  }
-
-  .alpha-scale-message {
-    grid-template-columns: 1fr;
   }
 
   .archive-facts-grid {

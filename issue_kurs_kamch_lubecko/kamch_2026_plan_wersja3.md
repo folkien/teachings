@@ -22,7 +22,7 @@ W wersji 2 pomieszano dwa odrębne tematy: „Sekret Piotra i Jana” oraz „Pr
 | 16:30 | 30 | Modlitwa i odprawa ekipy | Kasia i Sławek |
 | 17:00 | 45 | Recepcja uczestników | Krystian i Beata |
 | 17:30 | 15 | Powitanie i informacje organizacyjne | Sławek |
-| 17:45 | 60 | Dalsza recepcja, lekka kolacja i czas przyjazdu | Dorota i Marek; forma posiłku do potwierdzenia |
+| 17:45 | 60 | Kolacja | Dorota i Marek; forma posiłku do potwierdzenia |
 | 18:45 | 15 | Lodołamacz | Sławek |
 | 19:00 | 15 | Oczekiwania uczestników i krótkie dzielenie w grupach | Sławek |
 | 19:15 | 30 | Wprowadzenie | Kasia |

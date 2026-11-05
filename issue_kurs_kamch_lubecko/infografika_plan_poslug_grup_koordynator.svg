@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1800" viewBox="0 0 1800 1800">
+  <rect width="1800" height="1280" fill="#F7F4ED"/>
+
+  <text x="110" y="105" font-family="DejaVu Sans, Arial, sans-serif" font-size="54" font-weight="700" fill="#17324D">Plan posług grup</text>
+  <text x="110" y="155" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" fill="#5D6874">Kurs Animacji Modlitwy Charyzmatycznej • Lubecko 2026</text>
+
+  <rect x="110" y="210" width="1580" height="78" rx="14" fill="#17324D"/>
+  <text x="240" y="260" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">GRUPA</text>
+  <text x="590" y="260" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">PIĄTEK</text>
+  <text x="1050" y="260" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">SOBOTA</text>
+  <text x="1490" y="260" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#FFFFFF">NIEDZIELA</text>
+
+  <!-- Row 1 -->
+  <rect x="110" y="304" width="260" height="148" rx="14" fill="#B94A48"/>
+  <rect x="386" y="304" width="408" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="810" y="304" width="480" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="1306" y="304" width="384" height="148" rx="14" fill="#FFFFFF"/>
+  <text x="240" y="390" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF">CZERWONA</text>
+  <text x="590" y="360" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#253442">
+    <tspan x="590" dy="0">Wspólne sprzątanie</tspan><tspan x="590" dy="38">po kolacji</tspan>
+  </text>
+  <text x="1050" y="360" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#253442">
+    <tspan x="1050" dy="0">Sprzątanie</tspan><tspan x="1050" dy="38">po posiłkach</tspan>
+  </text>
+  <text x="1498" y="360" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#253442">
+    <tspan x="1498" dy="0">Liturgia</tspan><tspan x="1498" dy="38">+ modlitwa za kurs</tspan>
+  </text>
+
+  <!-- Row 2 -->
+  <rect x="110" y="468" width="260" height="148" rx="14" fill="#E4B93F"/>
+  <rect x="386" y="468" width="408" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="810" y="468" width="480" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="1306" y="468" width="384" height="148" rx="14" fill="#FFFFFF"/>
+  <text x="240" y="554" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#3F3211">ŻÓŁTA</text>
+  <text x="590" y="524" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#253442">
+    <tspan x="590" dy="0">Wspólne sprzątanie</tspan><tspan x="590" dy="38">po kolacji</tspan>
+  </text>
+  <text x="1050" y="524" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" font-weight="700" fill="#253442">
+    <tspan x="1050" dy="0">Liturgia</tspan><tspan x="1050" dy="38">+ modlitwa za kurs</tspan>
+  </text>
+  <text x="1498" y="536" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="600" fill="#253442">
+    <tspan x="1498" dy="0">Przygotowanie dużej</tspan><tspan x="1498" dy="36">przerwy kawowej</tspan>
+  </text>
+
+  <!-- Row 3 -->
+  <rect x="110" y="632" width="260" height="148" rx="14" fill="#347AA5"/>
+  <rect x="386" y="632" width="408" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="810" y="632" width="480" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="1306" y="632" width="384" height="148" rx="14" fill="#FFFFFF"/>
+  <text x="240" y="718" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF">NIEBIESKA</text>
+  <text x="590" y="688" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="600" fill="#253442">
+    <tspan x="590" dy="0">Wspólne sprzątanie</tspan><tspan x="590" dy="38">po kolacji</tspan>
+  </text>
+  <text x="1050" y="718" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#253442">Animacje</text>
+  <text x="1498" y="688" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#253442">
+    <tspan x="1498" dy="0">Sprzątanie po dużej</tspan><tspan x="1498" dy="36">przerwie kawowej</tspan>
+  </text>
+
+  <!-- Row 4 -->
+  <rect x="110" y="796" width="260" height="148" rx="14" fill="#D7792D"/>
+  <rect x="386" y="796" width="408" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="810" y="796" width="480" height="148" rx="14" fill="#FFF4E8"/>
+  <rect x="1306" y="796" width="384" height="148" rx="14" fill="#FFFFFF"/>
+  <text x="240" y="882" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" fill="#2E2419">POMARAŃCZOWA</text>
+  <text x="590" y="852" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" fill="#253442">
+    <tspan x="590" dy="0">Modlitwa za kurs</tspan><tspan x="590" dy="38">przez cały piątek</tspan>
+  </text>
+  <text x="1050" y="852" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="600" fill="#253442">
+    <tspan x="1050" dy="0">Przygotowanie stołów</tspan><tspan x="1050" dy="36">i pomoc przy posiłkach</tspan>
+  </text>
+  <text x="1498" y="882" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="29" font-weight="700" fill="#253442">Podsumowanie</text>
+
+  <!-- Row 5 -->
+  <rect x="110" y="960" width="260" height="148" rx="14" fill="#2F7657"/>
+  <rect x="386" y="960" width="408" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="810" y="960" width="480" height="148" rx="14" fill="#FFFFFF"/>
+  <rect x="1306" y="960" width="384" height="148" rx="14" fill="#FFFFFF"/>
+  <text x="240" y="1046" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="31" font-weight="700" fill="#FFFFFF">ZIELONA</text>
+  <text x="590" y="1016" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#253442">
+    <tspan x="590" dy="0">Przygotowanie</tspan><tspan x="590" dy="36">podsumowania na sobotę</tspan>
+  </text>
+  <text x="1050" y="1016" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#253442">
+    <tspan x="1050" dy="0">Podsumowanie</tspan><tspan x="1050" dy="36">+ przerwy kawowe</tspan>
+  </text>
+  <text x="1498" y="1016" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#253442">
+    <tspan x="1498" dy="0">Animacje + sprzątanie</tspan><tspan x="1498" dy="36">po przerwie kawowej</tspan>
+  </text>
+
+  <text x="110" y="1170" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="700" fill="#17324D">Skład grup</text>
+  <text x="1690" y="1170" text-anchor="end" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" fill="#5D6874">28 uczestników • grupy po 5–6 osób</text>
+
+  <!-- Czerwona -->
+  <rect x="110" y="1200" width="300" height="420" rx="16" fill="#FFFFFF"/>
+  <rect x="110" y="1200" width="300" height="72" rx="16" fill="#B94A48"/>
+  <rect x="110" y="1248" width="300" height="24" fill="#B94A48"/>
+  <text x="260" y="1246" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">CZERWONA • 6</text>
+  <text x="138" y="1318" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#253442">
+    <tspan x="138" dy="0">Daniel Malecha</tspan>
+    <tspan x="138" dy="46">Edyta Anna Koza</tspan>
+    <tspan x="138" dy="46">Jola Pawołka</tspan>
+    <tspan x="138" dy="46">Katarzyna Gasz</tspan>
+    <tspan x="138" dy="46">Regina Piontek</tspan>
+    <tspan x="138" dy="46">Stanisław Niesłony</tspan>
+  </text>
+
+  <!-- Żółta -->
+  <rect x="430" y="1200" width="300" height="420" rx="16" fill="#FFFFFF"/>
+  <rect x="430" y="1200" width="300" height="72" rx="16" fill="#E4B93F"/>
+  <rect x="430" y="1248" width="300" height="24" fill="#E4B93F"/>
+  <text x="580" y="1246" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#3F3211">ŻÓŁTA • 5</text>
+  <text x="458" y="1318" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#253442">
+    <tspan x="458" dy="0">Estera Płonka</tspan>
+    <tspan x="458" dy="46">Izabella Kler</tspan>
+    <tspan x="458" dy="46">Jolanta Maciejewska</tspan>
+    <tspan x="458" dy="46">Marcin Ganzera</tspan>
+    <tspan x="458" dy="46">Maria Mańka</tspan>
+  </text>
+
+  <!-- Niebieska -->
+  <rect x="750" y="1200" width="300" height="420" rx="16" fill="#FFFFFF"/>
+  <rect x="750" y="1200" width="300" height="72" rx="16" fill="#347AA5"/>
+  <rect x="750" y="1248" width="300" height="24" fill="#347AA5"/>
+  <text x="900" y="1246" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">NIEBIESKA • 6</text>
+  <text x="778" y="1318" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#253442">
+    <tspan x="778" dy="0">Adrian Piontek</tspan>
+    <tspan x="778" dy="46">Dariusz Kompała</tspan>
+    <tspan x="778" dy="46">Joanna Rak</tspan>
+    <tspan x="778" dy="46">Katarzyna Palenga</tspan>
+    <tspan x="778" dy="46">Monika Malecha</tspan>
+    <tspan x="778" dy="46">Wioletta Kwiatkowska</tspan>
+  </text>
+
+  <!-- Pomarańczowa -->
+  <rect x="1070" y="1200" width="300" height="420" rx="16" fill="#FFFFFF"/>
+  <rect x="1070" y="1200" width="300" height="72" rx="16" fill="#D7792D"/>
+  <rect x="1070" y="1248" width="300" height="24" fill="#D7792D"/>
+  <text x="1220" y="1246" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" fill="#2E2419">POMARAŃCZOWA • 5</text>
+  <text x="1098" y="1318" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#253442">
+    <tspan x="1098" dy="0">Bronisław Bryś</tspan>
+    <tspan x="1098" dy="46">Ela Banduch</tspan>
+    <tspan x="1098" dy="46">Kamila Gal-Skorupa</tspan>
+    <tspan x="1098" dy="46">Karolina Dudzik</tspan>
+    <tspan x="1098" dy="46">Teresa Piontek</tspan>
+  </text>
+
+  <!-- Zielona -->
+  <rect x="1390" y="1200" width="300" height="420" rx="16" fill="#FFFFFF"/>
+  <rect x="1390" y="1200" width="300" height="72" rx="16" fill="#2F7657"/>
+  <rect x="1390" y="1248" width="300" height="24" fill="#2F7657"/>
+  <text x="1540" y="1246" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">ZIELONA • 6</text>
+  <text x="1418" y="1318" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="600" fill="#253442">
+    <tspan x="1418" dy="0">Bogdan Segiet</tspan>
+    <tspan x="1418" dy="46">Danuta Kompała</tspan>
+    <tspan x="1418" dy="46">Elżbieta Bryś</tspan>
+    <tspan x="1418" dy="46">Kasia Gidziela</tspan>
+    <tspan x="1418" dy="46">Kasia Skorupa</tspan>
+    <tspan x="1418" dy="46">Zbigniew Ledwoń</tspan>
+  </text>
+
+  <rect x="110" y="1650" width="1580" height="98" rx="16" fill="#E9EEF1"/>
+  <circle cx="151" cy="1699" r="18" fill="#17324D"/>
+  <text x="151" y="1707" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">i</text>
+  <text x="185" y="1692" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="600" fill="#253442">Przygotowanie oznacza ustawienie stołów i pomoc przy wydawaniu.</text>
+  <text x="185" y="1726" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#5D6874">Niedziela: żółta przygotowuje dużą przerwę kawową, a niebieska i zielona wspólnie po niej sprzątają.</text>
+</svg>

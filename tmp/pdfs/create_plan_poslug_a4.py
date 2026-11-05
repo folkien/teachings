@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 
 from reportlab.lib.colors import HexColor
@@ -8,7 +9,12 @@ from reportlab.pdfgen import canvas
 
 
 ROOT = Path("/home/spasz/python/teachings")
-OUTPUT = ROOT / "output/pdf/KAMCh_2026_plan_poslug_A4_poziomo.pdf"
+ONE_COLUMN = os.environ.get("KAMCH_ONE_COLUMN") == "1"
+OUTPUT = ROOT / (
+    "output/pdf/KAMCh_2026_plan_poslug_A4_legenda_jedna_kolumna.pdf"
+    if ONE_COLUMN
+    else "output/pdf/KAMCh_2026_plan_poslug_A4_poziomo.pdf"
+)
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 
 FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -17,7 +23,8 @@ pdfmetrics.registerFont(TTFont("DejaVu", FONT))
 pdfmetrics.registerFont(TTFont("DejaVu-Bold", FONT_BOLD))
 
 PAGE_W, PAGE_H = landscape(A4)
-BG = HexColor("#F7F4ED")
+BG = HexColor("#FFFFFF")
+ECRU = HexColor("#F4F0E7")
 NAVY = HexColor("#17324D")
 TEXT = HexColor("#253442")
 MUTED = HexColor("#5D6874")
@@ -87,13 +94,14 @@ def legend_card(c, x, y, w, h, title, body):
     rounded_rect(c, x, y, w, h, WHITE, 6)
     c.setFillColor(NAVY)
     c.setFont("DejaVu-Bold", 8.8)
-    c.drawString(x + 11, y + h - 17, title.upper())
-    lines = wrap_text(body, "DejaVu", 7.4, w - 22)
+    compact = h < 50
+    c.drawString(x + 11, y + h - (12 if compact else 17), title.upper())
+    lines = wrap_text(body, "DejaVu", 10.6, w - 22)
     c.setFillColor(TEXT)
-    c.setFont("DejaVu", 7.4)
-    start_y = y + h - 31
-    for idx, line in enumerate(lines[:7]):
-        c.drawString(x + 11, start_y - idx * 9.6, line)
+    c.setFont("DejaVu", 10.6)
+    start_y = y + h - (25 if compact else 31)
+    for idx, line in enumerate(lines[:4]):
+        c.drawString(x + 11, start_y - idx * 11, line)
 
 
 c = canvas.Canvas(str(OUTPUT), pagesize=(PAGE_W, PAGE_H))
@@ -108,7 +116,7 @@ gap = 5
 group_w = 128
 day_w = (PAGE_W - 2 * margin_x - group_w - 3 * gap) / 3
 header_h = 35
-row_h = 58
+row_h = 56
 
 rounded_rect(c, margin_x, top - header_h, PAGE_W - 2 * margin_x, header_h, NAVY, 7)
 headers = [
@@ -127,14 +135,10 @@ for name, color, name_color, duties in groups:
     centered_lines(c, name, margin_x, y, group_w, row_h, size=group_size, leading=15, color=name_color)
     for idx, duty in enumerate(duties):
         x = margin_x + group_w + gap + idx * (day_w + gap)
-        rounded_rect(c, x, y, day_w, row_h, WHITE, 7)
+        rounded_rect(c, x, y, day_w, row_h, ECRU, 7)
         size = 11.3 if len(duty) > 35 else 12.5
         centered_lines(c, duty, x, y, day_w, row_h, size=size, leading=15)
     y -= row_h + gap
-
-c.setFillColor(NAVY)
-c.setFont("DejaVu-Bold", 11)
-c.drawString(margin_x, y - 8, "CO OZNACZAJĄ POSŁUGI?")
 
 legend = [
     (
@@ -142,20 +146,20 @@ legend = [
         "Przygotowanie jednej lub dwóch zabaw, które poruszą ciało i umysł oraz pomogą uczestnikom się obudzić. Trzeba uwzględnić warunki sali. Najlepiej ok. 10 minut, maksymalnie 15 minut.",
     ),
     (
-        "Liturgia i modlitwa za kurs",
-        "Przygotowanie liturgii Eucharystii i posługa podczas niej. Ponadto grupa znajduje przynajmniej jeden czas wolny na wspólną modlitwę za kurs.",
-    ),
-    (
-        "Przygotowanie stołów i posiłków",
-        "Nałożenie zastawy, przygotowanie stołów pod posiłek oraz pomoc przy rozłożeniu i wydawaniu posiłku.",
-    ),
-    (
         "Podsumowanie",
         "Przygotowanie 15-minutowego podsumowania poprzedniego dnia i omówionych tematów. Forma może być różna, np. reportaż, pantomima, teatr lub prezentacja.",
     ),
     (
+        "Liturgia i modlitwa za kurs",
+        "Przygotowanie liturgii Eucharystii i posługa podczas niej. Ponadto grupa znajduje przynajmniej jeden czas wolny na wspólną modlitwę za kurs.",
+    ),
+    (
         "Przerwy kawowe",
         "Przygotowanie kawy i przekąsek w sposób estetyczny i kreatywny, tak aby uczestnikom było miło. Należy też dbać o uzupełnianie stołu.",
+    ),
+    (
+        "Przygotowanie stołów i posiłków",
+        "Nałożenie zastawy, przygotowanie stołów pod posiłek oraz pomoc przy rozłożeniu i wydawaniu posiłku.",
     ),
     (
         "Sprzątanie po posiłkach i kawie",
@@ -163,13 +167,13 @@ legend = [
     ),
 ]
 
-legend_gap = 7
-legend_w = (PAGE_W - 2 * margin_x - 2 * legend_gap) / 3
-legend_h = 86
-legend_bottom = 20
+legend_gap = 1 if ONE_COLUMN else 7
+legend_w = PAGE_W - 2 * margin_x if ONE_COLUMN else (PAGE_W - 2 * margin_x - legend_gap) / 2
+legend_h = 36 if ONE_COLUMN else 66
+legend_bottom = 5 if ONE_COLUMN else 10
 for idx, (title, body) in enumerate(legend):
-    col = idx % 3
-    row = 1 - idx // 3
+    col = 0 if ONE_COLUMN else idx % 2
+    row = 5 - idx if ONE_COLUMN else 2 - idx // 2
     lx = margin_x + col * (legend_w + legend_gap)
     ly = legend_bottom + row * (legend_h + legend_gap)
     legend_card(c, lx, ly, legend_w, legend_h, title, body)

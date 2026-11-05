@@ -66,6 +66,36 @@ def centered_lines(c, text, x, y, w, h, size=13, leading=17, color=TEXT, bold=Tr
         c.drawCentredString(x + w / 2, baseline - index * leading, line)
 
 
+def wrap_text(text, font, size, max_width):
+    words = text.split()
+    lines = []
+    current = ""
+    for word in words:
+        candidate = word if not current else f"{current} {word}"
+        if pdfmetrics.stringWidth(candidate, font, size) <= max_width:
+            current = candidate
+        else:
+            if current:
+                lines.append(current)
+            current = word
+    if current:
+        lines.append(current)
+    return lines
+
+
+def legend_card(c, x, y, w, h, title, body):
+    rounded_rect(c, x, y, w, h, WHITE, 6)
+    c.setFillColor(NAVY)
+    c.setFont("DejaVu-Bold", 8.8)
+    c.drawString(x + 11, y + h - 17, title.upper())
+    lines = wrap_text(body, "DejaVu", 7.4, w - 22)
+    c.setFillColor(TEXT)
+    c.setFont("DejaVu", 7.4)
+    start_y = y + h - 31
+    for idx, line in enumerate(lines[:7]):
+        c.drawString(x + 11, start_y - idx * 9.6, line)
+
+
 c = canvas.Canvas(str(OUTPUT), pagesize=(PAGE_W, PAGE_H))
 c.setTitle("KAMCh 2026 - plan posług grup")
 c.setAuthor("SNE Lubecko")
@@ -77,8 +107,8 @@ top = PAGE_H - 20
 gap = 5
 group_w = 128
 day_w = (PAGE_W - 2 * margin_x - group_w - 3 * gap) / 3
-header_h = 39
-row_h = 66
+header_h = 35
+row_h = 58
 
 rounded_rect(c, margin_x, top - header_h, PAGE_W - 2 * margin_x, header_h, NAVY, 7)
 headers = [
@@ -97,30 +127,52 @@ for name, color, name_color, duties in groups:
     centered_lines(c, name, margin_x, y, group_w, row_h, size=group_size, leading=15, color=name_color)
     for idx, duty in enumerate(duties):
         x = margin_x + group_w + gap + idx * (day_w + gap)
-        cell_fill = HexColor("#FFF4E8") if name == "POMARAŃCZOWA" and idx == 1 else WHITE
-        rounded_rect(c, x, y, day_w, row_h, cell_fill, 7)
+        rounded_rect(c, x, y, day_w, row_h, WHITE, 7)
         size = 11.3 if len(duty) > 35 else 12.5
         centered_lines(c, duty, x, y, day_w, row_h, size=size, leading=15)
     y -= row_h + gap
 
-notes_y = 25
-notes_h = y - notes_y - 5
-rounded_rect(c, margin_x, notes_y, PAGE_W - 2 * margin_x, notes_h, HexColor("#E9EEF1"), 8)
 c.setFillColor(NAVY)
-c.circle(margin_x + 20, notes_y + notes_h - 22, 9, fill=1, stroke=0)
-c.setFont("DejaVu-Bold", 12)
-c.setFillColor(WHITE)
-c.drawCentredString(margin_x + 20, notes_y + notes_h - 26, "i")
+c.setFont("DejaVu-Bold", 11)
+c.drawString(margin_x, y - 8, "CO OZNACZAJĄ POSŁUGI?")
 
-note_lines = [
-    "PIĄTEK: po kolacji wspólnie sprzątają grupy czerwona, żółta i niebieska.",
-    "SOBOTA: grupa zielona odpowiada za podsumowanie oraz przerwy kawowe.",
-    "NIEDZIELA: żółta przygotowuje przerwy kawowe; niebieska sprząta po posiłkach i kawie; zielona pomaga po przerwie kawowej.",
+legend = [
+    (
+        "Animacje",
+        "Przygotowanie jednej lub dwóch zabaw, które poruszą ciało i umysł oraz pomogą uczestnikom się obudzić. Trzeba uwzględnić warunki sali. Najlepiej ok. 10 minut, maksymalnie 15 minut.",
+    ),
+    (
+        "Liturgia i modlitwa za kurs",
+        "Przygotowanie liturgii Eucharystii i posługa podczas niej. Ponadto grupa znajduje przynajmniej jeden czas wolny na wspólną modlitwę za kurs.",
+    ),
+    (
+        "Przygotowanie stołów i posiłków",
+        "Nałożenie zastawy, przygotowanie stołów pod posiłek oraz pomoc przy rozłożeniu i wydawaniu posiłku.",
+    ),
+    (
+        "Podsumowanie",
+        "Przygotowanie 15-minutowego podsumowania poprzedniego dnia i omówionych tematów. Forma może być różna, np. reportaż, pantomima, teatr lub prezentacja.",
+    ),
+    (
+        "Przerwy kawowe",
+        "Przygotowanie kawy i przekąsek w sposób estetyczny i kreatywny, tak aby uczestnikom było miło. Należy też dbać o uzupełnianie stołu.",
+    ),
+    (
+        "Sprzątanie po posiłkach i kawie",
+        "Zebranie talerzy i kubków, ich umycie oraz przetarcie i uporządkowanie stołów po posiłku lub przerwie kawowej.",
+    ),
 ]
-c.setFillColor(TEXT)
-for idx, line in enumerate(note_lines):
-    c.setFont("DejaVu-Bold" if idx == 0 else "DejaVu", 10.5)
-    c.drawString(margin_x + 39, notes_y + notes_h - 27 - idx * 21, line)
+
+legend_gap = 7
+legend_w = (PAGE_W - 2 * margin_x - 2 * legend_gap) / 3
+legend_h = 86
+legend_bottom = 20
+for idx, (title, body) in enumerate(legend):
+    col = idx % 3
+    row = 1 - idx // 3
+    lx = margin_x + col * (legend_w + legend_gap)
+    ly = legend_bottom + row * (legend_h + legend_gap)
+    legend_card(c, lx, ly, legend_w, legend_h, title, body)
 
 c.showPage()
 c.save()

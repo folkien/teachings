@@ -33,7 +33,7 @@ Dz 2, 42, Dz 3,1, Dz 4, 21, Dz 4, 24
 
 Jan Paweł II powiedział „ *Kryzys Kościoła, to zawsze kryzys modlitwy”*. 
 
-Brak modlitwy członków wspólnoty sprawia... że wspólnota zamienia się towarzystwo wzajmnej adoracji. Albo grupę znajomych. Czy jak u ksiedza Jamesa Mallone (Boża Renowacja) w.. grupę karciarzy grających w salce.
+Brak modlitwy członków wspólnoty sprawia... że wspólnota  zamienia się towarzystwo wzajmnej adoracji. Albo grupę znajomych. Czy jak u ksiedza Jamesa Mallone (Boża Renowacja) w.. grupę karciarzy grających w salce.
 
 > „ W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem judzkiego wyszedł pewien człowiek ze swoją żoną i swymi dwoma synami, aby osiedlić się w ziemi Moabu. Nazywał się ten człowiek Elimelek , jego żona – Noemi , jego dwaj synowie - Machlon i Kilion. **Byli oni Efratejczykami z Betlejem judzkiego**. Przybyli na ziemię Moabu i tam zamieszkali.” (Rt 1, 1-2)
 
@@ -43,21 +43,17 @@ Kościół = Dom Chleba. Czy w Twojej parafii ludzie są nasyceniu? Czy wracają
 
 Bo jeśli nie, bo jeśli tam panuje duchowy głód - to ludzie odejdą, tak jak odeszła Noemi i Elimelek. W najlepszym wypadku do... sąsiedniej parafii.  
 
+??Przykład. Piekarnia Lc.??
 
 
 
 
-Wtedy ludzie, którzy powinni zaspokoić głód w miejscu chleba będą musieli Go opuścić w celu poszukiwania pokarmu dla swojego ducha. Wspólnota pozbawiona prawdziwego chleba, Jezusa Chrystusa jest miejscem pozbawionym życia.
-
-\
-
-Modlitwa sprawia, że chleba przybywa, Boża obecność wzrasta wraz z natężoną modlitwą.
 
 #### b. Wspólnota miejscem doświadczenia zbawienia ( Bożego działania )
 
 > „Dalej, zaprawdę, powiadam wam: Jeśli dwaj z was na ziemi zgodnie o coś prosić będą, to wszystkiego użyczy im mój Ojciec, który jest w niebie. Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem pośród nich.” (Mt 18,19)
 
-Jezus mówi, że kiedy wspólnota jednomyślnie woła do Boga, to zostaje poruszone serce Ojca, który udziela ze swego skarbca to, co najlepsze. Modlitwa wspólnotowa potęguje Bożą moc, uobecnia zwiększoną Bożą obecność, to powoduje, że Boże królestwo jest coraz bardziej obecne w nas. Bóg pozwala nam we wspólnocie doświadczać Jego działania. Dlatego kiedy się modlimy wspólnie Bóg daje nam doświadczać swego zbawienia. Co to oznacza :
+Jezus mówi, że kiedy wspólnota jednomyślnie woła do Boga, to zostaje poruszone serce Ojca. Modlitwa wspólnoty daje nam doświadczenie Bożej obecności. Bóg we wspólnocie sie objawia i nas dotyka. Na przykład:
 
 - uwalnia nas od grzechu, zła
 - uzdrawia nasze wnętrze, przywraca utraconą wiarę w siebie i poczucie własnej wartości itd.
@@ -68,37 +64,43 @@ Jezus mówi, że kiedy wspólnota jednomyślnie woła do Boga, to zostaje porusz
 - napełnia nas swoim Duchem
 - mówi do nas przez proroctwa
 
+Co więcej niektóre wspólnoty lub sytuacje biblijne mówią że Duch Święty 
+
+- obecność tak ciężka aż namacalna 
+- objawia się jako złoty pył
+- pojawia się przyjemny zapach na sali
+- olejek na rękach uczestników
+
+**Przykład**. *Gliwice zjazd animatorów w 2017 rok, dom parafialny przy kosciel św.Bartłomieja. Modlitwa w zwykłej salce, ok 200 osób. Michał Świerski prowadził, stałem w środku. Boża obecność tak namacalna, że aż ciężka. Pamiętam obraz fal, jakby morz nad nami. Obecność odczuwalna fizycznie i emocjonalnie.* 
+
 Jednym słowem sprawia, że stajemy się nowym stworzeniem, żyjącym pełnią życia! To wszystko Pan chce czynić dla Ciebie, w twojej wspólnocie, w której jesteś!
 
-/ W tym punkcie można ukazać na podstawie dziejów apostolskich ( pierwszych 4 rozdz. ) sytuacje w których Kościół doświadczał zbawienia. ( Wylanie Ducha, nawrócenia żydów, uzdrowienie chromego itd./
+Nie szczególne osoby w szczególnym czasie, ale każdy w Kosciele!
+
+
 
 #### c. Wspólnota miejscem ewangelizacji.
 
 > „Wtedy stanął Piotr razem z Jedenastoma i przemówił do nich donośnym głosem.” (Dz 2,14)
 
-Piotr napełniony Bożym Duchem rozpoczął ewangelizację. Dał sygnał Kościołowi, że właśnie teraz nastąpiła godzina ewangelizacji! Po jego wystąpieniu nawraca się ok. 3 tys. Dusz. W tych okolicznościach Piotr wraz z pozostałymi apostołami mogli spocząć na laurach. Mogli pomyśleć sobie, po co dalej się trudzić, przecież tak znakomicie nam poszło. Przybyło 3 tys. kolejnych wierzących. Jednak Piotr na tym nie poprzestał.
+św. Piotr napełniony Bożym Duchem przemówił, a po jego słowach nawraca się ok. 3 tys. osób. To był ten moment kiedy Kościoł jako wspólnota rozpoczął misję ewangelizacji!
+Czyż nie znakomicie im poszło pierwszego dnia? Przybyło 3 tys osób. Tylko, że to był dopiero początek!
 
-W Dz 3,1 – 4,31 czytamy jak po raz drugi Piotr Głosi Boże Słowo. Nawet w obliczu zagrożenia ze strony przełożonych żydowskich Piotr mówi: „Nie możemy nie mówić tego cośmy widzieli i słyszeli”. Dzięki głoszeniu apostołów mogły powstawać kolejne wspólnoty wierzących. Jedna wspólnota rodziła kolejne. Można sobie zadać pytanie. Co, by się stało gdyby apostołowie nie ewangelizowali współczesnego im świata. Co, by nastąpiło w momencie, gdyby Kościół zapomniał by o swoim zadaniu?
+W Dz 3,1 – 4,31 czytamy jak po raz drugi Piotr Głosi Boże Słowo. Nawet w obliczu zagrożenia ze strony przełożonych żydowskich Piotr mówi: **„Nie możemy nie mówić tego cośmy widzieli i słyszeli”**. Dzięki głoszeniu apostołów powstawały kolejne wspólnoty. **>> Jedna wspólnota rodziła kolejne.  <<**
 
-Wniosek: nie bylibyśmy chrześcijanami, gdyby w pewnym okresie Kościół zaniedbałby głoszenie Dobrej Nowiny. Dlatego dziś na nas spoczywa ten sam obowiązek, który ciążył na apostołach. Jeśli nasze wspólnoty przestaną ewangelizować, a więc głosić dobrą nowinę o Jezusie to pojawią się inne wspólnoty ze swoją „ dobrą nowiną”, która będzie daleko od chrześcijańskiego orędzia. Kościół żyje, rozwija się gdy jest dla ewangelizacji. Ważne jest, by o tym pamiętać ponieważ to my wierzący mamy innym opowiadać o Bogu. Tylko w taki sposób możemy wzrastać.
+Mineło 2 tyś lat do tego momentu i gdyby Kościół po drodze zaprzestał tej drogi, to prawdopodobnie niebylibyśmy chrześcijanami. Dzisiaj to ja i Ty jesteśmy Kościołem. To nas spoczywa te zadanie, ta misja. 
 
-Dlatego, aby wspólnota, żyła i przynosiła dobry owoc potrzebna jest modlitwa, doświadczenie zbawienia, które będzie przekazywane dalej.
+Jeśli nasze wspólnoty, parafie przestaną ewangelizować, to pojawią się inne grup ze swoją wersją „dobrą nowiną”.  Niestety. Kościół żyje, rozwija się gdy jest dla ewangelizacji. 
+
+
 
 #### DYNAMIKA: Modlitwa za wspólnotę
 
-**Cel:**
+**Cel:** Modlitwa za moją wspólnotę, żeby była miejscem modlitwy, doświadczenia Boga i miejscem ewangelizacji, w której będę aktywnym członkiem
 
-Modlitwa za moją wspólnotę, żeby była miejscem modlitwy, doświadczenia Boga i miejscem ewangelizacji, w której będę aktywnym członkiem
+**Motywacja:** W Szkole Nowej Ewangelizacji nieustannie powtarzamy, że nie chcemy nauczać teorii, tylko doświadczać rzeczy, o których mówimy. Dlatego teraz zapraszamy Cię do modlitwy o to, żeby to, o czym przed chwilą było mówione, stało się udziałem i doświadczenie wspólnoty, do której należysz, w której formujesz się i posługujesz.
 
-**Motywacja:**
-
-W Szkole Nowej Ewangelizacji nieustannie powtarzamy, że nie chcemy nauczać teorii, tylko doświadczać rzeczy, o których mówimy. Dlatego teraz zapraszamy Cię do modlitwy o to, żeby to, o czym przed chwilą było mówione, stało się udziałem i doświadczenie wspólnoty, do której należysz, w której formujesz się i posługujesz.
-
-**Przebieg:**
-
-Modlitwa wspólnotowa.
-
-**Czas:** 5-10 minut.
+**Przebieg: **Modlitwa wspólnotowa. **Czas:** 5-10 minut.
 
 ### C. ZAWARTOŚĆ KAZANIA
 

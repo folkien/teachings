@@ -7,45 +7,49 @@ topic: "Wspólnota - naturalne środowisko modlitwy charyzmatycznej"
 
 # 7. Wspólnota - naturalne środowisko modlitwy charyzmatycznej
 
-## 1. CEL
+## 1. Cel i myśl
 
 Ukazać biblijny model wspólnoty
 
-## 2. MYŚL KLUCZOWA
-
 Wspólnota jest dla ewangelizacji.
-
-## 3. CZAS
-
-25 + 10 + 25 + 15 minut.
-
-## 4. ROZWINIĘCIE NAUCZANIA
 
 ### A. WSTĘP
 
-Ukazaliśmy pewien model modlitwy osobistej oraz modlitwy wspólnotowej. Teraz będziemy chcieli zobaczyć biblijny modle wspólnoty. Jaka powinna być? Czego potrzebujemy, by być choć trochę podobni do pierwotnej gminy chrześcijan.
-
-### B. ZAWARTOŚĆ NAUCZANIA
+Ukazaliśmy pewien model modlitwy osobistej oraz modlitwy wspólnotowej. Teraz będziemy chcieli zobaczyć biblijny modle wspólnoty. Jaka powinna być? 
 
 #### a. Wspólnota miejscem modlitwy.
 
-Dzieje apostolskie, które ukazują życie Pierwotnego Kościoła są dla nas nijako wzorem życia wspólnotowego. Dlatego spoglądając na historię Kościoła w Dziejach apostolskich widzimy iż Kościół to przede wszystkim zgromadzenie modlitewne.
+Dzieje apostolskie, które ukazują życie Pierwotnego Kościoła. Jaki Kościół tam widzimy? Zgromadzony na modlitwie.
 
-Dz 1, 14 - Zaraz po wniebowstąpieniu Pana, uczniowie Jego powracają do Jerozolimy. Zgodnie z tradycją udają się do wieczernika, by tam wspólnie w modlitwie oczekiwać na zesłanie Ducha Świętego. Już w pierwszych czterech rozdziałach widzimy tą prawdę, że Kościół jest miejscem modlitwy.
+*Dz 1, 14 - Zaraz po wniebowstąpieniu, uczniowie Jego powracają do Jerozolimy. Zgodnie z tradycją udają się do wieczernika, by tam wspólnie w modlitwie oczekiwać na zesłanie Ducha Świętego. Już w pierwszych czterech rozdziałach widzimy tą prawdę, że Kościół jest miejscem modlitwy.*
 
-Dz 2 ukazuje uczniów zgromadzonych w jednym miejscu Kościół w tych to okolicznościach zstępuje na nich Duch Święty. W oczekiwaniu modlitewnym Bóg wypełnia swoją obietnicę i zsyła Ducha Świętego na Kościół.
+*Dz 2 ukazuje uczniów zgromadzonych w jednym miejscu Kościół w tych to okolicznościach zstępuje na nich Duch Święty. Kiedy? W uwielbieniu.*
 
 Kolejne fragmenty mówiące o Kościele jako miejscu modlitwy to:
 
 Dz 2, 42, Dz 3,1, Dz 4, 21, Dz 4, 24
 
-Wniosek: nasza wspólnota musi być miejscem autentycznej modlitwy, ponieważ będąc Kościołem tylko w ten sposób możemy realizować nasze powołanie. A naszą misją jest być znakiem Chrystusa dla świata. Jesteśmy znakiem Jezusa, wtedy, gdy jesteśmy w Nim zakorzenieni. Jesteśmy światłością, gdy trwamy w Światłości. Brak modlitwy, szczerego poszukiwania Bożej woli sprawi, że pojawi się kryzys we wspólnocie, kryzys powołania, tożsamości. Jak mówi Jan Paweł II „ Kryzys Kościoła, to zawsze kryzys modlitwy”. Brak autentycznego wołania do Boga powoduje, że wspólnota traci swój smak. Zamienia się miejsce pozbawione Bożej obecności, a to powoduje duchową śmierć.
+**Wniosek**: parafia, wspólnota powinna być miejscem modlitwy. 
 
-> „ W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem judzkiego wyszedł pewien człowiek ze swoją żoną i swymi dwoma synami, aby osiedlić się w ziemi Moabu. Nazywał się ten człowiek Elimelek , jego żona – Noemi , jego dwaj synowie - Machlon i Kilion. Byli oni Efratejczykami z Betlejem judzkiego. Przybyli na ziemię Moabu i tam zamieszkali.” (Rt 1, 1-2)
+Jan Paweł II powiedział „ *Kryzys Kościoła, to zawsze kryzys modlitwy”*. 
 
-Betlejem oznacza dosłownie „ Dom Chleba”. Tak więc Noemi wraz z rodziną opuszczają rodzinną miejscowość ponieważ brak w niej pożywienia. Opuszczają „ Dom Chleba”, ponieważ brak w nim chleba. W domu, w którym ze swej natury powinno być dużo chleba, brakuje go. Dom chleba, pobawiony chleba. Miejsce sytości zamieniło się w miejsce głodu.
+Brak modlitwy członków wspólnoty sprawia... że wspólnota zamienia się towarzystwo wzajmnej adoracji. Albo grupę znajomych. Czy jak u ksiedza Jamesa Mallone (Boża Renowacja) w.. grupę karciarzy grających w salce.
 
-I dokładnie tak się stanie z nami, naszą wspólnotą, kiedy zabraknie w niej chleba. Wtedy ludzie, którzy powinni zaspokoić głód w miejscu chleba będą musieli Go opuścić w celu poszukiwania pokarmu dla swojego ducha. Wspólnota pozbawiona prawdziwego chleba, Jezusa Chrystusa jest miejscem pozbawionym życia.
+> „ W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem judzkiego wyszedł pewien człowiek ze swoją żoną i swymi dwoma synami, aby osiedlić się w ziemi Moabu. Nazywał się ten człowiek Elimelek , jego żona – Noemi , jego dwaj synowie - Machlon i Kilion. **Byli oni Efratejczykami z Betlejem judzkiego**. Przybyli na ziemię Moabu i tam zamieszkali.” (Rt 1, 1-2)
+
+Noemi wraz z rodziną opuszczają rodzinną miejscowość ponieważ brak w niej pożywienia. Opuszczają BETLEJEM „ Dom Chleba”, ponieważ brak w nim chleba. 
+
+Kościół = Dom Chleba. Czy w Twojej parafii ludzie są nasyceniu? Czy wracają duchowo pełni po nabożeństw, czy wstając od stołu Eucharystii? (..)
+
+Bo jeśli nie, bo jeśli tam panuje duchowy głód - to ludzie odejdą, tak jak odeszła Noemi i Elimelek. W najlepszym wypadku do... sąsiedniej parafii.  
+
+
+
+
+
+Wtedy ludzie, którzy powinni zaspokoić głód w miejscu chleba będą musieli Go opuścić w celu poszukiwania pokarmu dla swojego ducha. Wspólnota pozbawiona prawdziwego chleba, Jezusa Chrystusa jest miejscem pozbawionym życia.
+
+\
 
 Modlitwa sprawia, że chleba przybywa, Boża obecność wzrasta wraz z natężoną modlitwą.
 

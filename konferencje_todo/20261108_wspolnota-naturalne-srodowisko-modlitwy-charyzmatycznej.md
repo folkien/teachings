@@ -90,9 +90,11 @@ W Dz 3,1 – 4,31 czytamy jak po raz drugi Piotr Głosi Boże Słowo. Nawet w ob
 
 Mineło 2 tyś lat do tego momentu i gdyby Kościół po drodze zaprzestał tej drogi, to prawdopodobnie niebylibyśmy chrześcijanami. Dzisiaj to ja i Ty jesteśmy Kościołem. To nas spoczywa te zadanie, ta misja. 
 
-Jeśli nasze wspólnoty, parafie przestaną ewangelizować, to pojawią się inne grup ze swoją wersją „dobrą nowiną”.  Niestety. Kościół żyje, rozwija się gdy jest dla ewangelizacji. 
+Jeśli nasze wspólnoty, parafie przestaną ewangelizować, to pojawią się inne grup ze swoją wersją „dobrą nowiną”.  Niestety. 
+Skończmy z tym protekcjonalnym nonsensem, że wystarczy tylko być dobrym człowiekiem. Nie wystarczy. Dlaczego?
+Bo przeciwnik cały czas walczy i szkodzi, nawet jeśli Ty nie walczysz, nie ewangelizujesz.
 
-
+Kościół żyje, rozwija się gdy jest dla ewangelizacji. Mówimy "Gdy Jezus jest na 1szym miejscu to wszystko inne jest na właściwym." Ks. James Mallone - autor Bożej Renowacji - powiedział "Gdy ewangelizacja jest na 1-szym miejscu w parafii to wszystko inne jest na właściwym."
 
 #### DYNAMIKA: Modlitwa za wspólnotę
 
@@ -102,31 +104,27 @@ Jeśli nasze wspólnoty, parafie przestaną ewangelizować, to pojawią się inn
 
 **Przebieg: **Modlitwa wspólnotowa. **Czas:** 5-10 minut.
 
-### C. ZAWARTOŚĆ KAZANIA
+#### Jak wygląda bycie we wspólncie? 4 etapy 
 
-/Według uznania Prowadzących i dyspozycji kapłana, na kazaniu może być powiedziana pierwsza część nauczania bądź całość może być nauczaniem/
+##### a) Zakochanie
 
-Aby dojść do etapu, w którym wspólnota stanie się miejscem modlitwy, doświadczenia zbawienia i ewangelizacji, potrzebujemy przejść pewien proces. Każdy z nas jest wezwany do przejścia tego procesu, nie tylko animator.
+To etap początkowy życia we wspólnocie, chociaż może trwać kilka lat. Zazwyczaj jest to czas nawrócenia, bądź głębszego poznawania Boga. Człowiek czuje się szczęśliwy, gdyż doświadczył Bożej miłości, a we wspólnocie doznał ludzkiej życzliwości, której brakowało mu w codziennym życiu. **Wspólnota staje się wtedy niejako drugim domem.**
 
-#### 4 etapy życia wspólnoty
-
-##### a) Odnalezienie / zakochanie
-
-To etap początkowy życia we wspólnocie, chociaż może trwać kilka lat. Zazwyczaj jest to czas nawrócenia, bądź głębszego poznawania Boga. Człowiek czuje się szczęśliwy, gdyż doświadczył Bożej miłości, a we wspólnocie doznał ludzkiej życzliwości, której brakowało mu w codziennym życiu. Wspólnota staje się wtedy niejako drugim domem.
-
-Jest to okres entuzjazmu połączony zazwyczaj z idealizacją. Często wypowiedzi na temat swojej grupy są pełne zachwytu, a każda krytyka pochodząca od kogoś z zewnątrz jest przyjmowana bardzo emocjonalnie. Nierzadko też rodzi się w sercu poczucie wyższości wobec innych ruchów, bądź osób niezrzeszonych. U lidera i animatorów zauważa się tylko dobre strony, a osoby obdarzone charyzmatami bywają traktowane jak święte i nieskazitelne. Człowiek ma głębokie przeświadczenie, iż odkrył najlepszą i najpewniejszą ścieżkę wiodącą do świętości i nie ma zamiaru z niej zejść. Chętnie korzysta z rekolekcji bądź innych spotkań formacyjnych. Częściej niż dawniej (a nierzadko po raz pierwszy) sięga po Pismo święte i lekturę duchową. Jak gąbka chłonie każdy rodzaj nauczania. Okres ten można porównać do zakochania. Jest potrzebny – i dodajmy też – ważny. Trzeba jednak pamiętać, że stanowi on pierwszy krok, więc nie należy tego etapu sztucznie przedłużać.
+Jest to okres entuzjazmu połączony zazwyczaj z idealizacją. Często wypowiedzi na temat swojej grupy są pełne zachwytu, a każda krytyka pochodząca od kogoś z zewnątrz jest przyjmowana bardzo emocjonalnie. Nierzadko też rodzi się w sercu poczucie wyższości wobec innych ruchów, bądź osób niezrzeszonych. U lidera i animatorów zauważa się tylko dobre strony, a osoby obdarzone charyzmatami bywają traktowane jak święte i nieskazitelne. Człowiek ma głębokie przeświadczenie, iż odkrył najlepszą i najpewniejszą ścieżkę wiodącą do świętości i nie ma zamiaru z niej zejść. Chętnie korzysta z rekolekcji bądź innych spotkań formacyjnych. Częściej niż dawniej (a nierzadko po raz pierwszy) sięga po Pismo święte i lekturę duchową. Jak gąbka chłonie każdy rodzaj nauczania. Okres ten można porównać do zakochania. Szok przychodzi gdy ten etap się kończy!
 
 ##### b) Rozczarowanie
 
-Następuje konfrontacja ideałnego obrazu wspólnoty z rzeczywistością. Ze zdumieniem odkrywa się wtedy „drugą twarz” wspólnoty: niedociągnięcia w posłudze lidera bądź kapłana, animatorów oraz innych członków wspólnoty. W sercu, w miejscu wcześniejszej radości, pojawia się smutek i rozgoryczenie. Dominującym uczuciem staje się często rozczarowanie. Odpowiedzialni za wspólnotę oraz otaczający nas ludzie nie spełnili tylu naszych oczekiwań i pragnień.
+Następuje konfrontacja idealnego obrazu wspólnoty z rzeczywistością. Ze zdumieniem odkrywa się wtedy „drugą twarz” wspólnoty: niedociągnięcia lidera bądź kapłana, animatorów oraz innych członków wspólnoty. W sercu pojawia się smutek i rozgoryczenie. Odpowiedzialni za wspólnotę oraz otaczający nas ludzie nie spełnili tylu naszych oczekiwań.
 
-W serce powoli zaczyna wkradać się niechęć, gniew, a czasem nawet nienawiść w stosunku do konkretnych osób ze wspólnoty. Temperatura uczuć jest wtedy bardzo wysoka i można próbować ją „obniżyć” przez wylewanie swych żalów i pretensji w rozmowach z różnymi osobami. Jeśli czyni się to wobec zaufanego przyjaciela, będzie to droga ku przemianie. Niestety, często rozmówcami osób rozżalonych nie są ludzie, do których adresowane są pretensje. W ten sposób we wspólnocie pojawia się obmowa, która jest zawsze niszcząca. Uderza bowiem w konkretne osoby, we wspólnotę, a także w człowieka, który jest inspiratorem takich rozmów. Obmowa utwierdza w uczuciach przykrych, które powodują stopniowe „twardnienie” serca, utrudniając proces przebaczenia. Człowiek, czując się oszukanym i poranionym, zamyka się w sobie, nie uczestniczy w życiu wspólnoty. Nie przychodzi z chęcią na spotkania modlitewne, a nierzadko zaczyna myśleć o zmianie grupy bądź ma zamiar już nigdy nie angażować się w jakąkolwiek formę życia wspólnotowego.
+Oprócz niechęci, gniewu, moze wręcz pojawiać się nienawiść w stosunku do konkretnych osób ze wspólnoty. Temperatura uczuć jest wtedy bardzo wysoka i można próbować ją „obniżyć” przez wylewanie swych żalów i pretensji w rozmowach z różnymi osobami. Jeśli czyni się to wobec zaufanego przyjaciela, będzie to droga ku przemianie. 
 
-Głównym problemem na tym etapie rozwoju, zdaje się być grzeszność poszczególnych osób we wspólnocie i wielka niedoskonałość grupy. Rzeczywistym jednak problemem jest nasz sposób reagowania na słabości braci i sióstr. Wszystko, co dokonuje się w tym okresie, jest bardzo trudne, ale i szalenie istotne dla rozwoju osobistego.
+Niestety, często rozmówcami osób rozżalonych nie są ludzie, do których adresowane są pretensje. Pojawi się obmowa, która jest zawsze niszczy relacje. Uderza bowiem w konkretne osoby, we wspólnotę, a także w człowieka, który jest inspiratorem takich rozmów. Obmowa utwierdza w uczuciach przykrych, powoduje „twardnienie”, okopywanie się w stanowisku, utrudniaja proces przebaczenia. Człowiek zamyka się w sobie, nie przychodzi na spotkania. Zaczyna myśleć o zmianie grupki, bądź wycofuje się z posługi.
 
-Jeśli chrześcijanin nie stanie w miejscu, ale pozwoli się prowadzić Duchowi Świętemu, zacznie także w sobie dostrzegać liczne słabości i uchybienia w swojej posłudze. Zacznie widzieć swą małość, słabość i wielką niezdolność kochania tych, z którymi tworzy wspólnotę. W ten sposób Duch Święty dokonuje w nim oczyszczenia. On pragnie, aby człowiek na nowo, w kontekście życia wspólnotowego, odkrył jedną z podstawowych prawd – jestem grzesznikiem, zdolnym czynić różnego rodzaju zło. To nie tylko bracia i siostry są słabi, ja także wraz z nimi bardzo potrzebuję Bożego przebaczenia i Bożej Miłości.
+Wyda się że to ONI są winni, to ONI są grzeszni. Rzeczywistość pokazuje jednak, że często nasz sposób reagowania jest nieprawidłowy.  To co dokonuje się w tym okresie, jest trudne, ale równie ważne dla rozwoju osobistego.
 
-W tym czasie ważne będzie wypowiadanie swych uczuć, żalów i całego rozczarowania wobec osoby zaufanej i mającej pewne doświadczenie w Bożych drogach. Kapłan, bądź mądry przyjaciel, pomoże otworzyć się na łaskę oczyszczenia, uchroni przez pochopnymi opiniami i decyzjami.
+Gdy jednak osoba pozwoli prowadzić Duchowi Świętemu, zacznie dostrzegać własne słabości i uchybienia, i niedoskonałość własnej miłości. W ten sposób Duch Święty dokonuje w nim oczyszczenia. On pragnie, aby człowiek na nowo, w kontekście życia wspólnotowego, odkrył jedną z podstawowych prawd – jestem grzesznikiem, zdolnym czynić zło. To nie tylko bracia i siostry są słabi, ja także wraz z nimi bardzo potrzebuję Bożego przebaczenia i Bożej Miłości.
+
+W tym czasie ważne będzie wypowiadanie swych uczuć, żalów i całego rozczarowania wobec np kierownika, animatora, przyjaciela, osoby doświadczonej w Bożych drogach. Taka osoba uchroni przez pochopnymi opiniami i decyzjami.
 
 ##### c) Przemiana
 
@@ -146,19 +144,11 @@ Trudności, które są nieodzownym elementem każdej drogi prowadzącej ku rozwo
 
 #### DYNAMIKA: List do Boga
 
-**Cel:**
+**Cel:**Uświadomienie, nazwanie i powierzenie Bogu zranień, doświadczonych we wspólnocie.
 
-Uświadomienie, nazwanie i powierzenie Bogu zranień, doświadczonych we wspólnocie.
+**Motywacja:** Jeśli nie chcesz pozostać na etapie rozczarowania, potrzebujesz uzdrowienia tych miejsc, które zostały zranione poprzez osoby ze wspólnoty. Nikt nie jest w stanie zrozumieć Twoich uczuć, pomóc przebaczyć i przyjąć uzdrowienie tak, jak Bóg, Który Ciebie kocha i Który był w każdej z tych sytuacji. Dlatego teraz zapraszamy Ciebie do napisania listu do Boga, w którym możesz wylać przed Nim serce i powierzyć Mu to, co nosisz w sercu w kontekście Twojej wspólnoty bądź konkretnych osób ze wspólnoty. Nikt nie będzie czytał tego listu. Możesz go złozyć przed ołtwarzem Słowa i zostanie spalony.
 
-**Motywacja:**
-
-Jeśli nie chcesz pozostać na etapie rozczarowania, potrzebujesz uzdrowienia tych miejsc, które zostały zranione poprzez osoby ze wspólnoty. Nikt nie jest w stanie zrozumieć Twoich uczuć, pomóc przebaczyć i przyjąć uzdrowienie tak, jak Bóg, Który Ciebie kocha i Który był w każdej z tych sytuacji. Dlatego teraz zapraszamy Ciebie do napisania listu do Boga, w którym możesz wylać przed Nim serce i powierzyć Mu to, co nosisz w sercu w kontekście Twojej wspólnoty bądź konkretnych osób ze wspólnoty.
-
-**Przebieg:**
-
-Uczestnicy dostają kartki i piszą list do Boga. Następnie składają ten list podczas Przynoszenia Darów.
-
-**Czas:** 10-15 minut.
+**Przebieg:** Uczestnicy dostają kartki i piszą list do Boga. Następnie składają ten list podczas Przynoszenia Darów. **Czas:** 10-15 minut.
 
 ### C. KONKLUZJA
 

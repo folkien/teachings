@@ -5,21 +5,12 @@ date: 2026-11-08
 topic: "Wspólnota - naturalne środowisko modlitwy charyzmatycznej"
 ---
 
-# 7. Wspólnota - naturalne środowisko modlitwy charyzmatycznej
+Przygotowując to nauczanie, odbieram je jako polemikę nad stanem Kościoła jako wspólnoty oraz jako rozważania o wymarzonym Kościele. Właśnie. Zacznijmy od pytania : **Jaki jest twój wymarzony Kościół?** (...) *ps. Nie pytam o budynek.*
+Jakimi cechami by się charakteryzował?(...)
 
-## 1. Cel i myśl
+#### a. Kościół pierwotny
 
-Ukazać biblijny model wspólnoty.
-
-Wspólnota jest dla ewangelizacji.
-
-### A. WSTĘP
-
-Ukazaliśmy pewien model modlitwy osobistej oraz modlitwy wspólnotowej. Teraz będziemy chcieli zobaczyć biblijny model wspólnoty. Jaka powinna być?
-
-#### a. Wspólnota miejscem modlitwy
-
-Dzieje Apostolskie ukazują życie Pierwotnego Kościoła. Jaki Kościół tam widzimy? Zgromadzony na modlitwie.
+Wróćmy teraz ze strefy marzeń do życia pierwszego Kościoła. 
 
 > Dz 1,14 — Zaraz po wniebowstąpieniu uczniowie Jego powracają do Jerozolimy. Zgodnie z tradycją udają się do Wieczernika, by tam wspólnie w modlitwie oczekiwać na zesłanie Ducha Świętego. Już w pierwszych czterech rozdziałach widzimy tę prawdę, że Kościół jest miejscem modlitwy.
 

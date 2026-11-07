@@ -84,29 +84,29 @@ Bo przeciwnik nasz jak lew ryczący cały czas krąży i szuka kogo tu pożreć.
 
 Jeśli my [kościół] nie będziemy ewangelizować, to przyjdą inne grupy ze swoją wersją „dobrej nowiny”. Inną, nie prawdziwą.
 
-#### DYNAMIKA: Modlitwa za wspólnotę
+**Cel:** Modlitwa za moją wspólnotę, żeby była miejscem modlitwy, doświadczenia Boga i ewangelizacji oraz żebym był jej aktywnym członkiem. **Motywacja:**  zapraszamy Cię do modlitwy o to, żeby to, o czym przed chwilą było mówione, stało się udziałem i doświadczenie wspólnoty, do której należysz, w której formujesz się i posługujesz. **Czas:** 5–10 minut.
 
-**Cel:** Modlitwa za moją wspólnotę, żeby była miejscem modlitwy, doświadczenia Boga i ewangelizacji oraz żebym był jej aktywnym członkiem.
-
-**Motywacja:** W Szkole Nowej Ewangelizacji nieustannie powtarzamy, że nie chcemy nauczać teorii, tylko doświadczać rzeczy, o których mówimy. Dlatego teraz zapraszamy Cię do modlitwy o to, żeby to, o czym przed chwilą było mówione, stało się udziałem i doświadczenie wspólnoty, do której należysz, w której formujesz się i posługujesz.
-
-**Przebieg:** Modlitwa wspólnotowa.
-
-**Czas:** 5–10 minut.
-
-#### Jak wygląda bycie we wspólnocie? Cztery etapy
+#### Jak wytrwać we wspólnocie? Cztery etapy
 
 ##### a) Zakochanie
 
-To etap początkowy życia we wspólnocie, chociaż może trwać kilka lat. Zazwyczaj jest to czas nawrócenia, bądź głębszego poznawania Boga. Człowiek czuje się szczęśliwy, gdyż doświadczył Bożej miłości, a we wspólnocie doznał ludzkiej życzliwości, której brakowało mu w codziennym życiu. **Wspólnota staje się wtedy niejako drugim domem.**
+Zazwyczaj jest to czas nawrócenia, bądź głębszego poznawania Boga. **Wspólnota staje się wtedy niejako drugim domem.** Widzimy głównie dobre cechy animatorów, liderów.
 
-Jest to okres entuzjazmu połączony zazwyczaj z idealizacją. Często wypowiedzi na temat swojej grupy są pełne zachwytu, a każda krytyka pochodząca od kogoś z zewnątrz jest przyjmowana bardzo emocjonalnie. Nierzadko też rodzi się w sercu poczucie wyższości wobec innych ruchów bądź osób niezrzeszonych. U lidera i animatorów zauważa się tylko dobre strony, a osoby obdarzone charyzmatami bywają traktowane jak święte i nieskazitelne. Człowiek ma głębokie przeświadczenie, iż odkrył najlepszą i najpewniejszą ścieżkę wiodącą do świętości i nie ma zamiaru z niej zejść. Chętnie korzysta z rekolekcji bądź innych spotkań formacyjnych. Częściej niż dawniej (a nierzadko po raz pierwszy) sięga po Pismo Święte i lekturę duchową. Jak gąbka chłonie każdy rodzaj nauczania. Okres ten można porównać do zakochania. Szok przychodzi, gdy ten etap się kończy!
+Mając około 18 lat, po nawróceniu trafiłem do wspólnoty Niniwa - Oblaci. Miałem specyficzne pojmowanie wiary wtedy.
+
+- malowanie sprayem po pociagu "Jezus Cię Kocha", "Znajdź swoje powołanie albo spotka cię zawód"
+- jeżdżenie na rekolekcje, chociaż wcześniej prawie wcale tego nie robiłem, bo wydawało mi się to nudne;
+- wymienialiśmy się płytami CD z muzyką chrześcijańską, między innymi 2Tm2,3 i Anastasis; naszywki na plecak
+- wspólne wyjazdy, sielanka
 
 ##### b) Rozczarowanie
 
-Następuje konfrontacja idealnego obrazu wspólnoty z rzeczywistością. Ze zdumieniem odkrywa się wtedy „drugą twarz” wspólnoty: niedociągnięcia lidera bądź kapłana, animatorów oraz innych członków wspólnoty. W sercu pojawia się smutek i rozgoryczenie. Odpowiedzialni za wspólnotę oraz otaczający nas ludzie nie spełnili tylu naszych oczekiwań.
+Jednak też są ludźmi. Zawodzą nas. Czasem nie docenią lub zapomną o czymś. Zażartują w nieprzyjemny sposób.
+Widzimy słabe strony naszych liderów, kapłanów.
 
-Oprócz niechęci i gniewu może wręcz pojawić się nienawiść w stosunku do konkretnych osób ze wspólnoty. Temperatura uczuć jest wtedy bardzo wysoka i można próbować ją „obniżyć” przez wylewanie swych żalów i pretensji w rozmowach z różnymi osobami. Jeśli czyni się to wobec zaufanego przyjaciela, będzie to droga ku przemianie.
+Przykład. *Pamiętam taki Kurs Emaus w Bardzie Śląskim. Przygotowywałem z trójką osób. takie przenośne konstrukcje dla wspólnoty, żeby z nich korzystać. Znaleźliśmy takie niemieckie trójniki do których wkłądało się profile ALU kwadratowe i można było konstrukcje budować. Poświęciliśmy na to ileś wieczór, kupiliśmy. W trakcie Emausa, w sobtni wieczór, tuż przed ważnym kulminacyjnym momentem dnia, ksiądz mnie przy wszystkich mocno skrytykował, że to się nic nie trzyma, bez sensu wydane pieniadze etc. Nie byłem w stanie wyjść do tego aktu. Poszedłem do innego pomieszczenia, płyneły mi łzy. Napracowałem się i otrzymałem za to krytykę.*  
+
+Pojawia się w sercu żal. 
 
 Niestety, często rozmówcami osób rozżalonych nie są ludzie, do których adresowane są pretensje. Pojawia się obmowa, która zawsze niszczy relacje. Uderza bowiem w konkretne osoby, we wspólnotę, a także w człowieka, który jest inspiratorem takich rozmów. Obmowa utwierdza w przykrych uczuciach, powoduje „twardnienie” i okopywanie się na swoim stanowisku, utrudnia proces przebaczenia. Człowiek zamyka się w sobie, nie przychodzi na spotkania. Zaczyna myśleć o zmianie grupki bądź wycofuje się z posługi.
 

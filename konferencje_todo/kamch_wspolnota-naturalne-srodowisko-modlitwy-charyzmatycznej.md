@@ -71,21 +71,18 @@ Nie tylko jak w ST - szczególne osoby w szczególnym czasie. Ale w dniu 50-tnic
 
 > „Wtedy stanął Piotr razem z Jedenastoma i przemówił do nich donośnym głosem” (Dz 2,14).
 
-Św. Piotr, napełniony Bożym Duchem, przemówił, a po jego słowach nawróciło się około 3 tys. osób. To był ten moment, kiedy Kościół jako wspólnota rozpoczął misję ewangelizacji!
+Gdy Św. Piotr, przemówił nawróciło się około 3 tys. osób. Gdy po doświadczeniu 50-tnicy - napełnienia Duchem Świętym - będziesz mówił, to ludzie będą się nawracali. 
 
-Czyż nie znakomicie im poszło pierwszego dnia? Przybyło 3 tys. osób. Tylko że to był dopiero początek!
+Dlatego, że Duch Święty zawsze wyprowadza od zamknięcia do misji. Modlitwa i Ewangelizacja są jak 2 strony tego samego medalu. 
 
-W Dz 3,1–4,31 czytamy, jak po raz drugi Piotr głosi Boże Słowo. Nawet w obliczu zagrożenia ze strony przełożonych żydowskich Piotr mówi: **„Nie możemy nie mówić tego, cośmy widzieli i słyszeli”**. Dzięki głoszeniu apostołów powstawały kolejne wspólnoty.
+*Rekwizyt : Medal.*
+Modlitwa prowadzi do Ewangelizacji. Ewangelizacja prowadzi do modlitwy. 
+Modlitwa bez ewangelizacji byłaby egoizemem - ja i mój Bóg. Ewangelizacja bez modlitwy byłaby faryzeizmem, jedno mówią drugie robią. 
 
-> **Jedna wspólnota rodziła kolejne.**
+Skończmy z tym protekcjonalnym myśleniem, że wystarczy tylko być dobrym  i nie grzeszyć. No Nie wystarczy. Dlaczego?
+Bo przeciwnik nasz jak lew ryczący cały czas krąży i szuka kogo tu pożreć. 
 
-Minęły 2 tys. lat i gdyby Kościół po drodze zszedł z tej drogi, prawdopodobnie nie bylibyśmy chrześcijanami. Dzisiaj to ja i Ty jesteśmy Kościołem. Na nas spoczywa to zadanie, ta misja.
-
-Jeśli nasze wspólnoty, parafie przestaną ewangelizować, pojawią się inne grupy ze swoją wersją „dobrej nowiny”. Niestety.
-Skończmy z tym protekcjonalnym nonsensem, że wystarczy tylko być dobrym człowiekiem. Nie wystarczy. Dlaczego?
-Bo przeciwnik cały czas walczy i szkodzi, nawet jeśli Ty nie walczysz, nie ewangelizujesz.
-
-Kościół żyje, rozwija się, gdy jest dla ewangelizacji. Mówimy: „Gdy Jezus jest na pierwszym miejscu, wszystko inne jest na właściwym”. Ks. James Mallon — autor „Bożej renowacji” — powiedział: „Gdy ewangelizacja jest na pierwszym miejscu w parafii, wszystko inne jest na właściwym”.
+Jeśli my [kościół] nie będziemy ewangelizować, to przyjdą inne grupy ze swoją wersją „dobrej nowiny”. Inną, nie prawdziwą.
 
 #### DYNAMIKA: Modlitwa za wspólnotę
 

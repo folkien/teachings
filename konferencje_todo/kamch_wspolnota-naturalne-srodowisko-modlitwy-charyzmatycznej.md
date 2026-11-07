@@ -12,15 +12,14 @@ Jakimi cechami by się charakteryzował?(...)
 
 Wróćmy teraz ze strefy marzeń do życia pierwszego Kościoła. 
 
-> Dz 1,14 — Zaraz po wniebowstąpieniu uczniowie Jego powracają do Jerozolimy. Zgodnie z tradycją udają się do Wieczernika, by tam wspólnie w modlitwie oczekiwać na zesłanie Ducha Świętego. Już w pierwszych czterech rozdziałach widzimy tę prawdę, że Kościół jest miejscem modlitwy.
+*Wszyscy **postępowali** **zgodnie** z nauką apostołów, żyli we wspólnocie braterskiej, **łamali chleb i modlili się.** A wszystkich ogarniał lęk, gdyż **apostołowie czynili wiele cudów i znaków.** Wszyscy wierzący stanowili jedno i wszystko mieli wspólne. Sprzedawali swoje posiadłości i majątki i rozdzielali je wszystkim stosownie do potrzeb. **Codziennie jednomyślnie gromadzili się w świątyni**. Łamali chleb po domach, a pokarm przyjmowali z radością i prostotą serca. **Wielbili Boga,** a wszyscy ludzie odnosili się do nich życzliwie. Pan zaś codziennie pomnażał liczbę tych, którzy mieli być zbawieni.* Dz 2, 42-47
 
-> Dz 2 ukazuje uczniów zgromadzonych w jednym miejscu. W tych okolicznościach zstępuje na nich Duch Święty. Kiedy? W uwielbieniu.
+Co charakteryzowało pierwotny Kościół, na podstawie tekstu? *(wspólnie badamy pisma)*
 
-Kolejne fragmenty mówiące o Kościele jako miejscu modlitwy to:
+Czy możemy zatem już na wstępie odpowiedzieć sobie na tytułowe pytanie "Kościół/Wspólnota - naturalne środowisko modlitwy charyzmatycznej." Czy Kościoł jest naturalnym środowiskiem modlitwy charyzmatycznej?
+Oczywiście, ze TAK.
 
-Dz 2,42; Dz 3,1; Dz 4,21; Dz 4,24.
-
-**Wniosek:** parafia, wspólnota powinna być miejscem modlitwy.
+A skora tak jest, to dlaczego na tak wielu nabożeństwach, tego nie doświadczamy?
 
 Jan Paweł II powiedział: *„Kryzys Kościoła to zawsze kryzys modlitwy”*.
 

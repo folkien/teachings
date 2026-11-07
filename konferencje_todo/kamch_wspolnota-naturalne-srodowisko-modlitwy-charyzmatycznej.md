@@ -19,11 +19,17 @@ Co charakteryzowało pierwotny Kościół, na podstawie tekstu? *(wspólnie bada
 Czy możemy zatem już na wstępie odpowiedzieć sobie na tytułowe pytanie "Kościół/Wspólnota - naturalne środowisko modlitwy charyzmatycznej." Czy Kościoł jest naturalnym środowiskiem modlitwy charyzmatycznej?
 Oczywiście, ze TAK.
 
-A skora tak jest, to dlaczego na tak wielu nabożeństwach, tego nie doświadczamy?
-
+A skora tak jest, to dlaczego na tak wielu nabożeństwach, spotkaniach parafialnych, tego nie doświadczamy?
 Jan Paweł II powiedział: *„Kryzys Kościoła to zawsze kryzys modlitwy”*.
 
-Brak modlitwy członków wspólnoty sprawia, że wspólnota zamienia się w towarzystwo wzajemnej adoracji albo grupę znajomych. Czy też, jak u księdza Jamesa Mallona („Boża renowacja”), w grupę karciarzy grających w salce.
+Krystian mówił że prowadzący uwielbienie sam musi być człowiekiem modlitwy. Pierwsze jest pierwsze. Najpierw jestem uczestnikiem spotkania, a potem posługującym. Nie na odwrót. 
+
+Brak modlitwy członków kościoła sprawia, że wspólnota zamienia się w towarzystwo wzajemnej adoracji albo grupę znajomych. Czy jak w książce Boża Renowacja ks. Jamesa Mallona, w grupę karciarzy, których spotkania polegają na grze w karty w parafialnych salkach.
+Da się zamienić służbę w Kościele w rutynę, w przykry obowiązek, a parafią kierować poprzez poczucie winy czy wskazywanie palcem na zebraniu - Ty to zrób. Najłatwiej wskazać tego kto nie przyszedł. 
+
+*Przykład. Byłem we Wrocławiu 2 tyg temu u rodziny. Poszliśmy na Mszę Święŧa do nich, Październik był różanieć. Usiedliśmy w środku kościoła. Od momentu kiedy usiadłem, czułem że proboszcz tutaj wszystyko kontroluje. Kto się modli, kto zdrowaśke. Dał mi, moje dzieci 2 poprowadziły. Dał następnej osobie, prowadzi, a mnie pyta gdzie śpimy. Być może chciał być miły, ale ja byłem zaskoczony w środku kościoła, w środku różańca tym pytaniem.*
+
+Samotni księża, którzy nie czują wsparcia. Czuja że wszystko jest na ich głowie, a ludzię oczekują, niczym konsumenci wysokich usług duchowych. Dlatego potrzebujemy *nowej 50-tnicy, potrzebujemy Ducha Świętego, który odnowi nasz zapał.*
 
 > „W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem judzkiego wyszedł pewien człowiek ze swoją żoną i swymi dwoma synami, aby osiedlić się w ziemi Moabu. Nazywał się ten człowiek Elimelek, jego żona — Noemi, jego dwaj synowie — Machlon i Kilion. **Byli oni Efratejczykami z Betlejem judzkiego**. Przybyli na ziemię Moabu i tam zamieszkali” (Rt 1,1–2).
 

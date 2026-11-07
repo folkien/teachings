@@ -24,50 +24,48 @@ Jan Paweł II powiedział: *„Kryzys Kościoła to zawsze kryzys modlitwy”*.
 
 Krystian mówił że prowadzący uwielbienie sam musi być człowiekiem modlitwy. Pierwsze jest pierwsze. Najpierw jestem uczestnikiem spotkania, a potem posługującym. Nie na odwrót. 
 
+przykład. Bydgoszcz kubek ISKRA Alpha *"Liderstwo zaczyna się od spotkania z Bogiem."*
+
 Brak modlitwy członków kościoła sprawia, że wspólnota zamienia się w towarzystwo wzajemnej adoracji albo grupę znajomych. Czy jak w książce Boża Renowacja ks. Jamesa Mallona, w grupę karciarzy, których spotkania polegają na grze w karty w parafialnych salkach.
 Da się zamienić służbę w Kościele w rutynę, w przykry obowiązek, a parafią kierować poprzez poczucie winy czy wskazywanie palcem na zebraniu - Ty to zrób. Najłatwiej wskazać tego kto nie przyszedł. 
 
 *Przykład. Byłem we Wrocławiu 2 tyg temu u rodziny. Poszliśmy na Mszę Święŧa do nich, Październik był różanieć. Usiedliśmy w środku kościoła. Od momentu kiedy usiadłem, czułem że proboszcz tutaj wszystyko kontroluje. Kto się modli, kto zdrowaśke. Dał mi, moje dzieci 2 poprowadziły. Dał następnej osobie, prowadzi, a mnie pyta gdzie śpimy. Być może chciał być miły, ale ja byłem zaskoczony w środku kościoła, w środku różańca tym pytaniem.*
 
-Samotni księża, którzy nie czują wsparcia. Czuja że wszystko jest na ich głowie, a ludzię oczekują, niczym konsumenci wysokich usług duchowych. Dlatego potrzebujemy *nowej 50-tnicy, potrzebujemy Ducha Świętego, który odnowi nasz zapał.*
+Samotni księża, którzy nie czują wsparcia. Czuja że wszystko jest na ich głowie, a ludzię oczekują, niczym konsumenci wysokich usług duchowych. 
+
+Efekt kryzysu Kościoła jest taki, że gdy ludzie nie znajdują w nim pokarmu duchowego - to odchodzą.
 
 > „W czasach, gdy rządzili sędziowie, nastał głód w kraju. Z Betlejem judzkiego wyszedł pewien człowiek ze swoją żoną i swymi dwoma synami, aby osiedlić się w ziemi Moabu. Nazywał się ten człowiek Elimelek, jego żona — Noemi, jego dwaj synowie — Machlon i Kilion. **Byli oni Efratejczykami z Betlejem judzkiego**. Przybyli na ziemię Moabu i tam zamieszkali” (Rt 1,1–2).
 
-Noemi wraz z rodziną opuszcza rodzinną miejscowość, ponieważ brakuje w niej pożywienia. Opuszczają BETLEJEM — „Dom Chleba”, ponieważ brakuje w nim chleba.
+Elimelek i Noemi  opuszczają rodzinną miejscowość, ponieważ panuje tam głód. BETLEJEM znaczy „Dom Chleba”. W domu chleba nie ma chleba. Bardzo podoba mi się to określenie Dom Chleba, ponieważ Dom kojarzy się z *gościnnością* i Chleb kojarzy się z *gościnnością*. Szkoły ewangelizacji mają charyzmat Głoszenie Kerygmatu, Posługa charyzmatyczna, Wspólnota braterska. W Lubecku myślę że przez Alphę widzimy jeszcze 4-ty, gościnność. Mam nadzieję, że czujecie się ugoszczeni.
 
-Kościół = Dom Chleba. Czy w Twojej parafii ludzie są nasyceni? Czy wracają duchowo pełni po nabożeństwie, czy odchodzą nasyceni od stołu Eucharystii? (...)
+Co zatem zrobić, aby w naszych parafiach był ten duchowy chleb?
+Dlatego potrzebujemy *nowej 50-tnicy, potrzebujemy Ducha Świętego, który odnowi nasz zapał.*
 
-Bo jeśli nie, jeśli panuje tam duchowy głód, to ludzie odejdą, tak jak odeszli Noemi i Elimelek. W najlepszym wypadku do... sąsiedniej parafii.
-
-> [!todo] Przykład: piekarnia Lc.?
+Przykład. *Bydgoszcz, świadectwo ks. Sławomira Rychwalskiego z Gniezna, gdzie mówił, że został proboszczem miejskiej parafii. Pierwszy raz proboszcz i jeszcze miasto. I tak nie wiedział jak się to robi i co zrobić, ale miał grupkę parafian po oazie i każdej niedzieli po Mszy Świętej zamykali kościół, zostawiali w prezbiterium, wystawiali Pana Jezusa, adorowali i pytali Jezu co mamy zrobić. I odpowiedź nie przyszła od razu, trwało to 2-3 msc, ale są po kilku latach owoce. Kluczem modlitwa.*
 
 #### b. Wspólnota miejscem doświadczenia zbawienia (Bożego działania)
 
 > „Dalej, zaprawdę, powiadam wam: Jeśli dwaj z was na ziemi zgodnie o coś prosić będą, to wszystkiego użyczy im mój Ojciec, który jest w niebie. Bo gdzie są dwaj albo trzej zebrani w imię moje, tam jestem pośród nich” (Mt 18,19–20).
 
-Jezus mówi, że kiedy wspólnota jednomyślnie woła do Boga, zostaje poruszone serce Ojca. Modlitwa wspólnoty daje nam doświadczenie Bożej obecności. Bóg we wspólnocie się objawia i nas dotyka. Na przykład:
+Plakat. Pięcdziesiątnica ma być każdej doświadczeniem modlitwy osobistej.
+Skoro dla jednej osoby Duch Święty robi 50-tnice, to czy jeśli wszyscy wspólnie zawołamy to nie uczyni tego dla nas?
+Wspólna, jednomyślnie modlitwa porusza serce Boga. Duch Święty objawia się tam gdzie jest chciany.
+Modlitwa ze wspólnotą daje Ci nowe doświadczenie Bożej obecności. Bóg we wspólnocie się objawia i nas dotyka. 
 
-- uwalnia nas od grzechu, zła
-- uzdrawia nasze wnętrze, przywraca utraconą wiarę w siebie i poczucie własnej wartości itd.
-- uzdrawia nasze ciała
-- przywraca wewnętrzny pokój
-- daje łaskę nawrócenia
-- uzdrawia nasze relacje
-- napełnia nas swoim Duchem
-- mówi do nas przez proroctwa
+**Przykład:** *Zapadło w pamięc mi spotkanie. Gliwice, zjazd animatorów w 2017 roku, dom parafialny przy kościele św. Bartłomieja. Modlitwa w zwykłej salce, około 200 osób. Michał prowadził, stałem w środku. Boża obecność była tak namacalna, że aż ciężka. Pamiętam że odczuwałem fale, jakbym morze przypływ i odpływ nad nami. Obecność Boga tak mocan, że aż odczuwalna fizycznie. Pociągnięcia sznurka.*
 
-Co więcej, niektóre wspólnoty lub sytuacje biblijne pokazują, że działaniu Ducha Świętego mogą towarzyszyć:
+Świadectwo Ania. 
 
-- obecność tak ciężka, aż namacalna
-- złoty pył
-- przyjemny zapach na sali
-- olejek na rękach uczestników
+1. Miesiąc temu byłem na konferencji Dobry Biznes, w Wiśle. Uczestniczyło w niej około 150 chrześcijańskich przedsiębiorców. W niedzielę wieczorem, na sam koniec, odbyła się modlitwa uwielbienia. 
 
-**Przykład:** *Gliwice, zjazd animatorów w 2017 roku, dom parafialny przy kościele św. Bartłomieja. Modlitwa w zwykłej salce, około 200 osób. Michał Świerski prowadził, stałem w środku. Boża obecność była tak namacalna, że aż ciężka. Pamiętam obraz fal, jakby morze nad nami. Obecność była odczuwalna fizycznie i emocjonalnie.*
+2. Kiedy przyszedł moment ciszy, zauważyłem, że Duch Święty daje mi obrazy i pewne słowa. Zawahałem. Myślałem: *„Nie jestem tutaj organizatorem. Stoję z tyłu sali. Są madrzejsi tutaj ode mnie”.*
+3. Ostatecznie przełamałem się i zacząłem mówić :  obraz światła z nieba, niebo się łaczy z nami tutaj na ziemi. Nagle z nieba spływają złote rzeki. Złote strumienie rozlewały się w różne strony, obraz że Bóg daje błogosławieństwo finansowe na nasze firmy.
+4. Zaraz gdy to powiedziałem, usłyszałem z sali kilka osób "Potwierdzam! Potwierdzam! Amen."
 
-Jednym słowem sprawia, że stajemy się nowym stworzeniem, żyjącym pełnią życia! To wszystko Pan chce czynić dla Ciebie, w twojej wspólnocie, w której jesteś!
+Albo dzisiejsza/wczorajsza modlitwa. Gdy w ciszy prorokujemy sobie nawzajem. Gdy ja słyszę wypowiadane przez Ciebie słowo poznania, obraz, to odbieram to, że mi służysz.
 
-Nie chodzi tylko o szczególne osoby w szczególnym czasie, ale o każdego w Kościele!
+Nie tylko jak w ST - szczególne osoby w szczególnym czasie. Ale w dniu 50-tnicy wypełniła się obietnica prorok Joela. Bóg wylał swojego Ducha na całe stworzenie. Na Ciebie.
 
 #### c. Wspólnota miejscem ewangelizacji
 

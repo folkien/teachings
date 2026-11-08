@@ -107,36 +107,29 @@ Widzimy słabe strony naszych liderów, kapłanów.
 Przykład. *Pamiętam taki Kurs Emaus w Bardzie Śląskim. Przygotowywałem z trójką osób. takie przenośne konstrukcje dla wspólnoty, żeby z nich korzystać. Znaleźliśmy takie niemieckie trójniki do których wkłądało się profile ALU kwadratowe i można było konstrukcje budować. Poświęciliśmy na to ileś wieczór, kupiliśmy. W trakcie Emausa, w sobtni wieczór, tuż przed ważnym kulminacyjnym momentem dnia, ksiądz mnie przy wszystkich mocno skrytykował, że to się nic nie trzyma, bez sensu wydane pieniadze etc. Nie byłem w stanie wyjść do tego aktu. Poszedłem do innego pomieszczenia, płyneły mi łzy. Napracowałem się i otrzymałem za to krytykę.*  
 
 Pojawia się w sercu żal. 
-
-Niestety, często rozmówcami osób rozżalonych nie są ludzie, do których adresowane są pretensje. Pojawia się obmowa, która zawsze niszczy relacje. Uderza bowiem w konkretne osoby, we wspólnotę, a także w człowieka, który jest inspiratorem takich rozmów. Obmowa utwierdza w przykrych uczuciach, powoduje „twardnienie” i okopywanie się na swoim stanowisku, utrudnia proces przebaczenia. Człowiek zamyka się w sobie, nie przychodzi na spotkania. Zaczyna myśleć o zmianie grupki bądź wycofuje się z posługi.
-
-Wydaje się, że to ONI są winni, to ONI są grzeszni. Rzeczywistość pokazuje jednak, że często nasz sposób reagowania jest nieprawidłowy. To, co dokonuje się w tym okresie, jest trudne, ale równie ważne dla rozwoju osobistego.
-
-Gdy jednak osoba pozwoli prowadzić się Duchowi Świętemu, zacznie dostrzegać własne słabości i uchybienia oraz niedoskonałość własnej miłości. W ten sposób Duch Święty dokonuje w niej oczyszczenia. On pragnie, aby człowiek na nowo, w kontekście życia wspólnotowego, odkrył jedną z podstawowych prawd: jestem grzesznikiem, zdolnym czynić zło. To nie tylko bracia i siostry są słabi; ja także wraz z nimi bardzo potrzebuję Bożego przebaczenia i Bożej Miłości.
-
-W tym czasie ważne będzie wypowiadanie swych uczuć, żalów i całego rozczarowania wobec np. kierownika, animatora, przyjaciela lub osoby doświadczonej w Bożych drogach. Taka osoba uchroni przed pochopnymi opiniami i decyzjami.
+Jezus uczy nas, ze gdy coś masz przeciw bliżniemu swemu, to idź i obgadaj na grupce dzielenia. Nie.  Porozamawiaj w 4 oczy.
+Niestety gdy obmawiasz, to utwierdzasz się w przykrych uczuciach. Okopujemy na stanowisku.
+Łatwiej unikać spotkań wspólnoty niż się pogodzić. Może zmienię grupkę? Albo wycofam się z posługi.
+Niestety kiedy problem jest w Tobie, to zmiana miejsca niczego nie zmienia.
+Niestety kiedy problem jest w Tobie, to zmiana wspólnoty niczego nie zmienia.
 
 ##### c) Przemiana
 
-Na tym etapie oczyszczenie trwa nadal, choć przyjmuje inną nieco formę. Bóg stawia człowiekowi pytania dotyczące motywacji jego bycia we wspólnocie. Czego szukam? Dowartościowania, poczucia bezpieczeństwa? Jeśli pełnię posługę, to czy przypadkiem podświadomie nie oczekuję wdzięczności i uznania? Czy chcę przyjąć prawdę o wspólnocie? O sobie? Czy mam ochotę dać coś z siebie tej niedoskonałej grupie? Czy uczęszczanie na spotkania modlitewne nie jest dla mnie ucieczką przed problemami w pracy, w domu?
-
-Poprzedni etap był nacechowany buntem, niezgodą na odkrywaną stopniowo prawdę o wspólnocie i o sobie samym. Omawiany okres ma być początkiem procesu akceptacji rzeczywistości, w jakiej się żyje. A więc przyjmowaniem faktu, iż „nie chodzi wcale o to, aby we wspólnocie znajdowali się ludzie doskonali. Wspólnotę tworzą osoby ze sobą związane i w każdej z nich znajduje się mieszanina dobra i zła, ciemności i światła, miłości i nienawiści. Wspólnota jest jedynie glebą, na której każdy może bez obawy wzrastać, dążąc do wyzwolenia ukrytych w sobie form miłości”.
-
-Człowiek uczy się z pokorą przyjmowania prawdy o swej małości i słabości. Otwiera się wtedy także na przyjmowanie wszelkich ograniczeń innych osób. Właśnie jako grzesznik zaczyna pragnąć iść do Jezusa razem z innymi tak jak i on „ułomnymi”. Słabość przestaje być przeszkodą, a staje się drogą prowadzącą do miłości, a więc ku drugiemu, ku Bogu. Okres ten jest szkołą przebaczenia.
+Człowiek uczy się przyjmowania prawdy o tym że sam jest grzesznikiem. Przyjmuje ograniczeń innych osób.  
+Okres ten jest szkołą przebaczenia.
+*Przykład. Kurs Jan 3 lata w SNE*
 
 ##### d) Akceptacja
 
-Zazwyczaj po dłuższej wewnętrznej wędrówce dochodzi się do ostatniego etapu rozwoju. Odkrywa się na nowo wspólnotę, która jawi się nie tylko jako źródło zaspokajające moje potrzeby, lecz staje się ona miejscem świadomej służby. W związku z tym w człowieku wzrasta pragnienie odkrywania swych darów, aby nimi ubogacać innych. Potrzeba ta wypływa już nie z próżności, lecz z miłości (zob. Flp 2,3-4).
+Wspólnota staje się ona miejscem świadomej służby i tak naprawdę miłości. Służymy nie dla własnej chwał, z próżności, ale z miłości. A w nas pojawia się postawa ciągłego wybaczania sobie i innym. 
 
-Człowiek wyraża zgodę na ciągłe obumieranie swego „ja”, które najszybciej dokonuje się w grupie. Wcześniejsze doświadczenia pozwoliły odkryć, iż „śmierć” egoizmu, który ma wiele postaci, jest drogą do życia w miłości. Pojawia się radykalizm, który zazwyczaj prowadzi do „obfitego owocowania” w dobre czyny. Etap ten cechuje większa akceptacja osób ze wspólnoty, jak i siebie samego. To z kolei wiedzie do postawy ciągłego wybaczania sobie i innym. (zob. Rz 15,7). Dopiero teraz następuje świadomy i dojrzały wybór wspólnoty jako swego miejsca w Kościele. Jest to wybór gleby, na której człowiek pragnie się rozwijać, aby przynosząc coraz obfitsze owoce, służyć innym ludziom, a Bogu jako swemu Ojcu oddawać chwałę.
-
-Trudności, które są nieodzownym elementem każdej drogi prowadzącej ku rozwojowi, niech nie zasłonią nam ideału wspólnoty, mającej swe korzenie w Boskiej Wspólnocie Osób – w Trójcy Świętej. Ideał niech nas zachwyca i pociąga swym pięknem.
+Jaki jest ideał wspólnoty? Kochająca się trójca osób w trójcy Świętej. 
 
 #### DYNAMIKA: List do Boga
 
 **Cel:** Uświadomienie, nazwanie i powierzenie Bogu zranień doświadczonych we wspólnocie.
 
-**Motywacja:** Jeśli nie chcesz pozostać na etapie rozczarowania, potrzebujesz uzdrowienia tych miejsc, które zostały zranione przez osoby ze wspólnoty. Nikt nie jest w stanie zrozumieć Twoich uczuć, pomóc przebaczyć i przyjąć uzdrowienie tak, jak Bóg, Który Ciebie kocha i Który był w każdej z tych sytuacji. Dlatego teraz zapraszamy Ciebie do napisania listu do Boga, w którym możesz wylać przed Nim serce i powierzyć Mu to, co nosisz w sercu w kontekście Twojej wspólnoty bądź konkretnych osób ze wspólnoty. Nikt nie będzie czytał tego listu. Możesz go złożyć przed ołtarzem Słowa, a następnie zostanie spalony.
+**Motywacja:** Jeśli nie chcesz pozostać na etapie rozczarowania, potrzebujesz uzdrowienia tych miejsc, które zostały zranione przez osoby ze wspólnoty. Dlatego teraz zapraszamy Ciebie do napisania listu do Boga, w którym możesz wylać przed Nim serce i powierzyć Mu to, co nosisz w sercu w kontekście Twojej wspólnoty bądź konkretnych osób ze wspólnoty. Nikt nie będzie czytał tego listu. Możesz go złożyć przed ołtarzem Słowa, a następnie zostanie spalony.
 
 **Przebieg:** Uczestnicy dostają kartki i piszą list do Boga. Następnie składają ten list podczas przynoszenia darów.
 

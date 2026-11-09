@@ -37,6 +37,12 @@ source: "[[dyrektorium_2017_wprowadzenie.md]]"
 
 ![[05_gora-obecnosci.jpg]]
 
+## Latawiec i wrony
+
+### Nie widzę mojego pana, ale wiem, że jest, bo czuję szarpnięcie sznurka.
+
+![[06_latawiec-i-wrony.jpg]]
+
 ## Zdanie kluczowe
 
 ### Szukajcie Pana, póki pozwala się znaleźć

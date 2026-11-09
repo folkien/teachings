@@ -1,0 +1,22 @@
+---
+tags: [sesa, protagonistas, postac/drugoplanowa]
+source_page: 28
+---
+
+# Uczniowie z Emaus
+
+Oryginalna nazwa: **Discípulos de Emaús**. Zobacz [[AlbumProtagonistas2020.pdf#page=28]].
+
+## Jak ich malować
+
+1. Namaluj dwie niemal identyczne postacie idące obok siebie. Obie mają okrągłe twarze, krótkie jasne włosy i uśmiechy.
+2. Najbardziej charakterystyczne są ogromne czarne okulary: duże okrągłe szkła z białymi refleksami, grube oprawki i zauszniki.
+3. Pierwszą tunikę wypełnij czerwienią, drugą ciemną zielenią. Kołnierz drugiej postaci może być jasnozielony.
+4. Na piersi każdej postaci umieść czerwone serce z małą twarzą, otoczone dużymi pomarańczowo-czerwonymi językami ognia.
+5. Ręce i nogi rozstaw w dynamicznym marszu; stopy pozostaw bose i wielkie.
+
+## Znaczenie
+
+- Płonące serca pokazują serce rozpalone słuchaniem Słowa Bożego.
+- Okulary oznaczają oczy otwierające się przy łamaniu chleba.
+

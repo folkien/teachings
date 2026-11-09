@@ -14,13 +14,13 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Nawróceni wierzący razem idą ku Bogu, wspierają się i wznoszą ręce w uwielbieniu.
 
-![[01_wspolnota-wchodzi-na-gore-wzor-banera.png]]
+![[01_wspolnota-wchodzi-na-gore-sesa-rece.png]]
 
 ## Kościół pierwotny
 
 ### Wierzący trwali w nauce apostołów, wspólnocie braterskiej, łamaniu chleba i modlitwie.
 
-![[01_kosciol-pierwotny.jpg]]
+![[01_kosciol-pierwotny-sesa-8-postaci.png]]
 
 ## Dom Chleba
 

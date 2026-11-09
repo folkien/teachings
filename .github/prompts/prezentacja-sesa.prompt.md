@@ -131,6 +131,12 @@ output:
   markdown: "Nazwa_Pliku_Źródłowego_prezentacja.md"
   pptx: "Nazwa_Pliku_Źródłowego_prezentacja.pptx"
 
+theme:
+  font: "DejaVu Sans"
+  header_color: "#FF6500"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
 slides:
   - type: illustration
     title: "Tytuł slajdu"
@@ -213,6 +219,7 @@ Zapisz `<nazwa-zrodla>_prezentacja.yaml` według schematu z kroku 3. W tablicy `
 
 - Pole `title` zawiera nazwę konferencji widoczną na slajdzie tytułowym.
 - Pole `course_title` ma wartość `Kurs Animacji Modlitwy Charyzmatycznej` i tworzy mały napis na slajdzie tytułowym.
+- Pole `theme.header_color` zawiera kolor przypisany do rodzaju kursu w Tryptyku SESA. Dla KAMCh jako kursu dodatkowego użyj pomarańczowego `#FF6500`.
 - Slajd tytułowy powstaje automatycznie i nie jest osobnym elementem tablicy `slides`.
 - Każdy slajd ilustracyjny ma `type: illustration`, `title`, `subtitle` i `image`.
 - Ostatni slajd ma `type: key_sentence`, `title: "Zdanie kluczowe"` i `text` zapisany dokładnie jak w źródle.
@@ -241,17 +248,19 @@ Nie twórz własnego pliku `.mjs`, `.js` ani `.py` dla pojedynczej prezentacji. 
 ### Slajd tytułowy tworzony przez generator
 
 - jest zawsze pierwszym slajdem PPTX;
+- ma zawsze białe tło;
 - zawiera nazwę konferencji z pola `title`;
-- zawiera mniejszy napis `Kurs Animacji Modlitwy Charyzmatycznej` z pola `course_title`;
-- zachowuje prosty styl kolorystyczny prezentacji i używa wyłącznie natywnych, edytowalnych elementów PPTX;
+- nazwa konferencji jest zapisana kolorem z pola `theme.header_color`;
+- zawiera mniejszy, ciemny napis `Kurs Animacji Modlitwy Charyzmatycznej` z pola `course_title`;
+- używa wyłącznie natywnych, edytowalnych elementów PPTX;
 - nie wymaga ilustracji ani osobnego pliku graficznego;
 - nie jest elementem tablicy `slides` w YAML-u.
 
 ### Slajdy ilustracyjne tworzone przez generator
 
 - całe tło slajdu jest białe;
-- u góry znajduje się szeroki czerwony prostokąt;
-- na czerwonym prostokącie umieść duży biały, pogrubiony tytuł slajdu;
+- u góry znajduje się szeroki prostokąt w kolorze `theme.header_color` właściwym dla rodzaju kursu;
+- na kolorowym prostokącie umieść duży biały, pogrubiony tytuł slajdu;
 - bezpośrednio pod nim umieść czarny podtytuł;
 - poniżej umieść odpowiadającą slajdowi ilustrację, bez zniekształcania proporcji;
 - tytuł i podtytuł pozostają edytowalnymi polami tekstowymi, a obraz jest osadzony w pliku PPTX, nie podlinkowany z dysku;

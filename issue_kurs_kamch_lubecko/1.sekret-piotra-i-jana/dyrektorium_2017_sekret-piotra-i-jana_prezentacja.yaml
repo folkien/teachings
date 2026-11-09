@@ -11,7 +11,7 @@ output:
 
 theme:
   font: "DejaVu Sans"
-  header_color: "#B42318"
+  header_color: "#FF6500"
   key_color: "#F6C82F"
   text_color: "#111111"
 

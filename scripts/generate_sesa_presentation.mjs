@@ -244,7 +244,7 @@ function addText(slide, text, position, style, font) {
 
 function addTitleSlide(presentation, config, theme) {
   const slide = presentation.slides.add();
-  slide.background.fill = theme.headerColor;
+  slide.background.fill = "#FFFFFF";
   addText(
     slide,
     config.course_title.toLocaleUpperCase("pl-PL"),
@@ -252,7 +252,7 @@ function addTitleSlide(presentation, config, theme) {
     {
       fontSize: 21,
       bold: true,
-      color: theme.keyColor,
+      color: theme.textColor,
       alignment: "center",
       verticalAlignment: "middle",
     },
@@ -261,8 +261,8 @@ function addTitleSlide(presentation, config, theme) {
   slide.shapes.add({
     geometry: "rect",
     position: { left: 520, top: 234, width: 240, height: 6 },
-    fill: theme.keyColor,
-    line: { style: "solid", fill: theme.keyColor, width: 0 },
+    fill: theme.headerColor,
+    line: { style: "solid", fill: theme.headerColor, width: 0 },
   });
   addText(
     slide,
@@ -271,7 +271,7 @@ function addTitleSlide(presentation, config, theme) {
     {
       fontSize: 58,
       bold: true,
-      color: "#FFFFFF",
+      color: theme.headerColor,
       alignment: "center",
       verticalAlignment: "middle",
     },

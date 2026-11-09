@@ -21,3 +21,22 @@ Oryginalna nazwa: **Lucas**. Zobacz [[AlbumProtagonistas2020.pdf#page=12]].
 - Stetoskop pokazuje, że dociera do uczuć.
 - Okulary oznaczają człowieka wykształconego i przygotowanego.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=12]].
+- Obraz referencyjny: ![[referencje/album_strona-12.jpg]]
+- **Fakt źródłowy:** album wyjaśnia biały strój, stetoskop i okulary.
+- **Obserwacja ilustracji:** zielone guziki, lamówka, fryzura i układ stetoskopu wynikają z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Zachować biały strój lekarza, cienkie okulary i pogodną, przygotowaną twarz. Zielone detale pomagają utrzymać ciągłość wizualną.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i czynność są zmienne. Stetoskop jest silnym rekwizytem roli lekarza, ale może być odłożony lub używany zgodnie ze sceną.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie pokazuje osobnego obuwia, kieszeni ani tylnej części kitla. Zatwierdzonych nowych ilustracji: brak.

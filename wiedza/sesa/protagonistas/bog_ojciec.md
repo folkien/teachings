@@ -19,3 +19,22 @@ Oryginalna nazwa: **Dios Padre**. Zobacz [[AlbumProtagonistas2020.pdf#page=7]].
 - Serce mówi: Bóg jest miłością.
 - Chmura wyraża tajemnicę Boga.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=7]].
+- Obraz referencyjny: ![[referencje/album_strona-07.jpg]]
+- **Fakt źródłowy:** serce oznacza miłość, a chmura tajemnicę Boga.
+- **Obserwacja ilustracji:** antropomorficzne oczy, uśmiechy i nałożenie symboli pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna przedstawiana symbolicznie, bez ludzkiego ciała. Stałe są dwa połączone znaki: czerwone serce i jasna chmura, oba z łagodną, pogodną twarzą.
+
+## Elementy zmienne
+
+Można zmieniać wzajemne położenie symboli, kierunek spojrzenia i emocję odpowiednio do sceny. Nie należy dodawać ludzkiej sylwetki bez wyraźnego projektu oznaczonego jako propozycja.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie pokazuje alternatywnych ujęć ani osobnego symbolu dla dłoni lub głosu Boga. Zatwierdzonych nowych ilustracji: brak.

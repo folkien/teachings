@@ -20,3 +20,22 @@ Oryginalna nazwa: **Ángel**. Zobacz [[AlbumProtagonistas2020.pdf#page=27]].
 - Biały strój oznacza stworzenie niebiańskie.
 - Dwa skrzydła łączą niebo z ziemią.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=27]].
+- Obraz referencyjny: ![[referencje/album_strona-27.jpg]]
+- **Fakt źródłowy:** album wyjaśnia biały strój oraz dwa skrzydła.
+- **Obserwacja ilustracji:** jasnoniebieska tunika, aureola, profil i dynamiczny lot pochodzą z obrazu.
+- **Rozbieżność:** tekst mówi o białym stroju, natomiast ilustracja pokazuje tunikę jasnoniebieską. Nie rozstrzygamy tej różnicy przez zgadywanie.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa. Stałe są dwa białe skrzydła, żółta aureola, pogodna twarz i lekka sylwetka zdolna do lotu.
+
+## Elementy zmienne
+
+Poza w locie, gest, kierunek spojrzenia i emocja mogą się zmieniać. Kolor stroju wymaga decyzji dla konkretnej serii z uwagi na rozbieżność źródła.
+
+## Niepewności i zatwierdzone ilustracje
+
+Do sprawdzenia pozostaje docelowy kolor tuniki: biały według tekstu albo jasnoniebieski według obrazu. Zatwierdzonych nowych ilustracji: brak.

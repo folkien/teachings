@@ -22,3 +22,22 @@ Oryginalna nazwa: **María**. Zobacz [[AlbumProtagonistas2020.pdf#page=14]].
 - Perły pokazują bogactwo Skarbu noszonego w sercu.
 - Fartuch oznacza służebnicę Pańską.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=14]].
+- Obraz referencyjny: ![[referencje/album_strona-14.jpg]]
+- **Fakt źródłowy:** album wyjaśnia sandały, welon, perły i fartuch.
+- **Obserwacja ilustracji:** rysy twarzy, włosy, błękity, fala na dole i złożone dłonie pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Zachować czarne włosy, jasnobłękitny welon i strój, fartuch, złoto-pomarańczowe perły, sandały oraz łagodną twarz z rzęsami.
+
+## Elementy zmienne
+
+Poza, gest dłoni, spojrzenie, emocja i czynność mogą się zmieniać. Perły, welon i fartuch budują rozpoznawalność; nie trzeba eksponować każdego z nich jednakowo w każdym kadrze.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie pokazuje tyłu welonu ani fryzury w pełnym widoku. Zatwierdzonych nowych ilustracji: brak.

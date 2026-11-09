@@ -15,3 +15,22 @@ Oryginalna nazwa: **Madianita**. Zobacz [[AlbumProtagonistas2020.pdf#page=30]].
 4. Obie dłonie unieś po bokach w otwartym geście.
 5. Stopy pozostaw bose, duże i ustawione symetrycznie.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=30]].
+- Obraz referencyjny: ![[referencje/album_strona-30.jpg]]
+- **Fakt źródłowy:** album podaje hiszpańską nazwę „Madianita” i klasyfikację, bez opisu symboliki.
+- **Obserwacja ilustracji:** szara chusta, czerwona tunika i faliste usta wynikają z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa. Zachować szczelnie owiniętą szaro-czarną chustę, czerwoną tunikę i ostrożną, niepewną mimikę.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i emocja mogą się zmieniać. Album nie przypisuje postaci rekwizytu.
+
+## Niepewności i zatwierdzone ilustracje
+
+Polski wariant nazwy i płeć postaci nie są określone w źródle; pozostawiono oryginalne „Madianita”. Zatwierdzonych nowych ilustracji: brak.

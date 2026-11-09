@@ -21,3 +21,22 @@ Oryginalna nazwa: **Moisés**. Zobacz [[AlbumProtagonistas2020.pdf#page=16]].
 - Laska jest znakiem władzy pasterskiej.
 - Sandały przypominają o czterdziestu latach wędrówki przez pustynię.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=16]].
+- Obraz referencyjny: ![[referencje/album_strona-16.jpg]]
+- **Fakt źródłowy:** album wyjaśnia biało-niebieski strój, laskę i sandały.
+- **Obserwacja ilustracji:** młoda twarz bez brody, krój tuniki i kształt laski pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Zachować białą tunikę z trzema niebieskimi pasami, brązowe sandały i pasterską laskę. Wzorzec albumowy przedstawia Mojżesza bez brody.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i emocja mogą odpowiadać etapowi historii. Laska jest ważnym znakiem władzy, ale jej użycie może zmieniać się zależnie od sceny.
+
+## Niepewności i zatwierdzone ilustracje
+
+Źródło nie pokazuje tablic Prawa ani alternatywnego starszego wyglądu; ich dodanie byłoby nowym wariantem wymagającym oznaczenia jako propozycja. Zatwierdzonych nowych ilustracji: brak.

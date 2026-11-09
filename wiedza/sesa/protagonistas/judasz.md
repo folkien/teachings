@@ -21,3 +21,22 @@ Oryginalna nazwa: **Judas**. Zobacz [[AlbumProtagonistas2020.pdf#page=24]].
 - Sakiewka przypomina o sprzedaniu Jezusa.
 - Smutna twarz pokazuje brak szczęścia.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=24]].
+- Obraz referencyjny: ![[referencje/album_strona-24.jpg]]
+- **Fakt źródłowy:** album wyjaśnia czarny strój, sakiewkę i smutną twarz.
+- **Obserwacja ilustracji:** łysa głowa, ostre brwi i wygląd sakiewki pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa o roli antagonisty. Stałe są czarna tunika, łysa głowa, smutno-gniewna twarz i opuszczone kąciki ust.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i nasilenie emocji są zmienne. Sakiewka jest rekwizytem zdrady i nie musi pojawiać się przed ani po tej konkretnej scenie.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie określa znaku na sakiewce słowami; jego dokładne odtworzenie należy oprzeć na referencji. Zatwierdzonych nowych ilustracji: brak.

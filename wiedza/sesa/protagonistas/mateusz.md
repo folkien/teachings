@@ -21,3 +21,22 @@ Oryginalna nazwa: **Mateo**. Zobacz [[AlbumProtagonistas2020.pdf#page=15]].
 - Kipa oznacza Żyda piszącego do Żydów.
 - Kalkulator wyraża porządek i systematyczność.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=15]].
+- Obraz referencyjny: ![[referencje/album_strona-15.jpg]]
+- **Fakt źródłowy:** album wyjaśnia żółtą tunikę, kipę i kalkulator.
+- **Obserwacja ilustracji:** profil, dynamiczny krok i kolory klawiszy kalkulatora pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Należy zachować żółtą tunikę, błękitną kipę, młodzieńczą twarz i skojarzenie z porządkiem rachunków.
+
+## Elementy zmienne
+
+Poza, krok, gest i kierunek spojrzenia są zmienne. Kalkulator jest rekwizytem dawnego poborcy podatków; nie musi występować w każdej scenie późniejszego ucznia.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie określa obuwia ani wyglądu tuniki od tyłu. Zatwierdzonych nowych ilustracji: brak.

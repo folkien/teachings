@@ -21,3 +21,22 @@ Oryginalna nazwa: **Pablo**. Zobacz [[AlbumProtagonistas2020.pdf#page=17]].
 - Gwiazda Dawida oznacza żydowskie pochodzenie.
 - Krzyż w centrum oznacza chrześcijanina.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=17]].
+- Obraz referencyjny: ![[referencje/album_strona-17.jpg]]
+- **Fakt źródłowy:** album wyjaśnia sportowy strój, Gwiazdę Dawida i krzyż.
+- **Obserwacja ilustracji:** kolory odzieży, fryzura i poza biegacza pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Zachować sportową sylwetkę, białą koszulkę, niebieskie spodenki i buty oraz błękitną Gwiazdę Dawida z krzyżem na piersi.
+
+## Elementy zmienne
+
+Można zmieniać rodzaj aktywności, pozę, gest, emocję i spojrzenie. Sportowy strój oraz połączony znak żydowsko-chrześcijański powinny pozostać rozpoznawalne.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie przedstawia tradycyjnych atrybutów Pawła ani innego stroju; ich dodanie wymaga oznaczenia jako propozycja. Zatwierdzonych nowych ilustracji: brak.

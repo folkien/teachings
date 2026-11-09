@@ -20,3 +20,22 @@ Oryginalna nazwa: **Discípulos de Emaús**. Zobacz [[AlbumProtagonistas2020.pdf
 - Płonące serca pokazują serce rozpalone słuchaniem Słowa Bożego.
 - Okulary oznaczają oczy otwierające się przy łamaniu chleba.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=28]].
+- Obraz referencyjny: ![[referencje/album_strona-28.jpg]]
+- **Fakt źródłowy:** album wyjaśnia płonące serca i okulary.
+- **Obserwacja ilustracji:** para niemal identycznych postaci, czerwono-zielone stroje i marsz pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+To dwuosobowa postać zbiorowa. Zachować parę uczniów, ogromne czarne okulary oraz serca otoczone płomieniami. Jeden strój jest czerwony, drugi zielony.
+
+## Elementy zmienne
+
+Można zmieniać wspólną pozę, kierunek marszu, gest, spojrzenie i emocję. Okulary mogą być zdejmowane tylko wtedy, gdy sens otwierania oczu pozostaje czytelny.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie nadaje uczniom osobnych imion ani innych cech rozróżniających poza kolorem tuniki. Zatwierdzonych nowych ilustracji: brak.

@@ -22,3 +22,22 @@ Oryginalna nazwa: **Evangelizador**. Zobacz [[AlbumProtagonistas2020.pdf#page=29
 - Czerwień oznacza głoszenie zbawienia przez krew Baranka.
 - Płomień Ducha oznacza świadectwo składane z mocą.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=29]].
+- Obraz referencyjny: ![[referencje/album_strona-29.jpg]]
+- **Fakt źródłowy:** album wyjaśnia parę, biel, czerwień i płomień Ducha.
+- **Obserwacja ilustracji:** czarne Biblie, złote detale i dwie różne mimiki wynikają z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+To dwuosobowa postać zbiorowa. Zachować parę, kontrast czerwonej i białej tuniki, płomienie ponad głowami i niesione Pismo.
+
+## Elementy zmienne
+
+Można zmieniać płeć, wiek, twarze, pozę, gest, emocję i czynność pary, jeśli zachowane są jej posłanie po dwóch i symbolika kolorów. Biblia jest rekwizytem głoszenia, nie częścią ciała.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie określa, czy płomień zawsze powinien być widoczny ani czy para musi mieć identyczne Pisma. Zatwierdzonych nowych ilustracji: brak.

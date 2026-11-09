@@ -21,3 +21,22 @@ Oryginalna nazwa: **Espíritu Santo**. Zobacz [[AlbumProtagonistas2020.pdf#page=
 - Woda jest źródłem życia.
 - Ogień oświeca, spala, oczyszcza, ogrzewa i umacnia.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=8]].
+- Obraz referencyjny: ![[referencje/album_strona-08.jpg]]
+- **Fakt źródłowy:** album przypisuje znaczenie gołębicy, wodzie i ogniowi.
+- **Obserwacja ilustracji:** aureole, antropomorficzne twarze żywiołów i kompozycja trzech znaków wynikają z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna przedstawiana przez trzy symbole: białą gołębicę, niebieską wodę i żółto-pomarańczowy ogień. W pełnym przedstawieniu wszystkie trzy elementy mają aureole.
+
+## Elementy zmienne
+
+W zależności od nauczania można użyć jednego symbolu zamiast całej trójki. Poza gołębicy, rozbryzg wody, kształt płomienia i emocja mogą się zmieniać, jeśli pozostają czytelne.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie rozstrzyga, czy każdy pojedynczy wariant zawsze musi mieć twarz i aureolę. Każde odejście należy oznaczyć jako propozycję. Zatwierdzonych nowych ilustracji: brak.

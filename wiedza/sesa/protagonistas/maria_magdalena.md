@@ -15,3 +15,22 @@ Oryginalna nazwa: **María Magdalena**. Zobacz [[AlbumProtagonistas2020.pdf#page
 4. Dłonie złóż blisko piersi w spokojnym, skupionym geście.
 5. Bose stopy pokaż częściowo spod sukni; sylwetkę skieruj lekko w lewo.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=25]].
+- Obraz referencyjny: ![[referencje/album_strona-25.jpg]]
+- **Fakt źródłowy:** album podaje nazwę i klasyfikację, bez tekstowego objaśnienia stroju.
+- **Obserwacja ilustracji:** zielony kaptur, czarne włosy, rzęsy i złożone dłonie pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa. Zachować długie czarne włosy, szerokie zielone okrycie głowy, ciemnozieloną suknię oraz kobiece oczy z rzęsami.
+
+## Elementy zmienne
+
+Gest dłoni, poza, emocja i kierunek spojrzenia mogą zależeć od sceny. Album nie przypisuje jej obowiązkowego rekwizytu.
+
+## Niepewności i zatwierdzone ilustracje
+
+Nie jest jednoznaczne, czy zielony element jest kapturem, welonem czy płaszczem z kapturem. Zatwierdzonych nowych ilustracji: brak.

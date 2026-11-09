@@ -23,3 +23,22 @@ Oryginalna nazwa: **Jesús**. Zobacz [[AlbumProtagonistas2020.pdf#page=10]].
 - Znak „X” wskazuje na naturę boską i ludzką.
 - Uśmiech pokazuje, że jest szczęśliwy i uszczęśliwia innych.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=10]].
+- Obraz referencyjny: ![[referencje/album_strona-10.jpg]]
+- **Fakt źródłowy:** album wyjaśnia kolor tuniki, sandały, aureolę, znak „X” i uśmiech.
+- **Obserwacja ilustracji:** proporcje, fryzura, otwarty gest i dokładny wygląd znaku wynikają z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Centralna postać główna. Należy zachować jasną tunikę w kolorze kości słoniowej, żółtą aureolę, czarny znak „X” na piersi, sandały i łagodną twarz. Znak „X” jest najważniejszym oznaczeniem stroju.
+
+## Elementy zmienne
+
+Poza, gest, kierunek spojrzenia, czynność i emocja mogą wynikać ze sceny. Uśmiech jest wzorcem albumowym, ale w scenach męki, współczucia lub stanowczego nauczania emocja powinna odpowiadać treści.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie pokazuje tyłu tuniki ani wariantów fryzury. Zatwierdzonych nowych ilustracji: brak.

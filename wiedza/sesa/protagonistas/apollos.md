@@ -22,3 +22,22 @@ Oryginalna nazwa: **Apolo**. Zobacz [[AlbumProtagonistas2020.pdf#page=5]].
 - Biblia oznacza znajomość Pisma.
 - Płomienie pokazują przepowiadanie w mocy Ducha Świętego.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=5]].
+- Obraz referencyjny: ![[referencje/album_strona-05.jpg]]
+- **Fakt źródłowy:** znaczenie brązowej szaty, greckiej bordiury, Biblii i płomieni podaje album.
+- **Obserwacja ilustracji:** wygląd profilu, kolory i układ rekwizytów pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna. Stałe są: profilowa głowa, brązowo-ceglasta tunika z grecką bordiurą i tożsamość znawcy Pisma. Biblia jest silnym znakiem identyfikującym, a płomienie odnoszą się do głoszenia w mocy Ducha.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i emocja mogą zależeć od sceny. Biblia oraz płomienie są rekwizytem i efektem działania, dlatego nie trzeba malować ich w scenie, w której Apollos nie naucza.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie pokazuje drugiej strony twarzy ani tyłu tuniki. Zatwierdzonych nowych ilustracji: brak.

@@ -21,3 +21,22 @@ Oryginalna nazwa: **Timoteo**. Zobacz [[AlbumProtagonistas2020.pdf#page=19]].
 - Zwój przedstawia niesione Słowo.
 - Wrotki wyrażają pilne i szybkie misje.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=19]].
+- Obraz referencyjny: ![[referencje/album_strona-19.jpg]]
+- **Fakt źródłowy:** album wyjaśnia czapkę, zwój i wrotki.
+- **Obserwacja ilustracji:** granatowa tunika, różowy krzyż, płomień i linie pędu pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna o młodzieńczej i dynamicznej tożsamości. Zachować czerwoną czapkę noszoną tyłem, granatową tunikę i wrotki.
+
+## Elementy zmienne
+
+Można zmieniać kierunek jazdy, gest, spojrzenie i emocję. Zwój z krzyżem oraz płomień są rekwizytem niesionego Słowa i mogą być dostosowane do konkretnej misji.
+
+## Niepewności i zatwierdzone ilustracje
+
+Tekst albumu mówi o „pergaminach” w liczbie mnogiej, ilustracja pokazuje jeden zwój. Rozbieżności nie należy rozstrzygać przez zgadywanie. Zatwierdzonych nowych ilustracji: brak.

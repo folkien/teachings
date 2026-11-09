@@ -20,3 +20,22 @@ Oryginalna nazwa: **Evangelizado**. Zobacz [[AlbumProtagonistas2020.pdf#page=28]
 - Zielony strój oznacza nadzieję.
 - Serce z zamkiem pokazuje, że tylko ta osoba może je otworzyć lub zamknąć.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=28]].
+- Obraz referencyjny: ![[referencje/album_strona-28.jpg]]
+- **Fakt źródłowy:** album wyjaśnia zielony strój i serce z zamkiem.
+- **Obserwacja ilustracji:** fryzura, otwarty gest i wygląd dziurki od klucza pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa reprezentująca odbiorcę ewangelizacji. Zachować zieloną tunikę i duże czerwone serce z czarną dziurką od klucza.
+
+## Elementy zmienne
+
+Twarz, włosy, płeć, wiek, poza, emocja i czynność mogą być dostosowane do konkretnego uczestnika, jeśli pozostanie czytelny znak serca i nadziei. Jest to robocza propozycja wynikająca z funkcji postaci, nie zapis albumu.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album pokazuje tylko jeden wariant wyglądu i nie mówi, które cechy osobowe są obowiązkowe. Zatwierdzonych nowych ilustracji: brak.

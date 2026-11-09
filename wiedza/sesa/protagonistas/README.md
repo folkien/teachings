@@ -6,6 +6,8 @@ tags: [sesa, protagonistas, postacie, wizualizacja]
 
 Źródło: [[AlbumProtagonistas2020.pdf]]. Album Escuela de Evangelización San Andrés, wydanie 2020.
 
+Wspólne zasady i reprezentatywne wzorce: [[styl_wspolny]].
+
 ## Wspólny styl malowania
 
 Postacie mają prosty, komiksowy styl SESA. Najpierw rysuje się cienki czarny kontur, potem wypełnia go czystymi, nasyconymi kolorami. Głowa jest bardzo duża i okrągła, tułów ma kształt rozszerzającego się ku dołowi trapezu, a dłonie i stopy są nieproporcjonalnie duże. Ręce oraz nogi nie mają wyraźnych przedramion i łydek. Oczy są wysokimi białymi owalami z dużymi czarnymi źrenicami i małymi białymi blikami. Nos zazwyczaj się pomija. Usta rysuje się jedną linią. Za postacią można dodać miękki, jasnoszary cień przesunięty w prawo i w dół.
@@ -49,4 +51,3 @@ Postacie mają prosty, komiksowy styl SESA. Najpierw rysuje się cienki czarny k
 - [[zyd|Żyd]]
 - [[madianita|Madianita]]
 - [[rzymianin|Rzymianin]]
-

@@ -15,3 +15,22 @@ Oryginalna nazwa: **Pilato**. Zobacz [[AlbumProtagonistas2020.pdf#page=26]].
 4. Ręce zegnij i skrzyżuj przed tułowiem, aby poza była zamknięta i powściągliwa.
 5. Stopy pozostaw bose i ustawione razem.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=26]].
+- Obraz referencyjny: ![[referencje/album_strona-26.jpg]]
+- **Fakt źródłowy:** album podaje nazwę i klasyfikację, bez opisu symboliki.
+- **Obserwacja ilustracji:** gałązki laurowe, biała tunika, niebieska szarfa, skrzyżowane ręce i surowa mina pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać drugoplanowa. Zachować białą tunikę, niebieską szarfę, zielone gałązki przy uszach i surową twarz z pochylonymi brwiami.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i emocja mogą się zmieniać. Skrzyżowane ręce są pozą wzorcową, nie częścią tożsamości.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album nie nazywa zielonych ozdób wieńcem laurowym; jest to obserwacja ich wyglądu. Zatwierdzonych nowych ilustracji: brak.

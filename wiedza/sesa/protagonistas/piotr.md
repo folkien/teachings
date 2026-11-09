@@ -23,3 +23,22 @@ Oryginalna nazwa: **Pedro**. Zobacz [[AlbumProtagonistas2020.pdf#page=18]].
 - Paliusz oznacza troskę o owce stada.
 - Pastorał przypomina, że Jezus ustanowił go pasterzem.
 
+## Źródła i status informacji
+
+- Dokument: [[AlbumProtagonistas2020.pdf#page=18]].
+- Obraz referencyjny: ![[referencje/album_strona-18.jpg]]
+- **Fakt źródłowy:** album wyjaśnia klucze, buty, fioletową szatę, paliusz i pastorał.
+- **Obserwacja ilustracji:** trzy klucze, czerwone krzyże i wygląd łat na butach pochodzą z obrazu.
+- **Propozycje:** brak.
+
+## Rola i cechy stałe
+
+Postać główna i pasterz. Zachować fioletową szatę, biały paliusz z czerwonymi krzyżami, wielkie zniszczone buty i pogodną twarz. Klucze są najważniejszym znakiem identyfikującym.
+
+## Elementy zmienne
+
+Poza, gest, spojrzenie i emocja są zmienne. Pastorał, klucze i paliusz należy dobierać do sceny; nie wszystkie muszą być jednocześnie eksponowane, jeśli Piotr pozostaje rozpoznawalny.
+
+## Niepewności i zatwierdzone ilustracje
+
+Album pokazuje trzy klucze, ale tekst nie określa ich liczby jako reguły. Zatwierdzonych nowych ilustracji: brak.

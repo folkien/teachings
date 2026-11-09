@@ -31,9 +31,9 @@ source: "[[dyrektorium_2017_uwielbienie.md]]"
 
 ![[04_kwiat-i-ogrodnik.jpg]]
 
-## Sposób życia
+## Uwielbienie jako sposób życia
 
-### Różne formy uwielbienia prowadzą do tego, by modlitwa stała się sposobem życia.
+### Śpiewem, słowami i w ciszy zwracamy serce ku Bogu w każdej sytuacji.
 
 ![[05_sposob-zycia.jpg]]
 

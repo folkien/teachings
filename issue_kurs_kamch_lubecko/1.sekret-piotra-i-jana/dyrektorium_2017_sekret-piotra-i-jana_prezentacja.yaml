@@ -7,7 +7,7 @@ status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_sekret-piotra-i-jana_prezentacja.md"
-  pptx: "dyrektorium_2017_sekret-piotra-i-jana_prezentacja.pptx"
+  pptx: "t1.sekretpiotrajana.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -23,8 +23,8 @@ slides:
 
   - type: illustration
     title: "Rytm życia apostołów"
-    subtitle: "Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji, a ewangelizacja prowadzi z powrotem do modlitwy."
-    image: "07_rytm-zycia-apostolow.jpg"
+    subtitle: "Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji. Ewangelizacja prowadzi do prześladowań, a one z powrotem do modlitwy osobistej."
+    image: "07_rytm-zycia-apostolow-z-przesladowaniem.jpg"
 
   - type: quote
     title: "Modlitwa i posługa Słowa"

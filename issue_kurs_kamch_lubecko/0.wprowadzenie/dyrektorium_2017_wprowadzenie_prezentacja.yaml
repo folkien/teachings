@@ -7,7 +7,7 @@ status: "propozycja"
 
 output:
   markdown: "dyrektorium_2017_wprowadzenie_prezentacja.md"
-  pptx: "dyrektorium_2017_wprowadzenie_prezentacja.pptx"
+  pptx: "wprowadzenie.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -37,7 +37,7 @@ slides:
     image: "04_bog-na-trudne-czasy.jpg"
 
   - type: illustration
-    title: "Góra obecności"
+    title: "Góra Pana"
     subtitle: "Bóg zaprasza do wejścia na górę Jego poznania, objawienia i bliskości."
     image: "05_gora-obecnosci.jpg"
 

@@ -7,7 +7,7 @@ status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_prowadzenie-modlitwy-osobistej_prezentacja.md"
-  pptx: "dyrektorium_2017_prowadzenie-modlitwy-osobistej_prezentacja.pptx"
+  pptx: "t2.prowadzenie-modlitwy-osobistej_prezentacja.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -38,7 +38,7 @@ slides:
 
   - type: illustration
     title: "Jak rozeznawać"
-    subtitle: "Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba brać razem."
+    subtitle: "Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba stosować razem."
     image: "06_jak-rozeznawac.jpg"
 
   - type: illustration

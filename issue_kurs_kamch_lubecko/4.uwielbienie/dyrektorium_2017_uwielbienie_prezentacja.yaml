@@ -7,7 +7,7 @@ status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_uwielbienie_prezentacja.md"
-  pptx: "dyrektorium_2017_uwielbienie_prezentacja.pptx"
+  pptx: "t4.uwielbienie_prezentacja.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -29,7 +29,7 @@ slides:
   - type: illustration
     title: "Uwielbienie w trudnościach"
     subtitle: "Paweł i Sylas wielbili Boga także w więzieniu, a On działał pośród ich trudności (Dz 16,25–26)."
-    image: "02_uwielbienie-w-trudnosciach.jpg"
+    image: "02_uwielbienie-w-trudnosciach-poprawione-oko.jpg"
 
   - type: illustration
     title: "Od siebie ku Bogu"

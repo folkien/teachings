@@ -18,9 +18,9 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Rytm życia apostołów
 
-### Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji, a ewangelizacja prowadzi z powrotem do modlitwy.
+### Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji. Ewangelizacja prowadzi do prześladowań, a one z powrotem do modlitwy osobistej.
 
-![[07_rytm-zycia-apostolow.jpg]]
+![[07_rytm-zycia-apostolow-z-przesladowaniem.jpg]]
 
 ## Modlitwa i posługa Słowa
 

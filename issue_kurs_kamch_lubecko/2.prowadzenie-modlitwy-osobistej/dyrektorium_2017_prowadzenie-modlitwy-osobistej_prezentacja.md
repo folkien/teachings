@@ -36,7 +36,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Jak rozeznawać
 
-### Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba brać razem.
+### Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba stosować razem.
 
 ![[06_jak-rozeznawac.jpg]]
 

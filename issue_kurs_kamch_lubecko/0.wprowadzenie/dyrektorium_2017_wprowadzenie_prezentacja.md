@@ -34,7 +34,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ![[04_bog-na-trudne-czasy.jpg]]
 
-## Góra obecności
+## Góra Pana
 
 ### Bóg zaprasza do wejścia na górę Jego poznania, objawienia i bliskości.
 

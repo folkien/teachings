@@ -26,7 +26,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Paweł i Sylas wielbili Boga także w więzieniu, a On działał pośród ich trudności (Dz 16,25–26).
 
-![[02_uwielbienie-w-trudnosciach.jpg]]
+![[02_uwielbienie-w-trudnosciach-poprawione-oko.jpg]]
 
 ## Od siebie ku Bogu
 

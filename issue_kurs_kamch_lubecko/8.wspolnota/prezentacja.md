@@ -38,7 +38,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Modlitwa prowadzi do ewangelizacji, a ewangelizacja prowadzi do modlitwy.
 
-![[04_modlitwa-i-ewangelizacja.jpg]]
+![[04_modlitwa-i-ewangelizacja-biale-tlo.jpg]]
 
 ## Duch wyprowadza do misji
 
@@ -51,12 +51,6 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ### Zakochanie i rozczarowanie mogą prowadzić przez przemianę do akceptacji, służby i miłości.
 
 ![[06_cztery-etapy-wspolnoty.jpg]]
-
-## List do Boga
-
-### Nazwij zranienia doświadczone we wspólnocie i powierz Bogu to, co nosisz w sercu.
-
-![[07_list-do-boga.jpg]]
 
 ## Zdanie kluczowe
 

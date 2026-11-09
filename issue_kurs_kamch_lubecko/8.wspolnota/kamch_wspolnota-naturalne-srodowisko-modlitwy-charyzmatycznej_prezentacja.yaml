@@ -39,7 +39,7 @@ slides:
   - type: illustration
     title: "Dwie strony medalu"
     subtitle: "Modlitwa prowadzi do ewangelizacji, a ewangelizacja prowadzi do modlitwy."
-    image: "04_modlitwa-i-ewangelizacja.jpg"
+    image: "04_modlitwa-i-ewangelizacja-biale-tlo.jpg"
 
   - type: illustration
     title: "Duch wyprowadza do misji"
@@ -50,11 +50,6 @@ slides:
     title: "Cztery etapy wspólnoty"
     subtitle: "Zakochanie i rozczarowanie mogą prowadzić przez przemianę do akceptacji, służby i miłości."
     image: "06_cztery-etapy-wspolnoty.jpg"
-
-  - type: illustration
-    title: "List do Boga"
-    subtitle: "Nazwij zranienia doświadczone we wspólnocie i powierz Bogu to, co nosisz w sercu."
-    image: "07_list-do-boga.jpg"
 
   - type: key_sentence
     title: "Zdanie kluczowe"

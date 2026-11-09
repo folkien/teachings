@@ -7,12 +7,6 @@ source: "[[dyrektorium_2017_piecdziesiatnica]]"
 
 # Pięćdziesiątnica
 
-## Pięćdziesiątnica
-
-### Celem każdej modlitwy charyzmatycznej jest doświadczenie Pięćdziesiątnicy!
-
-![[50tnica.jpeg]]
-
 ## Spotkanie z żywym Bogiem
 
 ### Celem modlitwy osobistej i wspólnotowej jest spotkanie i zjednoczenie z Bogiem.

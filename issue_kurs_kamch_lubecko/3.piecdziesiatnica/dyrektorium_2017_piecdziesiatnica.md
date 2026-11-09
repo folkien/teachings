@@ -10,25 +10,30 @@ topic: "Pięćdziesiątnica"
 > Źródło: „Dyrektorium KAMCH 2.5.2017”, s. 17-20. Tekst wyekstrahowany z PDF; zachowano oryginalne brzmienie.
 
 ## 1. CEL
+
 Ukazać, że każda modlitwa charyzmatyczna zmierza do doświadczenia Pięćdziesiątnicy.
+
 ## 2. MYŚL KLUCZOWA
+
 Potrzebujesz nieustannego zanurzenia w Duchu Świętym.
+
 ## 3. CZAS
+
 30 + 30 minut.
+
 ## 4. ROZWINIĘCIE NAUCZANIA
+
 ### A. WSTĘP
+
 Powiedzieliśmy już o tym, dlaczego tak ważna jest modlitwa w życiu każdego z nas, a także o tym,
 jak powinna wyglądać w praktyce nasza modlitwa osobista.
 Ale nasuwa się pytanie, dokąd zmierzamy, kiedy się modlimy? Jaki jest cel naszej modlitwy
 osobistej i wspólnotowej? Czy to coś zmienia w życiu naszym i innych?
+
 ### B. ZAWARTOŚĆ NAUCZANIA
+
 #### a. Duch Święty – Przewodnik w modlitwie
-Życie modlitewne polega na stałym jednoczeniu się z Bogiem!
-Niezależnie od tego, czy mówimy o modlitwie osobistej, czy wspólnotowej, celem każdej modlitwy
-jest Twoje spotkanie z Żywym Bogiem. Kościół podkreśla, jak ważny jest stałe trwanie w komunii –
-bliskim zjednoczeniu z Bogiem.
-Zbudować więź z Bogiem oznacza zbudować więź z Bogiem Ojcem, Synem i Duchem Świętym.
-> 
+
 „... Życie modlitwy polega zatem na stałym trwaniu w obecności trzykroć
 Świętego Boga i w komunii z Nim. Ta komunia życia jest zawsze możliwa, gdyż
 przez chrzest staliśmy się jedno z Chrystusem (Rz 6, 5). Modlitwa jest o tyle
@@ -36,18 +41,28 @@ chrześcijańska, o ile jest komunią z Chrystusem i rozszerza się w Kościele,
 który jest Jego Ciałem. Ma ona wymiar miłości Chrystusa (Ef 3, 18-21).”
 (KKK 2565)
 
+Życie modlitewne polega na stałym jednoczeniu się z Bogiem!
+Niezależnie od tego, czy mówimy o modlitwie osobistej, czy wspólnotowej, celem każdej modlitwy
+jest Twoje spotkanie z Żywym Bogiem. Kościół podkreśla, jak ważny jest stałe trwanie w komunii –
+bliskim zjednoczeniu z Bogiem.
+Zbudować więź z Bogiem oznacza zbudować więź z Bogiem Ojcem, Synem i Duchem Świętym.
+
 W osiąganiu tego celu nie jesteś skazany tylko na własny wysiłek. Istnieje Przewodnik w życiu
 modlitewnym. To On uczy, jak należy się modlić, to On prowadzi Ciebie w modlitwie. Tym
 Przewodnikiem jest Duch Święty.
-> 
+
 “Podobnie także Duch przychodzi z pomocą naszej słabości. Gdy bowiem nie umiemy się
+
 modlić tak, jak trzeba, sam Duch przyczynia się za nami w błaganiach, których nie można
 wyrazić słowami. Ten zaś, który przenika serca, zna zamiar Ducha, [wie], że przyczynia
 się za świętymi zgodnie z wolą Bożą” (Rz 8, 26-27)
-> „Jezus powrócił w mocy Ducha do Galilei, a wieść o Nim rozeszła się po całej okolicy. On
+
+„Jezus powrócił w mocy Ducha do Galilei, a wieść o Nim rozeszła się po całej okolicy. On
 zaś nauczał w ich synagogach, wysławiany przez wszystkich” (Łk 4,14-15)
-> „Nikt też nie może powiedzieć bez pomocy Ducha Świętego: „Panem jest Jezus””
+
+„Nikt też nie może powiedzieć bez pomocy Ducha Świętego: „Panem jest Jezus””
 (1 Kor 12, 3)
+
 Duch Święty jest Duchem modlitwy i ewangelizacji. Widzimy to na przykładzie życia samego
 Jezusa, a także pierwszych apostołów.
 Duch prowadzi Jezusa na pustynię. Pustynia jest miejscem próby, doświadczenia i samotności.
@@ -57,7 +72,9 @@ Jezusa. On powraca pełen Ducha i zaczyna z mocą głosić Dobrą Nowinę.
 Widzimy, jak Duch Święty prowadzi do modlitwy, której celem jest zawsze jednoczenie się
 z Bogiem, co owocuje jeszcze większym napełnianiem się Duchem Świętym i zwiększeniem
 skuteczności działania.
+
 #### b. Duch Święty – Przewodnik w życiu.
+
 W Credo wyznajemy, że Duch Święty jest Panem i Ożywicielem. On w czasie spotkania
 modlitewnego nie jest dodatkiem, lecz głównym prowadzącym. On jest tym, który przynosi życie.
 Biblijne imiona Ducha Św. to “Ruah”, następnie z greckiego “Pneuma”. W szerszym znaczeniu
@@ -76,11 +93,14 @@ c) Sfera relacji: Dz 15, 36-38. Bóg nie chce, żebyśmy żyli w konflikcie, dla
 Pawła do pojednania z Markiem 2 Tm 4, 11.
 d) Sfera służby/życia wspólnotowego: Dz 13, 2,4. Duch Święta określa kierunek służby.
 e) Życie osobiste: Dz 20, 22. Duch Święty chce prowadzić mnie w życiu codziennym.
+
 /Świadectwo Prowadzącego na temat działania Ducha Świętego w różnych sferach jego życia/
+
 Żeby Duch Święty mógł prowadzić nas w życiu, powinniśmy być w całości zależni od Niego. Nie
 możemy pozwolić mu prowadzić nas tylko w wybranych dziedzinach. Duch Święty chce być
 Przewodnikiem, a nie Towarzyszem od okazji do okazji!
-D Y N A M I K A : P ł y w a n i e n a p ł y t k i e j w o d z i e
+
+### DYNAMIKA: Pływanie na płytkiej wodzie
 
 Cel:
 Odkryć potrzebę prawdziwego zanurzenia się w Duchu Świętym.
@@ -108,7 +128,6 @@ Zanurzenie statków.
 Modlitwa o zanurzenie w Duchu Świętym.
 Czas: 30 minut.
 
-> 
 “Następnie zaprowadził mnie z powrotem przed wejście do świątyni, a oto wypływała
 woda spod progu świątyni w kierunku wschodnim, ponieważ przednia strona świątyni była
 skierowana ku wschodowi; a woda płynęła spod prawej strony świątyni na południe od
@@ -134,6 +153,8 @@ różnego rodzaju drzewa owocowe, których liście nie więdną, których owoce 
 wyczerpują; każdego miesiąca będą rodzić nowe, ponieważ woda dla nich przychodzi
 z przybytku. Ich owoce będą służyć za pokarm, a ich liście za lekarstwo”
 (Ez 47, 1-12).
+
 ### C. KONKLUZJA
+
 Celem każdej modlitwy charyzmatycznej jest doświadczenie Pięćdziesiątnicy!
 

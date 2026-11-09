@@ -48,3 +48,7 @@ source: "[[kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej]]"
 ### Nazwij zranienia doświadczone we wspólnocie i powierz Bogu to, co nosisz w sercu.
 
 ![[07_list-do-boga.jpg]]
+
+## Zdanie kluczowe
+
+### Wspólnota żyje, gdy jest dla ewangelizacji.

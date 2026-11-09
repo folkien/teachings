@@ -107,7 +107,7 @@ Widzimy słabe strony naszych liderów, kapłanów.
 Przykład. *Pamiętam taki Kurs Emaus w Bardzie Śląskim. Przygotowywałem z trójką osób. takie przenośne konstrukcje dla wspólnoty, żeby z nich korzystać. Znaleźliśmy takie niemieckie trójniki do których wkłądało się profile ALU kwadratowe i można było konstrukcje budować. Poświęciliśmy na to ileś wieczór, kupiliśmy. W trakcie Emausa, w sobtni wieczór, tuż przed ważnym kulminacyjnym momentem dnia, ksiądz mnie przy wszystkich mocno skrytykował, że to się nic nie trzyma, bez sensu wydane pieniadze etc. Nie byłem w stanie wyjść do tego aktu. Poszedłem do innego pomieszczenia, płyneły mi łzy. Napracowałem się i otrzymałem za to krytykę.*  
 
 Pojawia się w sercu żal. 
-Jezus uczy nas, ze gdy coś masz przeciw bliżniemu swemu, to idź i obgadaj na grupce dzielenia. Nie.  Porozamawiaj w 4 oczy.
+Jezus uczy nas, ze gdy coś masz przeciw bliżniemu swemu, to idź i obgadaj na grupce dzielenia. Nie.  Porozmawiaj w 4 oczy.
 Niestety gdy obmawiasz, to utwierdzasz się w przykrych uczuciach. Okopujemy na stanowisku.
 Łatwiej unikać spotkań wspólnoty niż się pogodzić. Może zmienię grupkę? Albo wycofam się z posługi.
 Niestety kiedy problem jest w Tobie, to zmiana miejsca niczego nie zmienia.
@@ -117,11 +117,13 @@ Niestety kiedy problem jest w Tobie, to zmiana wspólnoty niczego nie zmienia.
 
 Człowiek uczy się przyjmowania prawdy o tym że sam jest grzesznikiem. Przyjmuje ograniczeń innych osób.  
 Okres ten jest szkołą przebaczenia.
-*Przykład. Kurs Jan 3 lata w SNE*
+*Przykład. Kurs Jan 3 lata w SNE*.
 
 ##### d) Akceptacja
 
 Wspólnota staje się ona miejscem świadomej służby i tak naprawdę miłości. Służymy nie dla własnej chwał, z próżności, ale z miłości. A w nas pojawia się postawa ciągłego wybaczania sobie i innym. 
+
+*Przykład. Alpha z miłości do wspólnoty, parafii. Chcieliśmy coś zmienić, ponosiliśmy ofiarę.*
 
 Jaki jest ideał wspólnoty? Kochająca się trójca osób w trójcy Świętej. 
 

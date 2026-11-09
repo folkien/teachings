@@ -32,7 +32,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### W uwielbieniu człowiek przestaje skupiać się na sobie i kieruje całe serce ku Bogu.
 
-![[03_od-siebie-ku-bogu.jpg]]
+![[03_od-siebie-ku-bogu-wzor-banera.jpg]]
 
 ## Kwiat i Ogrodnik
 

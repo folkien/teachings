@@ -32,7 +32,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Prowadzący usuwa się w cień, aby Duch Święty prowadził wspólnotę w uwielbieniu.
 
-![[03_duch-swiety-prowadzi.jpg]]
+![[03_duch-swiety-prowadzi-wzor-banera.jpg]]
 
 ## Pokora i miłość
 

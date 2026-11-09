@@ -2,10 +2,19 @@
 tags: [prezentacja, sesa]
 status: propozycja
 date: 2026-11-09
-source: "[[kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej]]"
+source: "[[kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej.md]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
-# Wspólnota — naturalne środowisko modlitwy charyzmatycznej
+# Wspólnota - naturalne środowisko modlitwy charyzmatycznej
+
+*Kurs Animacji Modlitwy Charyzmatycznej*
+
+## Wspólnota wchodzi na górę
+
+### Nawróceni wierzący razem idą ku Bogu, wspierają się i wznoszą ręce w uwielbieniu.
+
+![[01_wspolnota-wchodzi-na-gore-wzor-banera.png]]
 
 ## Kościół pierwotny
 
@@ -51,4 +60,4 @@ source: "[[kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej]]"
 
 ## Zdanie kluczowe
 
-### Wspólnota żyje, gdy jest dla ewangelizacji.
+### Wspólnota żyje, gdy jest dla ewangelizacji

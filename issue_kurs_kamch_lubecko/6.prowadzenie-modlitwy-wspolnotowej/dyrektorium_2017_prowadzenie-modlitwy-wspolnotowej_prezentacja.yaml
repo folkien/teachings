@@ -7,7 +7,7 @@ status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej_prezentacja.md"
-  pptx: "dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej_prezentacja.pptx"
+  pptx: "t6.prowadzenie-modlitwy-wspolnotowej_prezentacja.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -34,7 +34,7 @@ slides:
   - type: illustration
     title: "Duch Święty prowadzi"
     subtitle: "Prowadzący usuwa się w cień, aby Duch Święty prowadził wspólnotę w uwielbieniu."
-    image: "03_duch-swiety-prowadzi.jpg"
+    image: "03_duch-swiety-prowadzi-wzor-banera.jpg"
 
   - type: illustration
     title: "Pokora i miłość"

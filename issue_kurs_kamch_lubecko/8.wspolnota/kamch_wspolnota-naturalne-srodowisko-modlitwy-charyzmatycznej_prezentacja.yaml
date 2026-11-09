@@ -1,0 +1,61 @@
+version: 1
+title: "Wspólnota - naturalne środowisko modlitwy charyzmatycznej"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
+source: "kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej.md"
+date: "2026-11-09"
+status: "propozycja"
+
+output:
+  markdown: "prezentacja.md"
+  pptx: "8.wspolnota.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#FF6500"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Wspólnota wchodzi na górę"
+    subtitle: "Nawróceni wierzący razem idą ku Bogu, wspierają się i wznoszą ręce w uwielbieniu."
+    image: "01_wspolnota-wchodzi-na-gore-wzor-banera.png"
+
+  - type: illustration
+    title: "Kościół pierwotny"
+    subtitle: "Wierzący trwali w nauce apostołów, wspólnocie braterskiej, łamaniu chleba i modlitwie."
+    image: "01_kosciol-pierwotny.jpg"
+
+  - type: illustration
+    title: "Dom Chleba"
+    subtitle: "Wspólnota ma dawać duchowy pokarm i przyjmować człowieka z gościnnością."
+    image: "02_dom-chleba.jpg"
+
+  - type: illustration
+    title: "Jednomyślna modlitwa"
+    subtitle: "Wspólna modlitwa daje nowe doświadczenie Bożej obecności i działania Ducha Świętego."
+    image: "03_jednomyslna-modlitwa.jpg"
+
+  - type: illustration
+    title: "Dwie strony medalu"
+    subtitle: "Modlitwa prowadzi do ewangelizacji, a ewangelizacja prowadzi do modlitwy."
+    image: "04_modlitwa-i-ewangelizacja.jpg"
+
+  - type: illustration
+    title: "Duch wyprowadza do misji"
+    subtitle: "Po doświadczeniu Pięćdziesiątnicy Piotr przemówił, a ludzie się nawracali."
+    image: "05_piotr-wychodzi-do-misji.jpg"
+
+  - type: illustration
+    title: "Cztery etapy wspólnoty"
+    subtitle: "Zakochanie i rozczarowanie mogą prowadzić przez przemianę do akceptacji, służby i miłości."
+    image: "06_cztery-etapy-wspolnoty.jpg"
+
+  - type: illustration
+    title: "List do Boga"
+    subtitle: "Nazwij zranienia doświadczone we wspólnocie i powierz Bogu to, co nosisz w sercu."
+    image: "07_list-do-boga.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Wspólnota żyje, gdy jest dla ewangelizacji"

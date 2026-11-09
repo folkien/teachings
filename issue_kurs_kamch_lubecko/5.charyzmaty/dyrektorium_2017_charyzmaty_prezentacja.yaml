@@ -7,7 +7,7 @@ status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_charyzmaty_prezentacja.md"
-  pptx: "dyrektorium_2017_charyzmaty_prezentacja.pptx"
+  pptx: "t5.charyzmaty_prezentacja.pptx"
 
 theme:
   font: "DejaVu Sans"
@@ -37,6 +37,11 @@ slides:
     image: "03_jeden-duch-rozne-dary.jpg"
 
   - type: illustration
+    title: "Wyposażeni do wspólnej drogi"
+    subtitle: "Duch Święty wyposaża każdego w inne dary potrzebne całej wspólnocie."
+    image: "03b_wyposazeni-do-wspolnej-drogi.png"
+
+  - type: illustration
     title: "Trzy grupy darów"
     subtitle: "Dary mowy przekazują Boże słowo, dary wiedzy pomagają rozeznawać, a dary mocy objawiają działanie Boga."
     image: "06_trzy-grupy-darow.jpg"
@@ -49,7 +54,7 @@ slides:
   - type: illustration
     title: "Rozpakuj dary"
     subtitle: "Proś, pragnij i wierz. Miłość jest prawdziwą miarą korzystania z każdego daru (KKK 799–801)."
-    image: "05_rozpakuj-dary.jpg"
+    image: "05_rozpakuj-dary-poprawiona-postac.png"
 
   - type: key_sentence
     title: "Zdanie kluczowe"

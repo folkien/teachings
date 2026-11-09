@@ -34,6 +34,12 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ![[03_jeden-duch-rozne-dary.jpg]]
 
+## Wyposażeni do wspólnej drogi
+
+### Duch Święty wyposaża każdego w inne dary potrzebne całej wspólnocie.
+
+![[03b_wyposazeni-do-wspolnej-drogi.png]]
+
 ## Trzy grupy darów
 
 ### Dary mowy przekazują Boże słowo, dary wiedzy pomagają rozeznawać, a dary mocy objawiają działanie Boga.
@@ -50,7 +56,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Proś, pragnij i wierz. Miłość jest prawdziwą miarą korzystania z każdego daru (KKK 799–801).
 
-![[05_rozpakuj-dary.jpg]]
+![[05_rozpakuj-dary-poprawiona-postac.png]]
 
 ## Zdanie kluczowe
 

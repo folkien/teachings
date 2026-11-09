@@ -38,7 +38,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ### Bóg zaprasza do wejścia na górę Jego poznania, objawienia i bliskości.
 
-![[05_gora-obecnosci.jpg]]
+![[05_gora-pana-wzor-banera.png]]
 
 ## Latawiec i wrony
 

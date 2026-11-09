@@ -2,7 +2,7 @@
 
 ## Kontekst
 
-W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy Charyzmatycznej (KAMCh). Oficjalnym organizatorem kursu jest Szkoła Nowej Ewangelizacji Jezusa Zmartwychwstałego w Gliwicach, a przygotowania lokalne prowadzi SNE Lubecko. Wersja dyrektorium z 2017 r. jest podstawą programu i logistyki, a wersja z 2015 r. pozostaje materiałem porównawczym oraz źródłem dodatkowych wskazówek metodycznych.
+W dniach 6-8 listopada 2026 r. w Lubecku odbył się Kurs Animacji Modlitwy Charyzmatycznej (KAMCh). Oficjalnym organizatorem kursu była Szkoła Nowej Ewangelizacji Jezusa Zmartwychwstałego w Gliwicach, a przygotowania lokalne prowadziła SNE Lubecko. Podstawą programu i logistyki było dyrektorium z 2017 r., a ostateczny harmonogram zawiera plan w wersji 6.
 
 ## Cel
 
@@ -12,7 +12,7 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 
 ## Osoby i kontakty
 
-- **Katarzyna Jarzębowska** - dyrektor kursu.
+- **Katarzyna Jarzębowska-Skurzybot** - dyrektor kursu.
 - **Sławomir Paszko** - koordynator kursu.
 - **ks. Tomek** - kapłan w ekipie przez cały kurs.
 - **SNE Gliwice** - oficjalny organizator kursu.
@@ -20,36 +20,57 @@ W dniach 6-8 listopada 2026 r. w Lubecku odbędzie się Kurs Animacji Modlitwy C
 
 ## Materiały
 
-- [Dyrektorium KAMCH 2.5.2017.pdf](Dyrektorium%20KAMCH%202.5.2017.pdf) - nowsza, 43-stronicowa wersja: plan trzydniowego kursu, siedem tematów, dynamiki i tabela techniczna.
-- [Dyrektorium KAMCH_2015.pdf](Dyrektorium%20KAMCH_2015.pdf) - wcześniejsza, 16-stronicowa wersja robocza: cele, myśli przewodnie i wskazówki dla prowadzących.
-- [KAMCh 2017 dochodzony2 - plan.doc](KAMCh%202017%20dochodzony2%20-%20plan.doc) - archiwalny plan kursu dochodzonego wykorzystany do porównania godzin i kolejności programu.
-- [KAMCh 2020 - plan.doc](KAMCh%202020%20-%20plan.doc) - archiwalny, pełniejszy plan kursu wykorzystany jako główna baza harmonogramu roboczego.
+- [Dyrektorium KAMCH 2.5.2017.pdf](Dyrektorium%20KAMCH%202.5.2017.pdf) - dyrektorium będące podstawą programu, nauczania, dynamiki i tabela techniczna.
+- [KAMCh 2026 dochodzony - plan, wersja 6.doc](KAMCh%202026%20dochodzony%20-%20plan,%20wersja%206.doc) - źródłowa i ostateczna wersja planu kursu.
+- [KAMCh 2026 dochodzony - plan, wersja 6.md](KAMCh%202026%20dochodzony%20-%20plan,%20wersja%206.md) - plan w wersji Markdown.
 - [streszczenie.md](streszczenie.md) - zwięzłe streszczenie kursu, programu i potrzeb organizacyjnych dla ekipy.
-- [informacje_organizacyjne.md](informacje_organizacyjne.md) - aktualny skład ekipy, zapisy, warunki udziału, braki i sprawy do ustalenia.
-- [plan_roboczy.md](plan_roboczy.md) - roboczy harmonogram kursu na 6-8 listopada 2026 r., bez obsady ekipy i rekwizytów.
-- [kamch_2026_plan_wersja3.md](kamch_2026_plan_wersja3.md) - uporządkowany plan po spotkaniu ekipy 13 października: poprawna kolejność metodologiczna, nauczający, świadectwa, posługi i terminy.
-- [facebook_kamch_lubecko_2026.png](facebook_kamch_lubecko_2026.png) - gotowa grafika promująca wydarzenie na Facebooku.
-- [facebook_post_kwadrat_kamch_lubecko_2026.png](facebook_post_kwadrat_kamch_lubecko_2026.png) - kwadratowa grafika promocyjna do posta na Facebooku.
-- [facebook_tlo_kamch_lubecko_2026.png](facebook_tlo_kamch_lubecko_2026.png) - wariant bez tekstu, do użycia jako samo tło lub w innych publikacjach.
-- [opis_wydarzenia_facebook.md](opis_wydarzenia_facebook.md) - pełna i skrócona wersja opisu wydarzenia do publikacji.
+- [informacje_organizacyjne.md](informacje_organizacyjne.md) - informacje o ekipie, zapisach i warunkach udziału.
+- [opis_wydarzenia_facebook.md](opis_wydarzenia_facebook.md) - pełna i skrócona wersja opisu wydarzenia.
+- Katalogi `0.wprowadzenie`, `1`-`6` oraz `8.wspolnota` - teksty nauczania wyekstrahowane z dyrektorium i odpowiadające im plakaty.
 
 ## Status
 
 - [x] Wyznaczyć dyrektora, koordynatora i kapłana kursu.
 - [x] Uruchomić pierwszą wersję formularza zapisów.
 - [x] Uzupełnić główne posługi: projektant, muzyczni, recepcja, materiały dydaktyczne oraz kawiarenka i posiłki.
-- [ ] Wyznaczyć lektorów, liturgię, sprzęt i osobę odpowiedzialną za apteczkę.
-- [ ] Potwierdzić dokładne miejsce, godziny rozpoczęcia i zakończenia oraz warunki pobytu uczestników w Lubecku.
-- [x] Przygotować roboczy harmonogram 6-8 listopada na podstawie planów z 2017 i 2020 r.
-- [x] Przywrócić kolejność tematów zgodną z Dyrektorium KAMCh 2017 i przygotować wersję 3 planu.
-- [ ] Potwierdzić z ks. Tomkiem sobotnią Eucharystię, T4 „Uwielbienie” oraz ostateczne godziny i posiłki.
-- [ ] Potwierdzić Sławka jako nauczającego T2 oraz obsadzić cztery brakujące świadectwa.
-- [ ] Zebrać od nauczających konspekty i od ekipy świadectwa do 26 października 2026 r.
-- [ ] Przygotować listę uczestników, komunikację przedkursową i obsadę grup/praktyk modlitewnych.
-- [ ] Zabezpieczyć materiały, muzykę, nagłośnienie, ołtarz Słowa i rekwizyty z tabeli technicznej.
+- [x] Przygotować ostateczny harmonogram na 6-8 listopada - wersja 6.
+- [x] Ustalić nauczających, świadectwa, animatorów grup oraz odpowiedzialnych za dynamiki.
+- [x] Ustalić sobotnią Eucharystię, T4 „Uwielbienie”, godziny i posiłki.
+- [x] Przygotować listę rekwizytów, materiałów drukowanych i zadań grup uczestników.
+- [x] Przygotować teksty nauczania i przyporządkować do nich plakaty.
 - [x] Przeprowadzić spotkanie duchowo-organizacyjne ekipy przed kursem 13 października 2026 r.
 - [ ] Zamknięcie issue (ekstrakcja wiedzy do `wiedza/`).
 
-## Aktualizacja 2026-10-13 (z transkryptu)
+## Ustalenia ze spotkania ekipy 13 października 2026 r.
 
-Spotkanie ekipy ujawniło, że wersja 2 planu mieszała „Sekret Piotra i Jana” z „Prowadzeniem modlitwy osobistej” oraz umieszczała „Prowadzenie modlitwy wspólnotowej” w niewłaściwym dniu. Wersja 3 przywraca kolejność z dyrektorium, przenosi prowadzenie modlitwy wspólnotowej na sobotni wieczór i skraca niedzielę do około 14:00. Najważniejszym nierozstrzygniętym punktem pozostaje godzina sobotniej Eucharystii.
+Transkrypt spotkania został scalony z dokumentacją i usunięty jako roboczy materiał źródłowy. Ostateczne decyzje programowe znajdują się w planie w wersji 6. Z rozmowy zachowano następujący kontekst:
+
+- przed kursem należało przywieźć galerię plakatów i przygotować Ołtarz Słowa, materiały dydaktyczne, identyfikatory oraz rekwizyty do dynamik;
+- recepcję powierzono Krystianowi i Beacie, a uczestnicy mieli pomagać w przygotowaniu stołów i sprzątaniu;
+- piątkowy lodołamacz pozostaje osobnym elementem programu; analogia „Latawiec” ma rozpisane role narratora, dwóch wron i latawca;
+- oczekiwania uczestników są zapisywane na samoprzylepnych kartkach podczas kolacji i umieszczane na plakacie lub tablicy, aby pomóc ekipie dostosować nauczania i rozmowy;
+- modlitwa osobista odbywa się w sali głoszeń, a uczestnicy pracują w stałych grupach, prowadząc animacje, podsumowania, liturgię, modlitwę za kurs i zadania gospodarcze;
+- każde nauczanie powinno zawierać osobiste świadectwo, a dynamiki mają dawać realne doświadczenie modlitwy, nie tylko przekazywać teorię;
+- kolejność tematów została uporządkowana: T1 dotyczy uczestnictwa w modlitwie, T2 i T6 jej prowadzenia, a T8 wspólnoty dla ewangelizacji.
+
+W dalszej części rozmowy pojawiły się również wnioski dotyczące życia wspólnoty SNE Lubecko: wspólnota potrzebuje stałej ewangelizacji, a Kurs Alpha jest traktowany jako proste i skuteczne narzędzie zapraszania nowych osób. Omawiano model jednej formacji dla całej wspólnoty, spotkania łączące nauczanie, modlitwę i dzielenie oraz osobne grupy męskie i kobiece. Ważnym motywem była obecność wspólnoty w lokalnej parafii i tworzenie dla dzieci oraz rodzin lepszego doświadczenia Kościoła.
+
+## Ustalenia końcowe przed kursem 5-6 listopada 2026 r.
+
+- Ostateczna liczebność wyniosła **29 uczestników i 12 osób ekipy**, czyli łącznie 41 osób.
+- Uczestnicy zostali podzieleni między kolorowe grupy posług. Zatwierdzony podział był przygotowany do wydrukowania przed rozpoczęciem kursu.
+- W piątkowym planie po kolacji dodano osobne **15 minut na sprzątnięcie stołów**. Dopiero po tym czasie rozpoczynał się kolejny punkt programu.
+- Przygotowanie sali głoszeń zaplanowano na 5 listopada o 19:30. Sławek miał dotrzeć około 19:45, a Arek po 20:00 przywieźć sprzęt. Udział potwierdzili również Piotrek, Krystian i Beata; Beata miała dołączyć po spotkaniu Alpha.
+- Równoległe spotkanie Alpha nie blokowało przygotowań, ponieważ sala kursowa znajdowała się piętro wyżej.
+- Osobom dojeżdżającym przekazano dokładną lokalizację: **Kawiarenka Lubecko, ul. Główna 42, Kochanowice, 42-700**, [mapa dojazdu](https://maps.google.com/maps/search/Kawiarenka%20Lubecko/@50.697977,18.646579,17z?hl=pl).
+- W analogii „Latawiec” osoba grająca latawiec nie potrzebuje stroju. Wystarczy trzymać latawiec i poruszać się razem z wronami, jak podczas lotu na wietrze. Pozwala to nie obciążać koordynatora dodatkowymi przygotowaniami i zmianą stroju.
+
+## Wnioski organizacyjne na przyszłe kursy
+
+- **Zamknąć liczebność przed drukiem materiałów.** Ostateczna liczba uczestników i ekipy wpływa na identyfikatory, podział grup, wydruki, posiłki i liczbę rekwizytów.
+- **Przygotować podział posług przed przyjazdem uczestników.** Kolory grup i ich zadania powinny być zatwierdzone oraz gotowe do wydrukowania najpóźniej dzień przed kursem.
+- **Wpisywać sprzątanie jako pełnoprawny punkt programu.** Po posiłkach należy rezerwować konkretny bufor czasowy, a nie zakładać, że stoły zostaną uprzątnięte w trakcie kolejnego punktu.
+- **Oddzielnie zaplanować przygotowanie sali i dostawę sprzętu.** Trzeba podać godzinę rozpoczęcia, zebrać potwierdzenia obecności i uzgodnić, kto oraz kiedy przywozi nagłośnienie i pozostały sprzęt.
+- **Sprawdzić inne wydarzenia odbywające się równolegle.** Wcześniejsze ustalenie sal i pięter zapobiega konfliktom oraz pozwala osobom zaangażowanym w dwa wydarzenia dołączyć później.
+- **Wysłać ekipie dokładny adres i link do mapy.** Jest to szczególnie ważne dla osób przyjeżdżających późnym wieczorem lub spoza miejscowości.
+- **Upraszczać inscenizacje.** Rekwizyt i czytelny ruch często wystarczą; nie każda rola wymaga kostiumu. Przy podziale ról warto uwzględniać, że koordynator równolegle prowadzi wiele punktów programu.

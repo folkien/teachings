@@ -3,7 +3,7 @@ title: "Pięćdziesiątnica"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 source: "dyrektorium_2017_piecdziesiatnica"
 date: "2026-11-09"
-status: "propozycja"
+status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_piecdziesiatnica_prezentacja.md"
@@ -21,9 +21,14 @@ slides:
     subtitle: "Celem modlitwy osobistej i wspólnotowej jest spotkanie i zjednoczenie z Bogiem."
     image: "01_spotkanie-z-zywym-bogiem.jpg"
 
+  - type: quote
+    title: "Komunia z Chrystusem"
+    text: "Modlitwa jest o tyle chrześcijańska, o ile jest komunią z Chrystusem"
+    reference: "KKK 2565"
+
   - type: illustration
     title: "Duch prowadzi modlitwę"
-    subtitle: "Duch Święty przychodzi z pomocą naszej słabości i uczy nas modlitwy."
+    subtitle: "Duch przychodzi z pomocą naszej słabości i uczy nas modlitwy (Rz 8,26)."
     image: "02_duch-prowadzi-modlitwe.jpg"
 
   - type: illustration
@@ -38,7 +43,7 @@ slides:
 
   - type: illustration
     title: "Całkowite zanurzenie"
-    subtitle: "Głębokie zanurzenie w Duchu Świętym otwiera życie na przemianę, owoc i uzdrowienie."
+    subtitle: "Głębokie zanurzenie w Duchu Świętym otwiera życie na przemianę, owoc i uzdrowienie (Ez 47,3–5)."
     image: "05_calkowite-zanurzenie.jpg"
 
   - type: key_sentence

@@ -1,6 +1,6 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
+status: zaakceptowana
 date: 2017-05-02
 source: "[[dyrektorium_2017_prowadzenie-modlitwy-osobistej.md]]"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
@@ -18,21 +18,27 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Zaplanowane spotkanie
 
-### Modlitwę trzeba planować, lecz najważniejszy jest Bóg, który zaprasza i prowadzi spotkanie.
+### Ustal stały czas i miejsce. Bóg zaprasza i prowadzi spotkanie.
 
 ![[02_zaplanowane-spotkanie.jpg]]
 
 ## Zawsze możesz przyjść
 
-### Grzech nie jest przeszkodą w spotkaniu z Bogiem, ponieważ zostałeś obmyty.
+### Grzech nie zamyka drogi do Boga, ponieważ Chrystus cię zbawił i obmył.
 
 ![[03_zostales-obmyty.jpg]]
 
-## Słuchanie i rozeznanie
+## Słuchanie Boga
 
-### Rozeznanie rodzi się ze słuchania Boga w Słowie i wewnętrznych natchnieniach.
+### Bóg mówi w Słowie i wewnętrznych natchnieniach. Uczucia nie są miarą Jego obecności.
 
 ![[04_sluchanie-i-rozeznanie.jpg]]
+
+## Jak rozeznawać
+
+### Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba brać razem.
+
+![[06_jak-rozeznawac.jpg]]
 
 ## Korzenie w Słowie
 

@@ -1,6 +1,6 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
+status: zaakceptowana
 date: 2026-11-09
 source: "[[dyrektorium_2017_piecdziesiatnica]]"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
@@ -16,9 +16,15 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ![[01_spotkanie-z-zywym-bogiem.jpg]]
 
+## Komunia z Chrystusem
+
+> Modlitwa jest o tyle chrześcijańska, o ile jest komunią z Chrystusem
+
+— KKK 2565
+
 ## Duch prowadzi modlitwę
 
-### Duch Święty przychodzi z pomocą naszej słabości i uczy nas modlitwy.
+### Duch przychodzi z pomocą naszej słabości i uczy nas modlitwy (Rz 8,26).
 
 ![[02_duch-prowadzi-modlitwe.jpg]]
 
@@ -36,7 +42,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Całkowite zanurzenie
 
-### Głębokie zanurzenie w Duchu Świętym otwiera życie na przemianę, owoc i uzdrowienie.
+### Głębokie zanurzenie w Duchu Świętym otwiera życie na przemianę, owoc i uzdrowienie (Ez 47,3–5).
 
 ![[05_calkowite-zanurzenie.jpg]]
 

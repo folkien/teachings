@@ -3,7 +3,7 @@ title: "Prowadzenie modlitwy osobistej"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 source: "dyrektorium_2017_prowadzenie-modlitwy-osobistej.md"
 date: "2017-05-02"
-status: "propozycja"
+status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_prowadzenie-modlitwy-osobistej_prezentacja.md"
@@ -23,18 +23,23 @@ slides:
 
   - type: illustration
     title: "Zaplanowane spotkanie"
-    subtitle: "Modlitwę trzeba planować, lecz najważniejszy jest Bóg, który zaprasza i prowadzi spotkanie."
+    subtitle: "Ustal stały czas i miejsce. Bóg zaprasza i prowadzi spotkanie."
     image: "02_zaplanowane-spotkanie.jpg"
 
   - type: illustration
     title: "Zawsze możesz przyjść"
-    subtitle: "Grzech nie jest przeszkodą w spotkaniu z Bogiem, ponieważ zostałeś obmyty."
+    subtitle: "Grzech nie zamyka drogi do Boga, ponieważ Chrystus cię zbawił i obmył."
     image: "03_zostales-obmyty.jpg"
 
   - type: illustration
-    title: "Słuchanie i rozeznanie"
-    subtitle: "Rozeznanie rodzi się ze słuchania Boga w Słowie i wewnętrznych natchnieniach."
+    title: "Słuchanie Boga"
+    subtitle: "Bóg mówi w Słowie i wewnętrznych natchnieniach. Uczucia nie są miarą Jego obecności."
     image: "04_sluchanie-i-rozeznanie.jpg"
+
+  - type: illustration
+    title: "Jak rozeznawać"
+    subtitle: "Słowo Boże, naukę Kościoła, wewnętrzne natchnienia, zdrowy rozsądek i znaki czasu trzeba brać razem."
+    image: "06_jak-rozeznawac.jpg"
 
   - type: illustration
     title: "Korzenie w Słowie"

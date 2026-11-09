@@ -41,4 +41,8 @@ Poza, gest, spojrzenie i emocja są zmienne. Pastorał, klucze i paliusz należy
 
 ## Niepewności i zatwierdzone ilustracje
 
-Album pokazuje trzy klucze, ale tekst nie określa ich liczby jako reguły. Zatwierdzonych nowych ilustracji: brak.
+Album pokazuje trzy klucze, ale tekst nie określa ich liczby jako reguły.
+
+**Korekta autora biblioteki:** w innych materiałach św. Piotr ma charakterystyczne nakrycie głowy w formie kopuły bazyliki; należy je traktować jako stałą cechę w seriach opartych na tym wariancie. Obecna strona albumu 2020 nie pokazuje tego nakrycia, dlatego przed generowaniem trzeba wczytać właściwy obraz referencyjny z kopułą, jeśli jest dostępny. Nie projektować jej z pamięci jako rzekomo wiernej kopii.
+
+Zatwierdzonych nowych ilustracji: brak.

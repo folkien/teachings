@@ -41,7 +41,8 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 - głowa jest zbliżona wielkością do górnej połowy tułowia;
 - tułów zwykle ma formę prostego trapezu rozszerzonego ku dołowi;
 - dłonie i stopy są mocno powiększone;
-- ręce i nogi są cienkie albo pominięte, a dłonie i stopy mogą wyglądać jak oddzielne elementy;
+- w bazowym stylu albumowym dłonie są **odłączone od tułowia i unoszą się osobno**, bez narysowanych ramion; stopy także często są odłączone albo połączone jedynie bardzo krótkimi, cienkimi odcinkami nóg;
+- pełne, anatomicznie połączone ręce i nogi zmieniają język graficzny i nie powinny być domyślnie dodawane;
 - brak realistycznej anatomii jest cechą stylu, nie błędem.
 
 ### Twarz
@@ -62,13 +63,16 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 - każdy element ma dużą, czytelną plamę koloru;
 - gradient jest łagodny i nie buduje realistycznej bryły;
 - szary cień znajduje się zwykle za postacią, przesunięty w prawo i w dół;
-- tło kart albumowych pozostaje białe.
+- tło kart albumowych pozostaje białe;
+- w scenach z podręczników dominuje biała przestrzeń; jeśli potrzebne jest otoczenie, stosuje się oszczędną kolorową winietę lub pojedynczy centralny motyw zamiast kompletnego wnętrza z meblami i dekoracjami.
 
 ## Tożsamość postaci
 
 **Fakt z albumu:** kolory, stroje i rekwizyty często mają określone znaczenie symboliczne. Znaczenia te są zapisane w indywidualnych kartach.
 
-**Zasada robocza:** przy kolejnych scenach zachowywać twarz, fryzurę, główny kolor stroju i najważniejszy znak identyfikujący. Rekwizyt sytuacyjny dodawać tylko wtedy, gdy wspiera sens sceny. Przykładowo teleskop Andrzeja, kalkulator Mateusza lub zwój Tymoteusza nie muszą występować w każdej scenie, jeśli postać pozostaje rozpoznawalna bez nich.
+**Zasada robocza:** przy kolejnych scenach zachowywać bez zmian twarz, fryzurę lub nakrycie głowy, główny krój i kolor stroju, proporcje oraz najważniejszy znak identyfikujący. Ta sama nazwana postać ma wyglądać jak ten sam bohater, a nie jak nowa interpretacja w podobnym stylu. Rekwizyt sytuacyjny dodawać tylko wtedy, gdy wspiera sens sceny. Przykładowo teleskop Andrzeja, kalkulator Mateusza lub zwój Tymoteusza nie muszą występować w każdej scenie, jeśli postać pozostaje rozpoznawalna bez nich.
+
+**Twarda zasada referencji:** przy generowaniu nazwanej postaci jej obraz źródłowy trzeba przekazać narzędziu generującemu jako rzeczywisty plik referencyjny. Opis słowny nie zastępuje obrazu.
 
 ## Gest, emocja i scena
 
@@ -79,4 +83,3 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 ## Domyślny format nowych zasobów
 
 **Propozycja dla biblioteki:** pojedynczą postać lub rekwizyt przygotowywać jako kompletny, nieucięty element na przezroczystym tle, bez napisu. Plansze składać oddzielnie według zasad opisanych w [[../davinci]]. Nowe ilustracje oznaczać jako `propozycja`, dopóki autor nie zatwierdzi ich jako wzorca.
-

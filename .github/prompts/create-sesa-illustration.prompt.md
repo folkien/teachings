@@ -78,10 +78,12 @@ Jeżeli karta Markdown jest sprzeczna z obrazem źródłowym, obejrzyj skan, zac
 Domyślne decyzje:
 
 - pojedyncza postać lub rekwizyt: kompletna, nieucięta sylwetka, przezroczyste tło, bez napisu;
-- scena do konferencji: poziomy format `16:9`, proste tło wspierające sens, bez napisu;
+- scena do konferencji: poziomy format `16:9`, **białe tło**, najwyżej oszczędna centralna kolorowa winieta, bez napisu;
 - grafika do mediów społecznościowych: `4:5`, jeśli użytkownik nie poda inaczej;
 - plansza lub syntetyzator: format wynikający z przeznaczenia, z obramowaniem i hierarchią według „Da Vinci”;
 - liczba wariantów: jeden dopracowany wariant.
+
+Domyślnie **nie buduj pełnego wnętrza ani pejzażu**. Nie dodawaj stołu, krzeseł, okien, półek, roślin, naczyń, budynków ani dekoracji, jeżeli nie są konieczne dla głównej myśli lub wyraźnie obecne w materiale źródłowym. Materiały SESA zwykle korzystają z białej przestrzeni oraz niewielkiej kolorowej winiety pośrodku.
 
 ## Krok 2 — Wczytanie postaci i referencji
 
@@ -98,7 +100,21 @@ Domyślne decyzje:
    - zatwierdzone nowe ilustracje.
 5. Jeśli scena nie zawiera postaci z albumu, nadal użyj `styl_wspolny.md` i reprezentatywnych referencji stylu.
 
-Do narzędzia generującego **przekaż rzeczywiste pliki obrazów jako referencje**. Samo wpisanie ich nazw w opisie nie wystarcza. Użyj najmniejszego zestawu referencji, który obejmuje tożsamość wszystkich postaci i wzorzec stylu.
+Do narzędzia generującego **obowiązkowo przekaż rzeczywiste pliki obrazów jako referencje**. Samo wpisanie ich nazw w opisie nie wystarcza. Użyj najmniejszego zestawu referencji, który obejmuje tożsamość wszystkich nazwanych postaci i wzorzec stylu.
+
+### Twarda blokada tożsamości postaci
+
+Dla każdej nazwanej postaci przygotuj listę niezmienników z referencji:
+
+- dokładny kształt głowy i oczu;
+- fryzura albo nakrycie głowy;
+- krój, kolor i znaki stroju;
+- charakterystyczne buty;
+- obowiązkowy symbol identyfikujący;
+- albumowe proporcje;
+- sposób rysowania odłączonych dłoni i stóp.
+
+Ta sama postać ma wyglądać **tak samo w każdym obrazie**, a nie jedynie „podobnie”. Jeśli użytkownik wskazał dodatkową cechę stałą, np. nakrycie głowy Piotra w formie kopuły bazyliki, traktuj ją jako twardy wymóg i odszukaj odpowiadającą jej referencję. Jeśli obrazu nie ma, wyraźnie oznacz brak referencji; nie deklaruj wiernej rekonstrukcji na podstawie domysłu.
 
 ## Krok 3 — Brief przed generowaniem
 
@@ -112,7 +128,8 @@ Przygotuj zwięzły brief roboczy zawierający:
 - **Rekwizyty:** tylko potrzebne w tej scenie.
 - **Styl:** wybrana seria wzorców, bez mieszania czystego albumu 2020 z ręczną kreską, chyba że jest to świadoma decyzja.
 - **Format i tło.**
-- **Zakazy:** napisy, przypadkowe przedmioty, dodatkowe kończyny, ucięte sylwetki, fotorealizm, 3D i realistyczne malarstwo, o ile użytkownik ich nie zamówił.
+- **Anatomia albumowa:** głowa, tułów, wielkie dłonie i wielkie stopy są osobnymi, „latającymi” elementami; bez pełnych ramion, łokci, przedramion, ud i łydek, chyba że konkretna referencja pokazuje inaczej.
+- **Zakazy:** napisy, pełna anatomiczna budowa kończyn, przypadkowe przedmioty, bogata scenografia, dodatkowe kończyny, ucięte sylwetki, fotorealizm, 3D i realistyczne malarstwo, o ile użytkownik ich nie zamówił.
 
 Nie zatrzymuj pracy po przygotowaniu briefu. Przejdź bezpośrednio do generowania.
 
@@ -129,6 +146,10 @@ Nie zatrzymuj pracy po przygotowaniu briefu. Przejdź bezpośrednio do generowan
    - tło, kadr i proporcje;
    - styl zgodny z wybranymi referencjami;
    - pełne, nieucięte sylwetki, jeśli są potrzebne.
+   - **odłączone dłonie i stopy, bez anatomicznych ramion i nóg**;
+   - **czyste białe tło lub białą winietę z małym kolorowym środkiem**;
+   - zakaz dodawania wnętrza, mebli, roślin i dekoracji bez uzasadnienia;
+   - polecenie zachowania nazwanej postaci jeden-do-jednego według przekazanego obrazu referencyjnego.
 4. Nie umieszczaj tekstu w generowanym obrazie, chyba że użytkownik wyraźnie go zamówił.
 5. Jeśli potrzebny jest dokładny napis, wygeneruj część ilustracyjną bez tekstu, a napis złóż osobno narzędziem zapewniającym poprawną polszczyznę. Zachowaj dokładne brzmienie podane przez użytkownika.
 
@@ -146,6 +167,28 @@ Obejrzyj wygenerowany obraz w pełnej jakości i porównaj go z referencjami. Sp
 - czy żadna ważna część nie jest ucięta;
 - czy tło i format odpowiadają zamówieniu;
 - czy wszystkie napisy są bezbłędne.
+
+### Warunki automatycznego odrzucenia wyniku
+
+Odrzuć i wygeneruj ponownie, jeśli zachodzi choć jeden z poniższych przypadków:
+
+- nazwana postać ma inną twarz, fryzurę, nakrycie głowy, strój, kolor lub znak niż na referencji;
+- dłonie są połączone z tułowiem pełnymi anatomicznymi ramionami albo stopy pełnymi nogami, mimo że referencja pokazuje elementy odłączone;
+- obraz wygląda jak współczesna ilustracja książkowa, kreskówka telewizyjna, 3D lub realistyczny komiks zamiast prostej grafiki albumowej SESA;
+- tło zostało wypełnione pokojem, pejzażem, architekturą, meblami lub dekoracjami bez wyraźnej potrzeby;
+- pojawiły się stoły, książki, rośliny, okna, naczynia albo inne rekwizyty, których nie wymaga główna myśl;
+- postaci jest więcej, niż zamówiono;
+- ważny symbol jest zmieniony, zdublowany lub zgubiony.
+
+### Test przed sceną złożoną
+
+Jeżeli grafika zawiera nazwaną postać albo więcej niż dwie postacie:
+
+1. Najpierw wygeneruj prosty test postaci na białym tle z przekazaną referencją.
+2. Sprawdź zgodność tożsamości i albumową anatomię.
+3. Dopiero po poprawnym teście twórz scenę złożoną, ponownie przekazując te same referencje.
+
+Nie próbuj naprawiać niezgodnej tożsamości samym dopisywaniem długiego opisu. Ponownie przekaż obraz referencyjny i wskaż jedną konkretną różnicę do poprawy.
 
 Jeśli zauważysz błąd, popraw obraz przy użyciu narzędzia do edycji/generowania i sprawdź ponownie. Nie oddawaj wyniku z oczywistą wadą, którą można poprawić.
 
@@ -224,4 +267,3 @@ Zwróć krótko:
 - ewentualne niepewności lub świadome odstępstwa.
 
 Nie opisuj szczegółowo całego procesu, jeśli nie jest to potrzebne.
-

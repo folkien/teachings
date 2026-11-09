@@ -1,0 +1,56 @@
+version: 1
+title: "Charyzmaty - Bóg w działaniu"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
+source: "../5.charyzmaty/dyrektorium_2017_charyzmaty.md"
+date: "2017-05-02"
+status: "do akceptacji"
+
+output:
+  markdown: "05_charyzmaty_review.md"
+  pptx: "05_charyzmaty_review.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#FF6500"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Dar łaski"
+    subtitle: "Charyzmat jest darmowym darem Boga, przez który Pan pragnie działać w swoim Kościele."
+    image: "../5.charyzmaty/01_dar-laski.jpg"
+
+  - type: quote
+    title: "7D"
+    text: "Dar Ducha Darmo Dany Dla Dobra Drugiego"
+    reference: "prosta definicja charyzmatu"
+
+  - type: illustration
+    title: "Dla wspólnego dobra"
+    subtitle: "Bóg daje charyzmat konkretnej osobie, aby służył innym i budował wspólnotę."
+    image: "../5.charyzmaty/02_dla-wspolnego-dobra.jpg"
+
+  - type: illustration
+    title: "Jeden Duch, różne dary"
+    subtitle: "Ten sam Duch udziela różnych darów każdemu tak, jak chce."
+    image: "../5.charyzmaty/03_jeden-duch-rozne-dary.jpg"
+
+  - type: illustration
+    title: "Trzy grupy darów"
+    subtitle: "Dary mowy przekazują Boże słowo, dary wiedzy pomagają rozeznawać, a dary mocy objawiają działanie Boga."
+    image: "05_trzy-grupy-darow.jpg"
+
+  - type: illustration
+    title: "Służba na wzór Jezusa"
+    subtitle: "Charyzmaty należały do posługi Jezusa i życia pierwszego Kościoła."
+    image: "../5.charyzmaty/04_sluzba-na-wzor-jezusa.jpg"
+
+  - type: illustration
+    title: "Rozpakuj dary"
+    subtitle: "Proś, pragnij i wierz. Miłość jest prawdziwą miarą korzystania z każdego daru (KKK 799–801)."
+    image: "../5.charyzmaty/05_rozpakuj-dary.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Pragnijcie Charyzmatów Ducha dla wspólnoty"

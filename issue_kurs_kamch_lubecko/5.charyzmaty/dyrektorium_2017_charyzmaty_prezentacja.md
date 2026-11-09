@@ -1,6 +1,6 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
+status: zaakceptowana
 date: 2017-05-02
 source: "[[dyrektorium_2017_charyzmaty.md]]"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
@@ -16,6 +16,12 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ![[01_dar-laski.jpg]]
 
+## 7D
+
+> Dar Ducha Darmo Dany Dla Dobra Drugiego
+
+— prosta definicja charyzmatu
+
 ## Dla wspólnego dobra
 
 ### Bóg daje charyzmat konkretnej osobie, aby służył innym i budował wspólnotę.
@@ -28,6 +34,12 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ![[03_jeden-duch-rozne-dary.jpg]]
 
+## Trzy grupy darów
+
+### Dary mowy przekazują Boże słowo, dary wiedzy pomagają rozeznawać, a dary mocy objawiają działanie Boga.
+
+![[06_trzy-grupy-darow.jpg]]
+
 ## Służba na wzór Jezusa
 
 ### Charyzmaty należały do posługi Jezusa i życia pierwszego Kościoła.
@@ -36,7 +48,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Rozpakuj dary
 
-### Proś, pragnij i wierz, a otrzymanymi darami służ wspólnocie.
+### Proś, pragnij i wierz. Miłość jest prawdziwą miarą korzystania z każdego daru (KKK 799–801).
 
 ![[05_rozpakuj-dary.jpg]]
 

@@ -1,0 +1,56 @@
+version: 1
+title: "Wspólnota - naturalne środowisko modlitwy charyzmatycznej"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
+source: "../8.wspolnota/kamch_wspolnota-naturalne-srodowisko-modlitwy-charyzmatycznej.md"
+date: "2026-11-09"
+status: "do akceptacji"
+
+output:
+  markdown: "07_wspolnota_review.md"
+  pptx: "07_wspolnota_review.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#FF6500"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Kościół pierwotny"
+    subtitle: "Wierzący tworzą jedno Ciało, trwając w nauce apostołów, wspólnocie, łamaniu chleba i modlitwie (Dz 2,42–47; 1 Kor 12,13a)."
+    image: "../8.wspolnota/01_kosciol-pierwotny.jpg"
+
+  - type: illustration
+    title: "Dom Chleba"
+    subtitle: "Wspólnota daje duchowy pokarm i przyjmuje człowieka z gościnnością."
+    image: "../8.wspolnota/02_dom-chleba.jpg"
+
+  - type: illustration
+    title: "Jednomyślna modlitwa"
+    subtitle: "Wspólna modlitwa otwiera na Bożą obecność i działanie Ducha Świętego (Dz 1,14; Mt 18,19–20)."
+    image: "../8.wspolnota/03_jednomyslna-modlitwa.jpg"
+
+  - type: illustration
+    title: "Dwie strony medalu"
+    subtitle: "Modlitwa prowadzi do ewangelizacji, a ewangelizacja prowadzi do modlitwy."
+    image: "07_modlitwa-i-ewangelizacja-biale-tlo.jpg"
+
+  - type: illustration
+    title: "Duch wyprowadza do misji"
+    subtitle: "Po doświadczeniu Pięćdziesiątnicy Piotr przemówił, a ludzie się nawracali (Dz 2,14)."
+    image: "../8.wspolnota/05_piotr-wychodzi-do-misji.jpg"
+
+  - type: illustration
+    title: "Cztery etapy wspólnoty"
+    subtitle: "Zakochanie i rozczarowanie mogą prowadzić przez przemianę do akceptacji, służby i miłości."
+    image: "../8.wspolnota/06_cztery-etapy-wspolnoty.jpg"
+
+  - type: illustration
+    title: "Moje miejsce we wspólnocie"
+    subtitle: "Podążam za celem wspólnoty, rozwijam więzi, formuję się i biorę odpowiedzialność za wspólną służbę."
+    image: "07_moje-miejsce-we-wspolnocie.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Wspólnota żyje, gdy jest dla ewangelizacji"

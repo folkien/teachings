@@ -3,7 +3,7 @@ title: "Uwielbienie"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 source: "dyrektorium_2017_uwielbienie.md"
 date: "2017-05-02"
-status: "propozycja"
+status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_uwielbienie_prezentacja.md"
@@ -18,12 +18,17 @@ theme:
 slides:
   - type: illustration
     title: "Jezus w centrum"
-    subtitle: "Uwielbienie skupia modlitwę na Osobie Jezusa i oddawaniu chwały Bogu."
+    subtitle: "Doświadczenie Pięćdziesiątnicy prowadzi do uwielbienia Jezusa i oddawania chwały Bogu."
     image: "01_jezus-w-centrum.jpg"
+
+  - type: quote
+    title: "Dlatego, że On jest"
+    text: "Wysławia Go dla Niego samego, oddaje Mu chwałę nie ze względu na to, co On czyni, ale dlatego że On JEST"
+    reference: "KKK 2639"
 
   - type: illustration
     title: "Uwielbienie w trudnościach"
-    subtitle: "Uwielbienie nie zależy od sytuacji, ponieważ w każdych warunkach możemy patrzeć na Boga."
+    subtitle: "Paweł i Sylas wielbili Boga także w więzieniu, a On działał pośród ich trudności (Dz 16,25–26)."
     image: "02_uwielbienie-w-trudnosciach.jpg"
 
   - type: illustration
@@ -38,7 +43,7 @@ slides:
 
   - type: illustration
     title: "Uwielbienie jako sposób życia"
-    subtitle: "Śpiewem, słowami i w ciszy zwracamy serce ku Bogu w każdej sytuacji."
+    subtitle: "Śpiewem, słowami i w ciszy zwracamy serce ku Bogu. Duch Święty uczy tak żyć każdego dnia."
     image: "05_sposob-zycia.jpg"
 
   - type: key_sentence

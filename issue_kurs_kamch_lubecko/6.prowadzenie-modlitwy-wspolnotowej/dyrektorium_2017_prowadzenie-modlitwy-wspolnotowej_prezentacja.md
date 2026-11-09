@@ -1,23 +1,32 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
-date: 2026-11-09
-source: "[[dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej]]"
+status: zaakceptowana
+date: 2017-05-02
+source: "[[dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej.md]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
 # Prowadzenie modlitwy wspólnotowej
 
+*Kurs Animacji Modlitwy Charyzmatycznej*
+
 ## Cel spotkania
 
-### Sposób prowadzenia zależy od celu, uczestników i typu spotkania.
+### Sposób prowadzenia zależy od celu, uczestników i typu spotkania. Zawsze chodzi o spotkanie z Bogiem.
 
 ![[01_cel-spotkania.jpg]]
 
 ## Jeden głos, jeden cel
 
-### Wspólnota gromadzi się w jednym miejscu i jednym pragnieniu, aby spotkać się z Bogiem.
+### Wspólnota jednoczy głos i pragnienie, aby spotkać się z Bogiem w uwielbieniu (2 Krn 5,11–14; Dz 2,46–47).
 
-![[02_jeden-glos-jeden-cel.jpg]]
+![[02_jeden-glos-jeden-cel-biale-tlo.jpg]]
+
+## Przygotowanie spotkania
+
+### Przygotowanie duchowe obejmuje modlitwę ekipy, a praktyczne przygotowanie miejsca i nagłośnienia.
+
+![[08_przygotowanie-spotkania.jpg]]
 
 ## Duch Święty prowadzi
 
@@ -27,9 +36,9 @@ source: "[[dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej]]"
 
 ## Pokora i miłość
 
-### Prowadzący schodzi do poziomu drugiego człowieka i służy mu z miłością.
+### Prowadzący zachęca i nadaje jasny kierunek, ale nie manipuluje atmosferą, nie straszy ani nie oskarża.
 
-![[04_pokora-i-milosc.jpg]]
+![[04_pokora-i-milosc-biale-tlo.jpg]]
 
 ## Człowiek modlitwy
 
@@ -41,13 +50,13 @@ source: "[[dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej]]"
 
 ### Jakość spotkania zależy od modlitwy, otwartości i zaangażowania każdego uczestnika.
 
-![[06_wspolna-odpowiedzialnosc.jpg]]
+![[06_wspolna-odpowiedzialnosc-biale-tlo.jpg]]
 
 ## Porządek spotkania
 
 ### Przygotowanie prowadzi przez wejście w modlitwę i kerygmat do wspólnego zakończenia.
 
-![[07_porzadek-spotkania.jpg]]
+![[07_porzadek-spotkania-biale-tlo.jpg]]
 
 ## Zdanie kluczowe
 

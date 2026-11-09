@@ -1,6 +1,6 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
+status: zaakceptowana
 date: 2017-05-02
 source: "[[dyrektorium_2017_uwielbienie.md]]"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
@@ -12,13 +12,19 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Jezus w centrum
 
-### Uwielbienie skupia modlitwę na Osobie Jezusa i oddawaniu chwały Bogu.
+### Doświadczenie Pięćdziesiątnicy prowadzi do uwielbienia Jezusa i oddawania chwały Bogu.
 
 ![[01_jezus-w-centrum.jpg]]
 
+## Dlatego, że On jest
+
+> Wysławia Go dla Niego samego, oddaje Mu chwałę nie ze względu na to, co On czyni, ale dlatego że On JEST
+
+— KKK 2639
+
 ## Uwielbienie w trudnościach
 
-### Uwielbienie nie zależy od sytuacji, ponieważ w każdych warunkach możemy patrzeć na Boga.
+### Paweł i Sylas wielbili Boga także w więzieniu, a On działał pośród ich trudności (Dz 16,25–26).
 
 ![[02_uwielbienie-w-trudnosciach.jpg]]
 
@@ -36,7 +42,7 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Uwielbienie jako sposób życia
 
-### Śpiewem, słowami i w ciszy zwracamy serce ku Bogu w każdej sytuacji.
+### Śpiewem, słowami i w ciszy zwracamy serce ku Bogu. Duch Święty uczy tak żyć każdego dnia.
 
 ![[05_sposob-zycia.jpg]]
 

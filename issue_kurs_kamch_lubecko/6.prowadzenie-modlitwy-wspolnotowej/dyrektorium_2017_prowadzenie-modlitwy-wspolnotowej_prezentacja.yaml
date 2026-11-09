@@ -1,0 +1,61 @@
+version: 1
+title: "Prowadzenie modlitwy wspólnotowej"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
+source: "dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej.md"
+date: "2017-05-02"
+status: "zaakceptowana"
+
+output:
+  markdown: "dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej_prezentacja.md"
+  pptx: "dyrektorium_2017_prowadzenie-modlitwy-wspolnotowej_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#FF6500"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Cel spotkania"
+    subtitle: "Sposób prowadzenia zależy od celu, uczestników i typu spotkania. Zawsze chodzi o spotkanie z Bogiem."
+    image: "01_cel-spotkania.jpg"
+
+  - type: illustration
+    title: "Jeden głos, jeden cel"
+    subtitle: "Wspólnota jednoczy głos i pragnienie, aby spotkać się z Bogiem w uwielbieniu (2 Krn 5,11–14; Dz 2,46–47)."
+    image: "02_jeden-glos-jeden-cel-biale-tlo.jpg"
+
+  - type: illustration
+    title: "Przygotowanie spotkania"
+    subtitle: "Przygotowanie duchowe obejmuje modlitwę ekipy, a praktyczne przygotowanie miejsca i nagłośnienia."
+    image: "08_przygotowanie-spotkania.jpg"
+
+  - type: illustration
+    title: "Duch Święty prowadzi"
+    subtitle: "Prowadzący usuwa się w cień, aby Duch Święty prowadził wspólnotę w uwielbieniu."
+    image: "03_duch-swiety-prowadzi.jpg"
+
+  - type: illustration
+    title: "Pokora i miłość"
+    subtitle: "Prowadzący zachęca i nadaje jasny kierunek, ale nie manipuluje atmosferą, nie straszy ani nie oskarża."
+    image: "04_pokora-i-milosc-biale-tlo.jpg"
+
+  - type: illustration
+    title: "Człowiek modlitwy"
+    subtitle: "Nie można prowadzić innych w modlitwie bez własnego, osobistego spotkania z Bogiem."
+    image: "05_czlowiek-modlitwy.jpg"
+
+  - type: illustration
+    title: "Wspólna odpowiedzialność"
+    subtitle: "Jakość spotkania zależy od modlitwy, otwartości i zaangażowania każdego uczestnika."
+    image: "06_wspolna-odpowiedzialnosc-biale-tlo.jpg"
+
+  - type: illustration
+    title: "Porządek spotkania"
+    subtitle: "Przygotowanie prowadzi przez wejście w modlitwę i kerygmat do wspólnego zakończenia."
+    image: "07_porzadek-spotkania-biale-tlo.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Duch Święty jest Duchem porządku"

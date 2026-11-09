@@ -27,6 +27,7 @@ Oryginalna nazwa: **Jesús**. Zobacz [[AlbumProtagonistas2020.pdf#page=10]].
 
 - Dokument: [[AlbumProtagonistas2020.pdf#page=10]].
 - Obraz referencyjny: ![[referencje/album_strona-10.jpg]]
+- Referencja sceniczna: ![[referencje/slajd_wzorcowy_postacie_01.png]]
 - **Fakt źródłowy:** album wyjaśnia kolor tuniki, sandały, aureolę, znak „X” i uśmiech.
 - **Obserwacja ilustracji:** proporcje, fryzura, otwarty gest i dokładny wygląd znaku wynikają z obrazu.
 - **Propozycje:** brak.

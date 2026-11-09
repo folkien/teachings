@@ -12,6 +12,8 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 ## Źródła i reprezentatywne wzorce
 
 - Album 2020: [[AlbumProtagonistas2020.pdf]].
+- Wzorcowa scena prezentacyjna z Andrzejem, Piotrem i Jezusem — referencja kreski, anatomii i stałego wyglądu postaci: ![[referencje/slajd_wzorcowy_postacie_01.png]]
+- Wzorcowa scena prezentacyjna ze wspólnotą przy kościele — referencja budowania sceny i grupy: ![[referencje/slajd_wzorcowy_wspolnota_02.png]]
 - Jezus — proporcje bazowej postaci i spokojny gest: ![[referencje/album_strona-10.jpg]]
 - Maryja — wariant kobiecy, włosy, welon, rzęsy i złożone dłonie: ![[referencje/album_strona-14.jpg]]
 - Piotr — rozbudowany strój i kilka czytelnych atrybutów: ![[referencje/album_strona-18.jpg]]
@@ -20,17 +22,25 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 - Starsze materiały: [[../davinci]] oraz [[../haire]].
 - Przykład ręcznej kreski w materiale Haire: ![[../haire/haire1.jpg]]
 
-## Dwie widoczne konwencje
+> **Uwaga do dwóch slajdów wzorcowych:** beżowe tło z białymi łukami należy do szablonu prezentacji. Nie jest częścią stylu ilustracji i nie wolno go kopiować do nowych grafik.
+
+## Trzy widoczne konwencje
 
 ### Album protagonistów 2020
 
 **Obserwacja:** ilustracje mają wygląd czystej grafiki wektorowej. Kontur jest równy i cienki, powierzchnie są gładkie, kolory nasycone, a cieniowanie ograniczone do prostych gradientów i miękkiego szarego cienia za postacią. Jest to podstawowy wzorzec tożsamości postaci.
 
+### Sceny prezentacyjne SESA
+
+**Obserwacja:** sceny są rysowane bardziej odręcznie niż karty albumowe. Czarny kontur jest lekko nierówny, miejscami urwany i celowo niedoskonały. Wypełnienia pozostają płaskie i proste. Głowy, dłonie, tułowie i stopy wyglądają jak osobne elementy; połączenia kończyn są nieobecne albo sprowadzone do kilku cienkich kresek. Dłonie i buty są przesadnie duże. Ruch pokazują krótkie kreski obok postaci.
+
+**Obserwacja:** nawet w scenie grupowej pozostaje dużo pustej przestrzeni. Rekwizyty i architektura są uproszczone do minimum potrzebnego do rozpoznania sytuacji.
+
 ### Da Vinci i Haire
 
 **Obserwacja:** starsze materiały mają bardziej ręczną, swobodną kreskę. Kontur bywa nierówny, gesty są bardziej szkicowe, a kolor przypomina flamaster, kredkę lub lekki akwarelowy wypełniacz. Postacie mogą mieć podobne wielkie oczy i uproszczone ciała, ale nie należy bezwiednie mieszać tej faktury z czystym stylem albumu 2020.
 
-**Propozycja dla biblioteki:** dla jednej serii ilustracji wybierać jeden wariant. Jeśli użytkownik zamawia „postać z albumu”, domyślnie stosować czysty wariant albumu 2020. Ręczną kreskę stosować przy rekonstrukcji plansz nawiązujących bezpośrednio do „Da Vinci” lub „Haire”.
+**Propozycja dla biblioteki:** dla jednej serii ilustracji wybierać jeden wariant. Jeśli użytkownik zamawia pojedynczą kartę postaci, domyślnie stosować czysty wariant albumu 2020. Dla sceny do konferencji lub prezentacji domyślnym wzorcem wykonania są sceny prezentacyjne SESA. Karty albumu nadal ustalają tożsamość bohaterów. Ręczną kreskę Da Vinci lub Haire stosować przy rekonstrukcji plansz nawiązujących bezpośrednio do tych materiałów.
 
 ## Konstrukcja postaci albumowej
 
@@ -73,6 +83,12 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 **Zasada robocza:** przy kolejnych scenach zachowywać bez zmian twarz, fryzurę lub nakrycie głowy, główny krój i kolor stroju, proporcje oraz najważniejszy znak identyfikujący. Ta sama nazwana postać ma wyglądać jak ten sam bohater, a nie jak nowa interpretacja w podobnym stylu. Rekwizyt sytuacyjny dodawać tylko wtedy, gdy wspiera sens sceny. Przykładowo teleskop Andrzeja, kalkulator Mateusza lub zwój Tymoteusza nie muszą występować w każdej scenie, jeśli postać pozostaje rozpoznawalna bez nich.
 
 **Twarda zasada referencji:** przy generowaniu nazwanej postaci jej obraz źródłowy trzeba przekazać narzędziu generującemu jako rzeczywisty plik referencyjny. Opis słowny nie zastępuje obrazu.
+
+W scenie konferencyjnej należy rozdzielić role referencji:
+
+- **referencja tożsamości** ustala niezmienny wygląd konkretnej postaci;
+- **referencja stylu sceny** ustala odręczną kreskę, odłączone części ciała i stopień uproszczenia;
+- **referencja kompozycji** może podpowiadać układ, ale nie może wprowadzać tła ani rekwizytów sprzecznych z zamówieniem.
 
 ## Gest, emocja i scena
 

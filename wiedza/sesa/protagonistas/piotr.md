@@ -27,6 +27,7 @@ Oryginalna nazwa: **Pedro**. Zobacz [[AlbumProtagonistas2020.pdf#page=18]].
 
 - Dokument: [[AlbumProtagonistas2020.pdf#page=18]].
 - Obraz referencyjny: ![[referencje/album_strona-18.jpg]]
+- Referencja sceniczna z charakterystycznym nakryciem głowy: ![[referencje/slajd_wzorcowy_postacie_01.png]]
 - **Fakt źródłowy:** album wyjaśnia klucze, buty, fioletową szatę, paliusz i pastorał.
 - **Obserwacja ilustracji:** trzy klucze, czerwone krzyże i wygląd łat na butach pochodzą z obrazu.
 - **Propozycje:** brak.
@@ -43,6 +44,6 @@ Poza, gest, spojrzenie i emocja są zmienne. Pastorał, klucze i paliusz należy
 
 Album pokazuje trzy klucze, ale tekst nie określa ich liczby jako reguły.
 
-**Korekta autora biblioteki:** w innych materiałach św. Piotr ma charakterystyczne nakrycie głowy w formie kopuły bazyliki; należy je traktować jako stałą cechę w seriach opartych na tym wariancie. Obecna strona albumu 2020 nie pokazuje tego nakrycia, dlatego przed generowaniem trzeba wczytać właściwy obraz referencyjny z kopułą, jeśli jest dostępny. Nie projektować jej z pamięci jako rzekomo wiernej kopii.
+**Korekta autora biblioteki, potwierdzona referencją sceniczną:** św. Piotr ma charakterystyczne nakrycie głowy w formie kopuły bazyliki: szarą, żebrowaną kopułę z ciemnym konturem i małą, spiczastą wieżyczką. W scenach prezentacyjnych jest to stała cecha postaci. Przy generowaniu należy zawsze przekazać plik `referencje/slajd_wzorcowy_postacie_01.png`; nie projektować nakrycia z pamięci.
 
 Zatwierdzonych nowych ilustracji: brak.

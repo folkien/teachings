@@ -26,6 +26,7 @@ Oryginalna nazwa: **Andrés**. Zobacz [[AlbumProtagonistas2020.pdf#page=4]].
 
 - Dokument: [[AlbumProtagonistas2020.pdf#page=4]].
 - Obraz referencyjny: ![[referencje/album_strona-04.jpg]]
+- Referencja sceniczna: ![[referencje/slajd_wzorcowy_postacie_01.png]]
 - **Fakt źródłowy:** znaczenie marynarza, sieci, teleskopu i butów podaje album.
 - **Obserwacja ilustracji:** proporcje, kolory i sposób trzymania przedmiotów opisano na podstawie obrazu.
 - **Propozycje:** brak.

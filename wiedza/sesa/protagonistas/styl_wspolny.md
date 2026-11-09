@@ -12,6 +12,7 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 ## Źródła i reprezentatywne wzorce
 
 - Album 2020: [[AlbumProtagonistas2020.pdf]].
+- **Zatwierdzony wzorzec sceny konferencyjnej:** ![[referencje/zatwierdzony_wzorzec_scena_wspolnota_01.png]]
 - Wzorcowa scena prezentacyjna z Andrzejem, Piotrem i Jezusem — referencja kreski, anatomii i stałego wyglądu postaci: ![[referencje/slajd_wzorcowy_postacie_01.png]]
 - Wzorcowa scena prezentacyjna ze wspólnotą przy kościele — referencja budowania sceny i grupy: ![[referencje/slajd_wzorcowy_wspolnota_02.png]]
 - Jezus — proporcje bazowej postaci i spokojny gest: ![[referencje/album_strona-10.jpg]]
@@ -51,7 +52,9 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 - głowa jest zbliżona wielkością do górnej połowy tułowia;
 - tułów zwykle ma formę prostego trapezu rozszerzonego ku dołowi;
 - dłonie i stopy są mocno powiększone;
-- w bazowym stylu albumowym dłonie są **odłączone od tułowia i unoszą się osobno**, bez narysowanych ramion; stopy także często są odłączone albo połączone jedynie bardzo krótkimi, cienkimi odcinkami nóg;
+- zwykłe dłonie postaci są prostymi, obłymi „łapkami” **bez narysowanych palców i bez wewnętrznych linii palców**;
+- dłonie są **całkowicie odłączone od tułowia i unoszą się osobno**: bez ramion oraz bez jakiejkolwiek kreski prowadzącej od dłoni do tułowia;
+- stopy są odłączone albo połączone jedynie bardzo krótkimi odcinkami nóg, jeśli wymaga tego wzorzec konkretnej postaci;
 - pełne, anatomicznie połączone ręce i nogi zmieniają język graficzny i nie powinny być domyślnie dodawane;
 - brak realistycznej anatomii jest cechą stylu, nie błędem.
 
@@ -95,6 +98,14 @@ W scenie konferencyjnej należy rozdzielić role referencji:
 **Obserwacja:** gesty są szerokie i natychmiast czytelne. Ruch wzmacniają rozstawione kończyny, pochylenie tułowia i krótkie linie pędu. Pogodna konwencja nie wymaga uśmiechu: Judasz, Piłat, Potifar, Żyd i Rzymianin mają emocje dopasowane do roli.
 
 **Propozycja dla biblioteki:** przed wykonaniem sceny ustalić jedno główne znaczenie, a następnie podporządkować mu spojrzenie, dłonie, ustawienie ciała i tylko niezbędne rekwizyty.
+
+### Dłoń Boga wychodząca z chmury
+
+**Zatwierdzony motyw:** symboliczna dłoń Boga może mieć czytelne palce. Jej nadgarstek nie może kończyć się swobodnie ani wychodzić z krawędzi obrazu — ma być bezpośrednio ukryty w białej chmurze, tak jak w zatwierdzonym wzorcu sceny wspólnoty. Jest to wyjątek od reguły bezpalcowych dłoni zwykłych postaci.
+
+### Wierność czynności i kierunkowi sceny
+
+Kompozycja musi przedstawiać dokładnie czynność wynikającą z konferencji. „Wchodzą na górę” oznacza widoczne zbocze, drogę prowadzącą ku szczytowi i ruch postaci pod górę. Nie wolno zamieniać tej czynności w „idą do dłoni Boga” tylko dlatego, że dłoń znajduje się w scenie. Symbol wspiera sens, ale nie zastępuje głównej akcji.
 
 ## Domyślny format nowych zasobów
 

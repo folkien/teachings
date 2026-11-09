@@ -121,8 +121,7 @@ Domyślnie **nie buduj pełnego wnętrza ani pejzażu**. Nie dodawaj stołu, krz
 Dobierz wzorzec do rodzaju pracy:
 
 - pojedyncza karta postaci — czyste wykonanie albumu 2020;
-- scena do konferencji lub prezentacji — odręczna kreska ze `slajd_wzorcowy_postacie_01.png` i `slajd_wzorcowy_wspolnota_02.png`;
-- nadrzędny wzorzec gotowej sceny konferencyjnej — `zatwierdzony_wzorzec_scena_wspolnota_01.png`;
+- scena do konferencji lub prezentacji — przede wszystkim `zatwierdzony_wzorzec_scena_wspolnota_01.png`; starsze slajdy są pomocniczym wzorcem anatomii i prostoty;
 - plansza Da Vinci lub Haire — wariant odpowiedniego materiału źródłowego.
 
 W scenie prezentacyjnej rozdziel referencje na trzy role: tożsamość postaci, styl rysowania sceny i ewentualny układ kompozycji. Nie pozwól, by generator kopiował beżowe tło ani białe łuki ze slajdów wzorcowych.
@@ -154,8 +153,7 @@ Przygotuj zwięzły brief roboczy zawierający:
 - **Kompozycja:** pierwszy plan, relacje przestrzenne i kierunek ruchu.
 - **Emocja:** adekwatna do treści, nie automatycznie uśmiechnięta.
 - **Rekwizyty:** tylko potrzebne w tej scenie.
-- **Styl:** wybrana seria wzorców, bez mieszania czystego albumu 2020 z ręczną kreską, chyba że jest to świadoma decyzja.
-- **Scena prezentacyjna:** lekko nierówny, odręczny czarny kontur, płaskie kolory, krótkie kreski ruchu i celowo prosta konstrukcja; nie wygładzać jej do współczesnej kreskówki wektorowej.
+- **Styl:** dla scen konferencyjnych dopasowany przede wszystkim do zatwierdzonego wzorca sceny wspólnoty: czysty czarny kontur, proste kształty, łagodne płaskie kolory i albumowa anatomia. Nie zastępować go generyczną współczesną kreskówką.
 - **Format i tło.**
 - **Anatomia albumowa:** głowa, tułów, wielkie dłonie i wielkie stopy są osobnymi, „latającymi” elementami. Zwykłe dłonie są obłymi łapkami bez palców i bez wewnętrznych kresek. Między dłonią a tułowiem ma pozostać czysta przerwa: bez ramienia i bez pojedynczej kreski łączącej. Wyjątkiem jest symboliczna dłoń Boga, która może mieć palce, lecz jej nadgarstek musi wychodzić z chmury.
 - **Zakazy:** napisy, pełna anatomiczna budowa kończyn, przypadkowe przedmioty, bogata scenografia, dodatkowe kończyny, ucięte sylwetki, fotorealizm, 3D i realistyczne malarstwo, o ile użytkownik ich nie zamówił.
@@ -174,7 +172,7 @@ Nie zatrzymuj pracy po przygotowaniu briefu. Przejdź bezpośrednio do generowan
    - rekwizyty i ich liczbę;
    - tło, kadr i proporcje;
    - styl zgodny z wybranymi referencjami;
-   - dla sceny konferencyjnej: odręczną, lekko nierówną kreskę slajdów wzorcowych, ale bez kopiowania ich beżowego tła i białych łuków;
+   - dla sceny konferencyjnej: wygląd zatwierdzonego wzorca sceny wspólnoty; starsze slajdy służą dodatkowo do kontroli uproszczenia anatomii, ale bez kopiowania ich beżowego tła i białych łuków;
    - pełne, nieucięte sylwetki, jeśli są potrzebne.
    - **odłączone dłonie i stopy, bez anatomicznych ramion i nóg**;
    - **zwykłe dłonie jako bezpalcowe obłe łapki; żadnej linii pomiędzy dłonią a tułowiem**;
@@ -213,7 +211,7 @@ Odrzuć i wygeneruj ponownie, jeśli zachodzi choć jeden z poniższych przypadk
 - dłoń Boga kończy się swobodnym nadgarstkiem zamiast wychodzić bezpośrednio z chmury;
 - czynność została zmieniona, np. wejście na górę zastąpiono marszem do symbolicznej dłoni;
 - obraz wygląda jak współczesna ilustracja książkowa, kreskówka telewizyjna, 3D lub realistyczny komiks zamiast prostej grafiki albumowej SESA;
-- scena konferencyjna została nadmiernie wygładzona do czystego, generycznego wektora zamiast zachować odręczną kreskę wzorcowych slajdów;
+- scena wygląda jak generyczna współczesna kreskówka i traci szczególne proporcje oraz anatomię zatwierdzonego wzorca SESA;
 - do obrazu przedostało się beżowe tło albo białe łuki z szablonu slajdów referencyjnych;
 - tło zostało wypełnione pokojem, pejzażem, architekturą, meblami lub dekoracjami bez wyraźnej potrzeby;
 - pojawiły się stoły, książki, rośliny, okna, naczynia albo inne rekwizyty, których nie wymaga główna myśl;
@@ -271,7 +269,7 @@ status: propozycja
 type: postac|rekwizyt|scena|plansza
 topic: "<temat>"
 date: YYYY-MM-DD
-image: "<nazwa_pliku.png>"
+image: "<nazwa_pliku.jpg>"
 ---
 
 # <Tytuł ilustracji>

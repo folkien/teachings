@@ -37,11 +37,15 @@ Ten dokument jest **opisem roboczym wyprowadzonym z obserwacji materiałów źr�
 
 **Obserwacja:** nawet w scenie grupowej pozostaje dużo pustej przestrzeni. Rekwizyty i architektura są uproszczone do minimum potrzebnego do rozpoznania sytuacji.
 
+### Zatwierdzony wzorzec sceny konferencyjnej
+
+**Decyzja autora biblioteki:** `zatwierdzony_wzorzec_scena_wspolnota_01.png` jest nadrzędnym wzorcem dla nowych slajdów konferencyjnych. Łączy czystszy kontur i łagodne wypełnienia z albumową budową postaci: wielkimi oczami i butami, bezpalcowymi dłońmi unoszącymi się bez połączenia z tułowiem oraz stałym wyglądem nazwanych protagonistów. Starsze slajdy pozostają pomocniczym źródłem gestów, uproszczenia i cech postaci.
+
 ### Da Vinci i Haire
 
 **Obserwacja:** starsze materiały mają bardziej ręczną, swobodną kreskę. Kontur bywa nierówny, gesty są bardziej szkicowe, a kolor przypomina flamaster, kredkę lub lekki akwarelowy wypełniacz. Postacie mogą mieć podobne wielkie oczy i uproszczone ciała, ale nie należy bezwiednie mieszać tej faktury z czystym stylem albumu 2020.
 
-**Propozycja dla biblioteki:** dla jednej serii ilustracji wybierać jeden wariant. Jeśli użytkownik zamawia pojedynczą kartę postaci, domyślnie stosować czysty wariant albumu 2020. Dla sceny do konferencji lub prezentacji domyślnym wzorcem wykonania są sceny prezentacyjne SESA. Karty albumu nadal ustalają tożsamość bohaterów. Ręczną kreskę Da Vinci lub Haire stosować przy rekonstrukcji plansz nawiązujących bezpośrednio do tych materiałów.
+**Propozycja dla biblioteki:** dla jednej serii ilustracji wybierać jeden wariant. Jeśli użytkownik zamawia pojedynczą kartę postaci, domyślnie stosować czysty wariant albumu 2020. Dla sceny do konferencji lub prezentacji domyślnym wzorcem wykonania jest zatwierdzony wzorzec sceny wspólnoty. Karty albumu nadal ustalają tożsamość bohaterów. Ręczną kreskę Da Vinci lub Haire stosować przy rekonstrukcji plansz nawiązujących bezpośrednio do tych materiałów.
 
 ## Konstrukcja postaci albumowej
 

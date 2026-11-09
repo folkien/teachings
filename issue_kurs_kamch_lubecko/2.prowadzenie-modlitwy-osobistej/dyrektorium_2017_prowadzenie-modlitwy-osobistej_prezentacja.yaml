@@ -1,0 +1,45 @@
+version: 1
+title: "Prowadzenie modlitwy osobistej"
+source: "dyrektorium_2017_prowadzenie-modlitwy-osobistej.md"
+date: "2017-05-02"
+status: "propozycja"
+
+output:
+  markdown: "dyrektorium_2017_prowadzenie-modlitwy-osobistej_prezentacja.md"
+  pptx: "dyrektorium_2017_prowadzenie-modlitwy-osobistej_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#B42318"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Bóg przychodzi z darami"
+    subtitle: "Na modlitwie osobistej Bóg daje człowiekowi miłość, siłę i kierunek."
+    image: "01_bog-przychodzi-z-darami.jpg"
+
+  - type: illustration
+    title: "Zaplanowane spotkanie"
+    subtitle: "Modlitwę trzeba planować, lecz najważniejszy jest Bóg, który zaprasza i prowadzi spotkanie."
+    image: "02_zaplanowane-spotkanie.jpg"
+
+  - type: illustration
+    title: "Zawsze możesz przyjść"
+    subtitle: "Grzech nie jest przeszkodą w spotkaniu z Bogiem, ponieważ zostałeś obmyty."
+    image: "03_zostales-obmyty.jpg"
+
+  - type: illustration
+    title: "Słuchanie i rozeznanie"
+    subtitle: "Rozeznanie rodzi się ze słuchania Boga w Słowie i wewnętrznych natchnieniach."
+    image: "04_sluchanie-i-rozeznanie.jpg"
+
+  - type: illustration
+    title: "Korzenie w Słowie"
+    subtitle: "Wierne spotkanie z Bogiem i karmienie się Słowem buduje mocne korzenie."
+    image: "05_korzenie-w-slowie.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Czas spędzony z Bogiem daje siłę i kierunek"

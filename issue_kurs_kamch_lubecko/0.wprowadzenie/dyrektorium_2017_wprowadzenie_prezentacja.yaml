@@ -1,0 +1,45 @@
+version: 1
+title: "Wprowadzenie"
+source: "dyrektorium_2017_wprowadzenie.md"
+date: "2017-05-02"
+status: "propozycja"
+
+output:
+  markdown: "dyrektorium_2017_wprowadzenie_prezentacja.md"
+  pptx: "dyrektorium_2017_wprowadzenie_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#B42318"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Formacja ewangelizatora"
+    subtitle: "Szkoła formuje do głoszenia Ewangelii, a nie ma dobrego ewangelizatora bez modlitwy."
+    image: "01_formacja-ewangelizatora.jpg"
+
+  - type: illustration
+    title: "Relacja z Mistrzem"
+    subtitle: "Jezus jest kimś realnym, z kim można mieć więź, a modlitwy uczymy się od Niego."
+    image: "02_relacja-z-mistrzem.jpg"
+
+  - type: illustration
+    title: "Ożywienie modlitwy"
+    subtitle: "Bóg chce na nowo powołać człowieka do życia z Sobą."
+    image: "03_ozywienie-modlitwy.jpg"
+
+  - type: illustration
+    title: "Bóg na trudne czasy"
+    subtitle: "Bóg ma zamiary pełne pokoju i pozwala się znaleźć tym, którzy szukają Go całym sercem."
+    image: "04_bog-na-trudne-czasy.jpg"
+
+  - type: illustration
+    title: "Góra obecności"
+    subtitle: "Bóg zaprasza do wejścia na górę Jego poznania, objawienia i bliskości."
+    image: "05_gora-obecnosci.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Szukajcie Pana, póki pozwala się znaleźć"

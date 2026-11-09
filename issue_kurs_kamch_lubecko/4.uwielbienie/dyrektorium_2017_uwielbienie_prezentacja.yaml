@@ -1,0 +1,45 @@
+version: 1
+title: "Uwielbienie"
+source: "dyrektorium_2017_uwielbienie.md"
+date: "2017-05-02"
+status: "propozycja"
+
+output:
+  markdown: "dyrektorium_2017_uwielbienie_prezentacja.md"
+  pptx: "dyrektorium_2017_uwielbienie_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#B42318"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Jezus w centrum"
+    subtitle: "Uwielbienie skupia modlitwę na Osobie Jezusa i oddawaniu chwały Bogu."
+    image: "01_jezus-w-centrum.jpg"
+
+  - type: illustration
+    title: "Uwielbienie w trudnościach"
+    subtitle: "Uwielbienie nie zależy od sytuacji, ponieważ w każdych warunkach możemy patrzeć na Boga."
+    image: "02_uwielbienie-w-trudnosciach.jpg"
+
+  - type: illustration
+    title: "Od siebie ku Bogu"
+    subtitle: "W uwielbieniu człowiek przestaje skupiać się na sobie i kieruje całe serce ku Bogu."
+    image: "03_od-siebie-ku-bogu.jpg"
+
+  - type: illustration
+    title: "Kwiat i Ogrodnik"
+    subtitle: "Gdy Ty zajmujesz się Bogiem, On zajmuje się Tobą i daje Ci wzrost."
+    image: "04_kwiat-i-ogrodnik.jpg"
+
+  - type: illustration
+    title: "Sposób życia"
+    subtitle: "Różne formy uwielbienia prowadzą do tego, by modlitwa stała się sposobem życia."
+    image: "05_sposob-zycia.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Uwielbienie jest drogą do Jezusa!"

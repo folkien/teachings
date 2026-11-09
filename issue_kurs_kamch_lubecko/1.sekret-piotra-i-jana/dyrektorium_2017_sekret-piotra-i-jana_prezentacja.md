@@ -1,6 +1,6 @@
 ---
 tags: [prezentacja, sesa]
-status: propozycja
+status: zaakceptowana
 date: 2017-05-02
 source: "[[dyrektorium_2017_sekret-piotra-i-jana.md]]"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
@@ -12,9 +12,21 @@ course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 
 ## Sekret skuteczności
 
-### Modlitwa była źródłem skutecznego działania Piotra i Jana.
+### Modlitwa prowadziła Piotra i Jana do uzdrowienia, świadectwa i ponownego napełnienia Duchem Świętym.
 
 ![[01_sekret-skutecznosci.jpg]]
+
+## Rytm życia apostołów
+
+### Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji, a ewangelizacja prowadzi z powrotem do modlitwy.
+
+![[07_rytm-zycia-apostolow.jpg]]
+
+## Modlitwa i posługa Słowa
+
+> My zaś oddamy się wyłącznie modlitwie i posłudze słowa
+
+— Dz 6,4
 
 ## Centrum życia z Bogiem
 

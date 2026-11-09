@@ -3,7 +3,7 @@ title: "Sekret Piotra i Jana"
 course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 source: "dyrektorium_2017_sekret-piotra-i-jana.md"
 date: "2017-05-02"
-status: "propozycja"
+status: "zaakceptowana"
 
 output:
   markdown: "dyrektorium_2017_sekret-piotra-i-jana_prezentacja.md"
@@ -18,8 +18,18 @@ theme:
 slides:
   - type: illustration
     title: "Sekret skuteczności"
-    subtitle: "Modlitwa była źródłem skutecznego działania Piotra i Jana."
+    subtitle: "Modlitwa prowadziła Piotra i Jana do uzdrowienia, świadectwa i ponownego napełnienia Duchem Świętym."
     image: "01_sekret-skutecznosci.jpg"
+
+  - type: illustration
+    title: "Rytm życia apostołów"
+    subtitle: "Modlitwa osobista prowadzi do modlitwy wspólnotowej i ewangelizacji, a ewangelizacja prowadzi z powrotem do modlitwy."
+    image: "07_rytm-zycia-apostolow.jpg"
+
+  - type: quote
+    title: "Modlitwa i posługa Słowa"
+    text: "My zaś oddamy się wyłącznie modlitwie i posłudze słowa"
+    reference: "Dz 6,4"
 
   - type: illustration
     title: "Centrum życia z Bogiem"

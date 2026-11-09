@@ -159,6 +159,20 @@ function validateConfig(config) {
       requireString(slide.title, `${label}.title`);
       requireString(slide.subtitle, `${label}.subtitle`);
       requireString(slide.image, `${label}.image`);
+    } else if (slide.type === "cycle") {
+      requireString(slide.title, `${label}.title`);
+      requireString(slide.subtitle, `${label}.subtitle`);
+      requireString(slide.center_text, `${label}.center_text`);
+      if (!Array.isArray(slide.items) || slide.items.length !== 3) {
+        throw new Error(`${label}.items musi zawierać dokładnie trzy elementy.`);
+      }
+      slide.items.forEach((item, itemIndex) =>
+        requireString(item, `${label}.items[${itemIndex}]`),
+      );
+    } else if (slide.type === "quote") {
+      requireString(slide.title, `${label}.title`);
+      requireString(slide.text, `${label}.text`);
+      requireString(slide.reference, `${label}.reference`);
     } else if (slide.type === "key_sentence") {
       keySentenceCount += 1;
       requireString(slide.title, `${label}.title`);
@@ -167,7 +181,9 @@ function validateConfig(config) {
         throw new Error("Slajd key_sentence musi być ostatnim slajdem.");
       }
     } else {
-      throw new Error(`${label}.type musi mieć wartość illustration albo key_sentence.`);
+      throw new Error(
+        `${label}.type musi mieć wartość illustration, cycle, quote albo key_sentence.`,
+      );
     }
   });
   if (keySentenceCount !== 1) {
@@ -206,6 +222,17 @@ function markdownFrom(config) {
     lines.push(`## ${slide.title}`, "");
     if (slide.type === "illustration") {
       lines.push(`### ${slide.subtitle}`, "", `![[${slide.image}]]`, "");
+    } else if (slide.type === "cycle") {
+      lines.push(
+        `### ${slide.subtitle}`,
+        "",
+        `${slide.items.join(" → ")} → ${slide.items[0]}`,
+        "",
+        `**${slide.center_text}**`,
+        "",
+      );
+    } else if (slide.type === "quote") {
+      lines.push(`> ${slide.text}`, "", `— ${slide.reference}`, "");
     } else {
       lines.push(`### ${slide.text}`, "");
     }
@@ -330,6 +357,137 @@ async function addIllustrationSlide(presentation, slideConfig, configDir, theme)
   });
 }
 
+function addStandardHeader(slide, title, subtitle, theme) {
+  slide.background.fill = "#FFFFFF";
+  slide.shapes.add({
+    geometry: "rect",
+    position: { left: 0, top: 0, width: SLIDE_WIDTH, height: 96 },
+    fill: theme.headerColor,
+    line: { style: "solid", fill: theme.headerColor, width: 0 },
+  });
+  addText(
+    slide,
+    title,
+    { left: 84, top: 22, width: 1124, height: 62 },
+    {
+      fontSize: 42,
+      bold: true,
+      color: "#FFFFFF",
+      alignment: "left",
+      verticalAlignment: "top",
+    },
+    theme.font,
+  );
+  if (subtitle) {
+    addText(
+      slide,
+      subtitle,
+      { left: 80, top: 108, width: 1120, height: 64 },
+      {
+        fontSize: 25,
+        color: theme.textColor,
+        alignment: "center",
+        verticalAlignment: "middle",
+      },
+      theme.font,
+    );
+  }
+}
+
+function addCycleSlide(presentation, slideConfig, theme) {
+  const slide = presentation.slides.add();
+  addStandardHeader(slide, slideConfig.title, slideConfig.subtitle, theme);
+  slide.shapes.add({
+    geometry: "circularArrow",
+    position: { left: 410, top: 245, width: 460, height: 390 },
+    fill: "#FFD2B3",
+    line: { style: "solid", fill: "#FFD2B3", width: 0 },
+  });
+  const nodePositions = [
+    { left: 490, top: 205, width: 300, height: 112 },
+    { left: 780, top: 485, width: 300, height: 112 },
+    { left: 200, top: 485, width: 300, height: 112 },
+  ];
+  for (const [index, position] of nodePositions.entries()) {
+    slide.shapes.add({
+      geometry: "ellipse",
+      position,
+      fill: "#FFF0E5",
+      line: { style: "solid", fill: theme.headerColor, width: 3 },
+    });
+    addText(
+      slide,
+      slideConfig.items[index],
+      position,
+      {
+        fontSize: 25,
+        bold: true,
+        color: theme.textColor,
+        alignment: "center",
+        verticalAlignment: "middle",
+      },
+      theme.font,
+    );
+  }
+  slide.shapes.add({
+    geometry: "ellipse",
+    position: { left: 480, top: 385, width: 320, height: 128 },
+    fill: theme.keyColor,
+    line: { style: "solid", fill: theme.headerColor, width: 2 },
+  });
+  addText(
+    slide,
+    slideConfig.center_text,
+    { left: 500, top: 400, width: 280, height: 98 },
+    {
+      fontSize: 24,
+      bold: true,
+      color: theme.textColor,
+      alignment: "center",
+      verticalAlignment: "middle",
+    },
+    theme.font,
+  );
+}
+
+function addQuoteSlide(presentation, slideConfig, theme) {
+  const slide = presentation.slides.add();
+  addStandardHeader(slide, slideConfig.title, "", theme);
+  slide.shapes.add({
+    geometry: "rect",
+    position: { left: 150, top: 225, width: 12, height: 270 },
+    fill: theme.headerColor,
+    line: { style: "solid", fill: theme.headerColor, width: 0 },
+  });
+  addText(
+    slide,
+    `„${slideConfig.text}”`,
+    { left: 205, top: 220, width: 890, height: 250 },
+    {
+      fontSize: 42,
+      bold: true,
+      italic: true,
+      color: theme.textColor,
+      alignment: "left",
+      verticalAlignment: "middle",
+    },
+    theme.font,
+  );
+  addText(
+    slide,
+    slideConfig.reference,
+    { left: 205, top: 485, width: 890, height: 56 },
+    {
+      fontSize: 26,
+      bold: true,
+      color: theme.headerColor,
+      alignment: "right",
+      verticalAlignment: "middle",
+    },
+    theme.font,
+  );
+}
+
 function addKeySentenceSlide(presentation, slideConfig, theme) {
   const slide = presentation.slides.add();
   slide.background.fill = "#FFFFFF";
@@ -384,6 +542,10 @@ async function main() {
   for (const slideConfig of config.slides) {
     if (slideConfig.type === "illustration") {
       await addIllustrationSlide(presentation, slideConfig, configDir, theme);
+    } else if (slideConfig.type === "cycle") {
+      addCycleSlide(presentation, slideConfig, theme);
+    } else if (slideConfig.type === "quote") {
+      addQuoteSlide(presentation, slideConfig, theme);
     } else {
       addKeySentenceSlide(presentation, slideConfig, theme);
     }

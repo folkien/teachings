@@ -3,9 +3,12 @@ tags: [prezentacja, sesa]
 status: propozycja
 date: 2026-11-09
 source: "[[dyrektorium_2017_piecdziesiatnica]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
 # Pięćdziesiątnica
+
+*Kurs Animacji Modlitwy Charyzmatycznej*
 
 ## Spotkanie z żywym Bogiem
 

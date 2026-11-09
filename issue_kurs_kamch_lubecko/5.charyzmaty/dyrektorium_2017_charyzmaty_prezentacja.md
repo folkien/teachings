@@ -3,9 +3,12 @@ tags: [prezentacja, sesa]
 status: propozycja
 date: 2017-05-02
 source: "[[dyrektorium_2017_charyzmaty.md]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
 # Charyzmaty - Bóg w działaniu
+
+*Kurs Animacji Modlitwy Charyzmatycznej*
 
 ## Dar łaski
 

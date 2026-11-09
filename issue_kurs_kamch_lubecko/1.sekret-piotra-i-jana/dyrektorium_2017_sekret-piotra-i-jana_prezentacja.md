@@ -3,9 +3,12 @@ tags: [prezentacja, sesa]
 status: propozycja
 date: 2017-05-02
 source: "[[dyrektorium_2017_sekret-piotra-i-jana.md]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
 # Sekret Piotra i Jana
+
+*Kurs Animacji Modlitwy Charyzmatycznej*
 
 ## Sekret skuteczności
 

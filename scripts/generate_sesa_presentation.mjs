@@ -138,6 +138,7 @@ function validateConfig(config) {
     throw new Error("Obsługiwana wersja schematu YAML to version: 1.");
   }
   requireString(config.title, "title");
+  requireString(config.course_title, "course_title");
   requireString(config.source, "source");
   if (!config.output || typeof config.output !== "object") {
     throw new Error("Brakuje sekcji output.");
@@ -193,9 +194,12 @@ function markdownFrom(config) {
     `status: ${status}`,
     `date: ${date}`,
     `source: "[[${config.source}]]"`,
+    `course_title: "${config.course_title}"`,
     "---",
     "",
     `# ${config.title}`,
+    "",
+    `*${config.course_title}*`,
     "",
   ];
   for (const slide of config.slides) {
@@ -236,6 +240,43 @@ function addText(slide, text, position, style, font) {
     insets: 0,
     ...style,
   };
+}
+
+function addTitleSlide(presentation, config, theme) {
+  const slide = presentation.slides.add();
+  slide.background.fill = theme.headerColor;
+  addText(
+    slide,
+    config.course_title.toLocaleUpperCase("pl-PL"),
+    { left: 120, top: 170, width: 1040, height: 42 },
+    {
+      fontSize: 21,
+      bold: true,
+      color: theme.keyColor,
+      alignment: "center",
+      verticalAlignment: "middle",
+    },
+    theme.font,
+  );
+  slide.shapes.add({
+    geometry: "rect",
+    position: { left: 520, top: 234, width: 240, height: 6 },
+    fill: theme.keyColor,
+    line: { style: "solid", fill: theme.keyColor, width: 0 },
+  });
+  addText(
+    slide,
+    config.title,
+    { left: 110, top: 270, width: 1060, height: 210 },
+    {
+      fontSize: 58,
+      bold: true,
+      color: "#FFFFFF",
+      alignment: "center",
+      verticalAlignment: "middle",
+    },
+    theme.font,
+  );
 }
 
 async function addIllustrationSlide(presentation, slideConfig, configDir, theme) {
@@ -339,6 +380,7 @@ async function main() {
   const presentation = Presentation.create({
     slideSize: { width: SLIDE_WIDTH, height: SLIDE_HEIGHT },
   });
+  addTitleSlide(presentation, config, theme);
   for (const slideConfig of config.slides) {
     if (slideConfig.type === "illustration") {
       await addIllustrationSlide(presentation, slideConfig, configDir, theme);
@@ -400,7 +442,7 @@ async function main() {
         EXPECTED_SLIDE_SIZE_EMU,
         "--validate-heading-fit",
       ],
-      explicitTotalSlideCount: config.slides.length,
+      explicitTotalSlideCount: config.slides.length + 1,
       requiredNativeTableOwnerSlides: [],
       requiredNativeChartOwnerSlides: [],
       fontPolicy: { basis: "design", families: [theme.font] },
@@ -425,7 +467,7 @@ async function main() {
           markdown: markdownPath,
           pptx: pptxPath,
           previews: previewDir,
-          slideCount: config.slides.length,
+          slideCount: config.slides.length + 1,
           status: config.status ?? "propozycja",
         },
         null,

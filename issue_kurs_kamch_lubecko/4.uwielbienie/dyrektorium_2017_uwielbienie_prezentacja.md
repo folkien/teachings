@@ -3,9 +3,12 @@ tags: [prezentacja, sesa]
 status: propozycja
 date: 2017-05-02
 source: "[[dyrektorium_2017_uwielbienie.md]]"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 ---
 
 # Uwielbienie
+
+*Kurs Animacji Modlitwy Charyzmatycznej*
 
 ## Jezus w centrum
 

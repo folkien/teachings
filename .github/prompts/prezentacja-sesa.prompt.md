@@ -71,9 +71,9 @@ Jeżeli żadna z sekcji `ZDANIE KLUCZOWE`, `ZDANIE KOŃCOWE`, `ZDANIA KOŃCOWE`,
 
 ## Krok 2 — Wybierz slajdy
 
-W trybie `auto` wybierz tylko rzeczywiście kluczowe punkty. Zwykle będzie to od 3 do 8 slajdów, ale treść ma pierwszeństwo przed tą orientacyjną liczbą.
+W trybie `auto` wybierz tylko rzeczywiście kluczowe punkty. Zwykle będzie to od 3 do 8 slajdów treściowych, ale treść ma pierwszeństwo przed tą orientacyjną liczbą. Generator doda przed nimi obowiązkowy slajd tytułowy.
 
-Do tej liczby należy jeden obowiązkowy ostatni slajd ze zdaniem podsumowującym. Nie traktuj wybranego zdania jako jednego z punktów do selekcji — dodaj je niezależnie po wszystkich slajdach ilustracyjnych. Nawet jeśli źródło zawiera więcej niż jeden z rozpoznawanych nagłówków, utwórz tylko jeden slajd końcowy zgodnie z kolejnością wyboru opisaną w kroku 1.
+Do liczby slajdów treściowych należy jeden obowiązkowy ostatni slajd ze zdaniem podsumowującym. Nie traktuj wybranego zdania jako jednego z punktów do selekcji — dodaj je niezależnie po wszystkich slajdach ilustracyjnych. Nawet jeśli źródło zawiera więcej niż jeden z rozpoznawanych nagłówków, utwórz tylko jeden slajd końcowy zgodnie z kolejnością wyboru opisaną w kroku 1.
 
 Nie twórz slajdu dla każdego akapitu. Slajdy razem mają odtwarzać logiczny przebieg konferencji, bez dopisywania nowych tez.
 
@@ -122,6 +122,7 @@ Użyj schematu:
 ```yaml
 version: 1
 title: "Tytuł prezentacji"
+course_title: "Kurs Animacji Modlitwy Charyzmatycznej"
 source: "Nazwa_Pliku_Źródłowego"
 date: "YYYY-MM-DD"
 status: "propozycja"
@@ -210,6 +211,9 @@ Ten slajd **nie jest ilustracją i nie ma pliku JPG**. Jego treść zapisz w ele
 
 Zapisz `<nazwa-zrodla>_prezentacja.yaml` według schematu z kroku 3. W tablicy `slides` umieść wszystkie slajdy w kolejności prezentacji.
 
+- Pole `title` zawiera nazwę konferencji widoczną na slajdzie tytułowym.
+- Pole `course_title` ma wartość `Kurs Animacji Modlitwy Charyzmatycznej` i tworzy mały napis na slajdzie tytułowym.
+- Slajd tytułowy powstaje automatycznie i nie jest osobnym elementem tablicy `slides`.
 - Każdy slajd ilustracyjny ma `type: illustration`, `title`, `subtitle` i `image`.
 - Ostatni slajd ma `type: key_sentence`, `title: "Zdanie kluczowe"` i `text` zapisany dokładnie jak w źródle.
 - W YAML-u musi wystąpić dokładnie jeden `key_sentence` i zawsze jako ostatni element.
@@ -227,12 +231,21 @@ Skrypt:
 
 - waliduje schemat i istnienie obrazów;
 - generuje Markdown dla Obsidiana;
-- tworzy PPTX w formacie `16:9` z edytowalnymi tytułami, podtytułami i slajdem końcowym;
+- tworzy PPTX w formacie `16:9` z edytowalnym slajdem tytułowym, tytułami, podtytułami i slajdem końcowym;
 - osadza obrazy w PPTX;
 - przeprowadza walidację struktury prezentacji;
 - zapisuje podglądy slajdów w katalogu tymczasowym i zwraca jego ścieżkę w polu `previews`.
 
 Nie twórz własnego pliku `.mjs`, `.js` ani `.py` dla pojedynczej prezentacji. Jeżeli generator nie obsługuje wymaganej funkcji, popraw wspólny generator zamiast obchodzić go jednorazowym kodem.
+
+### Slajd tytułowy tworzony przez generator
+
+- jest zawsze pierwszym slajdem PPTX;
+- zawiera nazwę konferencji z pola `title`;
+- zawiera mniejszy napis `Kurs Animacji Modlitwy Charyzmatycznej` z pola `course_title`;
+- zachowuje prosty styl kolorystyczny prezentacji i używa wyłącznie natywnych, edytowalnych elementów PPTX;
+- nie wymaga ilustracji ani osobnego pliku graficznego;
+- nie jest elementem tablicy `slides` w YAML-u.
 
 ### Slajdy ilustracyjne tworzone przez generator
 
@@ -242,7 +255,6 @@ Nie twórz własnego pliku `.mjs`, `.js` ani `.py` dla pojedynczej prezentacji. 
 - bezpośrednio pod nim umieść czarny podtytuł;
 - poniżej umieść odpowiadającą slajdowi ilustrację, bez zniekształcania proporcji;
 - tytuł i podtytuł pozostają edytowalnymi polami tekstowymi, a obraz jest osadzony w pliku PPTX, nie podlinkowany z dysku;
-- nie dodawaj osobnego slajdu tytułowego, jeżeli użytkownik go wyraźnie nie zamówił.
 
 ### Ostatni slajd podsumowujący tworzony przez generator
 

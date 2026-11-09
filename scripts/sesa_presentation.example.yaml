@@ -1,0 +1,25 @@
+version: 1
+title: "Tytuł prezentacji"
+source: "nazwa_pliku_zrodlowego"
+date: "2026-11-09"
+status: "propozycja"
+
+output:
+  markdown: "nazwa_pliku_zrodlowego_prezentacja.md"
+  pptx: "nazwa_pliku_zrodlowego_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#B42318"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Tytuł slajdu"
+    subtitle: "Jedno zdanie wiernie streszczające punkt."
+    image: "01_nazwa-ilustracji.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Dokładne zdanie podsumowujące ze źródła."

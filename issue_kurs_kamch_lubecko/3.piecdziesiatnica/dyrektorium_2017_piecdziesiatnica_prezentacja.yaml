@@ -1,0 +1,45 @@
+version: 1
+title: "Pięćdziesiątnica"
+source: "dyrektorium_2017_piecdziesiatnica"
+date: "2026-11-09"
+status: "propozycja"
+
+output:
+  markdown: "dyrektorium_2017_piecdziesiatnica_prezentacja.md"
+  pptx: "dyrektorium_2017_piecdziesiatnica_prezentacja.pptx"
+
+theme:
+  font: "DejaVu Sans"
+  header_color: "#B42318"
+  key_color: "#F6C82F"
+  text_color: "#111111"
+
+slides:
+  - type: illustration
+    title: "Spotkanie z żywym Bogiem"
+    subtitle: "Celem modlitwy osobistej i wspólnotowej jest spotkanie i zjednoczenie z Bogiem."
+    image: "01_spotkanie-z-zywym-bogiem.jpg"
+
+  - type: illustration
+    title: "Duch prowadzi modlitwę"
+    subtitle: "Duch Święty przychodzi z pomocą naszej słabości i uczy nas modlitwy."
+    image: "02_duch-prowadzi-modlitwe.jpg"
+
+  - type: illustration
+    title: "Przewodnik całego życia"
+    subtitle: "Duch Święty chce prowadzić wszystkie dziedziny życia, nie tylko chwile modlitwy."
+    image: "03_przewodnik-calego-zycia.jpg"
+
+  - type: illustration
+    title: "Płytka woda"
+    subtitle: "Samo wypuszczanie pragnień jak papierowych statków nie przemienia życia."
+    image: "04_plytka-woda.jpg"
+
+  - type: illustration
+    title: "Całkowite zanurzenie"
+    subtitle: "Głębokie zanurzenie w Duchu Świętym otwiera życie na przemianę, owoc i uzdrowienie."
+    image: "05_calkowite-zanurzenie.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Celem każdej modlitwy charyzmatycznej jest doświadczenie Pięćdziesiątnicy!"

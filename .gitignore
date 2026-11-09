@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 output
 .codex_build/
+.sesa-presentation-build-*/

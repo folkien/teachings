@@ -1,6 +1,6 @@
 ---
 agent: agent
-description: "Prezentacja SESA — tworzenie zestawu slajdów JPG, pliku Markdown i prezentacji PowerPoint z tekstu konferencji"
+description: "Prezentacja SESA — tworzenie ilustracji JPG i deklaracji YAML, z której stały generator buduje Markdown oraz PowerPoint"
 ---
 
 # Prompt: Prezentacja SESA
@@ -13,9 +13,12 @@ Na podstawie całego tekstu nauczania albo konferencji:
 2. dla każdego punktu wygeneruj osobną ilustrację JPG w stylu SESA;
 3. znajdź jedno zdanie podsumowujące w sekcji `ZDANIE KLUCZOWE`, `ZDANIE KOŃCOWE`, `ZDANIA KOŃCOWE`, `KONKLUZJA` albo `MYŚL KLUCZOWA` i zawsze dodaj je jako jeden ostatni slajd typograficzny;
 4. traktuj wymienione nazwy sekcji jako synonimy tej samej funkcji — nigdy nie twórz osobnych slajdów dla `ZDANIA KLUCZOWEGO` i `KONKLUZJI`;
-5. w katalogu źródłowego nauczania zapisz wszystkie obrazy, **jeden plik Markdown tworzący całą prezentację** oraz **jeden plik PowerPoint PPTX**.
+5. w katalogu źródłowego nauczania zapisz wszystkie obrazy i **jeden plik YAML opisujący całą prezentację**;
+6. uruchom `scripts/generate_sesa_presentation.sh`, który na podstawie YAML-a tworzy **jeden plik Markdown** oraz **jeden plik PowerPoint PPTX**.
 
-Każdy slajd w Markdownzie ma układ:
+YAML jest jedynym ręcznie tworzonym źródłem struktury prezentacji. Nie buduj PPTX przez jednorazowy skrypt w `.codex-build` i nie przepisuj ręcznie tych samych danych do Markdownu. Markdown oraz PPTX zawsze generuje wspólny skrypt repozytorium.
+
+Wygenerowany Markdown zachowuje układ:
 
 ```markdown
 ## <Tytuł slajdu>
@@ -28,6 +31,8 @@ Każdy slajd w Markdownzie ma układ:
 Wyjątkiem jest ostatni slajd ze zdaniem podsumowującym. W Markdownzie zawiera tylko nagłówek i dokładne zdanie, bez linku do obrazu JPG.
 
 Nie twórz osobnych plików Markdown dla poszczególnych ilustracji.
+
+Schemat YAML znajduje się w `scripts/sesa_presentation.example.yaml`. Każdy slajd ilustracyjny ma `type: illustration`, a ostatni slajd ma `type: key_sentence`.
 
 ## Użycie
 
@@ -89,7 +94,7 @@ Przykładowe nazwy:
 03_poslanie-do-innych.jpg
 ```
 
-## Krok 3 — Przygotuj katalog i plik prezentacji
+## Krok 3 — Przygotuj katalog i deklarację YAML
 
 Wszystkie wyniki zapisz **w tym samym katalogu, w którym znajduje się plik źródłowy**. Nie twórz dodatkowego podkatalogu, chyba że użytkownik wyraźnie o niego poprosi.
 
@@ -102,6 +107,7 @@ Jeśli źródło nazywa się:
 utwórz obok niego:
 
 ```text
+20261115_temat_prezentacja.yaml
 20261115_temat_prezentacja.md
 20261115_temat_prezentacja.pptx
 01_<nazwa-punktu>.jpg
@@ -109,7 +115,33 @@ utwórz obok niego:
 03_<nazwa-punktu>.jpg
 ```
 
-Nie twórz osobnych metryk Markdown dla obrazów. Jedynym nowym plikiem Markdown ma być plik całej prezentacji. Plik PPTX ma zawierać tę samą liczbę slajdów, w tej samej kolejności i z tymi samymi tytułami oraz podtytułami co Markdown.
+Nie twórz osobnych metryk Markdown dla obrazów. Plik YAML jest źródłem tytułów, podtytułów, nazw obrazów, kolejności i typu slajdu. Markdown i PPTX mają powstać wyłącznie przez uruchomienie generatora.
+
+Użyj schematu:
+
+```yaml
+version: 1
+title: "Tytuł prezentacji"
+source: "Nazwa_Pliku_Źródłowego"
+date: "YYYY-MM-DD"
+status: "propozycja"
+
+output:
+  markdown: "Nazwa_Pliku_Źródłowego_prezentacja.md"
+  pptx: "Nazwa_Pliku_Źródłowego_prezentacja.pptx"
+
+slides:
+  - type: illustration
+    title: "Tytuł slajdu"
+    subtitle: "Podtytuł slajdu."
+    image: "01_nazwa-punktu.jpg"
+
+  - type: key_sentence
+    title: "Zdanie kluczowe"
+    text: "Dokładne zdanie podsumowujące ze źródła."
+```
+
+Ścieżki w `output` i `image` są względne wobec katalogu pliku YAML.
 
 ## Krok 4 — Zastosuj styl SESA
 
@@ -156,7 +188,7 @@ Nie generuj wszystkich slajdów jako jednego obrazu i nie używaj jednego wywoł
 
 Po wszystkich slajdach ilustracyjnych przygotuj dokładnie jeden obowiązkowy ostatni slajd zawierający zdanie wybrane zgodnie z krokiem 1 z sekcji `ZDANIE KLUCZOWE`, `ZDANIE KOŃCOWE`, `ZDANIA KOŃCOWE`, `KONKLUZJA` albo `MYŚL KLUCZOWA`. Nazwa sekcji źródłowej nie powoduje utworzenia dodatkowego slajdu.
 
-Ten slajd **nie jest ilustracją i nie ma pliku JPG**. Jego treść zapisz tekstowo w Markdownzie, a w prezentacji PowerPoint zbuduj go wyłącznie z natywnych, edytowalnych obiektów PPTX: białego tła, żółtego prostokąta i pola tekstowego.
+Ten slajd **nie jest ilustracją i nie ma pliku JPG**. Jego treść zapisz w elemencie YAML `type: key_sentence`. Generator zapisze ją w Markdownzie i zbuduje w PowerPoint wyłącznie z natywnych, edytowalnych obiektów: białego tła, żółtego prostokąta i pola tekstowego.
 
 ### Wygląd slajdu
 
@@ -174,54 +206,35 @@ Ten slajd **nie jest ilustracją i nie ma pliku JPG**. Jego treść zapisz tekst
 - nie dodawaj postaci, ilustracji, ikon, ornamentów, cieni, ramek, numeru slajdu ani innych napisów;
 - nie rasteryzuj tego slajdu i nie twórz dla niego pliku PNG ani JPG.
 
-## Krok 7 — Utwórz jeden Markdown prezentacji
+## Krok 7 — Zapisz kompletny YAML prezentacji
 
-Plik `<nazwa-zrodla>_prezentacja.md` utwórz według wzoru:
+Zapisz `<nazwa-zrodla>_prezentacja.yaml` według schematu z kroku 3. W tablicy `slides` umieść wszystkie slajdy w kolejności prezentacji.
 
-```markdown
----
-tags: [prezentacja, sesa]
-status: propozycja
-date: YYYY-MM-DD
-source: "[[Nazwa_Pliku_Źródłowego]]"
----
+- Każdy slajd ilustracyjny ma `type: illustration`, `title`, `subtitle` i `image`.
+- Ostatni slajd ma `type: key_sentence`, `title: "Zdanie kluczowe"` i `text` zapisany dokładnie jak w źródle.
+- W YAML-u musi wystąpić dokładnie jeden `key_sentence` i zawsze jako ostatni element.
+- Nie twórz Markdownu ręcznie. Generator utworzy go z YAML-a.
 
-# <Tytuł całej prezentacji>
+## Krok 8 — Uruchom wspólny generator
 
-## <Tytuł slajdu 1>
+Uruchom z katalogu głównego repozytorium:
 
-### <Podtytuł punktu 1>
-
-![[01_<nazwa-punktu>.jpg]]
-
-## <Tytuł slajdu 2>
-
-### <Podtytuł punktu 2>
-
-![[02_<nazwa-punktu>.jpg]]
-
-## <Tytuł slajdu 3>
-
-### <Podtytuł punktu 3>
-
-![[03_<nazwa-punktu>.jpg]]
-
-## Zdanie kluczowe
-
-### <Dokładne zdanie kluczowe z nauczania>
+```bash
+scripts/generate_sesa_presentation.sh <ścieżka-do-pliku-yaml>
 ```
 
-Tytuł i podtytuł mają znajdować się w Markdownzie, nie na obrazie, chyba że użytkownik wyraźnie zamówi napisy wewnątrz JPG. Ostatni slajd podsumowujący nie ma obrazu i kończy się na tekście podtytułu.
+Skrypt:
 
-Każdy obraz występuje w prezentacji dokładnie raz i bezpośrednio pod odpowiadającym mu tytułem oraz podtytułem.
+- waliduje schemat i istnienie obrazów;
+- generuje Markdown dla Obsidiana;
+- tworzy PPTX w formacie `16:9` z edytowalnymi tytułami, podtytułami i slajdem końcowym;
+- osadza obrazy w PPTX;
+- przeprowadza walidację struktury prezentacji;
+- zapisuje podglądy slajdów w katalogu tymczasowym i zwraca jego ścieżkę w polu `previews`.
 
-Sekcja `## Zdanie kluczowe` jest zawsze ostatnią sekcją Markdown prezentacji. Jej podtytuł zawiera dokładne zdanie ze źródła i nie zawiera linku do obrazu.
+Nie twórz własnego pliku `.mjs`, `.js` ani `.py` dla pojedynczej prezentacji. Jeżeli generator nie obsługuje wymaganej funkcji, popraw wspólny generator zamiast obchodzić go jednorazowym kodem.
 
-## Krok 8 — Utwórz prezentację PowerPoint
-
-Na podstawie gotowego Markdownu i obrazów utwórz obok nich plik `<nazwa-zrodla>_prezentacja.pptx` w formacie `16:9`.
-
-### Slajdy ilustracyjne
+### Slajdy ilustracyjne tworzone przez generator
 
 - całe tło slajdu jest białe;
 - u góry znajduje się szeroki czerwony prostokąt;
@@ -231,7 +244,7 @@ Na podstawie gotowego Markdownu i obrazów utwórz obok nich plik `<nazwa-zrodla
 - tytuł i podtytuł pozostają edytowalnymi polami tekstowymi, a obraz jest osadzony w pliku PPTX, nie podlinkowany z dysku;
 - nie dodawaj osobnego slajdu tytułowego, jeżeli użytkownik go wyraźnie nie zamówił.
 
-### Ostatni slajd podsumowujący
+### Ostatni slajd podsumowujący tworzony przez generator
 
 - jest tylko jeden i zawsze pozostaje ostatnim slajdem PPTX;
 - nie używa czerwonego nagłówka ani ilustracji;
@@ -240,7 +253,7 @@ Na podstawie gotowego Markdownu i obrazów utwórz obok nich plik `<nazwa-zrodla
 - tekst oraz żółty pas mają być natywnymi, edytowalnymi elementami slajdu;
 - białe tło, żółty prostokąt i pole tekstowe mają być zwykłymi, natywnymi obiektami PPTX, a nie jednym rastrowym obrazem.
 
-Przed zapisaniem wyrenderuj wszystkie slajdy i sprawdź czytelność tekstu, osadzenie obrazów, brak obcięć oraz zgodność kolejności z Markdownem.
+Po uruchomieniu generatora otwórz wszystkie pliki PNG z katalogu `previews` i sprawdź czytelność tekstu, osadzenie obrazów, brak obcięć oraz zgodność kolejności z YAML-em. Po kontroli usuń katalog tymczasowych podglądów.
 
 ## Krok 9 — Kontrola całej prezentacji
 
@@ -251,6 +264,7 @@ Przed zakończeniem sprawdź:
 - czy tytuły są krótkie, a podtytuły wierne źródłu;
 - czy wszystkie obrazy istnieją, są JPG RGB i mają poziomy format `16:9`;
 - czy linki `![[...jpg]]` wskazują właściwe pliki;
+- czy YAML zawiera poprawne ścieżki do wszystkich obrazów;
 - czy nazwy plików odpowiadają punktom, a nie są ogólne typu `slajd1.jpg`;
 - czy każda nazwana postać jest spójna we wszystkich slajdach;
 - czy wszystkie obrazy przeszły kontrolę anatomii i stylu SESA;
@@ -260,6 +274,7 @@ Przed zakończeniem sprawdź:
 - czy na końcowym slajdzie nie ma żadnych innych elementów;
 - czy dla ostatniego slajdu nie powstał plik JPG ani PNG;
 - czy powstał dokładnie jeden nowy plik Markdown prezentacji;
+- czy Markdown został wygenerowany przez skrypt, a nie napisany ręcznie;
 - czy powstał jeden plik PPTX z taką samą liczbą slajdów i tą samą kolejnością;
 - czy obrazy są osadzone w PPTX, a tytuły i podtytuły pozostają edytowalne.
 
@@ -268,6 +283,7 @@ Przed zakończeniem sprawdź:
 Zwróć:
 
 - link do pliku Markdown całej prezentacji;
+- link do pliku YAML będącego źródłem prezentacji;
 - link do pliku PPTX;
 - listę utworzonych plików JPG z ich tytułami;
 - liczbę slajdów;

@@ -12,12 +12,14 @@ Responsywna, statyczna strona przygotowana na podstawie bazy wiedzy w `issue_rca
 
 - `index.html` — strona główna;
 - `czym-jest-alpha.html` — format, odbiorcy i najczęstsze pytania;
+- `dlaczego-alpha.html` — lokalna odpowiedź RCA Lubecko: dlaczego wybraliśmy Alpha i co zmienia w ludziach oraz parafii;
 - `kontekst-katolicki.html` — Alpha w parafii katolickiej, Dyrektorium przyjęte przez KEP i oficjalny film Alpha;
 - `swiadectwa.html` — głosy uczestników z lokalnych edycji oraz osadzone filmy świadectw Alpha Polska;
 - `zacznij-alpha.html` — zakres wsparcia RCA;
 - `pytania-przed-alpha.html` — pytania parafii i wspólnot przed rozpoczęciem Alpha oraz link do rejestracji pierwszej edycji;
 - `historia.html` — historia Alpha w Lubecku i galeria;
-- `odnowa-parafii.html` — interaktywny cykl odnowy parafii;
+- `jak-zmienilo-sie-lubecko.html` — lokalna historia przemiany parafii: od pierwszej Alpha do nowych dzieł i liderów;
+- `odnowa-parafii.html` — „Zmiana parafii poprzez Alpha”, czyli interaktywny cykl od gościa do lidera i zmiany kultury;
 - `o-nas.html` — zespół RCA Lubecko;
 - `kontakt.html` — kontakt i formularz przygotowujący wiadomość e-mail.
 
@@ -48,6 +50,8 @@ Podstrona `historia.html` korzysta z uporządkowanych danych z [[../facebook_alp
 ## Redakcja zdjęć
 
 Wybrane fotografie zostały skopiowane z roboczego katalogu `/home/spasz/Obrazy/alpha/`, zmniejszone i zapisane jako WebP w `assets/photos/`. Oryginały nie zostały zmienione.
+
+Zdjęcia na podstronie `jak-zmienilo-sie-lubecko.html` pochodzą z prezentacji `../tarnow/tarnow_lubecko.pptx`. Ich zoptymalizowane kopie znajdują się w `assets/tarnow/`; prezentacja źródłowa nie została zmieniona.
 
 - strona główna pokazuje przede wszystkim własne edycje Alpha w Lubecku;
 - pozostałe podstrony wykorzystują różne zdjęcia, bez przypadkowego powtarzania tych samych kadrów;

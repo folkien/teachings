@@ -106,7 +106,29 @@ SNE_LIGHT = ColorTheme(
     shadow_color=(255, 255, 255),  # biały cień na jasnym tle
 )
 
-THEMES = {"red": SNE_RED, "dark": SNE_DARK, "light": SNE_LIGHT}
+# Motyw Kursu Animacji Modlitwy Charyzmatycznej: granat, ognisty
+# pomarańcz i ciepły krem zaczerpnięte z logo KAMCh.
+KAMCH = ColorTheme(
+    name="kamch",
+    base_bg=(6, 25, 58),
+    overlay_color=(7, 30, 66),
+    accent=(242, 126, 25),
+    text_primary=(255, 248, 226),
+    text_secondary=(202, 231, 232),
+    panel_bg=(5, 22, 51),
+    tagline_color=(164, 211, 216),
+    quote_color=(255, 176, 55),
+    gradient_blend=0.36,
+    fullbg_blend=0.42,
+    shadow_color=(0, 10, 28),
+)
+
+THEMES = {
+    "red": SNE_RED,
+    "dark": SNE_DARK,
+    "light": SNE_LIGHT,
+    "kamch": KAMCH,
+}
 
 # Typy layoutów (identyczne jak w render_post_cards.py)
 LAYOUT_GRADIENT = "gradient"  # panel po lewej + zdjęcie po prawej
@@ -881,6 +903,8 @@ def render_card(
 # Entrypoint
 # ---------------------------------------------------------------------------
 def main() -> None:
+    global TAGLINE_MOTTO, TAGLINE_BRAND
+
     parser = argparse.ArgumentParser(description="Generuj karty ze świadectwami SNE")
     parser.add_argument(
         "--testimonials", "-t", type=Path, help="Plik .md ze świadectwami"
@@ -918,7 +942,17 @@ def main() -> None:
         "--theme",
         choices=list(THEMES.keys()),
         default="red",
-        help="Motyw kolorystyczny: red / dark / light",
+        help="Motyw kolorystyczny: red / dark / light / kamch",
+    )
+    parser.add_argument(
+        "--tagline",
+        default=TAGLINE_MOTTO,
+        help="Motto wyświetlane u dołu karty",
+    )
+    parser.add_argument(
+        "--brand",
+        default=TAGLINE_BRAND,
+        help="Podpis marki wyświetlany u dołu karty",
     )
     parser.add_argument("--author", default=None, help="Autor świadectwa (tryb ręczny)")
     parser.add_argument("--text", default=None, help="Tekst świadectwa (tryb ręczny)")
@@ -926,6 +960,9 @@ def main() -> None:
         "--seed", type=int, default=None, help="Seed losowania dla powtarzalności"
     )
     args = parser.parse_args()
+
+    TAGLINE_MOTTO = args.tagline
+    TAGLINE_BRAND = args.brand
 
     if args.seed is not None:
         random.seed(args.seed)

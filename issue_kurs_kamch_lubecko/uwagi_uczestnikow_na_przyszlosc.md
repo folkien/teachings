@@ -1,6 +1,4 @@
-# Uwagi uczestników kursu KAMCh w Lubecku
 
-Poniżej zebrano wszystkie odpowiedzi udzielone w ankietach w polu „Uwagi do kursu”. Uwagi zachowano możliwie wiernie, z drobną korektą językową. Nie zawierają treści świadectw.
 
 ## Sugestie dotyczące programu i prowadzenia
 
@@ -35,7 +33,4 @@ Poniżej zebrano wszystkie odpowiedzi udzielone w ankietach w polu „Uwagi do k
 - **Świadectwo anonimowe 8:** nie mam uwag. Jak zawsze kursy SNE Lubecko na wysokim poziomie.
 - **Ania (2):** wszystko było OK.
 
-## Brak uwag
-
-- **Kasia:** brak.
-- **Świadectwo anonimowe 6:** brak.
+- 

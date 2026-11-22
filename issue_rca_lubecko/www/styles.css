@@ -669,18 +669,20 @@ h3 {
 .region-schematic {
   position: relative;
   width: 100%;
-  min-height: 430px;
+  min-height: 450px;
   overflow: hidden;
-  background: linear-gradient(135deg, rgba(255, 255, 238, .98), rgba(250, 203, 199, .48));
+  background:
+    radial-gradient(circle at 48% 49%, rgba(255, 255, 238, .9), transparent 34%),
+    linear-gradient(135deg, rgba(255, 255, 238, .98), rgba(250, 203, 199, .4));
   isolation: isolate;
 }
 
 .region-schematic::before {
   position: absolute;
   z-index: -1;
-  top: 47%;
-  left: 44%;
-  width: min(58%, 270px);
+  top: 51%;
+  left: 48%;
+  width: min(57%, 285px);
   aspect-ratio: 1;
   border: 1px solid rgba(228, 35, 18, .42);
   border-radius: 50%;
@@ -703,7 +705,7 @@ h3 {
 
 .region-shape {
   position: absolute;
-  border: 2px solid var(--alpha-red);
+  border: 0;
   color: var(--alpha-red);
   font-size: 11px;
   font-weight: 800;
@@ -723,47 +725,48 @@ h3 {
 }
 
 .region-opole {
-  top: 15%;
-  left: 6%;
-  width: 47%;
-  height: 57%;
-  background: rgba(255, 255, 238, .58);
-  clip-path: polygon(11% 0, 91% 8%, 100% 61%, 74% 100%, 13% 88%, 0 39%);
+  top: 14%;
+  left: -3%;
+  width: 56%;
+  height: 65%;
+  background: rgba(255, 255, 238, .72);
+  clip-path: polygon(15% 0, 90% 7%, 100% 58%, 75% 100%, 15% 86%, 0 38%);
 }
 
 .region-opole > span {
-  top: 10%;
-  left: 10%;
+  top: 9%;
+  left: 22%;
 }
 
 .region-czestochowa {
-  top: 13%;
-  right: 5%;
-  width: 42%;
-  height: 52%;
-  background: rgba(250, 203, 199, .52);
-  clip-path: polygon(19% 0, 100% 14%, 89% 85%, 31% 100%, 0 56%);
+  top: 12%;
+  right: -2%;
+  width: 34%;
+  height: 57%;
+  background: rgba(250, 203, 199, .5);
+  clip-path: polygon(18% 0, 100% 13%, 89% 84%, 24% 100%, 0 56%);
 }
 
 .region-czestochowa > span {
-  top: 7%;
-  right: 6%;
+  top: 8%;
+  right: 8%;
 }
 
 .region-gliwice {
   z-index: 1;
-  top: 37%;
-  left: 29%;
-  width: 46%;
-  height: 48%;
+  top: 24%;
+  left: 27%;
+  width: 61%;
+  height: 67%;
   background: rgba(228, 35, 18, .18);
-  clip-path: polygon(0 22%, 45% 0, 100% 29%, 88% 89%, 26% 100%, 9% 68%);
+  clip-path: polygon(18% 0, 62% 0, 100% 24%, 86% 88%, 22% 100%, 0 60%);
 }
 
 
 .region-gliwice > span {
-  right: 7%;
-  bottom: 9%;
+  right: auto;
+  bottom: 8%;
+  left: 47%;
 }
 
 .lubecko-marker {
@@ -818,9 +821,11 @@ h3 {
 }
 
 .alpha-place strong {
-  padding: 2px 4px;
+  padding: 3px 5px;
+  border: 1px solid rgba(228, 35, 18, .12);
   border-radius: 4px;
-  background: rgba(255, 255, 238, .88);
+  background: rgba(255, 255, 238, .95);
+  box-shadow: 0 2px 7px rgba(94, 19, 11, .06);
   font-size: 10px;
 }
 
@@ -836,13 +841,13 @@ h3 {
   background: var(--cream);
 }
 
-.place-lubecko { top: 51%; left: 47%; }
-.place-koszecin { top: 60%; left: 68%; }
-.place-lisowice { top: 57%; left: 36%; }
-.place-lisow { top: 43%; left: 28%; }
-.place-olszyna { top: 28%; left: 61%; }
-.place-zawadzkie { top: 68%; left: 23%; }
-.place-toszek { top: 78%; left: 45%; }
+.place-lubecko { top: 51%; left: 48%; }
+.place-koszecin { top: 61%; left: 70%; }
+.place-lisowice { top: 60%; left: 35%; }
+.place-lisow { top: 41%; left: 55%; }
+.place-olszyna { top: 30%; left: 52%; }
+.place-zawadzkie { top: 73%; left: 16%; }
+.place-toszek { top: 81%; left: 46%; }
 
 .place-lubecko > span {
   width: 16px;
@@ -1521,6 +1526,113 @@ h3 {
   font-weight: 750;
 }
 
+.alpha-quick-facts {
+  display: grid;
+  gap: 16px;
+  max-width: 950px;
+  margin-top: 42px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.alpha-quick-facts > div {
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  min-height: 132px;
+  padding: 24px 26px;
+  border: 1px solid rgba(228, 35, 18, .22);
+  border-radius: 18px;
+  background: rgba(255, 254, 239, .86);
+  box-shadow: 0 16px 42px rgba(91, 25, 16, .07);
+  text-align: center;
+}
+
+.alpha-quick-facts strong {
+  color: var(--alpha-red);
+  font-family: var(--serif);
+  font-size: clamp(42px, 5vw, 68px);
+  font-weight: 800;
+  letter-spacing: -.05em;
+  line-height: .95;
+}
+
+.alpha-quick-facts span {
+  margin-top: 12px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
+.alpha-format-heading {
+  margin-bottom: 36px;
+}
+
+body[data-page="alpha"] .format-timeline {
+  display: grid;
+  gap: 22px;
+  grid-template-columns: auto minmax(120px, 1fr) auto;
+}
+
+body[data-page="alpha"] .format-timeline > span:first-child {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+body[data-page="alpha"] .format-timeline strong {
+  font-size: clamp(18px, 2vw, 25px);
+}
+
+.alpha-topics {
+  background:
+    radial-gradient(circle at 82% 18%, rgba(250, 203, 199, .48), transparent 30%),
+    var(--cream);
+}
+
+.alpha-topics-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.alpha-topics-grid article {
+  position: relative;
+  min-height: 150px;
+  padding: 26px 24px 24px;
+  overflow: hidden;
+  border: 1px solid rgba(228, 35, 18, .16);
+  border-radius: 16px;
+  background: rgba(255, 254, 239, .86);
+}
+
+.alpha-topics-grid article:nth-child(3n + 2) {
+  background: rgba(247, 217, 188, .45);
+}
+
+.alpha-topics-grid article:nth-child(3n) {
+  background: rgba(250, 203, 199, .42);
+}
+
+.alpha-topics-grid span {
+  display: block;
+  margin-bottom: 24px;
+  color: var(--alpha-red);
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: .16em;
+}
+
+.alpha-topics-grid h3 {
+  max-width: 330px;
+  margin: 0;
+  font-size: clamp(20px, 2vw, 27px);
+  line-height: 1.08;
+}
+
 .feature-list {
   display: grid;
   gap: 18px;
@@ -1628,6 +1740,50 @@ h3 {
 
 .alpha-origin-steps span {
   color: var(--muted);
+}
+
+.local-alpha-stats {
+  display: grid;
+  gap: 14px;
+  margin-top: clamp(54px, 8vw, 94px);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.local-alpha-stats > div {
+  min-height: 172px;
+  padding: 28px 22px;
+  border-radius: 18px;
+  background: var(--alpha-red);
+  color: var(--cream);
+  text-align: center;
+}
+
+.local-alpha-stats strong {
+  display: block;
+  font-family: var(--font-display);
+  font-size: clamp(52px, 6vw, 82px);
+  font-weight: 500;
+  letter-spacing: -.06em;
+  line-height: .9;
+}
+
+.local-alpha-stats span {
+  display: block;
+  margin-top: 18px;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  line-height: 1.25;
+  text-transform: uppercase;
+}
+
+.local-alpha-note {
+  max-width: 760px;
+  margin: 20px auto 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.55;
+  text-align: center;
 }
 
 .alpha-scale-section {
@@ -3860,6 +4016,90 @@ body[data-page="renewal-alpha"] .nav-dropdown-trigger::after {
   opacity: .68;
 }
 
+.testimony-story blockquote footer a {
+  width: fit-content;
+  margin-top: 10px;
+  color: var(--alpha-red-dark);
+  font-size: 12px;
+  font-weight: 800;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.testimony-story-long {
+  min-height: 610px;
+}
+
+.testimony-story-long figure {
+  min-height: 610px;
+}
+
+.testimony-story-long blockquote {
+  padding: clamp(30px, 4vw, 54px);
+}
+
+.testimony-story-long blockquote p {
+  font-family: "Plus Jakarta Sans", Arial, sans-serif;
+  font-size: clamp(17px, 1.7vw, 22px);
+  font-style: normal;
+  letter-spacing: -.015em;
+  line-height: 1.58;
+}
+
+.testimony-video-story {
+  display: grid;
+  align-items: center;
+  gap: clamp(28px, 5vw, 68px);
+  padding: clamp(28px, 4vw, 54px);
+  overflow: hidden;
+  border-radius: 30px;
+  background: var(--green);
+  color: var(--cream);
+  grid-template-columns: minmax(230px, .72fr) minmax(0, 1.28fr);
+}
+
+.testimony-video-story.reverse {
+  background: var(--plum);
+  grid-template-columns: minmax(0, 1.28fr) minmax(230px, .72fr);
+}
+
+.testimony-video-story.reverse .testimony-video-intro {
+  order: 2;
+}
+
+.testimony-video-story .video-embed {
+  border: 1px solid rgba(255, 255, 238, .18);
+  box-shadow: 0 22px 54px rgba(0, 0, 0, .2);
+}
+
+.testimony-video-intro h2 {
+  margin: 0 0 20px;
+  font-size: clamp(38px, 4vw, 61px);
+  line-height: .96;
+}
+
+.testimony-video-intro > p:not(.eyebrow) {
+  color: rgba(255, 255, 238, .76);
+}
+
+.testimony-video-intro .eyebrow {
+  color: var(--pink);
+}
+
+.testimony-video-intro .accent {
+  color: var(--pink);
+}
+
+.testimony-video-intro a {
+  display: inline-block;
+  margin-top: 10px;
+  color: var(--cream);
+  font-size: 13px;
+  font-weight: 800;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
 @media (max-width: 1120px) {
   .why-reasons { grid-template-columns: repeat(2, 1fr); }
   .why-change-grid { grid-template-columns: 1fr 1fr; }
@@ -4548,6 +4788,97 @@ body[data-page="renewal-alpha"] .nav-dropdown-trigger::after {
 
   .footer-inner {
     display: grid;
+  }
+}
+
+@media (max-width: 820px) {
+  .alpha-quick-facts,
+  .alpha-topics-grid,
+  .local-alpha-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .alpha-quick-facts > div:last-child {
+    grid-column: 1 / -1;
+  }
+
+  body[data-page="alpha"] .format-timeline {
+    gap: 14px;
+  }
+
+  .testimony-video-story,
+  .testimony-video-story.reverse {
+    grid-template-columns: 1fr;
+  }
+
+  .testimony-video-story.reverse .testimony-video-intro {
+    order: initial;
+  }
+}
+
+@media (max-width: 580px) {
+  .alpha-quick-facts {
+    gap: 10px;
+    grid-template-columns: 1fr;
+  }
+
+  .alpha-quick-facts > div,
+  .alpha-quick-facts > div:last-child {
+    min-height: 105px;
+    padding: 19px 20px;
+    grid-column: auto;
+  }
+
+  .alpha-quick-facts strong {
+    font-size: 48px;
+  }
+
+  .alpha-quick-facts span {
+    margin-top: 8px;
+    font-size: 12px;
+  }
+
+  body[data-page="alpha"] .format-timeline {
+    gap: 8px;
+    grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  body[data-page="alpha"] .format-timeline .timeline-arrow {
+    width: calc(100% - 16px);
+    margin: 4px 8px 2px 0;
+  }
+
+  body[data-page="alpha"] .format-timeline > span:first-child {
+    display: none;
+  }
+
+  .alpha-topics-grid,
+  .local-alpha-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .alpha-topics-grid article {
+    min-height: 122px;
+  }
+
+  .local-alpha-stats > div {
+    min-height: 140px;
+  }
+
+  .testimony-story-long blockquote {
+    min-height: auto;
+    padding: 28px 23px;
+  }
+
+  .testimony-story-long blockquote p {
+    font-size: 16px;
+    line-height: 1.55;
+  }
+
+  .testimony-video-story {
+    gap: 22px;
+    padding: 26px 20px;
   }
 }
 

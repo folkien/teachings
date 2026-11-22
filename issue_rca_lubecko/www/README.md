@@ -12,14 +12,14 @@ Responsywna, statyczna strona przygotowana na podstawie bazy wiedzy w `issue_rca
 
 - `index.html` — strona główna;
 - `czym-jest-alpha.html` — format, odbiorcy i najczęstsze pytania;
-- `dlaczego-alpha.html` — lokalna odpowiedź RCA Lubecko: dlaczego wybraliśmy Alpha i co zmienia w ludziach oraz parafii;
+- `dlaczego-alpha.html` — dlaczego wybraliśmy Alpha, co zmienia w parafii oraz cała historia Alpha w Lubecku wraz z galerią;
 - `kontekst-katolicki.html` — Alpha w parafii katolickiej, Dyrektorium przyjęte przez KEP i oficjalny film Alpha;
 - `swiadectwa.html` — głosy uczestników z lokalnych edycji oraz osadzone filmy świadectw Alpha Polska;
 - `zacznij-alpha.html` — zakres wsparcia RCA;
 - `pytania-przed-alpha.html` — pytania parafii i wspólnot przed rozpoczęciem Alpha oraz link do rejestracji pierwszej edycji;
-- `historia.html` — historia Alpha w Lubecku i galeria;
+- `historia.html` — przekierowanie ze starego adresu do sekcji historii na stronie `dlaczego-alpha.html`;
 - `jak-zmienilo-sie-lubecko.html` — lokalna historia przemiany parafii: od pierwszej Alpha do nowych dzieł i liderów;
-- `odnowa-parafii.html` — „Zmiana parafii poprzez Alpha”, czyli interaktywny cykl od gościa do lidera i zmiany kultury;
+- `odnowa-parafii.html` — „Jak odnowić parafię?”, czyli interaktywny cykl od gościa do lidera i zmiany kultury;
 - `o-nas.html` — zespół RCA Lubecko;
 - `kontakt.html` — kontakt i formularz przygotowujący wiadomość e-mail.
 
@@ -45,7 +45,7 @@ Następnie strona będzie dostępna pod adresem `http://127.0.0.1:4173/`.
 
 ## Archiwum wydarzeń i świadectw
 
-Podstrona `historia.html` korzysta z uporządkowanych danych z [[../facebook_alpha_archiwum]]. Pełna baza obejmuje chronologię działań, godziny spotkań, dane liczbowe i 117 świadectw. Na stronie wykorzystano tylko krótki wybór, aby zachować czytelność; dawne numery telefonów i niepotwierdzone daty nie zostały opublikowane.
+Sekcja historii na podstronie `dlaczego-alpha.html` korzysta z uporządkowanych danych z [[../facebook_alpha_archiwum]]. Pełna baza obejmuje chronologię działań, godziny spotkań, dane liczbowe i 117 świadectw. Na stronie wykorzystano tylko krótki wybór, aby zachować czytelność; dawne numery telefonów i niepotwierdzone daty nie zostały opublikowane.
 
 ## Redakcja zdjęć
 

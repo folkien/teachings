@@ -193,6 +193,43 @@ contactForm?.addEventListener('submit', (event) => {
   window.location.href = `mailto:lubecko@alphapolska.org?subject=${subject}&body=${bodyText}`;
 });
 
+const counters = [...document.querySelectorAll('[data-counter]')];
+
+const showCounterValue = (counter, value) => {
+  const suffix = counter.dataset.counterSuffix || '';
+  counter.textContent = `${Math.round(value).toLocaleString('pl-PL')}${suffix}`;
+};
+
+const animateCounter = (counter) => {
+  const target = Number(counter.dataset.counter) || 0;
+  const duration = 1100;
+  const startedAt = performance.now();
+
+  const update = (now) => {
+    const progress = Math.min((now - startedAt) / duration, 1);
+    const eased = 1 - Math.pow(1 - progress, 3);
+    showCounterValue(counter, target * eased);
+    if (progress < 1) requestAnimationFrame(update);
+  };
+
+  requestAnimationFrame(update);
+};
+
+if (counters.length && !reducedMotion && 'IntersectionObserver' in window) {
+  counters.forEach((counter) => showCounterValue(counter, 0));
+  const counterObserver = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+      animateCounter(entry.target);
+      counterObserver.unobserve(entry.target);
+    });
+  }, { threshold: .45 });
+
+  counters.forEach((counter) => counterObserver.observe(counter));
+} else {
+  counters.forEach((counter) => showCounterValue(counter, Number(counter.dataset.counter) || 0));
+}
+
 document.querySelectorAll('[data-year]').forEach((node) => {
   node.textContent = String(new Date().getFullYear());
 });

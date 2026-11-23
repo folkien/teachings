@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=1080, initial-scale=1">
+  <title>Nowa strona RCA Lubecko — karuzela</title>
+  <style>
+    :root { --red:#ed2417; --cream:#fffdef; --ink:#171717; --pink:#f9d9cf; }
+    * { box-sizing:border-box; }
+    html, body { margin:0; width:1080px; background:#d7d7d7; color:var(--ink); }
+    body { font-family:Arial, Helvetica, sans-serif; }
+    .slide { position:relative; width:1080px; height:1080px; overflow:hidden; padding:62px 72px; background:var(--cream); }
+    .slide:nth-child(even) { background:#fff5eb; }
+    .slide::after { content:"?"; position:absolute; right:-74px; bottom:-165px; font:700 510px/1 Arial; color:rgba(237,36,23,.07); z-index:0; }
+    .content { position:relative; z-index:2; height:100%; display:flex; flex-direction:column; }
+    .eyebrow { color:var(--red); font-size:22px; line-height:1.1; letter-spacing:.2em; text-transform:uppercase; font-weight:800; }
+    h1, h2 { font-family:Georgia, 'Times New Roman', serif; font-style:italic; font-weight:400; letter-spacing:-.045em; margin:20px 0 24px; }
+    h1 { font-size:82px; line-height:.98; }
+    h2 { font-size:72px; line-height:1; }
+    .red { color:var(--red); }
+    .lead { margin:0; font-size:30px; line-height:1.35; max-width:850px; }
+    .shot { width:100%; object-fit:cover; border-radius:28px; border:8px solid #fff; box-shadow:0 20px 45px rgba(55,30,15,.16); }
+    .shot.large { height:490px; margin-top:34px; object-position:top; }
+    .url { margin-top:auto; padding-top:30px; color:var(--red); font-size:29px; font-weight:800; letter-spacing:.01em; }
+    .brand { position:absolute; right:70px; top:62px; display:flex; align-items:center; gap:13px; font-weight:800; font-size:21px; line-height:1.02; }
+    .brand img { width:62px; height:62px; object-fit:contain; }
+    .brand small { display:block; color:var(--red); font-size:13px; letter-spacing:.14em; margin-top:5px; }
+    .cards { display:grid; grid-template-columns:repeat(3,1fr); gap:22px; margin-top:48px; }
+    .card { min-height:250px; border:2px solid rgba(237,36,23,.22); border-radius:26px; padding:30px 25px; background:rgba(255,255,255,.7); }
+    .card .n { color:var(--red); font:italic 58px/1 Georgia, serif; }
+    .card h3 { margin:23px 0 12px; font-size:27px; line-height:1.1; }
+    .card p { margin:0; font-size:21px; line-height:1.35; }
+    .split { display:grid; grid-template-columns:1fr 1fr; gap:24px; margin-top:30px; }
+    .split img { width:100%; height:420px; object-fit:cover; object-position:top; border-radius:24px; border:7px solid #fff; box-shadow:0 15px 36px rgba(55,30,15,.14); }
+    .pill { display:inline-block; margin-top:26px; padding:13px 20px; border-radius:99px; background:var(--red); color:white; font-size:21px; font-weight:800; }
+    .cta { justify-content:center; align-items:flex-start; }
+    .cta h2 { font-size:91px; max-width:820px; margin-bottom:35px; }
+    .cta .lead { max-width:760px; }
+    .contact { margin-top:56px; display:grid; gap:16px; font-size:28px; font-weight:700; }
+    .contact span { color:var(--red); margin-right:10px; }
+  </style>
+</head>
+<body>
+  <section class="slide">
+    <div class="content">
+      <div class="eyebrow">Regionalne Centrum Alpha Lubecko</div>
+      <h1>Mamy <span class="red">nową stronę!</span></h1>
+      <p class="lead">Zebraliśmy w jednym miejscu nasze doświadczenie prowadzenia Alpha i wspierania kolejnych parafii.</p>
+      <img class="shot large" src="01-home.png" alt="Strona główna RCA Lubecko">
+      <div class="url">rca.lubecko.pl</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="content">
+      <div class="eyebrow">Czym zajmuje się RCA?</div>
+      <h2>Pomagamy <span class="red">rozpocząć Alpha.</span></h2>
+      <p class="lead">Towarzyszymy parafiom i wspólnotom od pierwszej rozmowy do samodzielnego prowadzenia kursu.</p>
+      <div class="cards">
+        <article class="card"><div class="n">01</div><h3>Promujemy Alpha</h3><p>Pokazujemy proste narzędzie ewangelizacji.</p></article>
+        <article class="card"><div class="n">02</div><h3>Szkolimy zespoły</h3><p>Dzielimy się praktyką i sprawdzonymi rozwiązaniami.</p></article>
+        <article class="card"><div class="n">03</div><h3>Wspieramy start</h3><p>Pomagamy przeprowadzić pierwszą edycję.</p></article>
+      </div>
+      <div class="url">Regionalne Centrum Alpha Lubecko</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="content">
+      <div class="eyebrow">Nasze doświadczenie</div>
+      <h2>Dlaczego <span class="red">Alpha?</span></h2>
+      <p class="lead">Opisaliśmy, dlaczego ją wybraliśmy i co z czasem zaczęła zmieniać w naszej wspólnocie.</p>
+      <img class="shot large" src="02-dlaczego.png" alt="Strona Dlaczego Alpha">
+      <div class="url">rca.lubecko.pl/dlaczego-alpha.html</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="content">
+      <div class="eyebrow">Historia naszej parafii</div>
+      <h2>Jak zmieniło się <span class="red">Lubecko?</span></h2>
+      <p class="lead">Pokazujemy drogę od pierwszych pytań i odwołanych kursów do kolejnych edycji Alpha, nowych liderów i otwartej parafii.</p>
+      <img class="shot large" src="03-lubecko.png" alt="Strona Jak zmieniło się Lubecko">
+      <div class="url">Zobacz naszą historię na stronie RCA</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="content">
+      <div class="eyebrow">Odpowiedzi i prawdziwe historie</div>
+      <h2>Kontekst katolicki <span class="red">i świadectwa.</span></h2>
+      <p class="lead">Materiały dla świeckich i księży oraz głosy osób, które przeżyły Alpha.</p>
+      <div class="split">
+        <img src="04-katolicki.png" alt="Kontekst katolicki">
+        <img src="05-swiadectwa.png" alt="Świadectwa uczestników">
+      </div>
+      <div class="pill">Wszystko w jednym miejscu</div>
+      <div class="url">rca.lubecko.pl</div>
+    </div>
+  </section>
+
+  <section class="slide">
+    <div class="content cta">
+      <div class="eyebrow">Regionalne Centrum Alpha Lubecko</div>
+      <h2>Zajrzyj na <span class="red">rca.lubecko.pl</span></h2>
+      <p class="lead">Jeśli myślisz o Alpha w swojej parafii, chcesz przeszkolić zespół albo po prostu porozmawiać — odezwij się do nas.</p>
+      <div class="contact">
+        <div><span>→</span> lubecko@alphapolska.org</div>
+        <div><span>→</span> 888 651 334</div>
+      </div>
+      <div class="url">Pomagamy zrobić pierwszy krok.</div>
+    </div>
+  </section>
+</body>
+</html>
